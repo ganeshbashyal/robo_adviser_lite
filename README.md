@@ -1,5 +1,5 @@
 # robo_adviser_lite
-# Project 1
+
 FinTech Group Project 1
 
 # Guidelines for Project 1
