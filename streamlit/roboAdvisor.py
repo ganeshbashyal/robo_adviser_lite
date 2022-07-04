@@ -14,7 +14,6 @@ st.set_page_config(layout="wide",initial_sidebar_state='collapsed')
 image = Image.open('../Resources/images/RoboAdvisor.png')
 st.image(image)
 st.markdown("# Robo Advisor Lite ")
-st.write('Welcome to New Way of Trading')
 
 st.markdown("# Show current market  ❄️")
 st.write("Top 5 performing companies")
