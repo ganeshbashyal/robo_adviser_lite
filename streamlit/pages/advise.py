@@ -9,6 +9,7 @@ import hvplot.pandas
 #import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
 import holoviews as hv
+import time
 
 
 # Display image
@@ -30,7 +31,6 @@ if 'close_df' in st.session_state:
      user_amount_choice = st.number_input('How much would you like to invest',value = st.session_state.user_amount_choice)
      iterator = 0
      user_weight_choice = [0] * len(st.session_state.user_choice)
-     st.write(st.session_state.user_weight_choice)
      for choice in st.session_state.user_choice:
           user_weight_choice[iterator] = st.number_input(choice, value = st.session_state.user_weight_choice[iterator -1])
           iterator = iterator + 1            
@@ -80,8 +80,15 @@ else:
                st.session_state.my_df_plot = my_df_plot
                st.bokeh_chart(hv.render(my_df_plot)) 
 
+               #st.write("RoboAdvisor fetching details for your selected companies ..... ")
+
+               my_bar = st.progress(0)
+               for percent_complete in range(100):
+                    time.sleep(0.2)
+                    my_bar.progress(percent_complete + 1)
+
                # Michael Code starts here
-               st.write("Fetching details for your selected companies ..... ")
+              
                x = 1
                for ticker in ticker_list:
                     globals()[f'input{x}_info'] = yf.Ticker(ticker).stats()
@@ -159,14 +166,22 @@ else:
           st.write("Choose your weights")
           iterator = 0
           user_weight_choice = [0] * len(user_choice)
+          weight_sum = 0
           for choice in user_choice:
                #user_weight_choice[iterator] = st.text_input(choice, float(0.2))
                user_weight_choice[iterator] = st.number_input(choice)
+               weight_sum = weight_sum + user_weight_choice[iterator]
                iterator = iterator + 1 
-          st.session_state.user_weight_choice = user_weight_choice          
+          if weight_sum == 1:
+               pass
+          else:
+               st.error("Sum of all weights must equal 1")
+               error = st.form_submit_button("Submit")   
+               st.stop()               
      # Every form must have a submit button.
           submitted = st.form_submit_button("Submit")
           if submitted:
+               st.session_state.user_weight_choice = user_weight_choice 
                ticker_list = []
                for company in user_choice:
                     ticker_list.append(asx_dict[company]+'.ax')
@@ -174,8 +189,14 @@ else:
                close_df = ticker.history(period="1y")
                st.session_state.close_df = close_df
                st.session_state.user_choice = user_choice
+               st.write('Roboadvisor doing its magic ......')
 
-               data = yf.download(ticker_list, start="2021-06-01", end="2022-06-30")
+               my_bar = st.progress(0)
+               for percent_complete in range(100):
+                    time.sleep(0.2)
+                    my_bar.progress(percent_complete + 1)
+
+               data = yf.download(ticker_list, start="2021-01-01", end="2022-06-30")
                MC_thirty_year = MCSimulation(
                                         portfolio_data = data,
                                         weights=user_weight_choice,
