@@ -1,0 +1,2121 @@
+,Rank,Code,Company,Sector,Mkt Cap,Code_asx,Annual % increase,Volatility
+0,1,BHP,BHP Group Ltd,Materials,$217.58 B,BHP.AX,-0.27,0.32626304565677444
+1,2,CBA,Commonwealth Bank of Australia,Financials,$159.62 B,CBA.AX,-6.34,0.2208045402254956
+2,3,CSL,CSL Ltd,Health Care,$132 B,CSL.AX,-4.99,0.243086618348252
+3,4,NAB,National Australia Bank Ltd,Financials,$88.72 B,NAB.AX,6.39,0.19468606439300706
+4,5,WBC,Westpac Banking Corporation,Financials,$69.15 B,WBC.AX,-23.51,0.21239064435286026
+5,6,MQG,Macquarie Group Ltd,Financials,$64.17 B,MQG.AX,7.96,0.25430972887832487
+6,7,ANZ,Australia and New Zealand Banking Group Ltd,Financials,$62.64 B,ANZ.AX,-20.47,0.1864093349221732
+7,8,WDS,Woodside Energy Group Ltd,Energy,$62.05 B,WDS.AX,45.05,0.3451087096234706
+8,9,FMG,Fortescue Metals Group Ltd,Materials,$57.15 B,FMG.AX,-19.48,0.4283492219199861
+9,10,WES,Wesfarmers Ltd,Consumer Discretionary,$48.91 B,WES.AX,-26.24,0.22580557766956832
+10,11,TLS,Telstra Corporation Ltd,Communication Services,$45.41 B,TLS.AX,9.17,0.16548708449820687
+11,12,TCL,Transurban Group,Industrials,$44.59 B,TCL.AX,1.33,0.18216413216004063
+12,13,WOW,Woolworths Group Ltd,Consumer Staples,$43.88 B,WOW.AX,-4.49,0.1969878670152593
+13,14,RIO,RIO Tinto Ltd,Materials,$39.69 B,RIO.AX,-15.18,0.31457912842369873
+14,15,GMG,Goodman Group,Real Estate,$35.48 B,GMG.AX,-10.13,0.2846052148477745
+15,16,STO,Santos Ltd,Energy,$25.53 B,STO.AX,4.55,0.3173285308237085
+16,17,COL,Coles Group Ltd,Consumer Staples,$23.88 B,COL.AX,5.55,0.17298594420139543
+17,18,ALL,Aristocrat Leisure Ltd,Consumer Discretionary,$23.1 B,ALL.AX,-19.31,0.2840458679482474
+18,19,NCM,Newcrest Mining Ltd,Materials,$19.98 B,NCM.AX,-13.43,0.291436957414429
+19,20,S32,SOUTH32 Ltd,Materials,$19.43 B,S32.AX,41.55,0.35748506326014734
+20,21,QBE,QBE Insurance Group Ltd,Financials,$18.1 B,QBE.AX,11.72,0.2791515727070898
+21,22,RHC,Ramsay Health Care Ltd,Health Care,$16.83 B,RHC.AX,15.68,0.3079146383222162
+22,23,SHL,Sonic Healthcare Ltd,Health Care,$15.92 B,SHL.AX,-11.05,0.2148099905985167
+23,24,ASX,ASX Ltd,Financials,$15.88 B,ASX.AX,5.86,0.1906106612923421
+24,25,BXB,Brambles Ltd,Industrials,$15.14 B,BXB.AX,-2.59,0.25693557603877315
+25,26,REA,REA Group Ltd,Communication Services,$15.12 B,REA.AX,-31.22,0.36132304226726236
+26,27,CPU,Computershare Ltd,Information Technology,$14.76 B,CPU.AX,43.74,0.26457380510602335
+27,28,JHX,James Hardie Industries Plc,Materials,$14.45 B,JHX.AX,-29.17,0.31671751424856404
+28,29,SCG,Scentre Group,Real Estate,$14.17 B,SCG.AX,-0.37,0.25972320884735706
+29,30,APA,APA Group,Utilities,$13.97 B,APA.AX,27.45,0.2148572378122272
+30,31,SUN,Suncorp Group Ltd,Financials,$13.96 B,SUN.AX,0.91,0.22873841265564232
+31,32,EDV,Endeavour Group Ltd,Consumer Staples,$13.58 B,EDV.AX,19.75,0.24283288162803857
+32,33,COH,Cochlear Ltd,Health Care,$13.31 B,COH.AX,-19.05,0.28128168677605314
+33,34,AMC,Amcor Plc,Materials,$13.11 B,AMC.AX,17.9,0.17993120463308732
+34,35,WTC,Wisetech Global Ltd,Information Technology,$12.75 B,WTC.AX,24.08,0.5281057751957832
+35,36,RMD,Resmed Inc,Health Care,$12.43 B,RMD.AX,-5.79,0.2767760413444345
+36,37,XRO,Xero Ltd,Information Technology,$12.35 B,XRO.AX,-39.72,0.44031850293509234
+37,38,TPG,TPG Telecom Ltd,Communication Services,$11.45 B,TPG.AX,-0.81,0.2502576171929094
+38,39,IAG,Insurance Australia Group Ltd,Financials,$10.75 B,IAG.AX,-14.34,0.25329605288759277
+39,40,FPH,Fisher & Paykel Healthcare Corporation Ltd,Health Care,$10.54 B,FPH.AX,-38.8,0.2850438230369417
+40,42,DXS,Dexus,Real Estate,$10.22 B,DXS.AX,-12.6,0.2138421858916915
+41,43,ORG,Origin Energy Ltd,Utilities,$10.22 B,ORG.AX,25.9,0.32431015819608483
+42,44,TLC,The Lottery Corporation Ltd,Consumer Discretionary,$10.11 B,TLC.AX,-3.4,0.22805967794823598
+43,d,AIA,Auckland International Airport Ltd,Industrials,$9.87 B,AIA.AX,-1.03,0.2077429201793276
+44,47,REH,Reece Ltd,Industrials,$9.5 B,REH.AX,-37.08,0.3475935591129005
+45,48,AFI,Australian Foundation Investment Company Ltd,Financials,$9.47 B,AFI.AX,-0.77,0.12305677131392874
+46,49,SGP,Stockland,Real Estate,$9.41 B,SGP.AX,-17.05,0.24461930999914439
+47,50,MIN,Mineral Resources Ltd,Materials,$9.35 B,MIN.AX,-4.02,0.4705082010792708
+48,51,MPL,Medibank Private Ltd,Financials,$9.06 B,MPL.AX,4.44,0.19139093573737975
+49,52,CWN,Crown Resorts Ltd,Consumer Discretionary,$8.86 B,CWN.AX,10.09,0.28766898059264806
+50,53,GPT,GPT Group,Real Estate,$8.79 B,GPT.AX,-4.77,0.23044502410298834
+51,54,SOL,Washington H Soul Pattinson & Company Ltd,Energy,$8.75 B,SOL.AX,-26.69,0.26785595670322854
+52,55,VCX,Vicinity Centres,Real Estate,$8.74 B,VCX.AX,19.26,0.2759707870075571
+53,56,NST,Northern Star Resources Ltd,Materials,$8.68 B,NST.AX,-25.87,0.4165233284525088
+54,57,QAN,Qantas Airways Ltd,Industrials,$8.56 B,QAN.AX,0.0,0.32482373703299916
+55,59,LYC,Lynas Rare EARTHS Ltd,Materials,$8.43 B,LYC.AX,70.44,0.507235105490241
+56,60,MGR,Mirvac Group,Real Estate,$8.36 B,MGR.AX,-28.14,0.26015306993356296
+57,61,ALD,Ampol Ltd,Energy,$8.28 B,ALD.AX,23.53,0.2540181359119509
+58,62,TWE,Treasury Wine Estates Ltd,Consumer Staples,$8.27 B,TWE.AX,-1.55,0.24738290084070844
+59,63,SPK,Spark New Zealand Ltd,Communication Services,$8.16 B,SPK.AX,-2.68,0.16858629435641603
+60,64,IGO,IGO Ltd,Materials,$7.93 B,IGO.AX,38.13,0.4012219442453799
+61,65,ALX,Atlas Arteria,Industrials,$7.78 B,ALX.AX,28.12,0.28492803504958303
+62,66,BSL,Bluescope Steel Ltd,Materials,$7.72 B,BSL.AX,-26.66,0.340163639217484
+63,67,SEK,Seek Ltd,Communication Services,$7.67 B,SEK.AX,-33.22,0.34182205233293267
+64,68,WOR,Worley Ltd,Energy,$7.58 B,WOR.AX,22.01,0.32030950859310836
+65,69,YAL,Yancoal Australia Ltd,Energy,$7.16 B,YAL.AX,172.36,0.6341424849559991
+66,70,MCY,Mercury NZ Ltd,Utilities,$7.14 B,MCY.AX,-14.55,0.41841470598850433
+67,71,PLS,Pilbara Minerals Ltd,Materials,$7.11 B,PLS.AX,65.97,0.6378957374302745
+68,72,AZJ,Aurizon Holdings Ltd,Industrials,$6.96 B,AZJ.AX,1.34,0.20808408449564414
+69,73,EBO,Ebos Group Ltd,Health Care,$6.88 B,EBO.AX,21.03,0.30900706194733313
+70,74,AKE,Allkem Ltd,Materials,$6.86 B,AKE.AX,69.98,0.5753099846358649
+71,75,IEL,Idp Education Ltd,Consumer Discretionary,$6.82 B,IEL.AX,-1.92,0.40139961634164995
+72,76,IPL,Incitec Pivot Ltd,Materials,$6.72 B,IPL.AX,41.8,0.2937685690981198
+73,77,ARG,Argo Investments Ltd,Financials,$6.71 B,ARG.AX,0.9,0.14192417701941942
+74,78,ORI,Orica Ltd,Materials,$6.57 B,ORI.AX,19.32,0.28697503107285816
+75,79,LLC,Lendlease Group,Real Estate,$6.42 B,LLC.AX,-20.0,0.2421914668186957
+76,80,OZL,OZ Minerals Ltd,Materials,$6.25 B,OZL.AX,-16.66,0.3693600929286411
+77,81,SVW,Seven Group Holdings Ltd,Industrials,$6.12 B,SVW.AX,-16.79,0.25625706087018096
+78,82,DMP,Domino's PIZZA Enterprises Ltd,Consumer Discretionary,$6.02 B,DMP.AX,-41.11,0.4182406432354143
+79,83,CAR,Carsales.com Ltd,Communication Services,$5.87 B,CAR.AX,6.08,0.3204713082635052
+80,84,AGL,AGL Energy Ltd,Utilities,$5.75 B,AGL.AX,-4.89,0.3404412094952291
+81,85,CHC,Charter Hall Group,Real Estate,$5.54 B,CHC.AX,-24.94,0.3218600422272826
+82,86,CWY,Cleanaway Waste Management Ltd,Industrials,$5.36 B,CWY.AX,-2.62,0.2300379477321319
+83,87,ALQ,Als Ltd,Industrials,$5.32 B,ALQ.AX,-14.28,0.28306024527072693
+84,88,BEN,Bendigo and Adelaide Bank Ltd,Financials,$5.27 B,BEN.AX,-10.29,0.24794277248040425
+85,89,IFT,Infratil Ltd,Utilities,$5.26 B,IFT.AX,2.55,0.2843401352515975
+86,90,NXT,NEXTDC Ltd,Information Technology,$5.24 B,NXT.AX,-2.96,0.3293377867122413
+87,91,MEZ,Meridian Energy Ltd,Utilities,$5.19 B,MEZ.AX,-15.78,0.34905834764971955
+88,92,SDF,Steadfast Group Ltd,Financials,$4.99 B,SDF.AX,16.71,0.21582064470163428
+89,93,QUB,QUBE Holdings Ltd,Industrials,$4.94 B,QUB.AX,-9.68,0.22087891901992812
+90,95,WHC,Whitehaven Coal Ltd,Energy,$4.81 B,WHC.AX,151.15,0.5002179004077824
+91,96,CGF,Challenger Ltd,Financials,$4.8 B,CGF.AX,32.33,0.3164483973482611
+92,97,HVN,Harvey Norman Holdings Ltd,Consumer Discretionary,$4.8 B,HVN.AX,-26.95,0.25104377673795414
+93,98,PME,Pro Medicus Ltd,Health Care,$4.76 B,PME.AX,-19.98,0.4514056839712611
+94,99,EVN,Evolution Mining Ltd,Materials,$4.73 B,EVN.AX,-43.3,0.4683499958033078
+95,100,AWC,Alumina Ltd,Materials,$4.48 B,AWC.AX,-6.08,0.32317075561004727
+96,101,VEA,Viva Energy Group Ltd,Energy,$4.47 B,VEA.AX,43.63,0.2686918576239862
+97,d,BOQ,Bank of Queensland Ltd,Financials,$4.43 B,BOQ.AX,-24.42,0.21496500253979728
+98,105,GQG,GQG Partners Inc,Financials,$4.33 B,GQG.AX,-33.41,0.4936373968144255
+99,106,JBH,JB Hi-Fi Ltd,Consumer Discretionary,$4.27 B,JBH.AX,-21.48,0.2810194348103948
+100,107,SQ2,Block Inc,Information Technology,$4.16 B,SQ2.AX,-43.05,1.039308403951183
+101,109,MTS,Metcash Ltd,Consumer Staples,$4.04 B,MTS.AX,13.28,0.22944315802744067
+102,110,BPT,Beach Energy Ltd,Energy,$4.03 B,BPT.AX,36.82,0.46987204411616235
+103,111,ILU,Iluka Resources Ltd,Materials,$4.03 B,ILU.AX,15.03,0.3883408699619526
+104,112,ALU,Altium Ltd,Information Technology,$3.76 B,ALU.AX,-20.97,0.42753853002514086
+105,113,FBU,Fletcher Building Ltd,Industrials,$3.66 B,FBU.AX,-32.57,0.2503094035468109
+106,114,FLT,Flight Centre Travel Group Ltd,Consumer Discretionary,$3.59 B,FLT.AX,23.51,0.44799642730044303
+107,115,TNE,Technology One Ltd,Information Technology,$3.51 B,TNE.AX,19.58,0.3228509105572834
+108,116,DOW,Downer Edi Ltd,Industrials,$3.46 B,DOW.AX,-8.9,0.2590803006575837
+109,117,NHF,Nib Holdings Ltd,Financials,$3.42 B,NHF.AX,16.8,0.2781976022303097
+110,118,UWL,Uniti Group Ltd,Communication Services,$3.4 B,UWL.AX,48.06,0.456066210651133
+111,119,A2M,The a2 Milk Company Ltd,Consumer Staples,$3.37 B,A2M.AX,-26.34,0.44927710376241126
+112,120,CLW,Charter Hall Long Wale REIT,Real Estate,$3.35 B,CLW.AX,-3.53,0.1885868729040145
+113,121,NEC,Nine Entertainment Co. Holdings Ltd,Communication Services,$3.33 B,NEC.AX,-34.34,0.2910494110657332
+114,122,RWC,Reliance Worldwide Corporation Ltd,Industrials,$3.29 B,RWC.AX,-20.27,0.3149641972765443
+115,123,SCP,Shopping Centres Australasia Property Group,Real Estate,$3.27 B,SCP.AX,12.69,0.21318898496100297
+116,124,PMV,Premier Investments Ltd,Consumer Discretionary,$3.19 B,PMV.AX,-29.14,0.27324260092589425
+117,125,AMP,AMP Ltd,Financials,$3.18 B,AMP.AX,-16.67,0.3704196865334454
+118,126,NWL,Netwealth Group Ltd,Financials,$3.15 B,NWL.AX,-22.24,0.4202713337872133
+119,127,ORA,Orora Ltd,Materials,$3.15 B,ORA.AX,13.11,0.21696127987308794
+120,128,BLD,Boral Ltd,Materials,$3.08 B,BLD.AX,-61.99,0.5171520454648968
+121,129,CNU,Chorus Ltd,Communication Services,$2.99 B,CNU.AX,13.39,0.26926331015885063
+122,131,CRN,Coronado Global Resources Inc,Materials,$2.98 B,CRN.AX,113.17,0.5654661861906564
+123,132,NHC,New Hope Corporation Ltd,Energy,$2.95 B,NHC.AX,101.71,0.4485908777655664
+124,133,NIC,Nickel Industries Ltd,Materials,$2.94 B,NIC.AX,8.59,0.5155263265202583
+125,134,ANN,Ansell Ltd,Health Care,$2.92 B,ANN.AX,-46.71,0.29286703491421495
+126,135,BKW,Brickworks Ltd,Materials,$2.9 B,BKW.AX,-23.0,0.23216774138489638
+127,136,CIA,Champion Iron Ltd,Materials,$2.89 B,CIA.AX,-15.02,0.514726929380342
+128,137,GOZ,Growthpoint Properties Australia,Real Estate,$2.84 B,GOZ.AX,-13.21,0.21433736076277063
+129,139,HDN,Homeco Daily Needs REIT,Real Estate,$2.78 B,HDN.AX,-2.54,0.3217775497462407
+130,140,SGM,Sims Ltd,Materials,$2.78 B,SGM.AX,-13.31,0.3778886071751785
+131,141,NSR,National Storage REIT,Real Estate,$2.77 B,NSR.AX,14.29,0.2263706689460212
+132,142,AVZ,AVZ Minerals Ltd,Materials,$2.75 B,AVZ.AX,387.5,0.8347948734127637
+133,143,CTD,Corporate Travel Management Ltd,Consumer Discretionary,$2.74 B,CTD.AX,-9.62,0.39996596130180595
+134,144,BRG,Breville Group Ltd,Consumer Discretionary,$2.68 B,BRG.AX,-34.89,0.3373877550533849
+135,145,GOLD,ETFs Metal Securities Australia Ltd,Financials,$2.67 B,GOLD.AX,11.61,0.8996046323020737
+136,146,BWP,BWP Trust,Real Estate,$2.65 B,BWP.AX,-4.84,0.17025538611265947
+137,147,APE,Eagers Automotive Ltd,Consumer Discretionary,$2.64 B,APE.AX,-37.52,0.3597807431675365
+138,148,QUAL,Vaneck MSCI International Quality ETF,Financials,$2.62 B,QUAL.AX,-6.04,0.169956659274024
+139,149,GNE,Genesis Energy Ltd,Utilities,$2.61 B,GNE.AX,-19.42,0.3105749929518154
+140,150,ZIM,Zimplats Holdings Ltd,Materials,$2.6 B,ZIM.AX,20.75,0.49056211261494537
+141,151,APM,APM Human Services International Ltd,Industrials,$2.6 B,APM.AX,-20.28,0.4963324531415855
+142,152,SGR,The Star Entertainment Group Ltd,Consumer Discretionary,$2.58 B,SGR.AX,-25.55,0.3715201202366787
+143,153,MFG,Magellan Financial Group Ltd,Financials,$2.53 B,MFG.AX,-74.2,0.6580189229709984
+144,154,ARB,ARB Corporation Ltd,Consumer Discretionary,$2.52 B,ARB.AX,-29.37,0.3835025887600204
+145,155,PXA,Pexa Group Ltd,Real Estate,$2.47 B,PXA.AX,-18.62,0.3514485103022063
+146,d,ABP,Abacus Property Group,Real Estate,$2.46 B,ABP.AX,-15.34,0.22203118667620128
+147,158,TAH,Tabcorp Holdings Ltd,Consumer Discretionary,$2.4 B,TAH.AX,8.72,0.9904868717116992
+148,160,CQR,Charter Hall Retail REIT,Real Estate,$2.35 B,CQR.AX,4.39,0.19746194818612015
+149,161,DRR,Deterra Royalties Ltd,Materials,$2.34 B,DRR.AX,-1.99,0.2849025469673839
+150,162,LTR,Liontown Resources Ltd,Materials,$2.33 B,LTR.AX,50.99,0.7901580818295761
+151,163,PRU,Perseus Mining Ltd,Materials,$2.31 B,PRU.AX,18.06,0.4330109678249333
+152,165,EVT,Event Hospitality and Entertainment Ltd,Communication Services,$2.24 B,EVT.AX,12.31,0.312932762357567
+153,166,IRE,Iress Ltd,Information Technology,$2.23 B,IRE.AX,-8.33,0.32874375555687524
+154,167,BFL,BSP Financial Group Ltd,Financials,$2.22 B,BFL.AX,-8.46,0.3043116357398984
+155,168,GNC,Graincorp Ltd,Consumer Staples,$2.19 B,GNC.AX,85.27,0.33346032003088477
+156,172,HLS,Healius Ltd,Health Care,$2.14 B,HLS.AX,-18.32,0.283516174727281
+157,174,BAP,Bapcor Ltd,Consumer Discretionary,$2.1 B,BAP.AX,-26.43,0.3150106153802206
+158,175,VNT,Ventia Services Group Ltd,Industrials,$2.09 B,VNT.AX,43.53,0.2978798094667043
+159,176,CMW,Cromwell Property Group,Real Estate,$2.08 B,CMW.AX,-12.16,0.23151131592908508
+160,177,MGF,Magellan Global Fund,Financials,$2.08 B,MGF.AX,-25.21,0.202449717326279
+161,178,WEB,Webjet Ltd,Consumer Discretionary,$2.08 B,WEB.AX,13.28,0.39414983958359506
+162,179,CSR,CSR Ltd,Materials,$2.07 B,CSR.AX,-27.75,0.26086445404668873
+163,180,SNZ,Summerset Group Holdings Ltd,Health Care,$2.05 B,SNZ.AX,-27.67,0.35817655458631503
+164,181,DDR,Dicker Data Ltd,Information Technology,$2.03 B,DDR.AX,9.7,0.4473902991581345
+165,182,ELD,Elders Ltd,Consumer Staples,$2.02 B,ELD.AX,10.33,0.2779156592704885
+166,183,SUL,Super Retail Group Ltd,Consumer Discretionary,$1.99 B,SUL.AX,-32.62,0.3224126697635061
+167,184,NUF,Nufarm Ltd,Materials,$1.98 B,NUF.AX,9.21,0.40435644654432623
+168,185,DHG,Domain Holdings Australia Ltd,Communication Services,$1.98 B,DHG.AX,-38.15,0.3634072217910388
+169,187,LNK,Link Administration Holdings Ltd,Information Technology,$1.96 B,LNK.AX,-23.09,0.35858886493292585
+170,188,SFR,Sandfire Resources Ltd,Materials,$1.96 B,SFR.AX,-25.12,0.4243072067584658
+171,189,WAM,WAM Capital Ltd,Financials,$1.95 B,WAM.AX,-17.51,0.1776863992683134
+172,190,SKC,Skycity Entertainment Group Ltd,Consumer Discretionary,$1.95 B,SKC.AX,-19.24,0.26808867888899196
+173,192,CIP,Centuria Industrial REIT,Real Estate,$1.92 B,CIP.AX,-20.68,0.2289017966590639
+174,193,VUK,Virgin Money Uk Plc,Financials,$1.9 B,VUK.AX,-38.46,0.39427696223524006
+175,195,IFL,Insignia Financial Ltd,Financials,$1.88 B,IFL.AX,-33.64,0.31086024039669297
+176,196,PDN,Paladin Energy Ltd,Energy,$1.86 B,PDN.AX,22.55,0.858585532996017
+177,197,SMR,Stanmore Resources Ltd,Energy,$1.84 B,SMR.AX,205.08,1.013649167667262
+178,199,CXO,Core Lithium Ltd,Materials,$1.8 B,CXO.AX,352.17,0.9185399945704293
+179,200,IPH,IPH Ltd,Industrials,$1.79 B,IPH.AX,7.2,0.2706749966126555
+180,202,PDL,Pendal Group Ltd,Financials,$1.77 B,PDL.AX,-41.61,0.4205573577320015
+181,203,MXT,Metrics Master Income Trust,Financials,$1.73 B,MXT.AX,-4.15,0.13875121047977007
+182,205,WPR,Waypoint REIT,Real Estate,$1.72 B,WPR.AX,-15.91,0.1869508329466907
+183,206,AIZ,Air New Zealand Ltd,Industrials,$1.72 B,AIZ.AX,-64.71,0.5470874425733275
+184,209,HUB,HUB24 Ltd,Financials,$1.7 B,HUB.AX,-24.28,0.47243040266720954
+185,211,PPT,Perpetual Ltd,Financials,$1.69 B,PPT.AX,-23.8,0.26419196553722973
+186,213,INA,Ingenia Communities Group,Real Estate,$1.68 B,INA.AX,-33.39,0.28602336166964143
+187,214,CEN,Contact Energy Ltd,Utilities,$1.66 B,CEN.AX,-10.2,0.46984114156627665
+188,215,AUB,AUB Group Ltd,Financials,$1.66 B,AUB.AX,-15.79,0.280514714843254
+189,220,ABC,Adbri Ltd,Materials,$1.63 B,ABC.AX,-28.65,0.3109929058975797
+190,221,MVW,Vaneck Australian EQUAL Weight ETF,Financials,$1.61 B,MVW.AX,-5.33,0.1462154961676636
+191,223,LSF,L1 Long Short Fund Ltd,Financials,$1.6 B,LSF.AX,1.95,0.24960125304352893
+192,224,CNI,Centuria Capital Group,Real Estate,$1.58 B,CNI.AX,-26.84,0.28943188632131583
+193,225,ARF,Arena REIT,Real Estate,$1.56 B,ARF.AX,24.24,0.26082570266441063
+194,226,RBD,Restaurant Brands New Zealand Ltd,Consumer Discretionary,$1.55 B,RBD.AX,0.81,0.0232419067777174
+195,227,LOV,Lovisa Holdings Ltd,Consumer Discretionary,$1.55 B,LOV.AX,0.0,0.45815879463192627
+196,228,IVC,Invocare Ltd,Consumer Discretionary,$1.54 B,IVC.AX,-6.06,0.22009950600727018
+197,229,JLG,Johns LYNG Group Ltd,Industrials,$1.53 B,JLG.AX,19.35,0.44899074998368343
+198,230,GRR,Grange Resources Ltd,Materials,$1.53 B,GRR.AX,174.42,0.7296129771430906
+199,231,PNI,Pinnacle Investment Management Group Ltd,Financials,$1.52 B,PNI.AX,-34.59,0.45663937163054674
+200,232,WLE,Wam Leaders Ltd,Financials,$1.51 B,WLE.AX,-5.33,0.19271826155680596
+201,234,BRN,Brainchip Holdings Ltd,Information Technology,$1.51 B,BRN.AX,67.62,0.8947440623385164
+202,236,TLX,TELIX Pharmaceuticals Ltd,Health Care,$1.49 B,TLX.AX,-19.76,0.6390776245888697
+203,237,LIC,Lifestyle Communities Ltd,Real Estate,$1.48 B,LIC.AX,-6.93,0.39811505567207617
+204,238,JDO,Judo Capital Holdings Ltd,Financials,$1.46 B,JDO.AX,-37.14,0.4253178017296906
+205,239,PSI,PSC Insurance Group Ltd,Financials,$1.46 B,PSI.AX,19.77,0.3528468922594148
+206,241,SYA,Sayona Mining Ltd,Materials,$1.44 B,SYA.AX,136.91,1.0487780785130822
+207,242,HMC,Home Consortium Ltd,Real Estate,$1.44 B,HMC.AX,-14.29,0.46056915656469904
+208,243,CCP,Credit Corp Group Ltd,Financials,$1.43 B,CCP.AX,-28.44,0.3390945817426796
+209,244,CHN,Chalice Mining Ltd,Materials,$1.43 B,CHN.AX,-44.44,0.677853445395634
+210,245,CGC,Costa Group Holdings Ltd,Consumer Staples,$1.39 B,CGC.AX,-9.39,0.3280063924821748
+211,246,AAC,Australian Agricultural Company Ltd,Consumer Staples,$1.39 B,AAC.AX,65.47,0.33560282930940105
+212,258,BKL,Blackmores Ltd,Consumer Staples,$1.36 B,BKL.AX,-3.25,0.39799975035009527
+213,249,OCL,Objective Corporation Ltd,Information Technology,$1.36 B,OCL.AX,-5.17,0.45842245795058945
+214,250,MAQ,Macquarie Telecom Group Ltd,Communication Services,$1.34 B,MAQ.AX,17.82,0.3714201665822275
+215,251,CQE,Charter Hall Social Infrastructure REIT,Real Estate,$1.32 B,CQE.AX,0.28,0.2698174054344887
+216,253,PPH,Pushpay Holdings Ltd,Information Technology,$1.31 B,PPH.AX,-31.02,0.48817961589248393
+217,254,LFG,Liberty Financial Group,Financials,$1.31 B,LFG.AX,-43.42,0.31501477276708867
+218,255,WAF,West African Resources Ltd,Materials,$1.3 B,WAF.AX,28.79,0.47078498536880076
+219,257,KLS,Kelsian Group Ltd,Industrials,$1.3 B,KLS.AX,-35.81,0.31984450444445756
+220,258,MFF,MFF Capital Investments Ltd,Financials,$1.3 B,MFF.AX,-22.38,0.16906853490198204
+221,259,CDA,Codan Ltd,Information Technology,$1.29 B,CDA.AX,-59.72,0.4947406427640484
+222,260,LFS,Latitude Group Holdings Ltd,Financials,$1.29 B,LFS.AX,-45.15,0.38268914545977645
+223,261,IAP,Irongate Group,Real Estate,$1.28 B,IAP.AX,28.57,0.32871430260629286
+224,263,IMU,Imugene Ltd,Health Care,$1.26 B,IMU.AX,-41.89,0.9431999386235159
+225,264,SLR,Silver Lake Resources Ltd,Materials,$1.26 B,SLR.AX,-22.86,0.4612741954602549
+226,265,GOR,Gold Road Resources Ltd,Materials,$1.26 B,GOR.AX,-9.13,0.39862729519817647
+227,266,CMM,Capricorn Metals Ltd,Materials,$1.23 B,CMM.AX,74.14,0.4810591875963801
+228,267,DEG,De Grey Mining Ltd,Materials,$1.2 B,DEG.AX,-28.57,0.5721487987860483
+229,268,BKI,BKI Investment Company Ltd,Financials,$1.2 B,BKI.AX,0.63,0.1361574177544919
+230,269,BGA,Bega Cheese Ltd,Consumer Staples,$1.18 B,BGA.AX,-36.59,0.26176944841797073
+231,270,SP1,Southern Cross Payments Ltd,Information Technology,$1.18 B,SP1.AX,0.0,0.0
+232,271,AUI,Australian United Investment Company Ltd,Financials,$1.18 B,AUI.AX,-6.38,0.12056390264650348
+233,273,CKF,Collins Foods Ltd,Consumer Discretionary,$1.17 B,CKF.AX,-21.5,0.3328584356098646
+234,274,GUD,G.U.D. Holdings Ltd,Consumer Discretionary,$1.16 B,GUD.AX,-28.26,0.35113484146179647
+235,275,MGH,Maas Group Holdings Ltd,Industrials,$1.16 B,MGH.AX,-32.59,0.3940361175132062
+236,277,LKE,Lake Resources N.L.,Materials,$1.15 B,LKE.AX,155.39,0.9680159726298906
+237,278,SDR,Siteminder Ltd,Information Technology,$1.15 B,SDR.AX,-16.21,0.5451198131935138
+238,279,NVX,Novonix Ltd,Information Technology,$1.15 B,NVX.AX,5.8,0.915519928584253
+239,282,RRL,Regis Resources Ltd,Materials,$1.1 B,RRL.AX,-40.37,0.4733772559454246
+240,283,COF,Centuria Office REIT,Real Estate,$1.1 B,COF.AX,-24.13,0.2604423155069746
+241,284,BGP,Briscoe Group Australasia Ltd,Consumer Discretionary,$1.08 B,BGP.AX,19.51,0.11362187924355902
+242,285,PTM,Platinum Asset Management Ltd,Financials,$1.07 B,PTM.AX,-63.06,0.3700594992478489
+243,286,HSN,Hansen Technologies Ltd,Information Technology,$1.07 B,HSN.AX,-14.47,0.3348655360045862
+244,287,NAN,Nanosonics Ltd,Health Care,$1.06 B,NAN.AX,-39.73,0.5147086287834289
+245,288,RFF,Rural Funds Group,Real Estate,$1.05 B,RFF.AX,3.17,0.2938782473498494
+246,289,KAR,Karoon Energy Ltd,Energy,$1.04 B,KAR.AX,40.38,0.47271420239077694
+247,290,VSL,Vulcan Steel Ltd,Materials,$1.03 B,VSL.AX,10.56,0.31506202480926304
+248,292,NWS,News Corporation,Communication Services,$1.02 B,NWS.AX,-26.41,0.32814131333332913
+249,293,WTN,Winton Land Ltd,Real Estate,$1.02 B,WTN.AX,-11.31,0.41489363581744404
+250,294,UMG,United Malt Group Ltd,Consumer Staples,$1.02 B,UMG.AX,-23.37,0.24417804156726622
+251,295,CXL,CALIX Ltd,Materials,$1 B,CXL.AX,140.7,0.7676179587449439
+252,296,TGR,Tassal Group Ltd,Consumer Staples,$990.33 M,TGR.AX,27.0,0.2662473654976068
+253,298,MND,Monadelphous Group Ltd,Industrials,$987.87 M,MND.AX,1.77,0.3501286490661192
+254,299,ING,Inghams Group Ltd,Consumer Staples,$981.23 M,ING.AX,-33.67,0.2831821011526792
+255,300,DUI,Diversified United Investment Ltd,Financials,$976.78 M,DUI.AX,-11.43,0.15363464269146437
+256,301,DBI,Dalrymple Bay Infrastructure Ltd,Industrials,$976.65 M,DBI.AX,-2.48,0.22621315742921277
+257,302,HGH,Heartland Group Holdings Ltd,Financials,$972.36 M,HGH.AX,-15.03,0.3070877017769147
+258,303,JIN,Jumbo Interactive Ltd,Consumer Discretionary,$966.48 M,JIN.AX,-12.6,0.4100055386217468
+259,305,GMA,Genworth Mortgage Insurance Australia Ltd,Financials,$954.12 M,GMA.AX,-1.58,0.3760260681063333
+260,306,HTA,Hutchison Telecommunications (Australia) Ltd,Communication Services,$950.08 M,HTA.AX,-36.36,0.4627799292967573
+261,308,ACL,Australian Clinical Labs Ltd,Health Care,$940.55 M,ACL.AX,33.14,0.3535575904273407
+262,310,PNV,Polynovo Ltd,Health Care,$929.67 M,PNV.AX,-50.7,0.6994440529334581
+263,311,GEM,G8 Education Ltd,Consumer Discretionary,$923.66 M,GEM.AX,9.0,0.29132686156655924
+264,313,MP1,Megaport Ltd,Information Technology,$916.1 M,MP1.AX,-67.74,0.6067299103643938
+265,314,DXI,Dexus Industria REIT,Real Estate,$910.96 M,DXI.AX,-12.37,0.24755335368191722
+266,315,INR,Ioneer Ltd,Materials,$909.72 M,INR.AX,29.85,0.8549327463816362
+267,317,OBL,Omni Bridgeway Ltd,Financials,$908 M,OBL.AX,-9.87,0.37160985839841315
+268,318,29M,29METALS Ltd,Materials,$890.44 M,29M.AX,-7.5,0.44208989133598664
+269,319,SYR,Syrah Resources Ltd,Materials,$880.32 M,SYR.AX,30.87,0.6677881776043482
+270,321,MCR,Mincor Resources NL,Materials,$859.75 M,MCR.AX,70.67,0.5437252247962281
+271,322,MAF,Ma Financial Group Ltd,Financials,$848.54 M,MAF.AX,-9.85,0.4506814710796774
+272,323,JRV,Jervois Global Ltd,Materials,$843.46 M,JRV.AX,7.84,0.5624900904033783
+273,324,ABB,Aussie Broadband Ltd,Communication Services,$836.43 M,ABB.AX,20.96,0.5313379612770753
+274,325,SIQ,Smartgroup Corporation Ltd,Industrials,$834.44 M,SIQ.AX,-13.45,0.37002146957999305
+275,326,RMS,Ramelius Resources Ltd,Materials,$819.68 M,RMS.AX,-45.69,0.4444203313172963
+276,328,CUV,Clinuvel Pharmaceuticals Ltd,Health Care,$787.11 M,CUV.AX,-44.32,0.5603287810792856
+277,329,NWH,NRW Holdings Ltd,Industrials,$783.84 M,NWH.AX,19.11,0.46322612334799695
+278,330,IMD,IMDEX Ltd,Materials,$779.03 M,IMD.AX,0.26,0.4038546562647745
+279,331,PBH,Pointsbet Holdings Ltd,Consumer Discretionary,$777.26 M,PBH.AX,-79.7,0.7872413579773122
+280,332,VUL,Vulcan Energy Resources Ltd,Materials,$776.71 M,VUL.AX,-23.38,0.775786142039074
+281,333,JHG,Janus Henderson Group Plc,Financials,$770.08 M,JHG.AX,-29.21,0.3587710051978723
+282,334,CIN,Carlton Investments Ltd,Financials,$767.77 M,CIN.AX,-3.33,0.17003051376539238
+283,335,SGF,SG Fleet Group Ltd,Industrials,$766.05 M,SGF.AX,-26.07,0.4487764301959892
+284,336,DGL,DGL Group Ltd,Materials,$756.61 M,DGL.AX,108.46,0.5593425662873727
+285,337,MMS,Mcmillan Shakespeare Ltd,Industrials,$753.69 M,MMS.AX,-23.67,0.28326370628458697
+286,338,OML,Ooh!Media Ltd,Communication Services,$745.31 M,OML.AX,-27.41,0.4364237516825079
+287,339,KMD,KMD Brands Ltd,Consumer Discretionary,$744.45 M,KMD.AX,-29.05,0.2984784625146295
+288,340,DTL,Data#3 Ltd,Information Technology,$742.42 M,DTL.AX,-12.55,0.39713210028744633
+289,341,APX,Appen Ltd,Information Technology,$740.68 M,APX.AX,-57.6,0.7522040325160917
+290,342,URW,Unibail-Rodamco-Westfield,Real Estate,$735.13 M,URW.AX,-35.6,0.41820410963162125
+291,345,BGL,Bellevue Gold Ltd,Materials,$706.53 M,BGL.AX,-30.1,0.4997623286845402
+292,347,KKC,KKR Credit Income Fund,Financials,$703 M,KKC.AX,-14.8,0.1991036431345604
+293,348,ECX,Eclipx Group Ltd,Financials,$702.7 M,ECX.AX,4.93,0.3804863342314805
+294,349,AX1,Accent Group Ltd,Consumer Discretionary,$701.72 M,AX1.AX,-52.91,0.4096315161101661
+295,350,IDX,Integral Diagnostics Ltd,Health Care,$696.38 M,IDX.AX,-42.24,0.3190832216819456
+296,351,VRT,Virtus Health Ltd,Health Care,$695.17 M,VRT.AX,23.72,0.4517777218496473
+297,352,PWH,PWR Holdings Ltd,Consumer Discretionary,$693.05 M,PWH.AX,-0.58,0.3622608419565647
+298,353,DJW,Djerriwarrh Investments Ltd,Financials,$690.13 M,DJW.AX,-4.59,0.15030319737224979
+299,354,NCK,Nick Scali Ltd,Consumer Discretionary,$683.64 M,NCK.AX,-22.07,0.3722081174947427
+300,355,ERA,Energy Resources of Australia Ltd,Energy,$682.91 M,ERA.AX,-35.09,0.7710841816811349
+301,356,EMR,Emerald Resources NL,Materials,$682.35 M,EMR.AX,27.07,0.3311761058213587
+302,357,BOE,Boss Energy Ltd,Energy,$680.48 M,BOE.AX,46.21,0.8578740230001947
+303,358,SBM,ST Barbara Ltd,Materials,$677.06 M,SBM.AX,-52.98,0.5265942191517512
+304,359,RED,RED 5 Ltd,Materials,$671.56 M,RED.AX,54.05,0.5995978653549362
+305,362,MGX,Mount Gibson Iron Ltd,Materials,$665.81 M,MGX.AX,-40.54,0.6030246552982987
+306,363,PL8,Plato Income Maximiser Ltd,Financials,$665.44 M,PL8.AX,-6.25,0.1907528867112922
+307,364,ALG,Ardent Leisure Group Ltd,Consumer Discretionary,$664.39 M,ALG.AX,42.78,0.7998510659727008
+308,365,ASB,Austal Ltd,Industrials,$664.01 M,ASB.AX,-10.92,0.42121637474048745
+309,366,BLY,Boart Longyear Group Ltd,Materials,$651.02 M,BLY.AX,-63.93,0.6793760685205138
+310,367,HPI,Hotel Property Investments,Real Estate,$648.23 M,HPI.AX,1.52,0.2614291651790304
+311,368,PGH,Pact Group Holdings Ltd,Materials,$647.27 M,PGH.AX,-48.91,0.4311770185128124
+312,369,IFRA,Vaneck Ftse Global Infrastructure (Hedged) ETF,Financials,$645.82 M,IFRA.AX,2.56,0.12613476453417047
+313,370,SWM,Seven West Media Ltd,Communication Services,$644 M,SWM.AX,-11.96,0.569244261504597
+314,371,IFM,Infomedia Ltd,Information Technology,$642.55 M,IFM.AX,15.54,0.466153847833283
+315,373,SHV,Select Harvests Ltd,Consumer Staples,$637.41 M,SHV.AX,-20.75,0.3662505781786397
+316,375,SIG,Sigma Healthcare Ltd,Health Care,$635.57 M,SIG.AX,0.84,0.3676446879758431
+317,379,SM1,Synlait Milk Ltd,Consumer Staples,$616.4 M,SM1.AX,-17.06,0.4181286665182075
+318,383,OCA,Oceania Healthcare Ltd,Health Care,$602.44 M,OCA.AX,-38.01,0.3677970114925499
+319,384,WGB,Wam Global Ltd,Financials,$602.07 M,WGB.AX,-33.27,0.17666687219789678
+320,385,CBO,Cobram Estate Olives Ltd,Consumer Staples,$601.03 M,CBO.AX,-22.04,0.30476200397272935
+321,386,AQZ,Alliance Aviation Services Ltd,Industrials,$599.54 M,AQZ.AX,-14.25,0.37436298154888403
+322,387,PGF,PM Capital Global Opportunities Fund Ltd,Financials,$598.8 M,PGF.AX,-2.55,0.21753218154425424
+323,388,WGX,Westgold Resources Ltd,Materials,$596.61 M,WGX.AX,-33.33,0.4672586743603397
+324,389,NBI,NB Global Corporate Income Trust,Financials,$595.91 M,NBI.AX,-26.43,0.20640506892170407
+325,391,LLL,Leo Lithium Ltd,Materials,$591.99 M,LLL.AX,-14.29,1.3873230726310593
+326,392,AD8,Audinate Group Ltd,Information Technology,$586.5 M,AD8.AX,-3.68,0.4394356971286385
+327,393,AEF,Australian Ethical Investment Ltd,Financials,$585.54 M,AEF.AX,-33.72,0.5642423338868433
+328,394,RF1,Regal Investment Fund,Financials,$583.29 M,RF1.AX,-32.04,0.3403883052157047
+329,395,PPM,Pepper Money Ltd,Financials,$578.16 M,PPM.AX,-49.42,0.3951640204052508
+330,396,5EA,5E Advanced Materials Inc,Materials,$576.68 M,5EA.AX,-33.73,0.8419243974957409
+331,398,NEA,Nearmap Ltd,Information Technology,$573.93 M,NEA.AX,-36.81,0.5593791743412658
+332,399,OMH,Om Holdings Ltd,Materials,$572.43 M,OMH.AX,-17.11,0.49007630124898266
+333,400,WHF,Whitefield Ltd,Financials,$569.9 M,WHF.AX,-16.2,0.1380667774409102
+334,401,RIC,Ridley Corporation Ltd,Consumer Staples,$568.7 M,RIC.AX,54.78,0.37567765500030037
+335,402,PFP,Propel Funeral Partners Ltd,Consumer Discretionary,$565.9 M,PFP.AX,26.98,0.3093120269550094
+336,403,BBN,Baby Bunting Group Ltd,Consumer Discretionary,$562.95 M,BBN.AX,-21.3,0.3477551861677576
+337,404,VACF,Vanguard Australian Corp Fixed Interest INDEX ETF,Financials,$561.73 M,VACF.AX,-10.93,0.03799995530533959
+338,405,OFX,OFX Group Ltd,Financials,$561.57 M,OFX.AX,73.68,0.43279722017026845
+339,410,VG1,Vgi Partners Global Investments Ltd,Financials,$556.26 M,VG1.AX,-38.38,0.18699889531606123
+340,411,360,LIFE360 Inc,Information Technology,$555.13 M,360.AX,-49.49,0.8317870655962273
+341,412,SSM,Service Stream Ltd,Industrials,$554.36 M,SSM.AX,7.56,0.3602362248214597
+342,413,REG,Regis Healthcare Ltd,Health Care,$553.53 M,REG.AX,-8.0,0.3621291261279996
+343,414,EQT,EQT Holdings Ltd,Financials,$553.49 M,EQT.AX,-0.34,0.306043285773223
+344,415,TUA,Tuas Ltd,Communication Services,$552.05 M,TUA.AX,77.61,0.7024965260707726
+345,416,STX,Strike Energy Ltd,Energy,$548.13 M,STX.AX,-16.92,0.7102689279878788
+346,417,MAD,Mader Group Ltd,Industrials,$536 M,MAD.AX,215.29,0.5724886787172158
+347,419,EHE,Estia Health Ltd,Health Care,$535.96 M,EHE.AX,-18.97,0.3175562077691621
+348,420,RPL,Regal Partners Ltd,Financials,$535.13 M,RPL.AX,-61.08,0.5796161326021921
+349,421,ASM,Australian Strategic Materials Ltd,Materials,$529.5 M,ASM.AX,-47.47,0.7405504691203179
+350,422,GWA,GWA Group Ltd,Industrials,$527.76 M,GWA.AX,-27.64,0.3105998375420808
+351,423,GDI,GDI Property Group,Real Estate,$525.76 M,GDI.AX,-14.04,0.24233062503596486
+352,424,QRI,Qualitas Real Estate Income Fund,Financials,$525.33 M,QRI.AX,-13.76,0.15082338744481186
+353,426,OPH,Ophir High Conviction Fund,Financials,$518.2 M,OPH.AX,-43.22,0.33216403464839095
+354,427,EML,EML Payments Ltd,Information Technology,$517.24 M,EML.AX,-61.53,0.7291149020304899
+355,428,TER,Terracom Ltd,Energy,$514.61 M,TER.AX,486.36,0.8053007951903975
+356,430,NMT,Neometals Ltd,Materials,$507.25 M,NMT.AX,111.78,1.092679819540746
+357,431,AKP,Audio Pixels Holdings Ltd,Consumer Discretionary,$502.8 M,AKP.AX,-31.83,0.5465679981714456
+358,432,PEB,Pacific Edge Ltd,Health Care,$502.31 M,PEB.AX,-59.74,0.46476179078846874
+359,433,MIR,Mirrabooka Investments Ltd,Financials,$500.26 M,MIR.AX,-18.39,0.27060110935443554
+360,434,HCW,Healthco Healthcare and Wellness REIT,Real Estate,$499.46 M,HCW.AX,-23.25,0.30143691695313596
+361,435,SSR,SSR Mining Inc,Materials,$496.27 M,SSR.AX,27.15,0.4346743294490857
+362,437,MOT,Metrics Income Opportunities Trust,Financials,$486.26 M,MOT.AX,-9.42,0.1443578991029987
+363,438,HM1,Hearts and Minds Investments Ltd,Financials,$483.04 M,HM1.AX,-49.64,0.292160269684379
+364,439,RMC,Resimac Group Ltd,Financials,$482.76 M,RMC.AX,-52.98,0.4253630730511674
+365,440,GCI,Gryphon Capital Income Trust,Financials,$480.24 M,GCI.AX,-2.71,0.1302207865481436
+366,441,MYX,Mayne Pharma Group Ltd,Health Care,$476.51 M,MYX.AX,-16.92,0.5717614183338645
+367,442,PRN,Perenti Global Ltd,Materials,$472.83 M,PRN.AX,0.0,0.48342411903500326
+368,443,NEU,Neuren Pharmaceuticals Ltd,Health Care,$472.37 M,NEU.AX,140.39,1.0717232533467642
+369,444,ARU,Arafura Resources Ltd,Materials,$466.24 M,ARU.AX,114.29,0.8708226569997565
+370,445,PPC,Peet Ltd,Real Estate,$464.86 M,PPC.AX,-18.83,0.3654360623631948
+371,447,CVW,Clearview Wealth Ltd,Financials,$462.73 M,CVW.AX,40.0,0.3739912793236132
+372,451,FGX,Future Generation Investment Company Ltd,Financials,$458.39 M,FGX.AX,-16.24,0.16471229660135908
+373,452,QAL,Qualitas Ltd,Real Estate,$455.7 M,QAL.AX,-38.0,0.5125060261332987
+374,453,PGG,Partners Group Global Income Fund,Financials,$453.97 M,PGG.AX,-10.33,0.22570701745715335
+375,454,PIC,Perpetual Equity Investment Company Ltd,Financials,$451.21 M,PIC.AX,-6.98,0.209753562766341
+376,455,FCL,Fineos Corporation Holdings Plc,Information Technology,$450.33 M,FCL.AX,-61.05,0.6072946266086952
+377,456,GDX,Vaneck Gold Miners ETF,Financials,$448.25 M,GDX.AX,-5.76,0.2791803739326961
+378,457,MYS,Mystate Ltd,Financials,$443.74 M,MYS.AX,-9.31,0.26130373016228203
+379,458,SGLLV,Ricegrowers Ltd,Consumer Staples,$442.92 M,SGLLV.AX,3.18,0.23074687003799904
+380,459,TPW,Temple & Webster Group Ltd,Consumer Discretionary,$441.08 M,TPW.AX,-68.23,0.5857896427545656
+381,460,PAN,Panoramic Resources Ltd,Materials,$440.95 M,PAN.AX,48.28,0.6030478700371877
+382,461,AGY,Argosy Minerals Ltd,Materials,$440.72 M,AGY.AX,238.54,0.8861260071095507
+383,462,CCX,City Chic Collective Ltd,Consumer Discretionary,$440.65 M,CCX.AX,-63.6,0.6162374890389469
+384,464,FGG,Future Generation Global Investment Company Ltd,Financials,$435.72 M,FGG.AX,-28.25,0.23386688072973408
+385,465,SLX,SILEX Systems Ltd,Information Technology,$434.55 M,SLX.AX,131.69,0.8083455919729094
+386,467,PSC,Prospect Resources Ltd,Materials,$433.36 M,PSC.AX,410.53,0.7493429998861407
+387,469,MOAT,Vaneck Morningstar Wide Moat ETF,Financials,$425.14 M,MOAT.AX,-1.99,0.15077319807499892
+388,471,MSB,Mesoblast Ltd,Health Care,$422.8 M,MSB.AX,-68.6,0.5611330563940085
+389,472,HIO,Hawsons Iron Ltd,Materials,$422.47 M,HIO.AX,287.39,1.1374947509582414
+390,473,MNY,MONEY3 Corporation Ltd,Financials,$421.11 M,MNY.AX,-39.01,0.3818157436232361
+391,474,REP,Ram Essential Services Property Fund,Real Estate,$419.47 M,REP.AX,-19.5,114.78233419242513
+392,475,OPT,Opthea Ltd,Health Care,$415.54 M,OPT.AX,-9.92,0.5384862823971406
+393,476,AFG,Australian Finance Group Ltd,Financials,$414.46 M,AFG.AX,-45.0,0.3811244927630294
+394,477,AVR,Anteris Technologies Ltd,Health Care,$414.43 M,AVR.AX,327.35,0.6298938725735225
+395,478,SKO,Serko Ltd,Information Technology,$414.23 M,SKO.AX,-49.41,0.5024441711571913
+396,479,ADT,Adriatic Metals Plc,Materials,$413.92 M,ADT.AX,-23.65,0.47040907300579576
+397,480,BLX,Beacon Lighting Group Ltd,Consumer Discretionary,$413.14 M,BLX.AX,-1.6,0.5350537841319901
+398,483,STA,Strandline Resources Ltd,Materials,$409.26 M,STA.AX,65.0,0.7035125697566832
+399,484,VG8,Vgi Partners Asian Investments Ltd,Financials,$408.82 M,VG8.AX,-23.87,0.19635789772890785
+400,485,COE,Cooper Energy Ltd,Energy,$408.18 M,COE.AX,11.23,0.5347773842675483
+401,486,CTM,Centaurus Metals Ltd,Materials,$407.89 M,CTM.AX,29.93,0.5141023933301109
+402,487,ALK,Alkane Resources Ltd,Materials,$405 M,ALK.AX,-40.87,0.5599081187287818
+403,489,DXC,Dexus Convenience Retail REIT,Real Estate,$404.71 M,DXC.AX,-22.07,0.17153615012761814
+404,490,TYR,Tyro Payments Ltd,Information Technology,$403.43 M,TYR.AX,-77.71,0.6246450241682527
+405,491,ALI,Argo Global Listed Infrastructure Ltd,Financials,$402.08 M,ALI.AX,9.09,0.2011137190504802
+406,492,BCB,Bowen Coking Coal Ltd,Materials,$400.9 M,BCB.AX,280.25,1.025339273606154
+407,493,AGG,Anglogold Ashanti Ltd,Materials,$399.65 M,AGG.AX,-8.94,0.3872974953721197
+408,497,RUL,Rpmglobal Holdings Ltd,Information Technology,$390.75 M,RUL.AX,-4.55,0.36461854608040484
+409,498,QHAL,Vaneck MSCI International Quality (Hedged) ETF,Financials,$390.32 M,QHAL.AX,-12.96,0.2057811512524972
+410,500,SKT,Sky Network Television Ltd,Communication Services,$389.55 M,SKT.AX,39.38,0.48788590102991214
+411,501,MHJ,Michael Hill International Ltd,Consumer Discretionary,$388.29 M,MHJ.AX,20.48,0.45293917762157826
+412,502,PE1,Pengana Private Equity Trust,Financials,$386.4 M,PE1.AX,21.86,0.37760939628634427
+413,504,PCI,Perpetual Credit Income Trust,Financials,$384.78 M,PCI.AX,-9.01,0.20524456231008084
+414,506,BUB,Bubs Australia Ltd,Consumer Staples,$382.98 M,BUB.AX,35.87,0.7751429447272818
+415,507,JMS,Jupiter Mines Ltd,Materials,$382 M,JMS.AX,-32.76,0.47777545705440905
+416,508,SNL,Supply Network Ltd,Consumer Discretionary,$381.8 M,SNL.AX,24.67,0.4004528418533577
+417,510,PWR,Peter Warren Automotive Holdings Ltd,Consumer Discretionary,$378.23 M,PWR.AX,-40.54,0.40001103037169505
+418,511,IWLD,Ishares Core MSCI World Ex Aus Esg Leaders ETF,Financials,$376.64 M,IWLD.AX,-15.42,0.15667730942721764
+419,512,BVS,Bravura Solutions Ltd,Information Technology,$375.01 M,BVS.AX,-56.86,0.4400228589071177
+420,513,AOF,Australian Unity Office Fund,Real Estate,$374.79 M,AOF.AX,-13.31,0.24081317270817518
+421,514,SDG,Sunland Group Ltd,Real Estate,$373.76 M,SDG.AX,15.68,0.235335540652706
+422,515,SST,Steamships Trading Company Ltd,Industrials,$372.1 M,SST.AX,20.0,0.23259153516370137
+423,516,PMC,Platinum Capital Ltd,Financials,$371.81 M,PMC.AX,-16.78,0.15060302313678423
+424,518,WBT,Weebit Nano Ltd,Information Technology,$370.45 M,WBT.AX,24.7,0.7806974511433074
+425,519,CVN,Carnarvon Energy Ltd,Energy,$369.04 M,CVN.AX,-14.58,0.6417066892688663
+426,521,MVF,Monash Ivf Group Ltd,Health Care,$366.26 M,MVF.AX,10.59,0.28664869625053324
+427,524,EHL,Emeco Holdings Ltd,Industrials,$363.4 M,EHL.AX,-32.02,0.38602530564024945
+428,525,GDF,Garda Property Group,Real Estate,$363.09 M,GDF.AX,26.59,0.231321653086461
+429,527,GLN,Galan Lithium Ltd,Materials,$356.15 M,GLN.AX,37.65,0.7223290129164641
+430,529,HT1,HT&E Ltd,Communication Services,$354.64 M,HT1.AX,-31.94,0.550563779635334
+431,530,VGL,Vista Group International Ltd,Information Technology,$353.29 M,VGL.AX,-31.14,0.4502685795435295
+432,531,PAC,Pacific Current Group Ltd,Financials,$351.4 M,PAC.AX,20.95,0.33978259086673634
+433,532,FLOT,Vaneck Australian Floating Rate ETF,Financials,$350.34 M,FLOT.AX,-1.48,0.013493264412300351
+434,533,WMI,Wam Microcap Ltd,Financials,$350.31 M,WMI.AX,-8.47,0.28534996233386767
+435,534,ADH,Adairs Ltd,Consumer Discretionary,$349.49 M,ADH.AX,-50.37,0.45203202603062376
+436,535,MLX,Metals X Ltd,Materials,$349.3 M,MLX.AX,75.0,0.676983336340448
+437,536,AFP,Aft Pharmaceuticals Ltd,Health Care,$349.2 M,AFP.AX,-20.71,0.3367210680105732
+438,537,AMI,Aurelia Metals Ltd,Materials,$346.38 M,AMI.AX,-25.33,0.5683168909200462
+439,538,EZL,EUROZ Hartleys Group Ltd,Financials,$346.26 M,EZL.AX,3.85,0.29861185033187765
+440,539,SLC,Superloop Ltd,Communication Services,$345.64 M,SLC.AX,-21.86,0.43926999806944467
+441,541,3PL,3P Learning Ltd,Consumer Discretionary,$340.08 M,3PL.AX,-5.02,0.33520470536348057
+442,543,TLG,Talga Group Ltd,Materials,$338.52 M,TLG.AX,-17.16,0.6684235671928052
+443,544,GMD,Genesis Minerals Ltd,Materials,$338 M,GMD.AX,92.37,1.5615924269718737
+444,545,AMH,Amcil Ltd,Financials,$337.76 M,AMH.AX,-9.92,0.24425429090180537
+445,547,BET,Betmakers Technology Group Ltd,Consumer Discretionary,$334.65 M,BET.AX,-67.83,0.7527341710509428
+446,548,CDP,Carindale Property Trust,Real Estate,$334.19 M,CDP.AX,2.22,0.20314562037316114
+447,549,RNU,Renascor Resources Ltd,Energy,$333.91 M,RNU.AX,134.85,1.0830655196153987
+448,550,PLL,Piedmont Lithium Inc,Materials,$332.37 M,PLL.AX,-33.68,0.7036986959761279
+449,551,DVP,Develop Global Ltd,Materials,$331.86 M,DVP.AX,-42.78,0.6933166002818385
+450,552,BCI,BCI Minerals Ltd,Materials,$331.71 M,BCI.AX,-50.45,0.5487159364816634
+451,553,NTO,Nitro Software Ltd,Information Technology,$331.63 M,NTO.AX,-57.79,0.5929035931179399
+452,554,BSE,Base Resources Ltd,Materials,$329.84 M,BSE.AX,-5.09,0.4397956494368703
+453,555,RDY,Readytech Holdings Ltd,Information Technology,$329.49 M,RDY.AX,25.2,0.4437385148618598
+454,556,SRV,Servcorp Ltd,Real Estate,$329.18 M,SRV.AX,0.0,0.4207033349465655
+455,557,ZIP,ZIP Co Ltd,Financials,$326.77 M,ZIP.AX,-93.79,0.7513331120521208
+456,558,AGI,Ainsworth Game Technology Ltd,Consumer Discretionary,$326.69 M,AGI.AX,-22.4,0.516314314317382
+457,559,PAI,Platinum Asia Investments Ltd,Financials,$325.73 M,PAI.AX,-27.46,0.20327696874443946
+458,561,ECF,Elanor Commercial Property Fund,Real Estate,$322.89 M,ECF.AX,-10.87,0.16588537797596023
+459,562,KGN,Kogan.com Ltd,Consumer Discretionary,$320.78 M,KGN.AX,-76.92,0.5419478670145719
+460,563,CWP,Cedar Woods Properties Ltd,Real Estate,$319.48 M,CWP.AX,-43.05,0.30806590734229145
+461,564,A4N,Alpha Hpa Ltd,Materials,$318.19 M,A4N.AX,-21.57,0.6768093647354907
+462,565,NGI,Navigator Global Investments Ltd,Financials,$315.83 M,NGI.AX,-19.52,0.3984560493952644
+463,566,BCK,Brockman Mining Ltd,Materials,$315.53 M,BCK.AX,-10.53,0.9506175164755345
+464,567,ASG,Autosports Group Ltd,Consumer Discretionary,$313.56 M,ASG.AX,-40.0,0.39390810663680315
+465,568,HFR,Highfield Resources Ltd,Materials,$313.41 M,HFR.AX,14.67,0.7579424806282383
+466,570,TIE,Tietto Minerals Ltd,Materials,$311.84 M,TIE.AX,8.33,0.5563531482414589
+467,571,KCN,Kingsgate Consolidated Ltd,Materials,$309.85 M,KCN.AX,62.79,0.8840108530479405
+468,572,BFG,Bell Financial Group Ltd,Financials,$307.91 M,BFG.AX,-46.37,0.4193171931776707
+469,573,IHL,Incannex Healthcare Ltd,Health Care,$307.75 M,IHL.AX,-2.04,0.8795904641864203
+470,574,PNR,Pantoro Ltd,Materials,$307.13 M,PNR.AX,-2.5,0.7494792261055621
+471,575,FSF,Fonterra Shareholders' Fund,Consumer Staples,$306.14 M,FSF.AX,-16.42,0.30893846899835553
+472,576,SYM,SYMBIO Holdings Ltd,Information Technology,$305.42 M,SYM.AX,-33.95,0.35921247140939894
+473,577,UNI,Universal Store Holdings Ltd,Consumer Discretionary,$303.76 M,UNI.AX,-43.92,0.4608612985019404
+474,579,MAH,Macmahon Holdings Ltd,Materials,$301.7 M,MAH.AX,-22.22,0.4507515465545901
+475,580,RAC,Race Oncology Ltd,Health Care,$300.69 M,RAC.AX,-47.93,0.5775959222345654
+476,581,COG,COG Financial Services Ltd,Financials,$300.66 M,COG.AX,23.08,0.3054826127732986
+477,582,PDI,Predictive Discovery Ltd,Materials,$300.59 M,PDI.AX,118.39,1.0026443751493515
+478,584,MNS,Magnis Energy Technologies Ltd,Materials,$299.61 M,MNS.AX,16.98,0.8806433845906745
+479,586,TRJ,Trajan Group Holdings Ltd,Health Care,$298.91 M,TRJ.AX,-12.28,0.5534324294451948
+480,587,BTH,Bigtincan Holdings Ltd,Information Technology,$298.27 M,BTH.AX,-50.36,0.6062749890806809
+481,588,NWF,Newfield Resources Ltd,Materials,$294.52 M,NWF.AX,18.61,0.4535528047930652
+482,592,PSQ,Pacific Smiles Group Ltd,Health Care,$290.44 M,PSQ.AX,-34.06,0.45839443368973976
+483,595,NWE,Norwest Energy NL,Energy,$288.43 M,NWE.AX,437.5,1.5687846507060574
+484,596,MYR,Myer Holdings Ltd,Consumer Discretionary,$287.45 M,MYR.AX,4.48,0.5935483418075997
+485,597,CAJ,Capitol Health Ltd,Health Care,$286.61 M,CAJ.AX,-22.54,0.37213585890192796
+486,598,CVC,CVC Ltd,Financials,$286.22 M,CVC.AX,24.37,0.38635473187212366
+487,599,SXL,Southern Cross Media Group Ltd,Communication Services,$283.02 M,SXL.AX,-48.09,0.39726015430695505
+488,600,BMN,Bannerman Energy Ltd,Energy,$282.66 M,BMN.AX,11.77,1.0697869036745964
+489,601,PPE,Peoplein Ltd,Industrials,$281.45 M,PPE.AX,-37.77,0.3683164498172545
+490,602,TRA,Turners Automotive Group Ltd,Consumer Discretionary,$279.73 M,TRA.AX,14.04,0.10426063635335205
+491,603,MAU,Magnetic Resources NL,Materials,$278.19 M,MAU.AX,-18.95,0.357892908855901
+492,605,CGS,Cogstate Ltd,Health Care,$277.39 M,CGS.AX,15.94,0.6293041254113704
+493,607,IMM,Immutep Ltd,Health Care,$277.2 M,IMM.AX,-39.05,0.5860657554436945
+494,608,GNG,GR Engineering Services Ltd,Materials,$275.71 M,GNG.AX,13.25,0.38375132941152673
+495,610,HLO,Helloworld Travel Ltd,Consumer Discretionary,$273.62 M,HLO.AX,10.31,0.5410079970777426
+496,612,BST,Best & Less Group Holdings Ltd,Consumer Discretionary,$272.05 M,BST.AX,0.46,0.5660567452005273
+497,613,SPL,Starpharma Holdings Ltd,Health Care,$271.61 M,SPL.AX,-56.39,0.5389844978137819
+498,614,NEW,NEW Energy Solar Ltd,Utilities,$270.9 M,NEW.AX,1.2,0.25382671129973994
+499,615,RSG,Resolute Mining Ltd,Materials,$270.46 M,RSG.AX,-52.43,0.592070822238044
+500,616,WAX,Wam Research Ltd,Financials,$269.33 M,WAX.AX,-16.82,0.23928184751381282
+501,617,EGG,Enero Group Ltd,Communication Services,$268.54 M,EGG.AX,32.61,0.43665084478343574
+502,618,UOS,United Overseas Australia Ltd,Real Estate,$267.86 M,UOS.AX,-30.26,0.23885530848770195
+503,619,SRG,SRG Global Ltd,Industrials,$267.48 M,SRG.AX,18.81,0.39405420501459554
+504,620,DDH,DDH1 Ltd,Materials,$266.72 M,DDH.AX,-46.12,0.3951561770451099
+505,621,MYD,Mydeal.com.Au Ltd,Consumer Discretionary,$265.3 M,MYD.AX,81.42,0.772049377505271
+506,622,ABA,Auswide Bank Ltd,Financials,$264.73 M,ABA.AX,-2.88,0.2181755070356113
+507,623,WXOZ,SPDR S&P World Ex Australia Carbon Control Fund,Financials,$264.67 M,WXOZ.AX,-7.63,0.19576929729948156
+508,624,FDV,Frontier Digital Ventures Ltd,Communication Services,$263.6 M,FDV.AX,-47.15,0.4149523143257446
+509,628,LGL,Lynch Group Holdings Ltd,Consumer Staples,$256.34 M,LGL.AX,-42.15,0.2887845418936731
+510,629,NPR,Newmark Property REIT,Real Estate,$256.12 M,NPR.AX,-25.79,0.38398274590342973
+511,630,CDM,Cadence Capital Ltd,Financials,$256.09 M,CDM.AX,-18.87,0.27282089473215193
+512,631,SUBD,Vaneck Australian Subordinated Debt ETF,Financials,$254.95 M,SUBD.AX,-3.35,0.01451513257902985
+513,632,FZO,Family ZONE Cyber Safety Ltd,Information Technology,$254.8 M,FZO.AX,-48.15,0.6547995711502587
+514,633,PPS,Praemium Ltd,Information Technology,$253.95 M,PPS.AX,-53.92,0.622587996054727
+515,635,IGL,Ive Group Ltd,Communication Services,$253.29 M,IGL.AX,20.07,0.3592335072558703
+516,636,SO4,Salt Lake Potash Ltd,Materials,$253.11 M,SO4.AX,-12.68,0.09190707205221436
+517,637,RBL,Redbubble Ltd,Consumer Discretionary,$252.47 M,RBL.AX,-75.34,0.6794184261437668
+518,638,NXL,NUIX Ltd,Information Technology,$252.27 M,NXL.AX,-67.15,0.5817392488655725
+519,640,RHY,RHYTHM Biosciences Ltd,Health Care,$250.48 M,RHY.AX,26.83,0.7194858733693833
+520,641,DYL,Deep Yellow Ltd,Energy,$249.74 M,DYL.AX,-9.16,0.8391356770407021
+521,642,DGO,DGO Gold Ltd,Materials,$245.81 M,DGO.AX,-2.98,0.4965142022990483
+522,643,APZ,Aspen Group,Real Estate,$243.42 M,APZ.AX,17.16,0.32632581230115104
+523,644,CAI,Calidus Resources Ltd,Materials,$241.93 M,CAI.AX,29.03,0.5242987704879264
+524,646,SFC,Schaffer Corporation Ltd,Consumer Discretionary,$240.09 M,SFC.AX,-14.98,0.25920645261426833
+525,647,KED,Keypath Education International Inc,Consumer Discretionary,$239.46 M,KED.AX,-70.44,0.590969889096024
+526,652,FFX,Firefinch Ltd,Materials,$236.25 M,FFX.AX,-50.0,0.9723018627350638
+527,654,MLD,Maca Ltd,Materials,$235.78 M,MLD.AX,-10.39,0.3698707623608576
+528,655,GDG,Generation Development Group Ltd,Financials,$235.34 M,GDG.AX,49.7,0.3846262846488525
+529,656,TIG,Tigers Realm Coal Ltd,Materials,$235.2 M,TIG.AX,125.0,1.265679454580279
+530,658,KSC,K & S Corporation Ltd,Industrials,$234.63 M,KSC.AX,9.03,0.38897570892737254
+531,659,GAL,Galileo Mining Ltd,Materials,$234.24 M,GAL.AX,385.19,2.4608148481117516
+532,660,KSL,Kina Securities Ltd,Financials,$233.85 M,KSL.AX,-23.11,0.25339045750949635
+533,661,SVM,Sovereign Metals Ltd,Materials,$233.01 M,SVM.AX,-25.0,0.6874627945531209
+534,663,EOS,Electro Optic Systems Holdings Ltd,Industrials,$232.41 M,EOS.AX,-65.08,0.6959605314389912
+535,664,PYC,PYC Therapeutics Ltd,Health Care,$232.21 M,PYC.AX,-51.33,0.659783539038134
+536,665,MAY,Melbana Energy Ltd,Energy,$227.3 M,MAY.AX,258.89,1.396050464860035
+537,666,TWR,Tower Ltd,Financials,$225.79 M,TWR.AX,-14.05,0.4232142594319863
+538,667,PIA,Pengana International Equities Ltd,Financials,$225.31 M,PIA.AX,-32.82,0.25093987819804053
+539,668,LOT,Lotus Resources Ltd,Materials,$225.13 M,LOT.AX,35.29,0.9455655836804282
+540,669,NZM,NZME Ltd,Communication Services,$224.53 M,NZM.AX,70.59,0.4728719473807415
+541,670,C79,Chrysos Corporation Ltd,Industrials,$224.25 M,C79.AX,-42.15,0.7692364807224249
+542,671,FID,Fiducian Group Ltd,Financials,$223.49 M,FID.AX,-1.66,0.32391530914107386
+543,672,HUM,Humm Group Ltd,Financials,$222.87 M,HUM.AX,-53.61,0.530131640997613
+544,673,ARX,Aroa Biosurgery Ltd,Health Care,$222.77 M,ARX.AX,-38.68,0.4442649443451135
+545,674,IHWL,Ishares Core MSCI World Ex Aus Esg Leaders Aud Hed,Financials,$222.76 M,IHWL.AX,-18.97,0.19641232888857466
+546,676,HE8,Helios Energy Ltd,Energy,$221.34 M,HE8.AX,-48.49,0.7351035712587006
+547,677,AIS,Aeris Resources Ltd,Materials,$221.29 M,AIS.AX,-61.79,0.6860272857846063
+548,678,ADN,Andromeda Metals Ltd,Materials,$220.65 M,ADN.AX,-60.56,0.8098633886645401
+549,679,WOT,Wotso Property,Real Estate,$220.54 M,WOT.AX,-6.9,0.24028180355330864
+550,680,BRL,Bathurst Resources Ltd,Materials,$220.06 M,BRL.AX,161.36,0.9663479784335722
+551,681,WGN,Wagners Holding Company Ltd,Materials,$218.58 M,WGN.AX,-43.72,0.43936671319773474
+552,682,LYL,Lycopodium Ltd,Industrials,$218.57 M,LYL.AX,1.1,0.2906418066570525
+553,683,LRK,Lark Distilling Co. Ltd,Consumer Staples,$218.39 M,LRK.AX,-10.49,0.5987094338183236
+554,684,NCZ,New Century Resources Ltd,Materials,$216.79 M,NCZ.AX,-49.85,0.5872756604223148
+555,686,QVE,QV Equities Ltd,Financials,$216.64 M,QVE.AX,-5.03,0.1158292309189408
+556,687,GNP,Genusplus Group Ltd,Industrials,$215.64 M,GNP.AX,35.56,0.3752197465942015
+557,688,WQG,WCM Global Growth Ltd,Financials,$212.95 M,WQG.AX,-27.99,0.29272756826936464
+558,690,PAR,Paradigm Biopharmaceuticals Ltd,Health Care,$210.53 M,PAR.AX,-52.32,0.6750399939091287
+559,691,MRM,Mma Offshore Ltd,Energy,$208.41 M,MRM.AX,36.47,0.4792333149486422
+560,693,BTI,Bailador Technology Investments Ltd,Financials,$207.95 M,BTI.AX,10.9,0.39871204829155327
+561,694,ENN,Elanor Investors Group,Consumer Discretionary,$207.87 M,ENN.AX,-12.11,0.2900205686492281
+562,695,TBR,Tribune Resources Ltd,Materials,$207.77 M,TBR.AX,-15.75,0.3665265782113908
+563,696,OGC,Oceanagold Corporation,Materials,$207.41 M,OGC.AX,15.69,0.4459999222771512
+564,697,EVS,Envirosuite Ltd,Information Technology,$207.07 M,EVS.AX,83.33,0.7369119209089855
+565,698,HZN,Horizon Oil Ltd,Energy,$205.26 M,HZN.AX,18.18,0.5705332682689838
+566,699,SRL,Sunrise Energy Metals Ltd,Materials,$204.43 M,SRL.AX,23.04,0.5891195738412099
+567,700,VMY,Vimy Resources Ltd,Energy,$203.63 M,VMY.AX,52.17,1.0715480596062992
+568,701,RHI,Red Hill Iron Ltd,Materials,$203.61 M,RHI.AX,338.91,2.70655053320416
+569,702,GL1,Global Lithium Resources Ltd,Materials,$203.13 M,GL1.AX,412.0,0.9797047651472806
+570,703,PLUS,Vaneck Australian Corporate Bond Plus ETF,Financials,$202.66 M,PLUS.AX,-14.83,0.06698725562017968
+571,704,ELO,Elmo Software Ltd,Information Technology,$201.9 M,ELO.AX,-49.78,0.512546824641439
+572,706,D2O,Duxton Water Ltd,Utilities,$201.42 M,D2O.AX,19.15,0.211683676692776
+573,707,AZL,Arizona Lithium Ltd,Materials,$200.94 M,AZL.AX,309.09,1.1770684085053673
+574,708,COB,Cobalt Blue Holdings Ltd,Materials,$200.75 M,COB.AX,127.27,0.9112868454752685
+575,709,CEL,Challenger Exploration Ltd,Materials,$199.52 M,CEL.AX,-17.02,0.5433555442844406
+576,710,WMA,Wam Alternative Assets Ltd,Financials,$199.37 M,WMA.AX,3.54,0.174039628464022
+577,711,IMA,Image Resources NL,Materials,$198.32 M,IMA.AX,12.12,0.4650777213538928
+578,713,GVF,Global Value Fund Ltd,Financials,$196.89 M,GVF.AX,0.0,0.22013497124951456
+579,714,PPK,PPK Group Ltd,Industrials,$196.44 M,PPK.AX,-85.31,0.646732295293402
+580,715,PCG,Pengana Capital Group Ltd,Financials,$190.55 M,PCG.AX,2.94,0.4891736963556732
+581,716,NTU,Northern Minerals Ltd,Materials,$189.53 M,NTU.AX,21.88,0.5472927141199744
+582,718,RWL,Rubicon Water Ltd,Information Technology,$189.07 M,RWL.AX,10.0,0.5287393411348152
+583,719,REIT,Vaneck Ftse International Property (Hedged) ETF,Financials,$188.58 M,REIT.AX,-13.63,0.17122125985434783
+584,720,FRI,Finbar Group Ltd,Real Estate,$187.76 M,FRI.AX,-19.3,0.29350843095530876
+585,721,DUB,Dubber Corporation Ltd,Information Technology,$187.53 M,DUB.AX,-80.1,0.7475684148277536
+586,722,SVL,Silver Mines Ltd,Materials,$187.32 M,SVL.AX,-44.23,0.5538084997861905
+587,723,AHQ,Allegiance Coal Ltd,Materials,$187.11 M,AHQ.AX,-28.89,0.650367120410254
+588,724,ZER,ZETA Resources Ltd,Materials,$186.62 M,ZER.AX,-10.81,0.3955709191065174
+589,725,QUS,Betashares S&P 500 EQUAL Weight ETF,Financials,$186.54 M,QUS.AX,-1.48,0.15033066237137332
+590,726,RTR,Rumble Resources Ltd,Materials,$186.43 M,RTR.AX,-44.95,0.7599730539643601
+591,728,TGP,360 Capital Group,Financials,$185.05 M,TGP.AX,-6.63,0.2933847213486685
+592,730,BYE,Byron Energy Ltd,Energy,$183.84 M,BYE.AX,61.91,0.7284435933276744
+593,731,PGC,Paragon Care Ltd,Health Care,$183.62 M,PGC.AX,9.62,0.48351302045493244
+594,732,HLA,Healthia Ltd,Health Care,$183.49 M,HLA.AX,-28.12,0.4436621221938495
+595,733,PBP,Probiotec Ltd,Health Care,$182.98 M,PBP.AX,0.45,0.3329374860939734
+596,734,AVJ,Avjennings Ltd,Real Estate,$182.8 M,AVJ.AX,-27.42,0.3245626170571886
+597,735,MVB,Vaneck Australian Banks ETF,Financials,$182.79 M,MVB.AX,-8.15,0.18162546842796828
+598,738,GLB,Globe International Ltd,Consumer Discretionary,$180.37 M,GLB.AX,-23.68,0.4026375850284963
+599,739,WAR,Wam Strategic Value Ltd,Financials,$180.13 M,WAR.AX,-20.95,0.13293338815089442
+600,740,NOL,Nobleoak Life Ltd,Financials,$180.04 M,NOL.AX,7.69,0.3175929452935482
+601,742,QPM,Queensland Pacific Metals Ltd,Materials,$179.82 M,QPM.AX,-17.86,0.8374439873153061
+602,743,MFB,My Food Bag Group Ltd,Consumer Staples,$179.4 M,MFB.AX,-42.64,0.32375270649940985
+603,744,KPG,Kelly Partners Group Holdings Ltd,Industrials,$176.4 M,KPG.AX,11.36,0.44965079585167206
+604,746,MVR,Vaneck Australian Resources ETF,Financials,$175.9 M,MVR.AX,4.71,0.2353796222690953
+605,747,LPD,Lepidico Ltd,Materials,$175.69 M,LPD.AX,145.46,1.0169774304922485
+606,748,VML,Vital Metals Ltd,Materials,$175.16 M,VML.AX,-4.55,0.6204342727205994
+607,749,CAT,Catapult Group International Ltd,Information Technology,$175.1 M,CAT.AX,-62.62,0.5218672067868945
+608,752,SHJ,Shine Justice Ltd,Consumer Discretionary,$173.26 M,SHJ.AX,-11.5,0.36819377671174597
+609,753,NRZ,Neurizer Ltd,Energy,$171.79 M,NRZ.AX,24.14,0.8872148378968627
+610,755,PRT,PRT Company Ltd,Communication Services,$170.34 M,PRT.AX,106.67,1.4599091117213687
+611,756,BRI,Big River Industries Ltd,Materials,$170.21 M,BRI.AX,-5.91,0.4136136747652741
+612,757,AMA,AMA Group Ltd,Industrials,$168.7 M,AMA.AX,-70.47,0.5805021267090232
+613,758,AGE,Alligator Energy Ltd,Energy,$168.63 M,AGE.AX,44.44,1.1192026747542752
+614,759,VLUE,Vaneck MSCI International Value ETF,Financials,$167.31 M,VLUE.AX,-0.79,0.1399511951850129
+615,760,A1M,Aic Mines Ltd,Materials,$166.73 M,A1M.AX,100.0,0.9162822075915521
+616,761,VIA,Viagold Rare Earth Resources Holdings Ltd,Materials,$166.62 M,VIA.AX,2339.02,1.7858429011525248
+617,762,CLV,Clover Corporation Ltd,Materials,$166.44 M,CLV.AX,-44.9,0.39402334958455054
+618,763,SFX,Sheffield Resources Ltd,Materials,$166.36 M,SFX.AX,50.0,0.4976807748385997
+619,764,EXP,Experience Co Ltd,Consumer Discretionary,$165.5 M,EXP.AX,-23.96,0.5380030570655634
+620,765,GSS,Genetic Signatures Ltd,Health Care,$164.89 M,GSS.AX,0.88,0.5482133086974259
+621,766,MVE,Vaneck S&P/ASX Midcap ETF,Financials,$164.69 M,MVE.AX,-7.15,0.17189887498444054
+622,767,SLH,Silk Logistics Holdings Ltd,Industrials,$163.74 M,SLH.AX,4.0,0.305727133400443
+623,768,JRL,Jindalee Resources Ltd,Materials,$163.53 M,JRL.AX,11.77,0.7901284066395724
+624,769,X64,Ten Sixty Four Ltd,Materials,$162.99 M,X64.AX,-12.27,0.41513377706845156
+625,770,AVG,Australian Vintage Ltd,Consumer Staples,$162.95 M,AVG.AX,-18.75,0.3045203832052583
+626,772,EWC,Energy World Corporation Ltd,Utilities,$161.7 M,EWC.AX,-24.39,0.44670952084343696
+627,773,NXS,Next Science Ltd,Health Care,$161.09 M,NXS.AX,-47.55,0.49651143083732174
+628,775,CTT,Cettire Ltd,Consumer Discretionary,$160.12 M,CTT.AX,-84.33,1.017695983062254
+629,776,ORR,Orecorp Ltd,Materials,$159.6 M,ORR.AX,-49.37,0.5159317220616463
+630,777,PEN,Peninsula Energy Ltd,Energy,$159.57 M,PEN.AX,3.23,0.9388524973098996
+631,779,EEG,Empire Energy Group Ltd,Energy,$159.4 M,EEG.AX,-35.39,0.5684478510064638
+632,780,3DP,Pointerra Ltd,Information Technology,$159.28 M,3DP.AX,-51.04,0.8071869016343359
+633,781,SHA,Shape Australia Corporation Ltd,Industrials,$157.33 M,SHA.AX,-3.57,0.297518871514169
+634,782,BKY,Berkeley Energia Ltd,Energy,$156.03 M,BKY.AX,-38.05,1.0186519139059917
+635,784,IXR,Ionic Rare EARTHS Ltd,Materials,$154.9 M,IXR.AX,73.91,0.8310736268901137
+636,785,FEX,FENIX Resources Ltd,Materials,$154.86 M,FEX.AX,-11.77,0.6209006539406996
+637,787,PET,Phoslock Environmental Technologies Ltd,Industrials,$152.98 M,PET.AX,0.0,0.0
+638,788,CII,Ci Resources Ltd,Materials,$152.57 M,CII.AX,10.0,0.5234580438279811
+639,789,GNX,GENEX Power Ltd,Utilities,$152.37 M,GNX.AX,-51.11,0.529011156226511
+640,790,BKT,Black Rock Mining Ltd,Materials,$151.47 M,BKT.AX,14.82,0.7780611030849793
+641,792,RCE,Recce Pharmaceuticals Ltd,Health Care,$151 M,RCE.AX,-7.1,0.662134591926022
+642,793,TNT,Tesserent Ltd,Information Technology,$150.98 M,TNT.AX,-51.02,0.6973182411435099
+643,794,SXE,Southern Cross Electrical Engineering Ltd,Industrials,$150.8 M,SXE.AX,5.46,0.3461357980901157
+644,796,CVL,Civmec Ltd,Industrials,$148.05 M,CVL.AX,-4.62,0.3655778768509445
+645,797,AXE,Archer Materials Ltd,Information Technology,$147.84 M,AXE.AX,-34.62,0.9277009473007665
+646,798,ERD,Eroad Ltd,Information Technology,$147.28 M,ERD.AX,-76.25,0.5763533118175663
+647,800,RCT,Reef Casino Trust,Consumer Discretionary,$147.18 M,RCT.AX,18.11,0.4418088766557529
+648,801,ERF,Elanor Retail Property Fund,Real Estate,$146.87 M,ERF.AX,-6.12,0.26192846462087555
+649,802,COI,Comet Ridge Ltd,Energy,$146.21 M,COI.AX,174.19,0.7879935320630412
+650,804,ALC,Alcidion Group Ltd,Health Care,$145.83 M,ALC.AX,-72.09,0.5789645675320804
+651,805,MCA,Murray Cod Australia Ltd,Consumer Staples,$145.4 M,MCA.AX,-51.28,0.6905000214091114
+652,806,SMP,Smartpay Holdings Ltd,Information Technology,$145.35 M,SMP.AX,-24.69,0.4070446506905908
+653,807,CCV,Cash Converters International,Financials,$144.34 M,CCV.AX,6.98,0.33923955018221014
+654,808,IPG,Ipd Group Ltd,Industrials,$143.67 M,IPG.AX,38.75,0.40569160498897344
+655,810,LPI,Lithium Power International Ltd,Materials,$143.15 M,LPI.AX,134.29,0.9091512839498622
+656,811,MME,Moneyme Ltd,Financials,$142.71 M,MME.AX,-71.96,0.5619826115549317
+657,812,CAA,Capral Ltd,Materials,$142.49 M,CAA.AX,9.86,0.3152444912128095
+658,813,PTB,PTB Group Ltd,Industrials,$141.2 M,PTB.AX,53.1,0.3750253717940236
+659,814,MIH,MNC Media Investment Ltd,Communication Services,$141.09 M,MIH.AX,0.0,0.0
+660,815,POS,Poseidon Nickel Ltd,Materials,$140.94 M,POS.AX,-41.03,0.7461029538735937
+661,816,ARL,Ardea Resources Ltd,Materials,$140.88 M,ARL.AX,58.86,0.9407241217263302
+662,817,ICT,Icollege Ltd,Consumer Discretionary,$140.76 M,ICT.AX,8.33,0.6607456734081952
+663,818,GOW,Gowing Bros Ltd,Financials,$140.74 M,GOW.AX,12.82,0.2489574304253159
+664,819,WGO,Warrego Energy Ltd,Energy,$140.66 M,WGO.AX,-50.0,0.6669604558518386
+665,820,QGL,Quantum Graphite Ltd,Materials,$140.64 M,QGL.AX,841.18,2.151137616296746
+666,822,EOL,Energy One Ltd,Information Technology,$140.43 M,EOL.AX,-21.66,0.4296517732548411
+667,823,HPG,Hipages Group Holdings Ltd,Communication Services,$140.18 M,HPG.AX,-63.73,0.540884110582581
+668,824,EGH,Eureka Group Holdings Ltd,Real Estate,$139.94 M,EGH.AX,-1.67,0.2827889061821263
+669,825,FLN,Freelancer Ltd,Industrials,$139.88 M,FLN.AX,-74.17,0.6174668225743162
+670,826,MGV,Musgrave Minerals Ltd,Materials,$139.66 M,MGV.AX,-27.78,0.6030566104218239
+671,827,IOD,Iodm Ltd,Information Technology,$139.63 M,IOD.AX,9.09,0.5804415846991597
+672,828,ATA,Atturra Ltd,Information Technology,$139.38 M,ATA.AX,39.0,0.6236860668240253
+673,829,FSA,FSA Group Ltd,Financials,$139.21 M,FSA.AX,6.76,0.22817134941302417
+674,831,EGN,Engenco Ltd,Industrials,$138.82 M,EGN.AX,-17.76,0.5332729572255753
+675,832,FOR,Forager Australian Shares Fund,Financials,$138.74 M,FOR.AX,-23.95,0.2368804963611475
+676,833,BOC,Bougainville Copper Ltd,Materials,$138.37 M,BOC.AX,-33.65,1.4360689823635864
+677,834,CAU,Cronos Australia Ltd,Health Care,$137.66 M,CAU.AX,127.27,0.8992810374323453
+678,835,RKN,Reckon Ltd,Information Technology,$137.65 M,RKN.AX,54.78,0.5667040795237593
+679,837,ADO,Anteotech Ltd,Health Care,$137.16 M,ADO.AX,-74.91,1.157014178628062
+680,839,EPY,Earlypay Ltd,Financials,$136.39 M,EPY.AX,1.06,0.3799247261437635
+681,840,ANO,Advance Zinctek Ltd,Materials,$135.52 M,ANO.AX,-40.27,0.5770804529328678
+682,841,TRS,The Reject Shop Ltd,Consumer Discretionary,$135.29 M,TRS.AX,-35.7,0.513583744731156
+683,842,LEG,Legend Mining Ltd,Materials,$135 M,LEG.AX,-51.0,0.7087237161954794
+684,843,MTO,Motorcycle Holdings Ltd,Consumer Discretionary,$134.52 M,MTO.AX,-22.7,0.3932642731588764
+685,844,CNB,Carnaby Resources Ltd,Materials,$134.44 M,CNB.AX,165.71,1.407774451590532
+686,845,CLG,Close the Loop Ltd,Industrials,$134.18 M,CLG.AX,33.33,0.7190563135868944
+687,846,AND,Ansarada Group Ltd,Information Technology,$134 M,AND.AX,32.74,0.5930441924742667
+688,847,ANG,Austin Engineering Ltd,Industrials,$133.8 M,ANG.AX,64.29,0.593882169486925
+689,848,DTZ,DOTZ Nano Ltd,Information Technology,$133.4 M,DTZ.AX,-13.04,0.668772160936828
+690,850,EGR,Ecograf Ltd,Materials,$132.85 M,EGR.AX,-48.7,0.8447915546607117
+691,851,GTK,Gentrack Group Ltd,Information Technology,$132.63 M,GTK.AX,-30.89,0.4673698029842819
+692,852,A2B,A2B Australia Ltd,Industrials,$132.14 M,A2B.AX,-9.17,0.34785581649838804
+693,853,RDT,Red Dirt Metals Ltd,Materials,$130.96 M,RDT.AX,152.94,1.3730687024491561
+694,854,CYL,Catalyst Metals Ltd,Materials,$129.96 M,CYL.AX,-32.65,0.38542227113802746
+695,855,CNEW,Vaneck China New Economy ETF,Financials,$128.99 M,CNEW.AX,-12.87,0.2539904882757513
+696,856,WXHG,SPDR S&P World Ex Aus Carbon Control (Hedged) Fund,Financials,$128.79 M,WXHG.AX,-13.31,0.2784554187724507
+697,857,FLC,Fluence Corporation Ltd,Industrials,$128.48 M,FLC.AX,1.28,0.6864359595243739
+698,858,WAT,Waterco Ltd,Consumer Discretionary,$127.78 M,WAT.AX,24.14,0.25038071443605125
+699,859,ART,Airtasker Ltd,Communication Services,$127.64 M,ART.AX,-73.39,0.548961201960201
+700,860,ACF,Acrow Formwork and Construction Services Ltd,Industrials,$127.57 M,ACF.AX,31.58,0.39347052240102237
+701,861,ARA,Ariadne Australia Ltd,Industrials,$127.56 M,ARA.AX,18.18,0.35350538632320816
+702,862,LRS,Latin Resources Ltd,Materials,$127.38 M,LRS.AX,37.5,1.196300167458587
+703,863,NTD,National Tyre & Wheel Ltd,Consumer Discretionary,$127.32 M,NTD.AX,-10.23,0.39100782819674806
+704,864,SSG,Shaver Shop Group Ltd,Consumer Discretionary,$127.08 M,SSG.AX,-2.51,0.26375069193099404
+705,865,IVZ,Invictus Energy Ltd,Energy,$126.91 M,IVZ.AX,6.25,0.8476792595763004
+706,866,G6M,Group 6 Metals Ltd,Materials,$126.15 M,G6M.AX,-16.67,0.793945314420641
+707,867,AVL,Australian Vanadium Ltd,Materials,$126.11 M,AVL.AX,68.42,1.0826405979235951
+708,868,TGF,Tribeca Global Natural Resources Ltd,Financials,$126.08 M,TGF.AX,-8.48,0.36212597408668645
+709,869,QIP,QANTM Intellectual Property Ltd,Industrials,$125.81 M,QIP.AX,-21.12,0.3015387308600453
+710,870,AR1,Austral Resources Australia Ltd,Materials,$125.06 M,AR1.AX,155.0,1.023001104590403
+711,871,DRE,Dreadnought Resources Ltd,Materials,$124.9 M,DRE.AX,83.33,0.8333261289199086
+712,872,CLNE,Vaneck Global Clean Energy ETF,Financials,$124.56 M,CLNE.AX,-16.02,0.32508732706804966
+713,873,RDG,Resource Development Group Ltd,Industrials,$124.06 M,RDG.AX,-6.52,0.7352708692438341
+714,874,CYG,Coventry Group Ltd,Industrials,$123.43 M,CYG.AX,-5.59,0.4033850172346181
+715,875,FWD,Fleetwood Ltd,Consumer Discretionary,$123.4 M,FWD.AX,-41.52,0.453635324780101
+716,876,CD3,CD Private Equity Fund Iii,Financials,$123.17 M,CD3.AX,13.25,0.42082517792704943
+717,877,DSE,Dropsuite Ltd,Information Technology,$122.74 M,DSE.AX,-5.26,0.699275282377202
+718,878,CKA,Cokal Ltd,Materials,$122.06 M,CKA.AX,124.14,0.7315658238655567
+719,879,M7T,MACH7 Technologies Ltd,Health Care,$121.8 M,M7T.AX,-51.43,0.5344968931865777
+720,880,REX,Regional Express Holdings Ltd,Industrials,$121.17 M,REX.AX,-8.33,0.3886973863831383
+721,881,EXR,Elixir Energy Ltd,Energy,$120.38 M,EXR.AX,-44.9,0.7879395758970472
+722,882,MBH,Maggie Beer Holdings Ltd,Consumer Staples,$119.46 M,MBH.AX,-13.92,0.5130335551451902
+723,883,AVH,Avita Medical Inc,Health Care,$119.38 M,AVH.AX,-71.67,0.6035236275097181
+724,884,PLT,Plenti Group Ltd,Financials,$119.11 M,PLT.AX,-48.53,0.5212166700472042
+725,885,SEC,Spheria Emerging Companies Ltd,Financials,$118.5 M,SEC.AX,-15.81,0.2877217278186059
+726,886,AMN,Agrimin Ltd,Materials,$117.81 M,AMN.AX,1.45,0.5428164155040761
+727,887,TBN,Tamboran Resources Ltd,Energy,$117.71 M,TBN.AX,-45.0,0.6185372916353743
+728,888,EMV,Emvision Medical Devices Ltd,Health Care,$117.7 M,EMV.AX,-46.1,0.522513664334623
+729,889,LVH,Livehire Ltd,Information Technology,$117.44 M,LVH.AX,9.72,0.6982635186264154
+730,890,ESGI,Vaneck MSCI International Sustainable Equity ETF,Financials,$117.37 M,ESGI.AX,-6.62,0.14279905461779108
+731,891,IRD,Iron Road Ltd,Materials,$115.85 M,IRD.AX,-44.23,0.6783839337486153
+732,892,LCY,Legacy Iron Ore Ltd,Materials,$115.32 M,LCY.AX,38.46,1.5240130411802557
+733,893,EER,East Energy Resources Ltd,Energy,$115.24 M,EER.AX,0.0,0.0
+734,894,DRX,Diatreme Resources Ltd,Materials,$115.12 M,DRX.AX,52.38,0.8673375418193401
+735,895,ABY,Adore Beauty Group Ltd,Consumer Discretionary,$114.83 M,ABY.AX,-73.25,0.6401620904588026
+736,896,LAU,Lindsay Australia Ltd,Industrials,$114.76 M,LAU.AX,1.33,0.40120885702226505
+737,897,BBC,BNK Banking Corporation Ltd,Financials,$114.66 M,BBC.AX,29.33,0.43651558127319096
+738,898,NVA,Nova Minerals Ltd,Materials,$114.43 M,NVA.AX,-49.2,1.1529175607520157
+739,899,CAM,Clime Capital Ltd,Financials,$114.29 M,CAM.AX,-14.66,0.16310154352417905
+740,900,EP1,E&P Financial Group Ltd,Financials,$114.09 M,EP1.AX,-28.36,0.5387488188960069
+741,901,IPX,Iperionx Ltd,Materials,$113.63 M,IPX.AX,-4.71,0.5797366684377011
+742,902,VHT,Volpara Health Technologies Ltd,Health Care,$113.37 M,VHT.AX,-61.54,0.5188311553231979
+743,903,MDX,Mindax Ltd,Materials,$113.26 M,MDX.AX,-20.27,0.8772525897094199
+744,904,ARR,American Rare EARTHS Ltd,Materials,$112.78 M,ARR.AX,265.39,1.2209782929879207
+745,905,AHX,Apiam Animal Health Ltd,Health Care,$112.76 M,AHX.AX,-28.24,0.34974313883280383
+746,906,TOT,360 Capital REIT,Financials,$112.55 M,TOT.AX,-17.95,0.19990503327546177
+747,907,GT1,Green Technology Metals Ltd,Materials,$112.47 M,GT1.AX,150.0,0.9273402022025597
+748,908,PYG,Paygroup Ltd,Information Technology,$112.41 M,PYG.AX,106.52,1.6244833799144076
+749,909,BWX,BWX Ltd,Consumer Staples,$112.17 M,BWX.AX,-87.25,0.6840747072853608
+750,910,SPY,SPDR S&P 500 ETF Trust,Financials,$111.68 M,SPY.AX,-0.37,0.15494916248754906
+751,911,PTX,Prescient Therapeutics Ltd,Health Care,$111.23 M,PTX.AX,-17.07,0.9631525621353306
+752,912,88E,88 Energy Ltd,Energy,$111.2 M,88E.AX,-75.0,1.02702220043634
+753,913,RYD,Ryder Capital Ltd,Financials,$110.3 M,RYD.AX,-26.42,0.24660091921782498
+754,914,URF,US Masters Residential Property Fund,Real Estate,$110.26 M,URF.AX,10.0,0.6879870714587818
+755,915,IPD,Impedimed Ltd,Health Care,$110.23 M,IPD.AX,-43.64,0.6361279380397096
+756,916,RAP,Resapp Health Ltd,Health Care,$109.61 M,RAP.AX,210.98,1.0347753365605703
+757,917,EL8,Elevate Uranium Ltd,Energy,$108.82 M,EL8.AX,27.42,1.009640226852039
+758,918,BLU,Blue Energy Ltd,Energy,$108.5 M,BLU.AX,7.58,0.7715114270371758
+759,919,SND,Saunders International Ltd,Industrials,$108.27 M,SND.AX,29.11,0.3997876995186441
+760,920,CE1,Calima Energy Ltd,Energy,$107.87 M,CE1.AX,-2.78,0.7850796525230577
+761,921,4DS,4DS Memory Ltd,Information Technology,$106.76 M,4DS.AX,-49.66,1.1525635746177103
+762,922,DSK,Dusk Group Ltd,Consumer Discretionary,$106.48 M,DSK.AX,-52.63,0.4983294966806982
+763,923,BBT,Bluebet Holdings Ltd,Consumer Discretionary,$106.06 M,BBT.AX,-53.51,0.7791405813504217
+764,924,MVP,Medical Developments International Ltd,Health Care,$105.89 M,MVP.AX,-68.2,0.5935287624127689
+765,925,CCR,Credit Clear Ltd,Information Technology,$105.65 M,CCR.AX,-32.38,0.57086360802703
+766,926,STM,Sunstone Metals Ltd,Materials,$105.55 M,STM.AX,173.33,1.3423910271780624
+767,927,DRA,DRA Global Ltd,Industrials,$105.35 M,DRA.AX,-50.76,0.41343117447158584
+768,928,EVO,Evolve Education Group Ltd,Consumer Discretionary,$105.3 M,EVO.AX,-17.5,0.39945111703151714
+769,929,VVA,Viva Leisure Ltd,Consumer Discretionary,$103.84 M,VVA.AX,-31.77,0.515683884978048
+770,930,AZY,Antipa Minerals Ltd,Materials,$103.61 M,AZY.AX,-23.26,0.6431620399377002
+771,931,NSC,Naos Small Cap Opportunities Company Ltd,Financials,$103.55 M,NSC.AX,-25.39,0.2088373132809717
+772,932,EAI,Ellerston Asian Investments Ltd,Financials,$103.28 M,EAI.AX,-31.93,0.20987409728999734
+773,933,JAN,Janison Education Group Ltd,Information Technology,$102.49 M,JAN.AX,-50.57,0.5176621537802271
+774,934,PGL,Prospa Group Ltd,Financials,$102.09 M,PGL.AX,-27.06,0.6336707187599186
+775,935,BCN,Beacon Minerals Ltd,Materials,$101.96 M,BCN.AX,-15.15,0.4524796079463668
+776,936,ASN,Anson Resources Ltd,Materials,$101.76 M,ASN.AX,52.31,0.936679619568177
+777,937,WZR,Wisr Ltd,Financials,$101.72 M,WZR.AX,-72.73,0.7079650861154692
+778,938,GLL,Galilee Energy Ltd,Energy,$101.56 M,GLL.AX,-43.4,0.642893115859193
+779,939,CAE,Cannindah Resources Ltd,Materials,$101.41 M,CAE.AX,222.03,1.2801536945781946
+780,940,NET,Netlinkz Ltd,Information Technology,$101.24 M,NET.AX,40.91,1.030696906660331
+781,941,SOM,Somnomed Ltd,Health Care,$100.14 M,SOM.AX,-45.0,0.4391350451768981
+782,942,GCY,Gascoyne Resources Ltd,Materials,$100.09 M,GCY.AX,-21.67,0.614974836454487
+783,943,EMH,European Metals Holdings Ltd,Materials,$99.95 M,EMH.AX,-51.37,0.6819211977691848
+784,944,IKE,Ikegps Group Ltd,Information Technology,$99.66 M,IKE.AX,-43.18,0.5816142508671664
+785,945,GDC,Global Data Centre Group,Financials,$98.91 M,GDC.AX,-28.09,0.29251010441886255
+786,946,ASH,Ashley Services Group Ltd,Industrials,$98.62 M,ASH.AX,48.91,0.46291149701495915
+787,947,CYC,Cyclopharm Ltd,Health Care,$98.51 M,CYC.AX,-39.37,0.525967573901116
+788,948,HZR,HAZER Group Ltd,Materials,$97.74 M,HZR.AX,-29.41,0.7237832613418765
+789,949,WSP,Whispir Ltd,Information Technology,$97.72 M,WSP.AX,-66.26,0.7175941221839603
+790,950,NZK,New Zealand King Salmon Investments Ltd,Consumer Staples,$97.46 M,NZK.AX,-86.96,1.10689609727875
+791,951,WKT,Walkabout Resources Ltd,Materials,$97.24 M,WKT.AX,7.5,0.5912629372021164
+792,952,SDI,SDI Ltd,Health Care,$96.28 M,SDI.AX,-10.99,0.35066298417875835
+793,953,KIL,Kiland Ltd,Materials,$96.17 M,KIL.AX,17.14,0.4079889843781963
+794,954,4DX,4DMEDICAL Ltd,Health Care,$96.12 M,4DX.AX,-60.68,0.7451473024916405
+795,955,PEX,Peel Mining Ltd,Materials,$95.83 M,PEX.AX,-38.89,0.5929739270197164
+796,956,SLA,Silk Laser Australia Ltd,Consumer Discretionary,$95.68 M,SLA.AX,-59.44,0.4212071396295845
+797,957,VLS,Vita Life Sciences Ltd,Health Care,$95.65 M,VLS.AX,73.08,0.42957144002599557
+798,958,HCH,Hot Chili Ltd,Materials,$95.36 M,HCH.AX,-51.71,91.21322128769793
+799,959,LIN,Lindian Resources Ltd,Materials,$95.36 M,LIN.AX,447.62,1.0940712856220847
+800,960,SNC,Sandon Capital Investments Ltd,Financials,$95.04 M,SNC.AX,-29.73,0.22984095453697082
+801,961,ESS,Essential Metals Ltd,Materials,$94.9 M,ESS.AX,313.98,1.329981783669261
+802,962,LMG,Latrobe Magnesium Ltd,Materials,$94.62 M,LMG.AX,210.53,1.2800757967205232
+803,963,DME,Dome Gold Mines Ltd,Materials,$94.39 M,DME.AX,54.29,0.6467675643867006
+804,964,WMC,Wiluna Mining Corporation Ltd,Materials,$94.16 M,WMC.AX,-71.59,0.5359555516632993
+805,965,BBL,Brisbane Broncos Ltd,Communication Services,$94.12 M,BBL.AX,100.0,0.8524603809211918
+806,966,ICI,Icandy Interactive Ltd,Communication Services,$93.77 M,ICI.AX,5.71,0.9912593172541178
+807,967,TEK,Thorney Technologies Ltd,Financials,$93.51 M,TEK.AX,-49.43,0.45284337236421146
+808,968,AUC,Ausgold Ltd,Materials,$93.36 M,AUC.AX,12.2,0.6660774546740726
+809,969,VMT,Vmoto Ltd,Consumer Discretionary,$93.28 M,VMT.AX,-2.94,0.49945116549682733
+810,970,1MC,Morella Corporation Ltd,Materials,$93.17 M,1MC.AX,-74.29,1.4081210643379651
+811,971,ZNC,Zenith Minerals Ltd,Materials,$93.09 M,ZNC.AX,0.0,0.7873952068987305
+812,972,AUT,Auteco Minerals Ltd,Materials,$93.03 M,AUT.AX,-47.06,0.6410137619786789
+813,973,ACQ,Acorn Capital Investment Fund Ltd,Financials,$92.52 M,ACQ.AX,-26.63,0.3448980527359816
+814,974,TWD,Tamawood Ltd,Consumer Discretionary,$92.42 M,TWD.AX,-23.12,0.35298135068620784
+815,975,GDA,Good Drinks Australia Ltd,Consumer Staples,$91.76 M,GDA.AX,-14.88,0.32288838036237144
+816,976,TMT,Technology Metals Australia Ltd,Materials,$91.27 M,TMT.AX,33.85,0.7141427949154545
+817,977,TOP,Thorney Opportunities Ltd,Financials,$90.71 M,TOP.AX,-14.68,0.24331955595206453
+818,978,NZO,New Zealand Oil & Gas Ltd,Energy,$90.7 M,NZO.AX,3.85,0.3017000135073392
+819,979,MCP,Mcpherson's Ltd,Consumer Staples,$90.62 M,MCP.AX,-38.05,0.3575862154446952
+820,980,CYM,Cyprium Metals Ltd,Materials,$90.37 M,CYM.AX,-37.26,0.8222076973810969
+821,981,MAM,Microequities Asset Management Group Ltd,Financials,$89.52 M,MAM.AX,-5.63,0.46356199334843484
+822,982,AEE,Aura Energy Ltd,Energy,$89.51 M,AEE.AX,-11.31,4.995465166414175
+823,983,DUR,Duratec Ltd,Industrials,$89.01 M,DUR.AX,-5.13,0.4890291104003618
+824,984,POD,Podium Minerals Ltd,Materials,$88.87 M,POD.AX,-41.41,0.9239716943038532
+825,985,HLTH,Vaneck Global Healthcare Leaders ETF,Financials,$88.41 M,HLTH.AX,-7.3,0.17810919012848012
+826,986,MXI,Maxiparts Ltd,Industrials,$88.4 M,MXI.AX,-22.54,0.5519549776194913
+827,987,CU6,Clarity Pharmaceuticals Ltd,Health Care,$88.13 M,CU6.AX,-65.0,0.6078776433983472
+828,988,EBR,EBR Systems Inc,Health Care,$88.1 M,EBR.AX,-68.98,0.7985230526730664
+829,989,PLY,Playside Studios Ltd,Communication Services,$88.02 M,PLY.AX,121.82,0.8971450956007009
+830,990,ASO,Aston Minerals Ltd,Materials,$87.97 M,ASO.AX,-50.63,0.9575508081967733
+831,991,DCN,Dacian Gold Ltd,Materials,$87.89 M,DCN.AX,-71.07,0.8179775235240696
+832,992,ACB,A-Cap Energy Ltd,Energy,$87.5 M,ACB.AX,19.71,1.3735594466630618
+833,993,RFG,Retail Food Group Ltd,Consumer Discretionary,$87.09 M,RFG.AX,-39.71,0.47951579380253784
+834,994,NXG,Nexgen Energy (Canada) Ltd,Energy,$86.8 M,NXG.AX,1.79,0.6441390110819311
+835,995,LM8,Lunnon Metals Ltd,Materials,$86.8 M,LM8.AX,81.61,0.8651130377136839
+836,996,ACW,Actinogen Medical Ltd,Health Care,$86.19 M,ACW.AX,-65.71,0.9806973809622082
+837,997,KZA,KAZIA Therapeutics Ltd,Health Care,$85.33 M,KZA.AX,-52.87,0.5874188632032318
+838,998,ORN,Orion Minerals Ltd,Materials,$85.16 M,ORN.AX,-45.71,0.7170342366829864
+839,999,SMI,Santana Minerals Ltd,Materials,$84.89 M,SMI.AX,652.94,1.052063789973198
+840,1000,BSX,Blackstone Minerals Ltd,Materials,$84.86 M,BSX.AX,-47.06,0.8026712928597863
+841,1001,LIS,Li-S Energy Ltd,Industrials,$84.62 M,LIS.AX,-40.0,0.7966341379433632
+842,1002,EUR,European Lithium Ltd,Materials,$84.36 M,EUR.AX,12.96,1.0447718586824384
+843,1003,PIQ,Proteomics International Laboratories Ltd,Health Care,$84.04 M,PIQ.AX,-14.05,0.7031144428038727
+844,1004,GTN,GTN Ltd,Communication Services,$83.96 M,GTN.AX,21.88,0.5062602222772967
+845,1005,CAN,Cann Group Ltd,Health Care,$83.8 M,CAN.AX,-32.39,0.6168114182648147
+846,1006,BRU,Buru Energy Ltd,Energy,$83.45 M,BRU.AX,-3.45,0.9511738229618412
+847,1007,TUL,Tulla Resources Plc,Materials,$83.31 M,TUL.AX,10.64,0.5990984674396583
+848,1008,CD2,CD Private Equity Fund Ii,Financials,$83.06 M,CD2.AX,3.79,0.40383753599042865
+849,1009,COS,Cosol Ltd,Information Technology,$83.02 M,COS.AX,-11.36,0.5436155528943392
+850,1010,RXM,REX Minerals Ltd,Materials,$82.97 M,RXM.AX,-58.82,0.7011112511522922
+851,1011,ESPO,Vaneck Video Gaming and Esports ETF,Financials,$82.91 M,ESPO.AX,-20.97,0.25608798920426057
+852,1012,KGL,KGL Resources Ltd,Materials,$82.9 M,KGL.AX,-68.94,0.8361222539983065
+853,1013,DNK,Danakali Ltd,Materials,$82.88 M,DNK.AX,-52.63,0.6673314306972696
+854,1014,TGN,Tungsten Mining NL,Materials,$82.57 M,TGN.AX,-22.22,0.6230817414168272
+855,1015,AVC,Auctus Investment Group Ltd,Financials,$81.67 M,AVC.AX,-5.46,0.41633826741164315
+856,1016,KLL,Kalium Lakes Ltd,Materials,$81.54 M,KLL.AX,-72.94,0.8223908025283648
+857,1017,GAP,Gale Pacific Ltd,Consumer Discretionary,$81.54 M,GAP.AX,-28.05,0.5613400446014916
+858,1018,ELT,Elementos Ltd,Materials,$81.48 M,ELT.AX,8.24,0.8053632382980479
+859,1019,BIS,Bisalloy Steel Group Ltd,Materials,$81.46 M,BIS.AX,45.38,0.4754815696410628
+860,1020,TGA,Thorn Group Ltd,Consumer Discretionary,$81.44 M,TGA.AX,9.09,0.37390963232216146
+861,1021,TTM,Titan Minerals Ltd,Materials,$80.38 M,TTM.AX,-50.44,0.7755360409472267
+862,1022,RVR,Red River Resources Ltd,Materials,$80.36 M,RVR.AX,-22.5,0.5580093143074478
+863,1023,KOV,Korvest Ltd,Industrials,$80.26 M,KOV.AX,43.74,0.35708473329305646
+864,1024,DRO,Droneshield Ltd,Industrials,$80.02 M,DRO.AX,19.36,0.6002907847864993
+865,1025,CTP,Central Petroleum Ltd,Energy,$79.85 M,CTP.AX,-4.35,0.6194289100608658
+866,1026,SEQ,Sequoia Financial Group Ltd,Financials,$79.82 M,SEQ.AX,8.33,0.36847956536651894
+867,1027,MFD,Mayfield Childcare Ltd,Consumer Discretionary,$79.59 M,MFD.AX,14.82,0.3474521535138947
+868,1028,HAV,Havilah Resources Ltd,Materials,$79.15 M,HAV.AX,6.38,1.074538401052767
+869,1029,FCT,Firstwave Cloud Technology Ltd,Information Technology,$78.13 M,FCT.AX,-32.34,0.7921963970458555
+870,1030,FAR,FAR Ltd,Energy,$77.84 M,FAR.AX,-38.58,0.7414380952522192
+871,1031,RLT,Renergen Ltd,Energy,$77.78 M,RLT.AX,81.56,0.6324302870369631
+872,1032,CSS,Clean Seas Seafood Ltd,Consumer Staples,$77.72 M,CSS.AX,-12.15,0.4106310710510029
+873,1033,BRK,Brookside Energy Ltd,Energy,$77.27 M,BRK.AX,-21.74,0.9023428740865378
+874,1034,OCC,Orthocell Ltd,Health Care,$76.88 M,OCC.AX,-34.45,0.5914346424226
+875,1035,CLX,Cti Logistics Ltd,Industrials,$76.86 M,CLX.AX,10.11,0.40888518926390005
+876,1036,RND,Rand Mining Ltd,Materials,$76.78 M,RND.AX,-6.9,0.3040897592876102
+877,1037,HIT,Hitech Group Australia Ltd,Industrials,$76.76 M,HIT.AX,-6.5,0.3784522600197186
+878,1038,CUP,Countplus Ltd,Industrials,$76.53 M,CUP.AX,-34.95,0.36442439407077104
+879,1039,FSG,Field Solutions Holdings Ltd,Communication Services,$76.37 M,FSG.AX,-33.33,0.7274073095907302
+880,1040,AEG,Absolute Equity Performance Fund Ltd,Financials,$76.37 M,AEG.AX,-20.28,0.27947907304035735
+881,1041,WIN,Widgie Nickel Ltd,Materials,$76.31 M,WIN.AX,52.5,1.12552744560055
+882,1042,TMH,The Market Herald Ltd,Communication Services,$76.14 M,TMH.AX,-35.0,0.508587539259423
+883,1043,XRF,XRF Scientific Ltd,Industrials,$76.1 M,XRF.AX,24.44,0.42272969830966955
+884,1044,MGT,Magnetite Mines Ltd,Materials,$75.83 M,MGT.AX,-76.58,0.8589568492563449
+885,1045,NAM,Namoi Cotton Ltd,Industrials,$75.73 M,NAM.AX,20.55,0.46743032727708655
+886,1046,OKU,Oklo Resources Ltd,Materials,$75.67 M,OKU.AX,42.86,1.066960730136342
+887,1047,STK,Strickland Metals Ltd,Materials,$75.59 M,STK.AX,40.48,0.8248094804280904
+888,1048,PH2,Pure Hydrogen Corporation Ltd,Energy,$75.26 M,PH2.AX,4.76,0.9522210498933531
+889,1049,UBI,Universal Biosensors Inc,Health Care,$75.2 M,UBI.AX,-55.63,0.5582864973907057
+890,1050,DBF,Duxton Farms Ltd,Consumer Staples,$75.05 M,DBF.AX,35.99,0.32130696720310964
+891,1051,TVL,Touch Ventures Ltd,Financials,$74.9 M,TVL.AX,-73.75,0.601980370239629
+892,1052,DVDY,Vaneck Morningstar Australian Moat Income ETF,Financials,$74.85 M,DVDY.AX,-7.58,0.1434325080981119
+893,1053,BFC,Beston Global Food Company Ltd,Consumer Staples,$74.29 M,BFC.AX,-36.3,0.8212978286972942
+894,1054,CLU,Cluey Ltd,Consumer Discretionary,$74.25 M,CLU.AX,-42.61,0.5421181184596118
+895,1055,HMY,Harmoney Corp Ltd,Financials,$74.25 M,HMY.AX,-43.46,0.4980288866426035
+896,1056,SHM,Shriro Holdings Ltd,Consumer Discretionary,$74.11 M,SHM.AX,-32.02,0.353843810324248
+897,1057,BRV,Big River Gold Ltd,Materials,$73.82 M,BRV.AX,-12.99,0.7639629921840401
+898,1058,LBL,Laserbond Ltd,Industrials,$73.78 M,LBL.AX,-27.42,0.5060811500549925
+899,1059,LER,Leaf Resources Ltd,Materials,$73.32 M,LER.AX,-31.3,0.3672373398935583
+900,1060,E25,Element 25 Ltd,Materials,$73.3 M,E25.AX,-78.48,0.7599554004137924
+901,1061,ZEO,Zeotech Ltd,Materials,$73.2 M,ZEO.AX,-36.0,0.6520576221636609
+902,1062,SGH,Slater & Gordon Ltd,Consumer Discretionary,$72.9 M,SGH.AX,-23.53,0.47873035247129647
+903,1063,SWP,Swoop Holdings Ltd,Communication Services,$72.66 M,SWP.AX,-44.75,0.7699407173375076
+904,1064,VRX,VRX Silica Ltd,Materials,$72.59 M,VRX.AX,-40.91,0.7022214830634645
+905,1065,KSS,Kleos Space S.A,Industrials,$72.3 M,KSS.AX,-56.92,0.49344057815312786
+906,1066,DEV,DEVEX Resources Ltd,Materials,$72.26 M,DEV.AX,-33.33,1.0088798566825607
+907,1067,IKW,Ikwezi Mining Ltd,Energy,$71.95 M,IKW.AX,883.33,1.1457578031470097
+908,1068,ATR,Astron Corporation Ltd,Materials,$71.65 M,ATR.AX,0.86,0.853835948935503
+909,1069,NC1,Nico Resources Ltd,Materials,$71.55 M,NC1.AX,310.0,1.5738960052322442
+910,1070,EOF,Ecofibre Ltd,Health Care,$71.54 M,EOF.AX,-73.2,0.608115650449468
+911,1071,G1A,Galena Mining Ltd,Materials,$71.46 M,G1A.AX,-37.5,0.6470616808966644
+912,1072,GRV,Greenvale Mining Ltd,Energy,$71.45 M,GRV.AX,-38.98,1.0762391765773918
+913,1073,STG,Straker Translations Ltd,Industrials,$71.19 M,STG.AX,-46.97,0.44648659425007425
+914,1074,WCG,Webcentral Ltd,Information Technology,$71.18 M,WCG.AX,-57.0,0.6202437221338918
+915,1075,WOA,Wide Open Agriculture Ltd,Consumer Staples,$71.15 M,WOA.AX,-33.53,0.5269567182242844
+916,1076,ATL,Apollo Tourism & Leisure Ltd,Consumer Discretionary,$70.74 M,ATL.AX,1.33,0.6690485925866027
+917,1077,XF1,Xref Ltd,Information Technology,$70.41 M,XF1.AX,24.59,0.6776922039617703
+918,1078,SSL,Sietel Ltd,Real Estate,$70.07 M,SSL.AX,8.29,0.145169459404376
+919,1079,CXM,Centrex Ltd,Materials,$70.02 M,CXM.AX,139.19,2.087600246656635
+920,1080,BMT,Beamtree Holdings Ltd,Health Care,$69.61 M,BMT.AX,-26.92,0.7152334434913732
+921,1081,AJL,AJ Lucas Group Ltd,Industrials,$69.38 M,AJL.AX,132.0,1.0795894612323649
+922,1082,RMI,Resource Mining Corporation Ltd,Materials,$69 M,RMI.AX,1078.57,1.4312214367972431
+923,1083,TSI,Top Shelf International Holdings Ltd,Consumer Staples,$68.98 M,TSI.AX,-36.57,0.452337587026414
+924,1084,CRR,Critical Resources Ltd,Materials,$68.45 M,CRR.AX,70.37,1.0437385485666877
+925,1085,MNB,Minbos Resources Ltd,Materials,$68.34 M,MNB.AX,113.12,0.9002739935455573
+926,1086,PTL,Pental Ltd,Consumer Staples,$68.18 M,PTL.AX,-4.76,0.2983915301737903
+927,1087,ADA,Adacel Technologies Ltd,Information Technology,$68.11 M,ADA.AX,-4.3,0.5498609775732992
+928,1088,TNG,TNG Ltd,Materials,$68.03 M,TNG.AX,-20.97,0.7154576681241459
+929,1089,JYC,Joyce Corporation Ltd,Consumer Discretionary,$67.84 M,JYC.AX,-9.43,0.41706269167186577
+930,1090,CVV,Caravel Minerals Ltd,Materials,$67.49 M,CVV.AX,-64.08,0.9191832267570706
+931,1091,NML,Navarre Minerals Ltd,Materials,$67.34 M,NML.AX,-51.55,0.6326444089970519
+932,1092,IRI,Integrated Research Ltd,Information Technology,$67.27 M,IRI.AX,-80.15,0.5842304995626286
+933,1093,ATC,Altech Chemicals Ltd,Materials,$67.06 M,ATC.AX,0.0,0.9605378387490449
+934,1094,MLG,MLG OZ Ltd,Materials,$67.01 M,MLG.AX,-51.06,0.5082253566282926
+935,1095,HRL,HRL Holdings Ltd,Industrials,$66.74 M,HRL.AX,17.39,0.843806295163614
+936,1096,LSX,Lion Selection Group Ltd,Financials,$66.65 M,LSX.AX,8.54,0.474396634291352
+937,1097,USQ,US Student Housing REIT,Real Estate,$66.65 M,USQ.AX,-13.04,0.3123194710707717
+938,1098,PEK,Peak Rare EARTHS Ltd,Materials,$66.35 M,PEK.AX,-67.68,0.7532351013716058
+939,1099,BC8,Black Cat Syndicate Ltd,Materials,$66.23 M,BC8.AX,-50.4,0.5701998951473637
+940,1100,SB2,Salter Brothers Emerging Companies Ltd,Financials,$66.07 M,SB2.AX,-27.46,0.1740572660897195
+941,1101,FYI,FYI Resources Ltd,Materials,$65.86 M,FYI.AX,-65.05,0.8958437899220164
+942,1102,HGO,Hillgrove Resources Ltd,Materials,$65.76 M,HGO.AX,-6.67,0.655793118672001
+943,1103,PRL,Province Resources Ltd,Materials,$65.51 M,PRL.AX,-58.52,0.7036441878613352
+944,1104,VR1,Vection Technologies Ltd,Information Technology,$65.49 M,VR1.AX,3.51,1.059845743577849
+945,1105,SPZ,Smart Parking Ltd,Information Technology,$65.22 M,SPZ.AX,-5.13,0.4834756389766058
+946,1106,ONE,Oneview Healthcare Plc,Health Care,$64.83 M,ONE.AX,-72.83,0.7953218063765245
+947,1107,LME,Limeade Inc,Information Technology,$64.65 M,LME.AX,-65.54,0.6704454403729632
+948,1108,MWY,Midway Ltd,Materials,$64.63 M,MWY.AX,-17.78,0.6573540014055775
+949,1109,RZI,RAIZ Invest Ltd,Financials,$64.48 M,RZI.AX,-55.77,0.5848131391159129
+950,1110,FGR,First Graphene Ltd,Materials,$64.4 M,FGR.AX,-54.9,0.6911740156355886
+951,1111,BOL,Boom Logistics Ltd,Industrials,$64.17 M,BOL.AX,3.45,0.4227703942228044
+952,1112,MSV,Mitchell Services Ltd,Materials,$64.11 M,MSV.AX,-25.67,0.5064872241465236
+953,1113,CDD,Cardno Ltd,Industrials,$64.06 M,CDD.AX,-82.74,1.270255246564843
+954,1114,SEG,Sports Entertainment Group Ltd,Communication Services,$63.97 M,SEG.AX,6.52,0.5354199687906629
+955,1115,CBR,Carbon Revolution Ltd,Consumer Discretionary,$63.09 M,CBR.AX,-72.15,0.7409494839353694
+956,1116,EM2,Eagle Mountain Mining Ltd,Materials,$63.01 M,EM2.AX,-70.99,0.807464416576701
+957,1117,SPQ,Superior Resources Ltd,Materials,$62.95 M,SPQ.AX,208.33,1.1999231854529133
+958,1118,FMS,Flinders Mines Ltd,Materials,$62.47 M,FMS.AX,-57.71,0.6477991955971818
+959,1119,OEL,Otto Energy Ltd,Energy,$62.34 M,OEL.AX,62.5,0.9015665223747303
+960,1120,AKL,Auckland Real Estate Trust,Real Estate,$62.27 M,AKL.AX,0.65,0.1402961912081692
+961,1121,BNO,Bionomics Ltd,Health Care,$62.25 M,BNO.AX,-75.79,0.8184015057527572
+962,1122,AZS,AZURE Minerals Ltd,Materials,$62.15 M,AZS.AX,-16.67,1.0064127656932746
+963,1123,YOJ,Yojee Ltd,Information Technology,$62.09 M,YOJ.AX,-68.57,0.7093317744237041
+964,1124,TOY,Toys'R'US ANZ Ltd,Consumer Discretionary,$62.05 M,TOY.AX,-31.43,0.7237015827730694
+965,1125,XTC,Xantippe Resources Ltd,Materials,$61.57 M,XTC.AX,300.0,1.8430507023935427
+966,1126,KIN,KIN Mining NL,Materials,$61.5 M,KIN.AX,-40.14,0.6248585317472659
+967,1127,TZN,Terramin Australia Ltd,Materials,$61.38 M,TZN.AX,-3.33,1.0951652904943843
+968,1128,NCC,Naos Emerging Opportunities Company Ltd,Financials,$61.28 M,NCC.AX,-18.05,0.23144273872253582
+969,1129,SPT,Splitit Payments Ltd,Information Technology,$61.25 M,SPT.AX,-76.79,1.0335139821950727
+970,1130,CSX,Cleanspace Holdings Ltd,Health Care,$61.23 M,CSX.AX,-50.93,0.5301665510154474
+971,1131,TPD,Talon Energy Ltd,Energy,$60.99 M,TPD.AX,0.0,1.2536790576421832
+972,1132,MDR,Medadvisor Ltd,Health Care,$60.93 M,MDR.AX,-45.76,0.6182534831994093
+973,1133,OIL,Optiscan Imaging Ltd,Health Care,$60.7 M,OIL.AX,-57.39,0.7894188431499132
+974,1134,DGR,DGR Global Ltd,Materials,$60.53 M,DGR.AX,0.0,0.5277879710132133
+975,1135,GGG,Greenland Minerals Ltd,Materials,$60.48 M,GGG.AX,-53.13,0.7979766376031958
+976,1136,BRB,Breaker Resources NL,Materials,$60.28 M,BRB.AX,15.63,0.8179694638698066
+977,1137,5GG,Pentanet Ltd,Communication Services,$60.25 M,5GG.AX,-60.56,0.6175494778685924
+978,1138,EMN,Euro Manganese Inc,Materials,$60.22 M,EMN.AX,-51.55,0.7062952738268782
+979,1139,AVD,Avada Group Ltd,Industrials,$60.08 M,AVD.AX,-18.0,0.36010719180779466
+980,1140,MX1,Micro-X Ltd,Health Care,$59.99 M,MX1.AX,-59.38,0.8102821329309189
+981,1141,BDM,Burgundy Diamond Mines Ltd,Materials,$59.77 M,BDM.AX,-35.19,0.8267646871431834
+982,1142,ELS,Elsight Ltd,Information Technology,$59.35 M,ELS.AX,-1.25,0.5775040058599874
+983,1143,EQR,EQ Resources Ltd,Materials,$59.14 M,EQR.AX,57.14,0.7459912762529096
+984,1144,PRO,Prophecy International Holdings Ltd,Information Technology,$58.87 M,PRO.AX,42.86,0.7531066000481126
+985,1145,SOR,Strategic Elements Ltd,Financials,$58.63 M,SOR.AX,-31.82,0.9122110541684361
+986,1146,HNG,Hancock & Gore Ltd,Industrials,$58.33 M,HNG.AX,10.64,0.6359242849794661
+987,1147,WAA,Wam Active Ltd,Financials,$57.86 M,WAA.AX,-27.1,0.2538583348026327
+988,1148,PVE,Po Valley Energy Ltd,Energy,$57.73 M,PVE.AX,86.21,97.6608956053644
+989,1149,8VI,8VI Holdings Ltd,Consumer Discretionary,$57.21 M,8VI.AX,-76.88,0.5516411744869295
+990,1150,RFX,Redflow Ltd,Industrials,$57.21 M,RFX.AX,-32.76,0.5786427118968347
+991,1151,LIT,Lithium Australia Ltd,Materials,$56.95 M,LIT.AX,-45.0,0.5998178283841805
+992,1152,MEU,Marmota Ltd,Energy,$56.84 M,MEU.AX,41.46,0.5939443375204438
+993,1153,MAP,Microba Life Sciences Ltd,Health Care,$56.58 M,MAP.AX,-44.44,1.1073831709745627
+994,1154,GME,GME Resources Ltd,Materials,$56.43 M,GME.AX,90.51,0.9079547783806481
+995,1155,TAM,Tanami Gold NL,Materials,$56.4 M,TAM.AX,-30.44,0.47667760245603275
+996,1156,RFT,Rectifier Technologies Ltd,Industrials,$56.37 M,RFT.AX,32.26,1.2826227532435543
+997,1157,MEA,Mcgrath Ltd,Real Estate,$56.34 M,MEA.AX,-40.87,0.5010094036917513
+998,1158,SES,Secos Group Ltd,Materials,$56.27 M,SES.AX,-59.62,0.6640514062447177
+999,1159,LOM,Lucapa Diamond Company Ltd,Materials,$56.14 M,LOM.AX,-17.02,0.670241930249145
+1000,1160,SMN,Structural Monitoring Systems Plc,Information Technology,$55.78 M,SMN.AX,13.32,0.9108574730230732
+1001,1161,RTG,RTG Mining Inc,Materials,$55.76 M,RTG.AX,-57.58,0.7270061040641479
+1002,1162,MCL,Mighty Craft Ltd,Consumer Discretionary,$55.74 M,MCL.AX,-48.49,0.5750617410221298
+1003,1163,NOX,Noxopharm Ltd,Health Care,$55.53 M,NOX.AX,-68.07,0.7512459660330391
+1004,1164,DUG,DUG Technology Ltd,Information Technology,$55.52 M,DUG.AX,-65.19,0.6085577144047841
+1005,1165,BOT,Botanix Pharmaceuticals Ltd,Health Care,$55.47 M,BOT.AX,-31.33,0.610949885338026
+1006,1166,NOV,Novatti Group Ltd,Information Technology,$55.32 M,NOV.AX,-75.56,0.7198582081610367
+1007,1167,APW,Aims Property Securities Fund,Real Estate,$55.31 M,APW.AX,5.09,0.34128600297596673
+1008,1168,REY,REY Resources Ltd,Energy,$55.1 M,REY.AX,-3.7,0.5447185475496955
+1009,1169,MI6,Minerals 260 Ltd,Materials,$55 M,MI6.AX,-50.0,0.9406739644275284
+1010,1170,ANP,Antisense Therapeutics Ltd,Health Care,$54.84 M,ANP.AX,-57.95,0.7246149206960871
+1011,1171,HNR,Hannans Ltd,Materials,$54.73 M,HNR.AX,203.55,1.4110999450283248
+1012,1172,IVX,Invion Ltd,Health Care,$54.54 M,IVX.AX,-39.29,1.6305690673605722
+1013,1173,VRC,Volt Resources Ltd,Materials,$54.51 M,VRC.AX,-51.43,0.9876901248583007
+1014,1174,KME,Kip Mcgrath Education Centres Ltd,Consumer Discretionary,$54.26 M,KME.AX,-21.95,0.454134727450654
+1015,1175,SZL,Sezzle Inc,Information Technology,$54.22 M,SZL.AX,-96.98,0.9138252699818336
+1016,1176,LGP,Little Green Pharma Ltd,Health Care,$54.06 M,LGP.AX,-71.52,0.660144450721019
+1017,1177,CAF,Centrepoint Alliance Ltd,Financials,$53.87 M,CAF.AX,25.0,0.6348942836197276
+1018,1178,MEC,Morphic Ethical Equities Fund Ltd,Financials,$53.83 M,MEC.AX,-18.55,0.24014154761027015
+1019,1179,VEE,Veem Ltd,Industrials,$53.61 M,VEE.AX,-70.3,0.7079786026565121
+1020,1180,NXM,Nexus Minerals Ltd,Materials,$53.59 M,NXM.AX,164.29,1.3404661647276694
+1021,1181,ATS,Australis Oil & Gas Ltd,Energy,$53.47 M,ATS.AX,-8.51,0.7735980264053537
+1022,1182,IBC,Ironbark Capital Ltd,Financials,$53.42 M,IBC.AX,-4.9,0.28676083381782513
+1023,1183,IVR,Investigator Resources Ltd,Materials,$53.29 M,IVR.AX,-51.22,0.6329496664014754
+1024,1184,SFG,Seafarms Group Ltd,Consumer Staples,$53.2 M,SFG.AX,-81.67,0.9894351557218497
+1025,1185,VEN,Vintage Energy Ltd,Energy,$52.98 M,VEN.AX,0.0,0.5909620547210541
+1026,1186,VAN,Vango Mining Ltd,Materials,$52.92 M,VAN.AX,-37.31,0.753943850567063
+1027,1187,RMY,Rma Global Ltd,Communication Services,$52.73 M,RMY.AX,-57.69,0.7280990840255781
+1028,1188,SHP,South HARZ Potash Ltd,Materials,$52.67 M,SHP.AX,16.47,0.9941527153419241
+1029,1189,CHZ,Chesser Resources Ltd,Materials,$52.34 M,CHZ.AX,-31.54,0.8057096294804622
+1030,1190,CYP,Cynata Therapeutics Ltd,Health Care,$52.3 M,CYP.AX,-27.72,0.4929484501219409
+1031,1191,CZR,CZR Resources Ltd,Materials,$52.29 M,CZR.AX,42.86,1.3729918624312323
+1032,1192,ERM,Emmerson Resources Ltd,Materials,$52.29 M,ERM.AX,47.69,1.4185263236687184
+1033,1193,HHR,Hartshead Resources NL,Energy,$51.93 M,HHR.AX,75.0,0.9746626348289655
+1034,1194,VMS,Venture Minerals Ltd,Materials,$51.77 M,VMS.AX,-77.04,0.9012968641500478
+1035,1195,MTC,Metalstech Ltd,Materials,$51.67 M,MTC.AX,66.93,0.9141092243760437
+1036,1196,CHL,Camplify Holdings Ltd,Industrials,$51.32 M,CHL.AX,30.71,0.8065472606919298
+1037,1197,NOU,Noumi Ltd,Consumer Staples,$51.27 M,NOU.AX,-52.56,0.7225694000023213
+1038,1198,ESK,Etherstack Plc,Information Technology,$50.98 M,ESK.AX,-35.0,0.798390577018039
+1039,1199,EGL,Environmental Group Ltd (the),Industrials,$50.92 M,EGL.AX,83.33,0.9318557450194098
+1040,1200,SVY,Stavely Minerals Ltd,Materials,$50.89 M,SVY.AX,-55.68,0.6263520343942812
+1041,1201,TOE,Toro Energy Ltd,Energy,$50.67 M,TOE.AX,-35.0,1.1510593829343512
+1042,1202,HTG,Harvest Technology Group Ltd,Information Technology,$50.65 M,HTG.AX,-71.58,0.7734267299767276
+1043,1203,PCL,Pancontinental Energy NL,Energy,$50.08 M,PCL.AX,366.67,3.6697727389763917
+1044,1204,AIM,Ai-Media Technologies Ltd,Industrials,$49.9 M,AIM.AX,-72.25,0.5433285645605105
+1045,1205,S2R,S2 Resources Ltd,Materials,$49.89 M,S2R.AX,16.67,1.2587907125147613
+1046,1206,INF,Infinity Lithium Corporation Ltd,Materials,$49.8 M,INF.AX,37.93,1.0179820475032983
+1047,1207,NTI,Neurotech International Ltd,Health Care,$49.54 M,NTI.AX,20.34,0.7239277314265068
+1048,1208,EMD,Emyria Ltd,Health Care,$49.5 M,EMD.AX,2.86,0.8106230574967833
+1049,1209,TIP,Teaminvest Private Group Ltd,Financials,$49.4 M,TIP.AX,-35.9,0.3553922444307849
+1050,1210,MSL,MSL Solutions Ltd,Information Technology,$49.18 M,MSL.AX,0.0,0.6212719076813095
+1051,1211,MYE,Metarock Group Ltd,Materials,$49.12 M,MYE.AX,-54.82,0.5979381716695921
+1052,1212,SWF,Selfwealth Ltd,Financials,$48.5 M,SWF.AX,-54.95,0.6367754356562597
+1053,1213,ASW,Advanced Share Registry Ltd,Financials,$48.35 M,ASW.AX,22.3,3.5823222355669766
+1054,1214,CUE,CUE Energy Resources Ltd,Energy,$48.17 M,CUE.AX,6.15,0.48256071772926645
+1055,1215,CPH,Creso Pharma Ltd,Health Care,$47.97 M,CPH.AX,-73.57,0.6443973624424063
+1056,1216,EMKT,Vaneck MSCI Multifactor Em Markets Equity ETF,Financials,$47.94 M,EMKT.AX,-12.15,0.16262220374538175
+1057,1217,NWC,New World Resources Ltd,Materials,$47.91 M,NWC.AX,-60.99,0.6318715085851886
+1058,1218,MEK,Meeka Gold Ltd,Materials,$47.86 M,MEK.AX,-11.86,0.7546568823123535
+1059,1219,MMI,Metro Mining Ltd,Materials,$47.82 M,MMI.AX,0.0,0.953489753532766
+1060,1220,PAL,Palla Pharma Ltd,Health Care,$47.76 M,PAL.AX,-20.27,0.6002106705822735
+1061,1221,PX1,Plexure Group Ltd,Information Technology,$47.73 M,PX1.AX,-79.23,0.6380714638107194
+1062,1222,FBR,FBR Ltd,Industrials,$47.72 M,FBR.AX,-52.63,0.6835963146336644
+1063,1223,KTG,K-Tig Ltd,Industrials,$47.09 M,KTG.AX,-37.35,0.6769062547867605
+1064,1224,FHE,Frontier Energy Ltd,Materials,$47.02 M,FHE.AX,46.43,0.5988348684560226
+1065,1225,EDC,Eildon Capital Group,Financials,$46.97 M,EDC.AX,-3.4,0.21283172672836342
+1066,1226,GRX,Greenx Metals Ltd,Materials,$46.92 M,GRX.AX,-29.6,0.7613574876710795
+1067,1227,SPN,Sparc Technologies Ltd,Materials,$46.9 M,SPN.AX,148.21,1.1102824544144296
+1068,1228,EBG,Eumundi Group Ltd,Consumer Discretionary,$46.76 M,EBG.AX,6.86,0.18866635703105983
+1069,1229,GEN,Genmin Ltd,Materials,$46.74 M,GEN.AX,-17.5,0.8182118275472577
+1070,1230,AMS,Atomos Ltd,Consumer Discretionary,$46.69 M,AMS.AX,-77.9,0.9838077870591717
+1071,1231,TTT,Titomic Ltd,Materials,$46.58 M,TTT.AX,-41.77,0.9518157717966323
+1072,1232,MXC,MGC Pharmaceuticals Ltd,Health Care,$46.38 M,MXC.AX,-54.05,0.9015220293172881
+1073,1233,MPP,Metro Performance Glass Ltd,Industrials,$46.34 M,MPP.AX,-35.07,0.3567973908951507
+1074,1234,BIT,Biotron Ltd,Health Care,$46.33 M,BIT.AX,37.5,1.2694352646834264
+1075,1235,SNS,Sensen Networks Ltd,Information Technology,$46.23 M,SNS.AX,-52.67,0.8275339505576296
+1076,1236,BBX,BBX Minerals Ltd,Materials,$46 M,BBX.AX,-62.26,0.9000445541588266
+1077,1237,BNL,Blue Star Helium Ltd,Energy,$46 M,BNL.AX,-14.71,0.848015187095603
+1078,1238,PNC,Pioneer Credit Ltd,Financials,$45.9 M,PNC.AX,-10.87,0.538091345510681
+1079,1239,PPG,Pro-Pac Packaging Ltd,Materials,$45.83 M,PPG.AX,-71.75,0.5561626626698701
+1080,1240,IAM,Income Asset Management Group Ltd,Financials,$45.58 M,IAM.AX,-45.9,0.7853058878562775
+1081,1241,CPV,Clearvue Technologies Ltd,Industrials,$45.52 M,CPV.AX,-48.81,0.8934335721186402
+1082,1242,HRZ,Horizon Minerals Ltd,Materials,$45.44 M,HRZ.AX,-33.33,0.7840900883947618
+1083,1243,FFI,FFI Holdings Ltd,Consumer Staples,$45.41 M,FFI.AX,-40.56,0.466737510746594
+1084,1244,STP,Step One Clothing Ltd,Consumer Discretionary,$45.41 M,STP.AX,-83.99,1.2163532576518556
+1085,1245,PPL,Pureprofile Ltd,Communication Services,$45.39 M,PPL.AX,51.85,0.7428631242905728
+1086,1246,LKO,Lakes Blue Energy NL,Energy,$45.3 M,LKO.AX,0.0,1.9021886835763857
+1087,1247,KRM,Kingsrose Mining Ltd,Materials,$45.15 M,KRM.AX,15.39,0.6746754295689256
+1088,1248,MRC,Mineral Commodities Ltd,Materials,$44.94 M,MRC.AX,-58.62,0.8159818127136141
+1089,1249,ECL,Excelsior Capital Ltd,Industrials,$44.36 M,ECL.AX,-6.42,0.2664926747426091
+1090,1250,RTE,Retech Technology Co. Ltd,Consumer Discretionary,$44.25 M,RTE.AX,-24.0,0.4785536962529027
+1091,1251,RSH,Respiri Ltd,Health Care,$44.19 M,RSH.AX,-18.31,0.7492692720707295
+1092,1252,KKO,Kinetiko Energy Ltd,Energy,$43.78 M,KKO.AX,-41.47,0.6444620708814733
+1093,1253,AVA,AVA Risk Group Ltd,Information Technology,$43.73 M,AVA.AX,-51.35,0.5802219268294758
+1094,1254,ASP,Aspermont Ltd,Communication Services,$43.73 M,ASP.AX,-35.71,0.6966114324945917
+1095,1255,FME,Future Metals NL,Materials,$43.29 M,FME.AX,-34.09,0.7684479959301724
+1096,1256,AAR,Astral Resources NL,Materials,$42.92 M,AAR.AX,-11.11,0.5916163712780661
+1097,1257,MPX,Mustera Property Group Ltd,Real Estate,$42.55 M,MPX.AX,-1.67,0.18680135003806603
+1098,1258,LRT,Lowell Resources Fund,Financials,$42.53 M,LRT.AX,-9.38,0.3396894340699605
+1099,1259,WLD,Wellard Ltd,Consumer Staples,$42.5 M,WLD.AX,31.15,0.7614558605773758
+1100,1260,EIQ,Echoiq Ltd,Information Technology,$42.4 M,EIQ.AX,0.0,0.7738617679777628
+1101,1261,RXL,ROX Resources Ltd,Materials,$42.24 M,RXL.AX,-42.53,0.7111915197420802
+1102,1262,GSR,Greenstone Resources Ltd,Materials,$42.02 M,GSR.AX,127.78,1.0207470113438974
+1103,1263,AYA,ARTRYA Ltd,Health Care,$41.97 M,AYA.AX,-50.37,0.9465519354956186
+1104,1264,FSI,Flagship Investments Ltd,Financials,$41.89 M,FSI.AX,-29.57,0.3419984942202689
+1105,1265,AHF,Australian Dairy Nutritionals Group,Consumer Staples,$41.69 M,AHF.AX,52.0,0.6614827874350537
+1106,1266,LVT,Livetiles Ltd,Information Technology,$41.54 M,LVT.AX,-70.97,0.6867529600467372
+1107,1267,3DA,Amaero International Ltd,Industrials,$41.4 M,3DA.AX,-70.09,0.771489205927588
+1108,1268,CV1,CV Check Ltd,Information Technology,$41.25 M,CV1.AX,-32.14,0.6904968444520116
+1109,1269,AME,Alto Metals Ltd,Materials,$41.19 M,AME.AX,-16.13,0.4820987808912349
+1110,1270,PAB,PATRYS Ltd,Health Care,$41.14 M,PAB.AX,-65.37,0.7952892082855556
+1111,1271,AKM,Aspire Mining Ltd,Materials,$41.12 M,AKM.AX,9.46,0.654570122338968
+1112,1272,RPM,RPM Automotive Group Ltd,Consumer Discretionary,$40.97 M,RPM.AX,-27.78,0.6420494523523591
+1113,1273,AGS,Alliance Resources Ltd,Materials,$40.95 M,AGS.AX,32.76,0.6937468348327688
+1114,1274,DGH,Desane Group Holdings Ltd,Real Estate,$40.91 M,DGH.AX,-15.25,0.20852018871436304
+1115,1275,HRN,Horizon Gold Ltd,Materials,$40.82 M,HRN.AX,-20.26,0.7387741860725885
+1116,1276,DNA,Donaco International Ltd,Consumer Discretionary,$40.77 M,DNA.AX,-15.39,0.647296789669787
+1117,1277,MVS,Vaneck Small Companies Masters ETF,Financials,$40.66 M,MVS.AX,-15.03,0.15822229817867825
+1118,1278,DTR,Dateline Resources Ltd,Materials,$40.65 M,DTR.AX,-9.89,1.0742133311965083
+1119,1279,CD1,CD Private Equity Fund I,Financials,$40.57 M,CD1.AX,-3.7,0.38224058783219145
+1120,1280,ICG,Inca Minerals Ltd,Materials,$40.45 M,ICG.AX,-23.64,1.1065235335254409
+1121,1281,SDV,Scidev Ltd,Materials,$40.39 M,SDV.AX,-74.1,0.6826094386881092
+1122,1282,ARV,Artemis Resources Ltd,Materials,$40.26 M,ARV.AX,-44.23,0.7042462500957235
+1123,1283,VR8,Vanadium Resources Ltd,Materials,$40.25 M,VR8.AX,32.81,0.8255694960303979
+1124,1284,DEM,De.Mem Ltd,Utilities,$40.14 M,DEM.AX,-35.71,0.5980002626932226
+1125,1285,FML,Focus Minerals Ltd,Materials,$40.12 M,FML.AX,-46.15,0.6064507370238705
+1126,1286,DXB,Dimerix Ltd,Health Care,$40.11 M,DXB.AX,-39.02,0.7888334275350559
+1127,1287,WAK,Wa Kaolin Ltd,Materials,$40.01 M,WAK.AX,-7.32,0.47905895523507647
+1128,1288,GAS,State GAS Ltd,Energy,$39.97 M,GAS.AX,-60.78,0.6393827788709043
+1129,1289,OBM,Ora Banda Mining Ltd,Materials,$39.85 M,OBM.AX,-80.25,0.8504607083193199
+1130,1290,DW8,DW8 Ltd,Consumer Discretionary,$39.68 M,DW8.AX,-81.01,0.7943009001985759
+1131,1291,ENR,Encounter Resources Ltd,Materials,$39.65 M,ENR.AX,-7.89,0.8615526173708898
+1132,1292,OSL,Oncosil Medical Ltd,Health Care,$39.65 M,OSL.AX,-26.38,0.9805733003697512
+1133,1293,AFA,Asf Group Ltd,Financials,$39.63 M,AFA.AX,-16.67,0.4495642801336829
+1134,1294,APC,Australian Potash Ltd,Materials,$39.61 M,APC.AX,-65.0,0.7005357616307945
+1135,1295,AR9,Archtis Ltd,Information Technology,$39.57 M,AR9.AX,-37.5,0.9781728543077413
+1136,1296,IIQ,Inoviq Ltd,Health Care,$39.57 M,IIQ.AX,-77.95,0.7477702203795145
+1137,1297,GPR,Geopacific Resources Ltd,Materials,$39.46 M,GPR.AX,-75.08,0.6574059247222127
+1138,1298,WIA,WIA Gold Ltd,Materials,$39.3 M,WIA.AX,107.32,0.7465330650058656
+1139,1299,ASR,Asra Minerals Ltd,Materials,$38.86 M,ASR.AX,3.57,0.8899313473104626
+1140,1300,KAT,Katana Capital Ltd,Financials,$38.49 M,KAT.AX,11.88,0.18825991660050198
+1141,1301,PXS,Pharmaxis Ltd,Health Care,$38.44 M,PXS.AX,-6.67,0.6351569548664657
+1142,1302,TMK,TMK Energy Ltd,Energy,$38.28 M,TMK.AX,37.5,1.2388899049086746
+1143,1303,XTE,Xtek Ltd,Industrials,$38.24 M,XTE.AX,-7.71,0.8597323935806923
+1144,1304,MPA,Mad Paws Holdings Ltd,Consumer Discretionary,$38.17 M,MPA.AX,-23.53,0.7103504963511043
+1145,1305,MRR,Minrex Resources Ltd,Materials,$38.17 M,MRR.AX,80.0,1.3051610014492248
+1146,1306,FHS,Freehill Mining Ltd,Materials,$37.99 M,FHS.AX,-38.24,0.8823519126955847
+1147,1307,8IH,8I Holdings Ltd,Financials,$37.63 M,8IH.AX,-64.41,0.6921846142217569
+1148,1308,AZI,Altamin Ltd,Materials,$37.6 M,AZI.AX,33.32,0.6181519673959815
+1149,1309,AR3,Australian Rare EARTHS Ltd,Materials,$37.6 M,AR3.AX,31.67,0.7663365639790546
+1150,1310,NAC,Naos Ex-50 Opportunities Company Ltd,Financials,$37.58 M,NAC.AX,-27.39,0.2258168308216989
+1151,1311,HMX,Hammer Metals Ltd,Materials,$37.51 M,HMX.AX,-50.0,0.8980376617275614
+1152,1312,TEM,Tempest Minerals Ltd,Materials,$37.35 M,TEM.AX,365.06,3.0138321625188085
+1153,1313,KAI,Kairos Minerals Ltd,Materials,$37.28 M,KAI.AX,-38.71,0.7097072513617052
+1154,1314,ISU,Iselect Ltd,Consumer Discretionary,$37.21 M,ISU.AX,-61.25,0.6569476454790917
+1155,1315,BWF,Blackwall Ltd,Financials,$37.11 M,BWF.AX,-6.78,0.5559068069962627
+1156,1316,STN,Saturn Metals Ltd,Materials,$37.02 M,STN.AX,-33.72,0.626088352764136
+1157,1317,CDO,Cadence Opportunities Fund Ltd,Financials,$36.87 M,CDO.AX,-12.69,0.22677861300250834
+1158,1318,WWI,West Wits Mining Ltd,Materials,$36.84 M,WWI.AX,-76.53,0.8330504147690755
+1159,1319,FEG,Far East Gold Ltd,Materials,$36.61 M,FEG.AX,50.0,0.9952321053224483
+1160,1320,IBG,Ironbark ZINC Ltd,Materials,$36.6 M,IBG.AX,33.33,1.0564218179411125
+1161,1321,EPM,Eclipse Metals Ltd,Energy,$36.5 M,EPM.AX,-9.52,0.9576721896044632
+1162,1322,C6C,Copper Mountain Mining Corporation,Materials,$36.38 M,C6C.AX,-46.42,0.5998656049839434
+1163,1323,KSN,Kingston Resources Ltd,Materials,$36.32 M,KSN.AX,-57.07,0.7083085550408696
+1164,1324,TBA,Tombola Gold Ltd,Materials,$36.3 M,TBA.AX,-5.0,0.8251854420978024
+1165,1325,HAL,Halo Technologies Holdings Ltd,Financials,$36.26 M,HAL.AX,-76.67,1.767033119122832
+1166,1326,CIW,Clime Investment Management Ltd,Financials,$36.14 M,CIW.AX,-18.03,0.29938818916617943
+1167,1327,KNI,Kuniko Ltd,Materials,$36 M,KNI.AX,260.0,2.2748699995189225
+1168,1328,AKG,Academies Australasia Group Ltd,Consumer Discretionary,$35.73 M,AKG.AX,0.0,0.6364063996351742
+1169,1329,92E,92 Energy Ltd,Energy,$35.62 M,92E.AX,35.94,1.1654832166773679
+1170,1330,JGH,Jade Gas Holdings Ltd,Energy,$35.6 M,JGH.AX,575.0,1.240176047346426
+1171,1331,GGE,Grand Gulf Energy Ltd,Energy,$35.57 M,GGE.AX,130.0,1.3123803506574123
+1172,1332,FTZ,Fertoz Ltd,Materials,$35.5 M,FTZ.AX,3.33,1.0362409422190013
+1173,1333,VBS,Vectus Biosystems Ltd,Health Care,$35.18 M,VBS.AX,-30.22,0.651465379215968
+1174,1334,LEX,Lefroy Exploration Ltd,Materials,$35.01 M,LEX.AX,-75.76,0.7610123143700092
+1175,1335,FPC,Fat Prophets Global Contrarian Fund Ltd,Financials,$34.92 M,FPC.AX,-34.08,0.2774006113756723
+1176,1336,PAM,Pan Asia Metals Ltd,Materials,$34.62 M,PAM.AX,276.0,1.5515326560460112
+1177,1337,SPD,Southern Palladium Ltd,Materials,$34.46 M,SPD.AX,60.0,1.637038682445153
+1178,1338,COD,Coda Minerals Ltd,Materials,$34.28 M,COD.AX,-77.69,0.8344456126077705
+1179,1339,IXU,Ixup Ltd,Information Technology,$34.28 M,IXU.AX,-78.89,0.792869128553617
+1180,1340,PHO,Phosco Ltd,Materials,$34.11 M,PHO.AX,112.12,0.8152781205460715
+1181,1341,EV1,Evolution Energy Minerals Ltd,Materials,$34.1 M,EV1.AX,55.0,0.6992252340423321
+1182,1342,CDX,Cardiex Ltd,Health Care,$34.09 M,CDX.AX,-60.26,1.0260803476946914
+1183,1343,DOC,Doctor Care Anywhere Group Plc,Health Care,$34.08 M,DOC.AX,-81.93,0.6594084497902037
+1184,1344,UBN,Urbanise.com Ltd,Information Technology,$33.94 M,UBN.AX,-62.03,0.542086588202022
+1185,1345,ST1,Spirit Technology Solutions Ltd,Communication Services,$33.9 M,ST1.AX,-81.11,0.6769413944086623
+1186,1346,XAM,Xanadu Mines Ltd,Materials,$33.89 M,XAM.AX,-33.33,0.9379405763248237
+1187,1347,ATH,Alterity Therapeutics Ltd,Health Care,$33.7 M,ATH.AX,-50.0,0.6813132067777198
+1188,1348,AE1,Aerison Group Ltd,Industrials,$33.65 M,AE1.AX,-45.0,0.6112111364892198
+1189,1349,BNR,Bulletin Resources Ltd,Materials,$33.65 M,BNR.AX,80.51,1.368074672205209
+1190,1350,KNM,Kneomedia Ltd,Communication Services,$33.65 M,KNM.AX,400.0,1.2581657156943438
+1191,1351,IBX,Imagion Biosystems Ltd,Health Care,$33.64 M,IBX.AX,-70.0,0.9354971368553817
+1192,1352,FAL,Falcon Metals Ltd,Materials,$33.63 M,FAL.AX,-62.0,1.0189034132286277
+1193,1353,VRS,Veris Ltd,Industrials,$33.52 M,VRS.AX,-9.86,0.5441608247015838
+1194,1354,GBZ,GBM Resources Ltd,Materials,$33.47 M,GBZ.AX,-44.35,0.6920733142694263
+1195,1355,IXC,INVEX Therapeutics Ltd,Health Care,$33.44 M,IXC.AX,-29.92,0.5509472392732778
+1196,1356,VTG,Vita Group Ltd,Consumer Discretionary,$33.42 M,VTG.AX,-80.0,0.6771055539060106
+1197,1357,BLG,Bluglass Ltd,Information Technology,$33.17 M,BLG.AX,-12.77,0.8364413183201866
+1198,1358,CG1,Carbonxt Group Ltd,Materials,$33.14 M,CG1.AX,25.0,0.9143580422579981
+1199,1359,AT1,Atomo Diagnostics Ltd,Health Care,$33.11 M,AT1.AX,-69.47,0.9331559259571071
+1200,1360,GBE,Globe Metals & Mining Ltd,Materials,$33.08 M,GBE.AX,-58.24,0.9978313350486241
+1201,1361,MIO,Macarthur Minerals Ltd,Materials,$33.06 M,MIO.AX,-50.0,0.849533626023229
+1202,1362,TSO,Tesoro Gold Ltd,Materials,$33 M,TSO.AX,-69.66,0.7123885351362554
+1203,1363,RNO,Rhinomed Ltd,Health Care,$32.86 M,RNO.AX,-25.31,1.403224569116046
+1204,1364,SRJ,SRJ Technologies Group Plc,Energy,$32.84 M,SRJ.AX,91.11,0.719776038652942
+1205,1365,SMG,Soon Mining Ltd,Materials,$32.77 M,SMG.AX,0.0,0.0
+1206,1366,DVR,Diverger Ltd,Financials,$32.72 M,DVR.AX,-14.71,0.3215363215487618
+1207,1367,REE,RAREX Ltd,Materials,$32.64 M,REE.AX,-23.68,0.8072030428561865
+1208,1368,MYG,Mayfield Group Holdings Ltd,Industrials,$32.61 M,MYG.AX,-17.24,0.49806262374916055
+1209,1369,PFG,Prime Financial Group Ltd,Financials,$32.55 M,PFG.AX,75.82,0.5094177800713473
+1210,1370,LEL,Lithium Energy Ltd,Materials,$32.51 M,LEL.AX,89.47,0.995749547870243
+1211,1371,GC1,Glennon Small Companies Ltd,Financials,$32.32 M,GC1.AX,-18.71,0.4001282136746739
+1212,1372,GTG,Genetic Technologies Ltd,Health Care,$32.32 M,GTG.AX,-61.11,1.774038464922286
+1213,1373,TRY,Troy Resources Ltd,Materials,$32.22 M,TRY.AX,-2.63,0.1658640315132635
+1214,1374,CTE,Cryosite Ltd,Health Care,$32.21 M,CTE.AX,65.0,0.64184376037187
+1215,1375,INV,Investsmart Group Ltd,Financials,$32 M,INV.AX,12.2,0.7813671100019375
+1216,1376,AS1,Angel Seafood Holdings Ltd,Consumer Staples,$31.9 M,AS1.AX,50.0,0.6445380426291981
+1217,1377,AUZ,Australian Mines Ltd,Materials,$31.87 M,AUZ.AX,-70.27,0.793568484888929
+1218,1378,SPX,Spenda Ltd,Information Technology,$31.78 M,SPX.AX,-80.39,0.9510105410610225
+1219,1379,AUQ,Alara Resources Ltd,Materials,$31.74 M,AUQ.AX,221.43,1.368194837640393
+1220,1380,PCK,Painchek Ltd,Health Care,$31.71 M,PCK.AX,-54.1,0.7950945507049668
+1221,1381,SEN,Senetas Corporation Ltd,Information Technology,$31.56 M,SEN.AX,-45.83,0.5254561651983689
+1222,1382,PGO,Pacgold Ltd,Materials,$31.33 M,PGO.AX,132.44,1.0826802747424304
+1223,1383,99L,99 Loyalty Ltd,Information Technology,$31.31 M,99L.AX,-57.81,1.1591127122956144
+1224,1384,SRN,Surefire Resources NL,Materials,$31.29 M,SRN.AX,43.33,1.2225538264774698
+1225,1385,ANX,ANAX Metals Ltd,Materials,$31.23 M,ANX.AX,-6.1,0.7839250847958426
+1226,1386,PVS,Pivotal Systems Corporation,Information Technology,$31.09 M,PVS.AX,-87.2,0.6689656141006813
+1227,1387,SRK,Strike Resources Ltd,Materials,$31.05 M,SRK.AX,-51.06,0.9187783725838821
+1228,1388,CLZ,Classic Minerals Ltd,Materials,$31.02 M,CLZ.AX,0.0,2.9155298434000283
+1229,1389,CST,Castile Resources Ltd,Materials,$30.96 M,CST.AX,-31.11,0.692648635245948
+1230,1390,TGH,Terragen Holdings Ltd,Materials,$30.89 M,TGH.AX,-44.83,1.0123174753685718
+1231,1391,CAY,Canyon Resources Ltd,Materials,$30.88 M,CAY.AX,-63.33,0.6281929550811746
+1232,1392,CCG,Comms Group Ltd,Communication Services,$30.71 M,CCG.AX,21.43,0.644031608363833
+1233,1393,SOV,Sovereign Cloud Holdings Ltd,Information Technology,$30.66 M,SOV.AX,-57.64,0.8686711784434088
+1234,1394,AIQ,Alternative Investment Trust,Financials,$30.64 M,AIQ.AX,-16.67,0.5878973373002925
+1235,1395,CPN,Caspin Resources Ltd,Materials,$30.37 M,CPN.AX,-74.41,0.9803043033198929
+1236,1396,CAD,Caeneus Minerals Ltd,Materials,$30.29 M,CAD.AX,-35.0,1.2228368286823081
+1237,1397,TGM,Theta Gold Mines Ltd,Materials,$30.26 M,TGM.AX,-73.81,0.6640148363811079
+1238,1398,LDX,Lumos Diagnostics Holdings Ltd,Health Care,$29.86 M,LDX.AX,-86.76,0.8560613646864553
+1239,1399,YBR,Yellow Brick Road Holdings Ltd,Financials,$29.86 M,YBR.AX,2.22,0.6079774814224936
+1240,1400,WR1,Winsome Resources Ltd,Materials,$29.73 M,WR1.AX,10.0,1.0369699890399116
+1241,1401,FRE,Firebrick Pharma Ltd,Health Care,$29.71 M,FRE.AX,40.0,0.8194820505263976
+1242,1402,BDT,Birddog Technology Ltd,Information Technology,$29.67 M,BDT.AX,-77.69,0.782920727637561
+1243,1403,SOP,Synertec Corporation Ltd,Industrials,$29.66 M,SOP.AX,-17.0,0.577622328657866
+1244,1404,RVS,Revasum Inc,Information Technology,$29.66 M,RVS.AX,0.0,0.9960430278136757
+1245,1405,GWR,GWR Group Ltd,Materials,$29.55 M,GWR.AX,-70.14,0.9008049826405435
+1246,1406,KRR,King River Resources Ltd,Materials,$29.52 M,KRR.AX,-29.63,0.7086096566967424
+1247,1407,SIO,Simonds Group Ltd,Consumer Discretionary,$29.45 M,SIO.AX,-66.1,0.6089049169192788
+1248,1408,K2F,K2FLY Ltd,Information Technology,$29.44 M,K2F.AX,-45.16,0.7712281241959082
+1249,1409,MZZ,Matador Mining Ltd,Materials,$29.37 M,MZZ.AX,-69.32,0.6345699025818444
+1250,1410,MRD,Mount Ridley Mines Ltd,Materials,$29.29 M,MRD.AX,150.0,1.6771663483053898
+1251,1411,BSA,BSA Ltd,Industrials,$29.12 M,BSA.AX,-82.51,0.7332195671098705
+1252,1412,ABX,ABX Group Ltd,Materials,$29.07 M,ABX.AX,23.81,0.8027822153886739
+1253,1413,AGN,Argenica Therapeutics Ltd,Health Care,$28.93 M,AGN.AX,130.77,0.7845792997900083
+1254,1414,QSML,Vaneck MSCI Intl Small Companies Quality ETF,Financials,$28.89 M,QSML.AX,-13.09,0.18269835736136517
+1255,1415,OEX,OILEX Ltd,Energy,$28.85 M,OEX.AX,-12.5,2.2472148097218856
+1256,1416,AHC,Austco Healthcare Ltd,Health Care,$28.71 M,AHC.AX,-20.0,0.5359353631953436
+1257,1417,DKM,Duketon Mining Ltd,Materials,$28.68 M,DKM.AX,-26.56,0.6896513522612597
+1258,1418,VYS,Vysarn Ltd,Materials,$28.61 M,VYS.AX,-19.78,0.3548560430068979
+1259,1419,CHM,Chimeric Therapeutics Ltd,Health Care,$28.52 M,CHM.AX,-67.09,0.6013484169180813
+1260,1420,MEM,Memphasys Ltd,Health Care,$28.52 M,MEM.AX,-44.62,0.914365119613336
+1261,1421,SXG,Southern Cross Gold Ltd,Materials,$28.49 M,SXG.AX,128.75,6.217042706206029
+1262,1422,MLS,Metals Australia Ltd,Materials,$28.4 M,MLS.AX,66.67,2.442662629270156
+1263,1423,BML,Boab Metals Ltd,Materials,$28.4 M,BML.AX,-56.98,0.6474187107310501
+1264,1424,DTC,Damstra Holdings Ltd,Information Technology,$28.35 M,DTC.AX,-86.96,0.9092601705477062
+1265,1425,CMP,Compumedics Ltd,Health Care,$28.35 M,CMP.AX,-55.56,0.6317949331250318
+1266,1426,GBR,Great Boulder Resources Ltd,Materials,$28.33 M,GBR.AX,-18.29,1.3832238201883518
+1267,1427,AFL,Af Legal Group Ltd,Industrials,$28.24 M,AFL.AX,-34.51,0.4594431349089439
+1268,1428,PTG,Proptech Group Ltd,Information Technology,$28.15 M,PTG.AX,-74.85,0.681683996995247
+1269,1429,TI1,Tombador Iron Ltd,Materials,$28 M,TI1.AX,-70.24,0.9185446819130574
+1270,1430,QHL,Quickstep Holdings Ltd,Industrials,$27.97 M,QHL.AX,-23.53,0.5985858199478983
+1271,1431,ACS,Accent Resources NL,Materials,$27.96 M,ACS.AX,20.0,0.29637572651938165
+1272,1432,CF1,Complii Fintech Solutions Ltd,Information Technology,$27.86 M,CF1.AX,35.59,0.679785854379797
+1273,1433,JAT,Jatcorp Ltd,Consumer Discretionary,$27.83 M,JAT.AX,-33.65,0.779426522778545
+1274,1434,KMT,Kopore Metals Ltd,Materials,$27.79 M,KMT.AX,20.0,1.0011527412717494
+1275,1435,ITM,Itech Minerals Ltd,Materials,$27.7 M,ITM.AX,52.5,1.1845891647328242
+1276,1436,CNR,Cannon Resources Ltd,Materials,$27.69 M,CNR.AX,80.0,1.075543944428939
+1277,1437,HAW,Hawthorn Resources Ltd,Materials,$27.68 M,HAW.AX,84.44,1.0769292489485853
+1278,1438,BYI,Beyond International Ltd,Communication Services,$27.6 M,BYI.AX,-35.71,0.28718164747431646
+1279,1439,AV1,Adveritas Ltd,Information Technology,$27.6 M,AV1.AX,-40.95,0.7844015383255614
+1280,1440,AGR,Aguia Resources Ltd,Materials,$27.59 M,AGR.AX,-5.48,1.032288400100486
+1281,1441,AGD,Austral Gold Ltd,Materials,$27.55 M,AGD.AX,-68.97,0.6338561071625664
+1282,1442,BKG,Booktopia Group Ltd,Consumer Discretionary,$27.47 M,BKG.AX,-92.31,0.7148328764640698
+1283,1443,EDE,Eden Innovations Ltd,Energy,$27.34 M,EDE.AX,-47.62,0.980237453821707
+1284,1444,KPO,Kalina Power Ltd,Utilities,$27.27 M,KPO.AX,-43.75,0.9111383446615382
+1285,1445,CNJ,Conico Ltd,Materials,$27.17 M,CNJ.AX,-25.16,1.7076402609503993
+1286,1446,TFL,Tasfoods Ltd,Consumer Staples,$27.1 M,TFL.AX,-43.64,0.4681744417456166
+1287,1447,ELE,Elmore Ltd,Materials,$27 M,ELE.AX,57.14,0.9679887371556165
+1288,1448,EYE,Nova EYE Medical Ltd,Health Care,$26.93 M,EYE.AX,-41.27,0.6651070196146364
+1289,1449,AMX,Aerometrex Ltd,Industrials,$26.9 M,AMX.AX,-61.22,0.6799536554091191
+1290,1450,AQI,Alicanto Minerals Ltd,Materials,$26.86 M,AQI.AX,-48.15,0.7962613210107312
+1291,1451,MGL,Magontec Ltd,Materials,$26.86 M,MGL.AX,37.26,0.9312369434606991
+1292,1452,PNN,Power Minerals Ltd,Materials,$26.76 M,PNN.AX,74.0,1.1877761607113395
+1293,1453,RHT,Resonance Health Ltd,Health Care,$26.73 M,RHT.AX,-63.75,0.8837027671668669
+1294,1454,NGE,NGE Capital Ltd,Financials,$26.64 M,NGE.AX,12.12,0.3066885550240728
+1295,1455,PF1,Pathfinder Resources Ltd,Materials,$26.56 M,PF1.AX,47.06,0.5969148449398742
+1296,1456,IDT,IDT Australia Ltd,Health Care,$26.51 M,IDT.AX,-66.67,1.0289619900639142
+1297,1457,ROG,Red Sky Energy Ltd,Energy,$26.51 M,ROG.AX,-28.57,1.5549808551449276
+1298,1458,ADS,Adslot Ltd,Information Technology,$26.45 M,ADS.AX,-55.56,0.8169966850224546
+1299,1459,KYK,KYCKR Ltd,Information Technology,$26.34 M,KYK.AX,16.67,0.6274368387332817
+1300,1460,PV1,Provaris Energy Ltd,Energy,$26.29 M,PV1.AX,-31.43,0.8987774377506812
+1301,1461,TLM,Talisman Mining Ltd,Materials,$26.28 M,TLM.AX,-31.71,0.6551713947718247
+1302,1462,CCA,Change Financial Ltd,Information Technology,$26.26 M,CCA.AX,-34.0,0.6975003270482716
+1303,1463,KZR,Kalamazoo Resources Ltd,Materials,$26.13 M,KZR.AX,-51.02,0.7359380994881906
+1304,1464,IG6,International Graphite Ltd,Industrials,$26.08 M,IG6.AX,60.0,0.8979812979701656
+1305,1465,AMO,Ambertech Ltd,Information Technology,$26.04 M,AMO.AX,24.44,0.6972657493498061
+1306,1466,NCL,Netccentric Ltd,Communication Services,$26.04 M,NCL.AX,-42.5,0.8707381856874489
+1307,1467,EVR,EV Resources Ltd,Materials,$25.93 M,EVR.AX,33.33,0.9173076341584933
+1308,1468,E2M,E2 Metals Ltd,Materials,$25.89 M,E2M.AX,-58.07,0.8844010969385271
+1309,1469,GW1,Greenwing Resources Ltd,Materials,$25.88 M,GW1.AX,-16.0,1.0133378566176967
+1310,1470,ECT,Environmental Clean Technologies Ltd,Industrials,$25.74 M,ECT.AX,15.39,82.87203845110145
+1311,1471,DDB,Dynamic Group Holdings Ltd,Industrials,$25.68 M,DDB.AX,-35.63,0.5329205167070669
+1312,1472,TZL,TZ Ltd,Information Technology,$25.61 M,TZL.AX,17.35,0.8606171920114806
+1313,1473,MMA,Maronan Metals Ltd,Materials,$25.5 M,MMA.AX,70.0,0.8267272261156999
+1314,1474,8CO,8COMMON Ltd,Information Technology,$25.48 M,8CO.AX,-11.54,0.9731809542080069
+1315,1475,TCG,Turaco Gold Ltd,Materials,$25.24 M,TCG.AX,-41.0,0.7924084387032695
+1316,1476,LNY,Laneway Resources Ltd,Materials,$25.21 M,LNY.AX,4.35,1.571192437996006
+1317,1477,NGY,Nuenergy Gas Ltd,Energy,$25.18 M,NGY.AX,-57.5,0.8557701307198021
+1318,1478,EME,Energy Metals Ltd,Energy,$25.16 M,EME.AX,-31.43,1.1360903831141553
+1319,1479,CNW,Cirrus Networks Holdings Ltd,Information Technology,$25.11 M,CNW.AX,-6.9,0.5104606878893815
+1320,1480,NSB,Neuroscientific Biopharmaceuticals Ltd,Health Care,$25.11 M,NSB.AX,-48.53,0.7157024180974505
+1321,1481,IOU,Ioupay Ltd,Communication Services,$24.93 M,IOU.AX,-80.85,0.9570761933161641
+1322,1482,QXR,QX Resources Ltd,Materials,$24.92 M,QXR.AX,81.25,1.3586495983583813
+1323,1483,BGT,Bio-Gene Technology Ltd,Materials,$24.78 M,BGT.AX,-24.32,1.0403669138454918
+1324,1484,AXI,Axiom Properties Ltd,Real Estate,$24.66 M,AXI.AX,-12.31,1.0873943267593829
+1325,1485,AON,Apollo Minerals Ltd,Materials,$24.54 M,AON.AX,-43.96,0.8034743828053995
+1326,1486,SNG,Siren Gold Ltd,Materials,$24.49 M,SNG.AX,3.57,0.8160970422737601
+1327,1487,1AE,Aurora Energy Metals Ltd,Materials,$24.46 M,1AE.AX,5.0,1.4724849099376554
+1328,1488,CLE,Cyclone Metals Ltd,Materials,$24.42 M,CLE.AX,-55.56,2.057777053609074
+1329,1489,PAA,Pharmaust Ltd,Health Care,$24.4 M,PAA.AX,-16.3,0.5184195950345295
+1330,1490,JAL,Jameson Resources Ltd,Materials,$24.37 M,JAL.AX,-17.65,0.4402281716116668
+1331,1491,VBC,Verbrec Ltd,Industrials,$24.36 M,VBC.AX,-21.43,0.7527564885228788
+1332,1492,LBT,LBT Innovations Ltd,Health Care,$24.31 M,LBT.AX,-6.17,0.7578731785868668
+1333,1493,DCL,Domacom Ltd,Financials,$24.23 M,DCL.AX,0.0,0.0
+1334,1494,PVW,PVW Resources Ltd,Materials,$24.19 M,PVW.AX,79.31,1.1498877145768283
+1335,1495,VMC,Venus Metals Corporation Ltd,Materials,$24.17 M,VMC.AX,-13.51,0.7482899405651166
+1336,1496,AQN,Aquirian Ltd,Industrials,$24 M,AQN.AX,50.0,0.6757035793826076
+1337,1497,CDT,Castle Minerals Ltd,Materials,$23.99 M,CDT.AX,71.43,1.1815979721109744
+1338,1498,EQX,Equatorial Resources Ltd,Materials,$23.93 M,EQX.AX,-35.59,0.5506022139575423
+1339,1499,AVE,Avecho Biotechnology Ltd,Health Care,$23.89 M,AVE.AX,-23.53,1.014243689980583
+1340,1500,FFG,Fatfish Group Ltd,Financials,$23.83 M,FFG.AX,-65.67,0.866709896146094
+1341,1501,RRR,Revolver Resources Holdings Ltd,Materials,$23.76 M,RRR.AX,40.0,1.1099432986617987
+1342,1502,OPY,Openpay Group Ltd,Financials,$23.74 M,OPY.AX,-89.93,0.7495441427927475
+1343,1503,IDA,Indiana Resources Ltd,Materials,$23.74 M,IDA.AX,-26.03,0.6324360517497806
+1344,1504,QEM,QEM Ltd,Materials,$23.72 M,QEM.AX,21.88,0.7900073777142071
+1345,1505,AAU,Antilles Gold Ltd,Materials,$23.68 M,AAU.AX,-9.46,0.500476796745989
+1346,1506,NAG,Nagambie Resources Ltd,Materials,$23.6 M,NAG.AX,-42.5,0.7209895840032289
+1347,1507,BNZ,BENZ Mining Corp,Materials,$23.59 M,BNZ.AX,-45.12,0.7463549313190263
+1348,1508,SUV,Suvo Strategic Minerals Ltd,Materials,$23.47 M,SUV.AX,-71.43,0.6556333650097469
+1349,1509,NYR,Nyrada Inc,Health Care,$23.4 M,NYR.AX,-48.28,0.7079069019514216
+1350,1510,CGA,Contango Asset Management Ltd,Financials,$23.33 M,CGA.AX,-51.26,0.5353073505608434
+1351,1511,ANL,Amani Gold Ltd,Materials,$23.29 M,ANL.AX,0.0,5.631286714000173
+1352,1512,AXP,AXP Energy Ltd,Energy,$23.25 M,AXP.AX,0.0,1.5926676426274236
+1353,1513,SCN,Scorpion Minerals Ltd,Materials,$23.23 M,SCN.AX,16.67,0.7841573467017614
+1354,1514,GOAT,Vaneck Morningstar International Wide Moat ETF,Financials,$23.15 M,GOAT.AX,-3.22,0.14479699906711951
+1355,1515,WTL,WT Financial Group Ltd,Financials,$23.12 M,WTL.AX,2.86,0.5513800261022568
+1356,1516,ICS,Icsglobal Ltd,Health Care,$23.05 M,ICS.AX,0.0,0.09370745098501064
+1357,1517,PPY,Papyrus Australia Ltd,Materials,$23.01 M,PPY.AX,96.0,0.9325127388843703
+1358,1518,IMR,Imricor Medical Systems Inc,Health Care,$22.97 M,IMR.AX,-91.8,1.0416662692790126
+1359,1519,JAY,Jayride Group Ltd,Industrials,$22.93 M,JAY.AX,-50.0,0.7489341694248061
+1360,1520,GSN,Great Southern Mining Ltd,Materials,$22.89 M,GSN.AX,-4.44,0.8581339132458826
+1361,1521,FLX,FELIX Group Holdings Ltd,Information Technology,$22.89 M,FLX.AX,-35.19,0.6926187211453001
+1362,1522,EFE,Eastern Resources Ltd,Materials,$22.87 M,EFE.AX,53.33,1.7299045027005606
+1363,1523,EVZ,EVZ Ltd,Industrials,$22.83 M,EVZ.AX,31.03,0.6236188829474099
+1364,1524,VN8,VONEX Ltd,Communication Services,$22.68 M,VN8.AX,-47.69,0.6381542689783603
+1365,1525,MCE,Matrix Composites & Engineering Ltd,Energy,$22.64 M,MCE.AX,19.23,0.7669187194517046
+1366,1526,PEC,Perpetual Resources Ltd,Materials,$22.64 M,PEC.AX,-61.67,0.7427382579625262
+1367,1527,SKY,SKY Metals Ltd,Materials,$22.61 M,SKY.AX,-45.46,0.7839591968488028
+1368,1528,ZNO,ZOONO Group Ltd,Materials,$22.47 M,ZNO.AX,-78.05,0.8825941959407295
+1369,1529,MKR,Manuka Resources Ltd,Materials,$22.45 M,MKR.AX,-42.42,0.6375678469797217
+1370,1530,MEL,Metgasco Ltd,Energy,$22.32 M,MEL.AX,-7.94,0.7868130486954777
+1371,1531,GFL,Global Masters Fund Ltd,Financials,$22.3 M,GFL.AX,-12.97,0.21884282587871207
+1372,1532,OKR,Okapi Resources Ltd,Materials,$22.26 M,OKR.AX,0.0,1.1386584677169325
+1373,1533,MKG,Mako Gold Ltd,Materials,$22.17 M,MKG.AX,-30.95,0.6032434349686647
+1374,1534,RCL,Readcloud Ltd,Information Technology,$22.16 M,RCL.AX,-48.61,0.621505533702824
+1375,1535,HFY,Hubify Ltd,Communication Services,$22.12 M,HFY.AX,-32.84,0.912539165433269
+1376,1536,COO,Corum Group Ltd,Information Technology,$22.08 M,COO.AX,-55.42,0.6197549501482323
+1377,1537,MOZ,Mosaic Brands Ltd,Consumer Discretionary,$22.05 M,MOZ.AX,-66.12,0.8514225712696767
+1378,1538,CLB,Candy Club Holdings Ltd,Consumer Staples,$22.05 M,CLB.AX,-58.62,0.7559505157382936
+1379,1539,RTH,Ras Technology Holdings Ltd,Industrials,$22.05 M,RTH.AX,-67.67,0.8617969602987978
+1380,1540,EX1,Exopharm Ltd,Health Care,$22.01 M,EX1.AX,-72.28,0.8306388801866025
+1381,1541,VAL,Valor Resources Ltd,Materials,$21.95 M,VAL.AX,-40.0,1.344357984028059
+1382,1542,RGL,Riversgold Ltd,Materials,$21.93 M,RGL.AX,-8.56,1.1258188478818882
+1383,1543,TCF,360 Capital Enhanced Income Fund,Financials,$21.9 M,TCF.AX,-6.85,0.1746119778706173
+1384,1544,FRX,Flexiroam Ltd,Communication Services,$21.81 M,FRX.AX,25.93,0.9508559033231979
+1385,1545,AML,Aeon Metals Ltd,Materials,$21.8 M,AML.AX,-69.44,0.7508291452619997
+1386,1546,MCM,MC Mining Ltd,Energy,$21.74 M,MCM.AX,10.0,1.2100837617606532
+1387,1547,HSC,HSC Technology Group Ltd,Information Technology,$21.73 M,HSC.AX,-47.37,0.8841559838138725
+1388,1548,PNM,Pacific Nickel Mines Ltd,Materials,$21.7 M,PNM.AX,60.0,1.1087938142697076
+1389,1549,SGQ,ST George Mining Ltd,Materials,$21.7 M,SGQ.AX,-56.34,0.6680891235796842
+1390,1550,TIA,Tian An Australia Ltd,Real Estate,$21.65 M,TIA.AX,-19.36,0.32145342308843444
+1391,1551,EMB,Embelton Ltd,Industrials,$21.58 M,EMB.AX,-17.36,0.19872320690231438
+1392,1552,ENA,Ensurance Ltd,Financials,$21.55 M,ENA.AX,14.29,0.7609934415484273
+1393,1553,DCC,Digitalx Ltd,Information Technology,$21.53 M,DCC.AX,-40.82,0.926048411840296
+1394,1554,Z2U,ZOOM2U Technologies Ltd,Information Technology,$21.52 M,Z2U.AX,-10.0,1.0692705205133586
+1395,1555,NIM,Nimy Resources Ltd,Materials,$21.46 M,NIM.AX,115.0,0.9801395574701406
+1396,1556,TYX,Tyranna Resources Ltd,Materials,$21.45 M,TYX.AX,133.33,1.5928449083553922
+1397,1557,ADX,ADX Energy Ltd,Energy,$21.42 M,ADX.AX,0.0,1.0125983495185251
+1398,1558,TON,Triton Minerals Ltd,Materials,$21.4 M,TON.AX,-51.43,0.8122360950583168
+1399,1559,WLS,WCM Global Long Short Ltd,Financials,$21.32 M,WLS.AX,-8.94,0.29089590472388266
+1400,1560,OLI,Oliver's Real Food Ltd,Consumer Discretionary,$21.28 M,OLI.AX,0.0,0.0
+1401,1561,MM8,Medallion Metals Ltd,Materials,$21.21 M,MM8.AX,-18.37,0.7171284931035535
+1402,1562,HMD,Heramed Ltd,Health Care,$21.19 M,HMD.AX,-64.91,0.8833792329054662
+1403,1563,BUD,Buddy Technologies Ltd,Consumer Discretionary,$21.08 M,BUD.AX,-86.05,1.1918352868842879
+1404,1564,CGN,Crater Gold Mining Ltd,Materials,$21.06 M,CGN.AX,6.25,0.0
+1405,1565,AOU,Auroch Minerals Ltd,Materials,$21.06 M,AOU.AX,-65.46,0.7936211106257808
+1406,1566,S66,Star Combo Pharma Ltd,Consumer Staples,$20.85 M,S66.AX,-38.0,0.680191261448551
+1407,1567,HLF,Halo Food Co. Ltd,Consumer Staples,$20.84 M,HLF.AX,-56.67,0.594866739595079
+1408,1568,OEC,Orbital Corporation Ltd,Industrials,$20.47 M,OEC.AX,-73.41,0.8614295113592071
+1409,1569,ESR,Estrella Resources Ltd,Materials,$20.41 M,ESR.AX,-65.31,0.8315156677015194
+1410,1570,CAG,Cape Range Ltd,Information Technology,$20.41 M,CAG.AX,16.22,0.8333646287907072
+1411,1571,ATX,Amplia Therapeutics Ltd,Health Care,$20.37 M,ATX.AX,-53.86,0.7365628185917856
+1412,1572,IHR,Intellihr Ltd,Information Technology,$20.35 M,IHR.AX,-73.91,0.7426371163090097
+1413,1573,WNX,Wellnex Life Ltd,Consumer Staples,$20.32 M,WNX.AX,-87.36,1.1841883948005498
+1414,1574,ECP,ECP Emerging Growth Ltd,Financials,$20.17 M,ECP.AX,-23.61,0.3681762848468294
+1415,1575,LCL,Los Cerros Ltd,Materials,$20.17 M,LCL.AX,-81.77,0.7965239953142847
+1416,1576,WWG,Wiseway Group Ltd,Industrials,$20.08 M,WWG.AX,-59.55,0.8339470495704734
+1417,1577,GLE,GLG Corp Ltd,Consumer Discretionary,$20.01 M,GLE.AX,-25.0,0.5574575037907513
+1418,1578,PNX,PNX Metals Ltd,Materials,$20 M,PNX.AX,-41.81,1.2659951489001342
+1419,1579,WEMG,SPDR S&P Emerging Markets Carbon Control Fund,Financials,$19.98 M,WEMG.AX,-16.46,0.17739419366190576
+1420,1580,MQR,Marquee Resources Ltd,Materials,$19.96 M,MQR.AX,18.52,1.0967030758378473
+1421,1581,OPN,Openn Negotiation Ltd,Industrials,$19.94 M,OPN.AX,-15.0,0.865095599853635
+1422,1582,PWN,Parkway Corporate Ltd,Materials,$19.92 M,PWN.AX,-21.74,0.8993684342664799
+1423,1583,AGH,Althea Group Holdings Ltd,Health Care,$19.91 M,AGH.AX,-80.31,0.7727785471257557
+1424,1584,IPT,Impact Minerals Ltd,Materials,$19.85 M,IPT.AX,-36.51,0.9776576475948856
+1425,1585,TYM,TYMLEZ Group Ltd,Information Technology,$19.79 M,TYM.AX,66.67,1.4079479670378425
+1426,1586,CETF,Vaneck Ftse China A50 ETF,Financials,$19.78 M,CETF.AX,-11.5,0.22477931302164475
+1427,1587,GMR,Golden Rim Resources Ltd,Materials,$19.78 M,GMR.AX,-47.5,0.9232039856700643
+1428,1588,MVL,Marvel Gold Ltd,Materials,$19.72 M,MVL.AX,-41.89,0.5560841346491643
+1429,1589,JCS,Jcurve Solutions Ltd,Information Technology,$19.7 M,JCS.AX,3.45,0.5642227755749556
+1430,1590,HGL,Hudson Investment Group Ltd,Real Estate,$19.59 M,HGL.AX,50.0,0.17127454239981219
+1431,1591,WRK,WRKR Ltd,Information Technology,$19.58 M,WRK.AX,-42.86,0.8687339282489485
+1432,1592,TKM,Trek Metals Ltd,Materials,$19.57 M,TKM.AX,1.61,1.0614582448727237
+1433,1593,ZEU,ZEUS Resources Ltd,Energy,$19.5 M,ZEU.AX,-1.11,0.36235629903824607
+1434,1594,DEL,Delorean Corporation Ltd,Utilities,$19.41 M,DEL.AX,-56.1,0.6319155182632387
+1435,1595,GTR,Gti Energy Ltd,Materials,$19.4 M,GTR.AX,-39.05,1.0758750627801446
+1436,1596,FFT,Future First Technologies Ltd,Industrials,$19.22 M,FFT.AX,-51.1,0.8769783559590932
+1437,1597,CUF,Cufe Ltd,Materials,$19.17 M,CUF.AX,-60.0,0.9426804750914393
+1438,1598,EQE,EQUUS Mining Ltd,Materials,$19.15 M,EQE.AX,-45.0,0.9808443635880821
+1439,1599,MRZ,Mont Royal Resources Ltd,Materials,$19.11 M,MRZ.AX,14.0,0.8671777782631138
+1440,1600,MGU,Magnum Mining and Exploration Ltd,Materials,$19.09 M,MGU.AX,-77.5,0.833356821487002
+1441,1601,CAV,Carnavale Resources Ltd,Materials,$19.03 M,CAV.AX,0.0,1.1692432317917045
+1442,1602,AQD,Ausquest Ltd,Materials,$18.98 M,AQD.AX,9.52,0.8986415918778102
+1443,1603,BEM,Blackearth Minerals NL,Materials,$18.92 M,BEM.AX,-29.29,0.7872242485485302
+1444,1604,FPP,Fat Prophets Global Property Fund,Real Estate,$18.91 M,FPP.AX,-12.63,0.29179149810585425
+1445,1605,KAU,Kaiser Reef Ltd,Materials,$18.83 M,KAU.AX,-38.83,0.669614703840011
+1446,1606,AMT,Allegra Orthopaedics Ltd,Health Care,$18.8 M,AMT.AX,-10.0,0.5764918159407109
+1447,1607,VPR,Volt Power Group Ltd,Utilities,$18.69 M,VPR.AX,-33.33,2.1565600522045854
+1448,1608,ADV,Ardiden Ltd,Materials,$18.68 M,ADV.AX,-12.5,1.241688811907638
+1449,1609,ODY,Odyssey Gold Ltd,Materials,$18.64 M,ODY.AX,-70.83,0.5362297207094177
+1450,1610,YRL,Yandal Resources Ltd,Materials,$18.57 M,YRL.AX,-69.02,0.7124077627027993
+1451,1611,LPM,Lithium Plus Minerals Ltd,Materials,$18.52 M,LPM.AX,66.0,1.3251378869384596
+1452,1612,INL,Innlanz Ltd,Consumer Discretionary,$18.48 M,INL.AX,9.26,0.44058362094410586
+1453,1613,AHI,Advanced Human Imaging Ltd,Information Technology,$18.34 M,AHI.AX,-90.98,1.2658125175909516
+1454,1614,PIL,Peppermint Innovation Ltd,Information Technology,$18.34 M,PIL.AX,-43.75,1.1412082797984435
+1455,1615,CY5,CYGNUS Gold Ltd,Materials,$18.29 M,CY5.AX,40.91,0.8504134875854443
+1456,1616,DRM,Demetallica Ltd,Materials,$18.24 M,DRM.AX,-16.0,0.6619475465502578
+1457,1617,IMC,Immuron Ltd,Health Care,$18.22 M,IMC.AX,-50.0,0.7773466842027505
+1458,1618,SKF,SKYFII Ltd,Information Technology,$18.22 M,SKF.AX,-61.74,0.6453622291258806
+1459,1619,EDU,EDU Holdings Ltd,Consumer Discretionary,$18.13 M,EDU.AX,-15.63,0.5746817209140701
+1460,1620,MRL,Mayur Resources Ltd,Materials,$18.12 M,MRL.AX,-64.29,1.1141202289500234
+1461,1621,GML,Gateway Mining Ltd,Materials,$18.08 M,GML.AX,-60.0,0.8909973004361044
+1462,1622,FOD,The Food Revolution Group Ltd,Consumer Staples,$17.99 M,FOD.AX,-26.92,0.7028707509217724
+1463,1623,PTR,Petratherm Ltd,Materials,$17.98 M,PTR.AX,50.94,1.992189972596713
+1464,1624,BCC,Beam Communications Holdings Ltd,Information Technology,$17.72 M,BCC.AX,-14.58,0.6941782385750145
+1465,1625,ECS,ECS Botanics Holdings Ltd,Health Care,$17.71 M,ECS.AX,-57.9,0.792604251004617
+1466,1626,RDM,Red Metal Ltd,Materials,$17.68 M,RDM.AX,-48.57,0.6455246654176652
+1467,1627,CNQ,Clean TEQ Water Ltd,Industrials,$17.64 M,CNQ.AX,-34.17,0.8042742650432293
+1468,1628,RWD,Reward Minerals Ltd,Materials,$17.58 M,RWD.AX,-10.0,0.834636788649532
+1469,1629,COY,Coppermoly Ltd,Materials,$17.55 M,COY.AX,-20.0,0.9886083814918665
+1470,1630,SNX,Sierra Nevada Gold Inc,Materials,$17.55 M,SNX.AX,-14.0,0.5214213873743521
+1471,1631,TOU,Tlou Energy Ltd,Energy,$17.41 M,TOU.AX,-29.27,1.079653069798823
+1472,1632,TPO,Tian Poh Resources Ltd,Materials,$17.39 M,TPO.AX,0.0,0.0
+1473,1633,WRM,White Rock Minerals Ltd,Materials,$17.37 M,WRM.AX,-80.95,0.7221135561982492
+1474,1634,WHK,Whitehawk Ltd,Consumer Discretionary,$17.31 M,WHK.AX,-49.33,0.8754896554684384
+1475,1635,RAD,Radiopharm Theranostics Ltd,Health Care,$17.22 M,RAD.AX,-75.83,0.8285027996310518
+1476,1636,TPC,TPC Consolidated Ltd,Utilities,$17.18 M,TPC.AX,-56.86,0.6113602192427804
+1477,1637,VIG,Victor Group Holdings Ltd,Information Technology,$17.17 M,VIG.AX,0.0,0.0
+1478,1638,XPN,Xpon Technologies Group Ltd,Information Technology,$17.15 M,XPN.AX,-45.0,0.7841403792237227
+1479,1639,HPC,The Hydration Pharmaceuticals Company Ltd,Consumer Staples,$17.08 M,HPC.AX,-66.2,0.7527892856839785
+1480,1640,AHN,Athena Resources Ltd,Materials,$17.07 M,AHN.AX,5.0,2.316735410059081
+1481,1641,FTL,Firetail Resources Ltd,Materials,$16.99 M,FTL.AX,10.0,0.8697693694979055
+1482,1642,AII,Almonty Industries Inc,Materials,$16.92 M,AII.AX,-5.0,0.3163144580683638
+1483,1643,BIQ,Buildingiq Inc,Information Technology,$16.89 M,BIQ.AX,0.0,0.0
+1484,1644,TSN,The Sustainable Nutrition Group Ltd,Consumer Staples,$16.88 M,TSN.AX,-62.16,0.8162446401893294
+1485,1645,RGS,Regeneus Ltd,Health Care,$16.85 M,RGS.AX,-26.67,0.5160827065918724
+1486,1646,MAN,Mandrake Resources Ltd,Materials,$16.82 M,MAN.AX,-76.55,0.8032911909599235
+1487,1647,AC8,Auscann Group Holdings Ltd,Health Care,$16.74 M,AC8.AX,-62.0,0.4715104739912092
+1488,1648,HIL,Hills Ltd,Information Technology,$16.7 M,HIL.AX,-46.67,0.5429657595971404
+1489,1649,TMS,Tennant Minerals Ltd,Materials,$16.65 M,TMS.AX,17.39,1.127881746145037
+1490,1650,WSI,Weststar Industrial Ltd,Materials,$16.61 M,WSI.AX,25.0,0.7582599975739601
+1491,1651,LRL,Labyrinth Resources Ltd,Materials,$16.59 M,LRL.AX,-59.57,0.9904244461926237
+1492,1652,TRT,Todd River Resources Ltd,Materials,$16.59 M,TRT.AX,-53.97,0.9982536934256284
+1493,1653,SBW,Shekel Brainweigh Ltd,Information Technology,$16.56 M,SBW.AX,0.0,0.7564118293787419
+1494,1654,GTI,Gratifii Ltd,Information Technology,$16.49 M,GTI.AX,-32.14,0.6778392777866098
+1495,1655,ACU,Acumentis Group Ltd,Real Estate,$16.48 M,ACU.AX,-18.26,0.7709311233355229
+1496,1656,ARO,Astro Resources NL,Materials,$16.47 M,ARO.AX,-12.5,1.736149504408096
+1497,1657,MDC,Medlab Clinical Ltd,Health Care,$16.42 M,MDC.AX,-68.0,0.7025640947565204
+1498,1658,AYI,A1 Investments & Resources Ltd,Financials,$16.42 M,AYI.AX,0.0,0.0
+1499,1659,ORM,Orion Metals Ltd,Materials,$16.35 M,ORM.AX,150.0,0.9270287235318914
+1500,1660,1AD,Adalta Ltd,Health Care,$16.34 M,1AD.AX,-59.61,0.5970371722100635
+1501,1661,AU1,The Agency Group Australia Ltd,Real Estate,$16.29 M,AU1.AX,-24.0,0.5427326832322017
+1502,1662,JNO,Juno Minerals Ltd,Materials,$16.28 M,JNO.AX,-33.33,0.8846299367148105
+1503,1663,IME,Imexhs Ltd,Health Care,$16.27 M,IME.AX,-69.63,0.5637099348045749
+1504,1664,HLX,HELIX Resources Ltd,Materials,$16.26 M,HLX.AX,-74.07,0.9428895546596648
+1505,1665,ATP,Atlas Pearls Ltd,Consumer Discretionary,$16.26 M,ATP.AX,153.33,1.089967425972589
+1506,1666,KP2,Kore Potash Plc,Materials,$16.24 M,KP2.AX,50.0,0.9457989384335802
+1507,1667,CGO,CPT Global Ltd,Information Technology,$16.23 M,CGO.AX,-27.78,0.4856793727780471
+1508,1668,GED,Golden Deeps Ltd,Materials,$16.17 M,GED.AX,7.69,1.3022411577922903
+1509,1669,LLO,Lion One Metals Ltd,Materials,$16.14 M,LLO.AX,31.3,0.7317091030383784
+1510,1670,WC8,Wildcat Resources Ltd,Materials,$16.13 M,WC8.AX,-3.85,1.056631291901136
+1511,1671,ALA,Arovella Therapeutics Ltd,Health Care,$16.08 M,ALA.AX,-56.36,0.7487129476144397
+1512,1672,MLM,Metallica Minerals Ltd,Materials,$15.98 M,MLM.AX,-27.27,0.8249062701026426
+1513,1673,ACR,ACRUX Ltd,Health Care,$15.98 M,ACR.AX,-56.92,0.6631229439541421
+1514,1674,14D,1414 Degrees Ltd,Industrials,$15.94 M,14D.AX,-14.13,0.7282726965539318
+1515,1675,BGD,Barton Gold Holdings Ltd,Materials,$15.9 M,BGD.AX,-13.95,0.7044515017988872
+1516,1676,SMX,Security Matters Ltd,Information Technology,$15.76 M,SMX.AX,-70.31,0.9507135740462527
+1517,1677,LHM,Land & Homes Group Ltd,Real Estate,$15.74 M,LHM.AX,36.36,0.3833062281576423
+1518,1678,QFE,Quickfee Ltd,Financials,$15.67 M,QFE.AX,-77.31,0.6380558269786989
+1519,1679,CCZ,Castillo Copper Ltd,Materials,$15.59 M,CCZ.AX,-66.67,0.9084404948069609
+1520,1680,N1H,N1 Holdings Ltd,Financials,$15.58 M,N1H.AX,200.0,0.9237718841645424
+1521,1681,SLS,Solstice Minerals Ltd,Materials,$15.54 M,SLS.AX,-22.5,0.7245485021419579
+1522,1682,ALO,Alloggio Group Ltd,Consumer Discretionary,$15.54 M,ALO.AX,-32.5,0.7832287556241324
+1523,1683,KBC,Keybridge Capital Ltd,Financials,$15.51 M,KBC.AX,8.7,0.3467043135463712
+1524,1684,KTA,Krakatoa Resources Ltd,Materials,$15.51 M,KTA.AX,-8.16,1.2420813177727335
+1525,1685,LCE,London City Equities Ltd,Financials,$15.48 M,LCE.AX,12.22,0.09352834442555101
+1526,1686,ADR,Adherium Ltd,Health Care,$15.46 M,ADR.AX,-58.82,1.113267091455488
+1527,1687,MDI,Middle Island Resources Ltd,Materials,$15.3 M,MDI.AX,19.05,0.8222921260069402
+1528,1688,MEI,Meteoric Resources NL,Materials,$15.26 M,MEI.AX,-80.39,0.8754391489187592
+1529,1689,2BE,Tubi Ltd,Energy,$15.25 M,2BE.AX,0.0,0.0
+1530,1690,EGY,Energy Technologies Ltd,Industrials,$15.25 M,EGY.AX,-58.74,0.6563361582512232
+1531,1691,ASQ,Australian Silica Quartz Group Ltd,Materials,$15.22 M,ASQ.AX,-50.0,0.9170034086681218
+1532,1692,BMH,Baumart Holdings Ltd,Industrials,$15.2 M,BMH.AX,-47.5,0.9078810560775742
+1533,1693,RAG,Ragnar Metals Ltd,Materials,$15.17 M,RAG.AX,-40.3,1.0475240959288927
+1534,1694,CCE,Carnegie Clean Energy Ltd,Utilities,$15.1 M,CCE.AX,-66.67,4.0510077715006325
+1535,1695,TSL,Titanium Sands Ltd,Materials,$15.1 M,TSL.AX,-60.0,1.034579640049236
+1536,1696,TCO,Transmetro Corporation Ltd,Consumer Discretionary,$14.99 M,TCO.AX,33.33,0.2156307156568061
+1537,1697,BCT,Bluechiip Ltd,Information Technology,$14.96 M,BCT.AX,-34.21,1.0885954518684353
+1538,1698,HGV,Hygrovest Ltd,Health Care,$14.95 M,HGV.AX,-17.72,0.3838665839523635
+1539,1699,LIO,Lion Energy Ltd,Energy,$14.91 M,LIO.AX,-23.91,0.8699579705501717
+1540,1700,MOQ,MOQ Ltd,Information Technology,$14.9 M,MOQ.AX,-70.25,0.7150013563997367
+1541,1701,SCU,Stemcell United Ltd,Health Care,$14.7 M,SCU.AX,-6.67,0.3934423032314018
+1542,1702,TEG,Triangle Energy (Global) Ltd,Energy,$14.69 M,TEG.AX,-50.0,1.0040336775750758
+1543,1703,CLA,Celsius Resources Ltd,Materials,$14.66 M,CLA.AX,-60.0,1.0888919950448757
+1544,1704,MTH,Mithril Resources Ltd,Materials,$14.65 M,MTH.AX,-66.67,0.9864972585452733
+1545,1705,CHK,Cohiba Minerals Ltd,Materials,$14.65 M,CHK.AX,-47.06,0.8908432328820679
+1546,1706,HPR,High Peak Royalties Ltd,Energy,$14.63 M,HPR.AX,25.0,0.7937941802149008
+1547,1707,HYD,HYDRIX Ltd,Information Technology,$14.63 M,HYD.AX,-64.76,0.5649309686521345
+1548,1708,NTM,NT Minerals Ltd,Materials,$14.58 M,NTM.AX,-65.67,0.8572404847089362
+1549,1709,AJJ,Asian American Medical Group Ltd,Health Care,$14.54 M,AJJ.AX,11.77,0.3559676414271638
+1550,1710,E33,East 33 Ltd,Consumer Staples,$14.52 M,E33.AX,-73.0,1.677181748961948
+1551,1711,TRU,Truscreen Group Ltd,Health Care,$14.51 M,TRU.AX,-34.43,0.7370640472314229
+1552,1712,LSA,Lachlan Star Ltd,Materials,$14.51 M,LSA.AX,-78.43,1.0339121089544139
+1553,1713,CAZ,Cazaly Resources Ltd,Materials,$14.46 M,CAZ.AX,-20.41,0.5434343381364422
+1554,1714,RIM,Rimfire Pacific Mining Ltd,Materials,$14.45 M,RIM.AX,0.0,1.2748104479297462
+1555,1715,DCG,Decmil Group Ltd,Industrials,$14.43 M,DCG.AX,-80.0,0.717952531128422
+1556,1716,HOR,Horseshoe Metals Ltd,Materials,$14.35 M,HOR.AX,116.67,2.00275941941602
+1557,1717,WFL,Wellfully Ltd,Health Care,$14.34 M,WFL.AX,6.0,1.0555207523746442
+1558,1718,KWR,Kingwest Resources Ltd,Materials,$14.34 M,KWR.AX,-23.38,1.0819452760612989
+1559,1719,IR1,Iris Metals Ltd,Materials,$14.31 M,IR1.AX,20.0,0.8025765744525479
+1560,1720,MXR,Maximus Resources Ltd,Materials,$14.31 M,MXR.AX,-34.78,0.7105164629220925
+1561,1721,AUH,Austchina Holdings Ltd,Energy,$14.26 M,AUH.AX,-70.83,1.3927515194899396
+1562,1722,CTO,Citigold Corporation Ltd,Materials,$14.17 M,CTO.AX,-54.55,1.2276099110735874
+1563,1723,ZAG,Zuleika Gold Ltd,Materials,$14.08 M,ZAG.AX,-6.9,1.1635130930034168
+1564,1724,TMZ,Thomson Resources Ltd,Materials,$14.07 M,TMZ.AX,-84.0,0.6881686169921764
+1565,1725,WBE,Whitebark Energy Ltd,Energy,$14.06 M,WBE.AX,-16.67,1.1982350594807711
+1566,1726,RFA,Rare Foods Australia Ltd,Consumer Staples,$14.05 M,RFA.AX,-12.5,0.5478847526547266
+1567,1727,FZR,Fitzroy River Corporation Ltd,Energy,$14.03 M,FZR.AX,-13.33,0.5672508075313526
+1568,1728,NNL,Nordic Nickel Ltd,Materials,$14 M,NNL.AX,-4.0,0.8767903194864304
+1569,1729,REZ,Resources & Energy Group Ltd,Materials,$13.99 M,REZ.AX,-9.68,0.9009043848067855
+1570,1730,FRB,Firebird Metals Ltd,Materials,$13.91 M,FRB.AX,-53.91,0.8601308811942813
+1571,1731,BID,Bill Identity Ltd,Information Technology,$13.9 M,BID.AX,-88.82,0.8220073195806044
+1572,1732,CSE,Copper Strike Ltd,Materials,$13.89 M,CSE.AX,16.67,0.8618110875700532
+1573,1733,MOB,Mobilicom Ltd,Information Technology,$13.84 M,MOB.AX,-23.21,0.7733730571713546
+1574,1734,CRL,Comet Resources Ltd,Materials,$13.83 M,CRL.AX,11.11,0.669033614059042
+1575,1735,ANW,Aus Tin Mining Ltd,Materials,$13.77 M,ANW.AX,0.0,1.4156201496072904
+1576,1736,MAT,Matsa Resources Ltd,Materials,$13.64 M,MAT.AX,-48.65,0.7093637437641613
+1577,1737,PGD,Peregrine Gold Ltd,Materials,$13.59 M,PGD.AX,-4.05,0.8692691443534465
+1578,1738,ARC,ARC Funds Ltd,Financials,$13.53 M,ARC.AX,73.08,0.8966928578937167
+1579,1739,MAG,Magmatic Resources Ltd,Materials,$13.49 M,MAG.AX,-59.23,0.7880343099877237
+1580,1740,AW1,American West Metals Ltd,Materials,$13.44 M,AW1.AX,3.45,0.980722951974253
+1581,1741,SRZ,Stellar Resources Ltd,Materials,$13.43 M,SRZ.AX,-30.44,1.005887103154634
+1582,1742,LNR,Lanthanein Resources Ltd,Materials,$13.41 M,LNR.AX,27.0,1.0876936592433504
+1583,1743,DLC,Delecta Ltd,Consumer Discretionary,$13.25 M,DLC.AX,83.33,1.3640498851016396
+1584,1744,SPA,Spacetalk Ltd,Information Technology,$13.19 M,SPA.AX,-60.65,0.848835936853283
+1585,1745,GTE,Great Western Exploration Ltd,Materials,$13.14 M,GTE.AX,-33.64,1.0123657068141385
+1586,1746,BAT,Battery Minerals Ltd,Materials,$13.13 M,BAT.AX,-70.59,1.206784084704876
+1587,1747,SIX,Sprintex Ltd,Consumer Discretionary,$13.12 M,SIX.AX,-31.58,0.9837715869709088
+1588,1748,XRG,Xreality Group Ltd,Consumer Discretionary,$13.06 M,XRG.AX,82.35,1.2677673332629356
+1589,1749,ADY,Admiralty Resources NL,Materials,$13.04 M,ADY.AX,-41.18,0.9756558144458812
+1590,1750,GLH,Global Health Ltd,Health Care,$13.03 M,GLH.AX,-51.58,0.7041382232649661
+1591,1751,CR9,Corella Resources Ltd,Materials,$12.96 M,CR9.AX,-6.82,0.7811039508787381
+1592,1752,AJX,Alexium International Group Ltd,Materials,$12.91 M,AJX.AX,-56.52,0.9517784599462122
+1593,1753,OSX,Osteopore Ltd,Health Care,$12.9 M,OSX.AX,-76.34,0.7315964388110845
+1594,1754,ARN,Aldoro Resources Ltd,Materials,$12.9 M,ARN.AX,-58.07,0.8123858593408502
+1595,1755,DCX,Discovex Resources Ltd,Materials,$12.84 M,DCX.AX,-12.8,1.4517237106663436
+1596,1756,PFT,Pure Foods Tasmania Ltd,Consumer Staples,$12.67 M,PFT.AX,-68.46,0.6891385448372531
+1597,1757,NHE,Noble Helium Ltd,Energy,$12.64 M,NHE.AX,-17.5,0.8581605588013643
+1598,1758,IRX,Inhalerx Ltd,Health Care,$12.64 M,IRX.AX,-25.0,0.7473525812673463
+1599,1759,PGM,Platina Resources Ltd,Materials,$12.6 M,PGM.AX,-66.28,0.7169368185729397
+1600,1760,PXX,Polarx Ltd,Materials,$12.59 M,PXX.AX,-57.36,0.9468246476502348
+1601,1761,DDD,3D Resources Ltd,Materials,$12.55 M,DDD.AX,-40.0,1.3065872794471363
+1602,1762,KNO,Knosys Ltd,Information Technology,$12.54 M,KNO.AX,-55.39,0.6373277669375398
+1603,1763,MIL,Millennium Services Group Ltd,Industrials,$12.54 M,MIL.AX,-50.91,0.6219127973168846
+1604,1764,IQ3,IQ3CORP Ltd,Financials,$12.52 M,IQ3.AX,-20.0,1.0326330293684058
+1605,1765,ALV,Alvo Minerals Ltd,Materials,$12.43 M,ALV.AX,-8.0,0.760345675591982
+1606,1766,SKS,SKS Technologies Group Ltd,Industrials,$12.42 M,SKS.AX,-50.0,0.6949692133479044
+1607,1767,RNE,Renu Energy Ltd,Utilities,$12.4 M,RNE.AX,-43.33,1.0074452639398388
+1608,1768,ALY,Alchemy Resources Ltd,Materials,$12.39 M,ALY.AX,2.25,1.1759472978790253
+1609,1769,TPP,Tempo Australia Ltd,Industrials,$12.38 M,TPP.AX,-46.88,0.6403247105431638
+1610,1770,WML,Woomera Mining Ltd,Materials,$12.36 M,WML.AX,-9.25,1.0180049301856626
+1611,1771,ARD,Argent Minerals Ltd,Materials,$12.36 M,ARD.AX,-64.1,0.8705088259039695
+1612,1772,BMG,BMG Resources Ltd,Materials,$12.35 M,BMG.AX,-36.0,0.8538903603385172
+1613,1773,PUR,Pursuit Minerals Ltd,Materials,$12.33 M,PUR.AX,-80.3,1.0612055077398126
+1614,1774,RNT,Rent.com.Au Ltd,Communication Services,$12.33 M,RNT.AX,-77.6,0.6128100768116194
+1615,1775,TOR,Torque Metals Ltd,Materials,$12.3 M,TOR.AX,-11.36,0.7526144322619052
+1616,1776,CM8,Crowd Media Holdings Ltd,Communication Services,$12.24 M,CM8.AX,-26.09,0.9479407118170072
+1617,1777,AJQ,Armour Energy Ltd,Energy,$12.24 M,AJQ.AX,-76.0,1.028346675452717
+1618,1778,ZGL,ZICOM Group Ltd,Industrials,$12.23 M,ZGL.AX,-8.07,0.6011007849056786
+1619,1779,SIH,Sihayo Gold Ltd,Materials,$12.2 M,SIH.AX,-77.78,1.6052319223170672
+1620,1780,OVT,Ovato Ltd,Industrials,$12.16 M,OVT.AX,-50.0,1.975470337316369
+1621,1781,BMR,Ballymore Resources Ltd,Materials,$12.12 M,BMR.AX,-17.5,0.9743870019733112
+1622,1782,HMG,Hamelin Gold Ltd,Materials,$12.1 M,HMG.AX,-45.0,0.6406466606420163
+1623,1783,CHR,Charger Metals NL,Materials,$12.05 M,CHR.AX,85.0,1.099571850217749
+1624,1784,LRV,Larvotto Resources Ltd,Materials,$12.04 M,LRV.AX,45.0,1.5117562011878387
+1625,1785,NUH,Nuheara Ltd,Information Technology,$12.03 M,NUH.AX,-86.96,0.9178734673653612
+1626,1786,AUN,Aurumin Ltd,Materials,$12.01 M,AUN.AX,-40.54,0.82582864231232
+1627,1787,AKO,Akora Resources Ltd,Materials,$11.99 M,AKO.AX,-20.83,0.8208966815788779
+1628,1788,QML,Qmines Ltd,Materials,$11.97 M,QML.AX,-47.06,0.6787969313010608
+1629,1789,TDO,3D Oil Ltd,Energy,$11.93 M,TDO.AX,-10.0,0.8118925087161897
+1630,1790,BIO,Biome Australia Ltd,Consumer Staples,$11.89 M,BIO.AX,-62.0,0.7351631796491755
+1631,1791,TMG,Trigg Mining Ltd,Materials,$11.73 M,TMG.AX,-17.22,0.794285657121734
+1632,1792,CWX,Carawine Resources Ltd,Materials,$11.72 M,CWX.AX,-61.36,0.7390712615756191
+1633,1793,FTC,Fintech Chain Ltd,Information Technology,$11.71 M,FTC.AX,-67.86,0.720258784175478
+1634,1794,BTR,Brightstar Resources Ltd,Materials,$11.64 M,BTR.AX,-40.0,1.1461045885306058
+1635,1795,KGM,Kalnorth Gold Mines Ltd,Materials,$11.63 M,KGM.AX,0.0,0.0
+1636,1796,UCM,Uscom Ltd,Health Care,$11.61 M,UCM.AX,-64.94,0.5829056841696253
+1637,1797,CZN,Corazon Mining Ltd,Materials,$11.6 M,CZN.AX,-43.16,0.7363031488920478
+1638,1798,A1G,African Gold Ltd,Materials,$11.58 M,A1G.AX,-55.96,1.0309692875678182
+1639,1799,LCT,Living Cell Technologies Ltd,Health Care,$11.57 M,LCT.AX,-21.52,1.163214122684575
+1640,1800,TAR,Taruga Minerals Ltd,Materials,$11.56 M,TAR.AX,-62.96,0.9287910526811595
+1641,1801,BTN,Butn Ltd,Financials,$11.53 M,BTN.AX,-70.0,1.0731847174506912
+1642,1802,LPE,Locality Planning Energy Holdings Ltd,Utilities,$11.47 M,LPE.AX,-64.74,0.7729578945308474
+1643,1803,TRP,Tissue Repair Ltd,Health Care,$11.46 M,TRP.AX,-78.7,0.786058560890065
+1644,1804,R3D,R3D Resources Ltd,Basic Materials,$11.45 M,R3D.AX,-39.72,0.9114915370443225
+1645,1805,SHO,Sportshero Ltd,Communication Services,$11.4 M,SHO.AX,0.0,0.8076348440587104
+1646,1806,MRQ,MRG Metals Ltd,Materials,$11.36 M,MRQ.AX,8.33,1.1436728871334862
+1647,1807,FNX,Finexia Financial Group Ltd,Financials,$11.35 M,FNX.AX,-6.67,0.6080512755597631
+1648,1808,RDN,Raiden Resources Ltd,Materials,$11.34 M,RDN.AX,-69.23,1.1146101025079964
+1649,1809,KAM,K2 Asset Management Holdings Ltd,Financials,$11.33 M,KAM.AX,-40.51,0.6485420732201865
+1650,1810,ICL,Iceni Gold Ltd,Materials,$11.28 M,ICL.AX,-52.43,1.0659981789214894
+1651,1811,BTC,BTC Health Ltd,Financials,$11.27 M,BTC.AX,-46.67,0.6362714324592929
+1652,1812,GUL,Gullewa Ltd,Materials,$11.26 M,GUL.AX,-28.05,0.43085997348462945
+1653,1813,AS2,Askari Metals Ltd,Materials,$11.23 M,AS2.AX,35.0,0.9087817251695705
+1654,1814,SHN,Sunshine Gold Ltd,Materials,$11.23 M,SHN.AX,-55.56,0.7707731590425972
+1655,1815,EM1,Emerge Gaming Ltd,Communication Services,$11.21 M,EM1.AX,-71.43,0.9174629826210824
+1656,1816,DAF,Discovery Alaska Ltd,Materials,$11.21 M,DAF.AX,-13.79,1.081810537081321
+1657,1817,SBR,Sabre Resources Ltd,Materials,$11.16 M,SBR.AX,0.0,1.5822264534610073
+1658,1818,EPX,Ep&T Global Ltd,Information Technology,$11.09 M,EPX.AX,-69.5,0.9410838651360154
+1659,1819,ODA,Orcoda Ltd,Information Technology,$11.07 M,ODA.AX,-36.36,0.7566845704828263
+1660,1820,AYM,Australia United Mining Ltd,Materials,$11.06 M,AYM.AX,-25.0,1.1192184392038043
+1661,1821,AEV,Avenira Ltd,Materials,$11.01 M,AEV.AX,74.63,1.380792423227257
+1662,1822,TNY,Tinybeans Group Ltd,Communication Services,$10.99 M,TNY.AX,-83.41,0.7143418212966729
+1663,1823,SHE,Stonehorse Energy Ltd,Energy,$10.95 M,SHE.AX,-30.44,0.871037924166235
+1664,1824,BUX,Buxton Resources Ltd,Materials,$10.94 M,BUX.AX,-18.48,1.0593512822344637
+1665,1825,NUC,Nuchev Ltd,Consumer Staples,$10.87 M,NUC.AX,-55.79,0.8076136209619463
+1666,1826,TTI,Traffic Technologies Ltd,Industrials,$10.83 M,TTI.AX,-61.51,0.7422171193426859
+1667,1827,MRG,Murray River Organics Group Ltd,Consumer Staples,$10.81 M,MRG.AX,58.07,0.3864535796051586
+1668,1828,RAS,Ragusa Minerals Ltd,Materials,$10.69 M,RAS.AX,19.72,0.9261329838861224
+1669,1829,MHC,Manhattan Corporation Ltd,Materials,$10.68 M,MHC.AX,-46.15,1.0555210701370645
+1670,1830,THR,Thor Mining Plc,Materials,$10.67 M,THR.AX,-37.5,1.078125836135327
+1671,1831,BMO,Bastion Minerals Ltd,Materials,$10.63 M,BMO.AX,-24.32,0.8341735679587222
+1672,1832,MM1,Midas Minerals Ltd,Materials,$10.62 M,MM1.AX,-2.5,1.0398920092218795
+1673,1833,ICN,Icon Energy Ltd,Energy,$10.57 M,ICN.AX,12.0,1.456788987314436
+1674,1834,LAW,Lawfinance Ltd,Financials,$10.51 M,LAW.AX,-81.91,0.8538284751415446
+1675,1835,BCA,Black Canyon Ltd,Materials,$10.48 M,BCA.AX,-6.0,0.7496929246516035
+1676,1836,RCW,Rightcrowd Ltd,Information Technology,$10.46 M,RCW.AX,-87.88,0.8424197232749681
+1677,1837,MBK,Metal Bank Ltd,Materials,$10.43 M,MBK.AX,-47.68,1.2309093805934268
+1678,1838,LSR,Lodestar Minerals Ltd,Materials,$10.43 M,LSR.AX,-33.33,1.3508388431425749
+1679,1839,PUA,Peak Minerals Ltd,Materials,$10.41 M,PUA.AX,-40.8,1.0252466825045583
+1680,1840,MMG,Monger Gold Ltd,Materials,$10.41 M,MMG.AX,30.0,1.0222122512225185
+1681,1841,MCT,Metalicity Ltd,Materials,$10.38 M,MCT.AX,-68.85,1.3776620722325215
+1682,1842,DLM,Dominion Minerals Ltd,Materials,$10.36 M,DLM.AX,900.0,8.925627384563928
+1683,1843,AEI,Aeris Environmental Ltd,Industrials,$10.26 M,AEI.AX,-72.0,0.7576054481447988
+1684,1844,SCL,Schrole Group Ltd,Information Technology,$10.26 M,SCL.AX,-50.83,0.9585234564934029
+1685,1845,LBY,Laybuy Group Holdings Ltd,Information Technology,$10.19 M,LBY.AX,-92.86,0.8796502114743735
+1686,1846,PSL,Paterson Resources Ltd,Materials,$10.18 M,PSL.AX,-28.57,1.0001535430528625
+1687,1847,LYK,Lykos Metals Ltd,Materials,$10.15 M,LYK.AX,-17.5,0.874659001080242
+1688,1848,CPM,Cooper Metals Ltd,Materials,$10.13 M,CPM.AX,87.5,1.2403034713621823
+1689,1849,WEL,Winchester Energy Ltd,Energy,$10.1 M,WEL.AX,-33.33,0.8829093552222127
+1690,1850,MXO,Motio Ltd,Communication Services,$10.1 M,MXO.AX,-59.0,0.8241040692225818
+1691,1851,RLF,RLF Agtech Ltd,Materials,$10.07 M,RLF.AX,-40.0,0.997079248847164
+1692,1852,YOW,Yowie Group Ltd,Consumer Staples,$10.05 M,YOW.AX,12.2,0.5713347387194386
+1693,1853,BDX,Bcal Diagnostics Ltd,Health Care,$10.04 M,BDX.AX,-69.6,0.9621743127073451
+1694,1854,PG1,Pearl Global Ltd,Industrials,$10.02 M,PG1.AX,-81.68,1.0751553318978255
+1695,1855,HCD,Hydrocarbon Dynamics Ltd,Energy,$9.98 M,HCD.AX,13.33,1.4679984759171014
+1696,1856,DDT,Datadot Technology Ltd,Consumer Discretionary,$9.95 M,DDT.AX,33.33,1.0578747838163651
+1697,1857,SGI,Stealth Global Holdings Ltd,Industrials,$9.92 M,SGI.AX,4.74,0.7671813391002353
+1698,1858,CPO,Culpeo Minerals Ltd,Materials,$9.9 M,CPO.AX,12.5,2.3280000618488312
+1699,1859,A8G,Australasian Metals Ltd,Materials,$9.88 M,A8G.AX,77.78,1.2521980999324622
+1700,1860,SW1,Swift Networks Group Ltd,Communication Services,$9.86 M,SW1.AX,-5.56,0.8852740232879405
+1701,1861,NC6,Nanollose Ltd,Health Care,$9.83 M,NC6.AX,-28.26,0.7895114326694904
+1702,1862,GLA,Gladiator Resources Ltd,Materials,$9.83 M,GLA.AX,35.71,92.96944243845086
+1703,1863,IMB,Intelligent Monitoring Group Ltd,Industrials,$9.82 M,IMB.AX,-88.92,1.0888776529884368
+1704,1864,LNU,Linius Technologies Ltd,Information Technology,$9.8 M,LNU.AX,-73.68,1.1261830900950232
+1705,1865,TMR,Tempus Resources Ltd,Materials,$9.77 M,TMR.AX,-59.44,0.8485786168905549
+1706,1866,CUS,Copper Search Ltd,Materials,$9.77 M,CUS.AX,-47.14,0.5248348078640488
+1707,1867,HXG,Hexagon Energy Materials Ltd,Materials,$9.75 M,HXG.AX,-73.97,0.7200313116218483
+1708,1868,KLO,Kingsland Global Ltd,Real Estate,$9.72 M,KLO.AX,4.35,0.0428866992868489
+1709,1869,BOA,Boadicea Resources Ltd,Materials,$9.71 M,BOA.AX,-40.48,0.8402078764681689
+1710,1870,SGC,Sacgasco Ltd,Energy,$9.68 M,SGC.AX,-42.86,0.9462403513289446
+1711,1871,BEX,Bikeexchange Ltd,Consumer Discretionary,$9.65 M,BEX.AX,-82.92,1.2598556400433516
+1712,1872,CLH,Collection House Ltd,Financials,$9.65 M,CLH.AX,-57.5,0.6919052690643106
+1713,1873,VOR,Vortiv Ltd,Information Technology,$9.6 M,VOR.AX,-49.2,0.7685502783718029
+1714,1874,BUY,Bounty Oil & Gas NL,Energy,$9.59 M,BUY.AX,-62.16,1.0535257002988332
+1715,1875,PGY,Pilot Energy Ltd,Energy,$9.58 M,PGY.AX,-76.83,0.9963600698883203
+1716,1876,ZLD,Zelira Therapeutics Ltd,Health Care,$9.58 M,ZLD.AX,-87.3,0.7714156971217241
+1717,1877,FXG,FELIX Gold Ltd,Materials,$9.51 M,FXG.AX,-32.35,1.2706406948439586
+1718,1878,RLC,Reedy Lagoon Corporation Ltd,Materials,$9.48 M,RLC.AX,13.33,1.2325881037283724
+1719,1879,AD1,AD1 Holdings Ltd,Communication Services,$9.46 M,AD1.AX,-62.16,0.9466741787572293
+1720,1880,CTQ,Careteq Ltd,Health Care,$9.44 M,CTQ.AX,-58.5,0.6814710611643493
+1721,1881,OZM,Ozaurum Resources Ltd,Materials,$9.44 M,OZM.AX,37.5,1.254755378788526
+1722,1882,ID8,Identitii Ltd,Information Technology,$9.44 M,ID8.AX,-46.05,0.9172708386642208
+1723,1883,KOB,Koba Resources Ltd,Materials,$9.43 M,KOB.AX,-27.5,0.8887420381078742
+1724,1884,HCT,Holista Colltech Ltd,Consumer Staples,$9.36 M,HCT.AX,-46.88,0.7620052313820841
+1725,1885,JAV,Javelin Minerals Ltd,Materials,$9.35 M,JAV.AX,-60.0,3.31132491474077
+1726,1886,BRX,Belararox Ltd,Materials,$9.35 M,BRX.AX,65.0,1.6796193525501253
+1727,1887,CAQ,CAQ Holdings Ltd,Real Estate,$9.33 M,CAQ.AX,-31.58,0.6930971936109586
+1728,1888,IND,Industrial Minerals Ltd,Materials,$9.26 M,IND.AX,57.5,0.881361264499195
+1729,1889,AAJ,Aruma Resources Ltd,Materials,$9.26 M,AAJ.AX,-9.23,1.2170625901811598
+1730,1890,SRY,Story-I Ltd,Consumer Discretionary,$9.03 M,SRY.AX,0.0,0.0
+1731,1891,ARE,Argonaut Resources NL,Materials,$9.02 M,ARE.AX,-58.33,1.7565273902255845
+1732,1892,AWV,Anova Metals Ltd,Materials,$8.99 M,AWV.AX,-70.0,0.9830357253059486
+1733,1893,B4P,Beforepay Group Ltd,Financials,$8.97 M,B4P.AX,-92.23,1.00156737075547
+1734,1894,AX8,Accelerate Resources Ltd,Materials,$8.96 M,AX8.AX,3.03,0.8396480445160657
+1735,1895,HVM,Happy Valley Nutrition Ltd,Consumer Staples,$8.93 M,HVM.AX,-73.75,0.7352630467580988
+1736,1896,DOU,Douugh Ltd,Information Technology,$8.92 M,DOU.AX,-84.54,0.9120080672749318
+1737,1897,GRE,Greentech Metals Ltd,Materials,$8.91 M,GRE.AX,42.5,2.3245050703888923
+1738,1898,OAU,Ora Gold Ltd,Materials,$8.86 M,OAU.AX,-52.45,1.1485620945078652
+1739,1899,INP,Incentiapay Ltd,Consumer Discretionary,$8.86 M,INP.AX,-72.98,0.885164989438255
+1740,1900,NPM,Newpeak Metals Ltd,Materials,$8.85 M,NPM.AX,-50.0,3.7359205131228164
+1741,1901,DXN,DXN Ltd,Information Technology,$8.83 M,DXN.AX,-40.0,1.2410513085498323
+1742,1902,CXZ,Connexion Telematics Ltd,Information Technology,$8.81 M,CXZ.AX,-37.5,0.6176158564432174
+1743,1903,BDG,Black Dragon Gold Corp,Materials,$8.77 M,BDG.AX,-40.54,0.9080483898684893
+1744,1904,MEG,Megado Gold Ltd,Materials,$8.72 M,MEG.AX,-51.52,1.0825260175151437
+1745,1905,ABV,Advanced Braking Technology Ltd,Consumer Discretionary,$8.72 M,ABV.AX,-34.29,0.71579353899963
+1746,1906,HPP,Health and Plant Protein Group Ltd,Consumer Staples,$8.72 M,HPP.AX,-73.21,0.7206973299789647
+1747,1907,DMC,Design Milk Co Ltd,Consumer Discretionary,$8.71 M,DMC.AX,-36.84,0.7096820364994009
+1748,1908,G50,Gold 50 Ltd,Materials,$8.68 M,G50.AX,-38.0,0.6528952878812487
+1749,1909,GIB,Gibb River Diamonds Ltd,Materials,$8.67 M,GIB.AX,-33.87,0.827729626612173
+1750,1910,SHH,Shree Minerals Ltd,Materials,$8.67 M,SHH.AX,-41.67,1.712297566960148
+1751,1911,SKN,Skin Elements Ltd,Consumer Staples,$8.66 M,SKN.AX,-80.0,0.8533817922177138
+1752,1912,VIP,VIP Gloves Ltd,Health Care,$8.65 M,VIP.AX,-76.09,0.6936726078792487
+1753,1913,AM7,Arcadia Minerals Ltd,Materials,$8.64 M,AM7.AX,-5.13,0.8345306415221687
+1754,1914,SIV,SIV Capital Ltd,Industrials,$8.64 M,SIV.AX,-24.14,0.4956767036311158
+1755,1915,DM1,Desert Metals Ltd,Materials,$8.64 M,DM1.AX,-70.25,1.231909571761689
+1756,1916,OD6,OD6 Metals Ltd,Materials,$8.63 M,OD6.AX,-12.5,0.9731305192855625
+1757,1917,OAR,OAR Resources Ltd,Materials,$8.62 M,OAR.AX,-71.43,1.2631225540512327
+1758,1918,WNR,Wingara AG Ltd,Consumer Staples,$8.6 M,WNR.AX,-58.15,0.5889818436295914
+1759,1919,AUR,Auris Minerals Ltd,Materials,$8.58 M,AUR.AX,-65.39,0.6654222637401573
+1760,1920,AL3,AML3D Ltd,Industrials,$8.58 M,AL3.AX,-65.46,0.9811758448072796
+1761,1921,TD1,Tali Digital Ltd,Health Care,$8.57 M,TD1.AX,-77.9,1.0471722456062762
+1762,1922,SI6,SI6 Metals Ltd,Materials,$8.57 M,SI6.AX,-45.46,0.9477260132869973
+1763,1923,BEE,Broo Ltd,Consumer Staples,$8.57 M,BEE.AX,-43.75,0.8137795364235462
+1764,1924,KFM,Kingfisher Mining Ltd,Materials,$8.56 M,KFM.AX,29.87,0.9689324273422995
+1765,1925,EMT,Emetals Ltd,Materials,$8.5 M,EMT.AX,-52.38,0.9912542094897034
+1766,1926,WCN,White Cliff Minerals Ltd,Materials,$8.5 M,WCN.AX,8.33,1.3074574668667935
+1767,1927,AVW,Avira Resources Ltd,Materials,$8.48 M,AVW.AX,-20.0,1.2125551597617417
+1768,1928,REC,Recharge Metals Ltd,Materials,$8.47 M,REC.AX,30.0,3.070224146198421
+1769,1929,X2M,X2M Connect Ltd,Information Technology,$8.46 M,X2M.AX,-60.0,0.9368318700696161
+1770,1930,RAN,Range International Ltd,Materials,$8.45 M,RAN.AX,-28.0,1.2222836384090836
+1771,1931,GRL,Godolphin Resources Ltd,Materials,$8.41 M,GRL.AX,-37.5,0.7869441757854829
+1772,1932,NKL,Nickelx Ltd,Materials,$8.38 M,NKL.AX,-18.18,0.9012745177199715
+1773,1933,AKN,Auking Mining Ltd,Materials,$8.37 M,AKN.AX,-39.48,1.0190939009447504
+1774,1934,HT8,Harris Technology Group Ltd,Consumer Discretionary,$8.35 M,HT8.AX,-77.6,0.7842913017016852
+1775,1935,IS3,I Synergy Group Ltd,Information Technology,$8.32 M,IS3.AX,-32.61,1.1149241949767712
+1776,1936,ACP,Audalia Resources Ltd,Materials,$8.31 M,ACP.AX,-52.0,0.9269982037846933
+1777,1937,LYN,Lycaon Resources Ltd,Materials,$8.3 M,LYN.AX,30.0,0.8345634808161817
+1778,1938,BEZ,Besra Gold Inc,Materials,$8.25 M,BEZ.AX,-76.0,1.2005023584928156
+1779,1939,RMX,Red Mountain Mining Ltd,Materials,$8.21 M,RMX.AX,-44.44,1.2093444998404552
+1780,1940,FAU,First Au Ltd,Materials,$8.19 M,FAU.AX,-28.57,1.052447183529941
+1781,1941,AUA,Audeara Ltd,Consumer Discretionary,$8.16 M,AUA.AX,11.11,0.908021202179405
+1782,1942,MHK,Metal Hawk Ltd,Materials,$8.13 M,MHK.AX,-33.33,2.7824951777682725
+1783,1943,AYT,Austin Metals Ltd,Materials,$8.13 M,AYT.AX,-69.23,0.9263451653891989
+1784,1944,GGX,GAS2GRID Ltd,Energy,$8.12 M,GGX.AX,0.0,1.9402928245514344
+1785,1945,CT1,Constellation Technologies Ltd,Information Technology,$8.09 M,CT1.AX,-65.63,1.3260233539278312
+1786,1946,KFE,Kogi Iron Ltd,Materials,$8.09 M,KFE.AX,-64.29,1.2319165128362395
+1787,1947,ZMI,ZINC of Ireland NL,Materials,$8.08 M,ZMI.AX,-39.39,0.6297983517763142
+1788,1948,IGN,Ignite Ltd,Industrials,$8.06 M,IGN.AX,52.54,1.1864882667114243
+1789,1949,TAS,Tasman Resources Ltd,Materials,$8.05 M,TAS.AX,-55.56,0.9038829691578195
+1790,1950,TRM,Truscott Mining Corporation Ltd,Materials,$8.05 M,TRM.AX,76.67,0.7737545926690949
+1791,1951,OLH,Oldfields Holdings Ltd,Industrials,$8.05 M,OLH.AX,-30.44,0.47427950705706123
+1792,1952,CI1,Credit Intelligence Ltd,Industrials,$8.01 M,CI1.AX,-70.59,0.901762803933251
+1793,1953,SLZ,Sultan Resources Ltd,Materials,$8 M,SLZ.AX,-52.0,0.5625838124064649
+1794,1954,TSC,Twenty Seven Co. Ltd,Energy,$7.98 M,TSC.AX,-25.0,1.961970595845545
+1795,1955,S3N,Sensore Ltd,Materials,$7.94 M,S3N.AX,-55.29,0.9376072135827819
+1796,1956,NSX,NSX Ltd,Financials,$7.91 M,NSX.AX,-76.67,0.79003022636302
+1797,1957,MPG,Many Peaks Gold Ltd,Materials,$7.86 M,MPG.AX,22.5,1.289565899028932
+1798,1958,ABE,Australian Bond Exchange Holdings Ltd,Financials,$7.85 M,ABE.AX,-65.39,1.1302252175832468
+1799,1959,GES,Genesis Resources Ltd,Materials,$7.83 M,GES.AX,-16.67,0.9754937536318472
+1800,1960,VMM,Viridis Mining and Minerals Ltd,Materials,$7.8 M,VMM.AX,-37.5,0.6973156510998821
+1801,1961,IMI,Infinity Mining Ltd,Materials,$7.76 M,IMI.AX,-32.5,0.9254540279372451
+1802,1962,MSG,MCS Services Ltd,Industrials,$7.75 M,MSG.AX,-34.92,0.6882277567246665
+1803,1963,WEC,White Energy Company Ltd,Energy,$7.74 M,WEC.AX,-92.0,73.01579895494085
+1804,1964,TEE,Top End Energy Ltd,Energy,$7.74 M,TEE.AX,7.5,0.855347140228512
+1805,1965,PVL,Powerhouse Ventures Ltd,Financials,$7.73 M,PVL.AX,-36.0,0.7725972052582385
+1806,1966,FRM,Farm Pride Foods Ltd,Consumer Staples,$7.73 M,FRM.AX,-63.16,0.7300659821125758
+1807,1967,DTM,Dart Mining NL,Materials,$7.71 M,DTM.AX,-56.15,0.8129731803422556
+1808,1968,BYH,Bryah Resources Ltd,Materials,$7.69 M,BYH.AX,-43.33,0.7260750948104728
+1809,1969,NCR,Nucoal Resources Ltd,Materials,$7.69 M,NCR.AX,-9.09,1.058602317495907
+1810,1970,CXX,Cradle Resources Ltd,Materials,$7.69 M,CXX.AX,31.02,0.8115224632374535
+1811,1971,BVR,Bellavista Resources Ltd,Materials,$7.66 M,BVR.AX,5.0,1.281758166371436
+1812,1972,TMX,Terrain Minerals Ltd,Materials,$7.61 M,TMX.AX,11.11,1.3280652582533254
+1813,1973,KAL,Kalgoorlie Gold Mining Ltd,Materials,$7.61 M,KAL.AX,-47.5,0.6823171318767515
+1814,1974,DOR,Doriemus Plc,Energy,$7.58 M,DOR.AX,-60.49,1.0913155212807328
+1815,1975,GCX,GCX Metals Ltd,Energy,$7.56 M,GCX.AX,12.2,18.797422347982813
+1816,1976,CBL,Control Bionics Ltd,Health Care,$7.55 M,CBL.AX,-78.1,1.0051195367508003
+1817,1977,RFR,Rafaella Resources Ltd,Materials,$7.51 M,RFR.AX,-64.44,0.6903485785504258
+1818,1978,ADD,Adavale Resources Ltd,Materials,$7.5 M,ADD.AX,-77.17,0.893330875031875
+1819,1979,CR1,Constellation Resources Ltd,Materials,$7.49 M,CR1.AX,-58.33,0.805154794357222
+1820,1980,OXT,Orexplore Technologies Ltd,Industrials,$7.46 M,OXT.AX,-71.2,0.7164108724335413
+1821,1981,ATV,Activeport Group Ltd,Information Technology,$7.45 M,ATV.AX,-62.5,0.8489799600453928
+1822,1982,CMD,Cassius Mining Ltd,Materials,$7.43 M,CMD.AX,53.33,0.9108909209149736
+1823,1983,SSH,SSH Group Ltd,Industrials,$7.43 M,SSH.AX,-7.5,0.5296936113760684
+1824,1984,BOD,BOD Australia Ltd,Health Care,$7.41 M,BOD.AX,-79.71,0.7677935101033726
+1825,1985,ALM,Alma Metals Ltd,Energy,$7.39 M,ALM.AX,-54.55,1.1220646443839153
+1826,1986,A3D,Aurora Labs Ltd,Industrials,$7.37 M,A3D.AX,-41.18,1.173912824241675
+1827,1987,NIS,Nickelsearch Ltd,Materials,$7.32 M,NIS.AX,-37.5,0.8052005902360955
+1828,1988,BPH,BPH Energy Ltd,Health Care,$7.31 M,BPH.AX,-84.93,0.6345605900573048
+1829,1989,HVY,Heavy Minerals Ltd,Materials,$7.31 M,HVY.AX,-5.0,0.931529948314655
+1830,1990,ERL,Empire Resources Ltd,Materials,$7.27 M,ERL.AX,-41.1,0.88475951070815
+1831,1991,NGS,Nutritional Growth Solutions Ltd,Consumer Staples,$7.27 M,NGS.AX,-56.25,0.6285331769925796
+1832,1992,PO3,Purifloh Ltd,Utilities,$7.25 M,PO3.AX,-86.47,0.9148366231277116
+1833,1993,FIN,FIN Resources Ltd,Materials,$7.23 M,FIN.AX,-74.0,0.8546741757119477
+1834,1994,EPN,Epsilon Healthcare Ltd,Health Care,$7.21 M,EPN.AX,-76.92,1.0306688300408107
+1835,1995,E79,E79 Gold Mines Ltd,Materials,$7.21 M,E79.AX,-35.0,0.6378044384309882
+1836,1996,EMP,Emperor Energy Ltd,Energy,$7.2 M,EMP.AX,-5.88,1.1664390399494164
+1837,1997,JXT,Jaxsta Ltd,Information Technology,$7.19 M,JXT.AX,-64.41,1.039704121755181
+1838,1998,ZMM,ZIMI Ltd,Information Technology,$7.19 M,ZMM.AX,-56.86,1.13708307511547
+1839,1999,NAE,New Age Exploration Ltd,Energy,$7.18 M,NAE.AX,-61.54,1.0981950937465417
+1840,2000,SRI,Sipa Resources Ltd,Materials,$7.18 M,SRI.AX,-35.19,0.7086631677044914
+1841,2001,IPC,Imperial Pacific Ltd,Financials,$7.17 M,IPC.AX,18.33,0.23633095592451986
+1842,2002,AER,Aeeris Ltd,Communication Services,$7.16 M,AER.AX,-35.48,0.7291746656246235
+1843,2003,LRD,Lord Resources Ltd,Materials,$7.15 M,LRD.AX,12.5,1.3130124865560495
+1844,2004,SLB,Stelar Metals Ltd,Materials,$7.13 M,SLB.AX,-5.0,1.4023573761414285
+1845,2005,ERW,Errawarra Resources Ltd,Materials,$7.12 M,ERW.AX,-20.0,0.9402188917955909
+1846,2006,RNX,Renegade Exploration Ltd,Materials,$7.12 M,RNX.AX,33.33,0.9996982201645336
+1847,2007,TTB,Total Brain Ltd,Health Care,$7.09 M,TTB.AX,-82.75,0.9614300915955132
+1848,2008,FFF,Forbidden Foods Ltd,Consumer Staples,$7.08 M,FFF.AX,-60.0,0.8095109843093639
+1849,2009,NMR,Native Mineral Resources Holdings Ltd,Materials,$7.06 M,NMR.AX,-42.27,0.8823969338911565
+1850,2010,BXN,Bioxyne Ltd,Consumer Staples,$7.04 M,BXN.AX,-63.33,1.02007788593668
+1851,2011,AAP,Australian Agricultural Projects Ltd,Consumer Staples,$7.02 M,AAP.AX,4.55,0.8528009274232123
+1852,2012,PRX,Prodigy Gold NL,Materials,$6.99 M,PRX.AX,-70.0,0.8582584876882396
+1853,2013,SFM,Santa Fe Minerals Ltd,Materials,$6.99 M,SFM.AX,6.67,0.7711869311177258
+1854,2014,BPM,BPM Minerals Ltd,Materials,$6.99 M,BPM.AX,-64.29,0.804610608445058
+1855,2015,NRX,Noronex Ltd,Materials,$6.99 M,NRX.AX,-71.72,0.7200050376492686
+1856,2016,ODE,Odessa Minerals Ltd,Materials,$6.98 M,ODE.AX,116.67,4.0576052726992495
+1857,2017,EQN,Equinox Resources Ltd,Materials,$6.98 M,EQN.AX,-22.5,0.7745244349303307
+1858,2018,KOR,Korab Resources Ltd,Materials,$6.97 M,KOR.AX,35.71,2.235849250600724
+1859,2019,NME,NEX Metals Exploration Ltd,Materials,$6.94 M,NME.AX,-10.35,1.3794735063113044
+1860,2020,MRI,My Rewards International Ltd,Industrials,$6.94 M,MRI.AX,-74.5,1.2309226675417109
+1861,2021,VMG,VDM Group Ltd,Industrials,$6.93 M,VMG.AX,-60.0,2.688680480267881
+1862,2022,TML,Timah Resources Ltd,Utilities,$6.88 M,TML.AX,13.64,0.45567254240785765
+1863,2023,GNM,Great Northern Minerals Ltd,Materials,$6.84 M,GNM.AX,-66.67,1.0676467485580061
+1864,2024,SAU,Southern Gold Ltd,Materials,$6.83 M,SAU.AX,-54.29,0.5172888525337718
+1865,2025,BLZ,BLAZE Minerals Ltd,Energy,$6.79 M,BLZ.AX,-38.71,0.8634757666945192
+1866,2026,ECG,Ecargo Holdings Ltd,Industrials,$6.77 M,ECG.AX,-57.69,0.7973434030490547
+1867,2027,RD1,Registry Direct Ltd,Information Technology,$6.69 M,RD1.AX,-20.0,1.196588827364647
+1868,2028,AHK,Ark Mines Ltd,Materials,$6.66 M,AHK.AX,488.24,26.497440305190274
+1869,2029,EXL,Elixinol Wellness Ltd,Consumer Staples,$6.64 M,EXL.AX,-83.85,0.7085424406317526
+1870,2030,SVS,Sunvest Corporation Ltd,Financials,$6.63 M,SVS.AX,9.0,0.19258804501278895
+1871,2031,BPP,Babylon Pump & Power Ltd,Industrials,$6.62 M,BPP.AX,-68.75,0.998680055381174
+1872,2032,BAS,Bass Oil Ltd,Energy,$6.61 M,BAS.AX,-38.33,2.6517138212172355
+1873,2033,RML,Resolution Minerals Ltd,Materials,$6.59 M,RML.AX,-65.22,0.929124551449704
+1874,2034,PFE,Pantera Minerals Ltd,Materials,$6.57 M,PFE.AX,-35.0,1.054742026764098
+1875,2035,CZL,Consolidated ZINC Ltd,Materials,$6.54 M,CZL.AX,-51.35,1.2148034857069447
+1876,2036,MTR,Metal Tiger Plc,Materials,$6.53 M,MTR.AX,-41.07,0.5576670014683272
+1877,2037,MGG,Mogul Games Group Ltd,Communication Services,$6.52 M,MGG.AX,-71.43,1.4290717217970808
+1878,2038,LV1,Live Verdure Ltd,Consumer Staples,$6.52 M,LV1.AX,-18.42,0.7840556044807526
+1879,2039,CMX,CHEMX Materials Ltd,Materials,$6.49 M,CMX.AX,-30.0,1.1063415034810573
+1880,2040,1ST,1ST Group Ltd,Health Care,$6.44 M,1ST.AX,-73.6,1.090592586290383
+1881,2041,XST,Xstate Resources Ltd,Energy,$6.43 M,XST.AX,-60.0,1.6568353780643676
+1882,2042,RIE,Riedel Resources Ltd,Materials,$6.43 M,RIE.AX,-53.85,1.0268649394955915
+1883,2043,FG1,FLYNN Gold Ltd,Materials,$6.41 M,FG1.AX,-33.33,1.0686968486367487
+1884,2044,LGM,Legacy Minerals Holdings Ltd,Materials,$6.35 M,LGM.AX,-30.0,0.722641761916861
+1885,2045,APG,Austpac Resources NL,Materials,$6.33 M,APG.AX,0.0,0.0
+1886,2046,LDR,Lode Resources Ltd,Materials,$6.33 M,LDR.AX,-20.0,1.5515177496065302
+1887,2047,RLG,Roolife Group Ltd,Communication Services,$6.32 M,RLG.AX,-65.39,0.8059312189355111
+1888,2048,NNG,Nexion Group Ltd,Information Technology,$6.31 M,NNG.AX,-58.95,0.779657265088468
+1889,2049,VTI,Visioneering Technologies Inc,Health Care,$6.28 M,VTI.AX,-76.36,0.5515800200156256
+1890,2050,HAR,Haranga Resources Ltd,Materials,$6.27 M,HAR.AX,-25.0,0.9886876204206541
+1891,2051,FIJ,Fiji Kava Ltd,Consumer Staples,$6.27 M,FIJ.AX,-65.26,0.7721109717090149
+1892,2052,NTL,New Talisman Gold Mines Ltd,Materials,$6.25 M,NTL.AX,-33.33,2.4871640079664705
+1893,2053,SRR,Sarama Resources Ltd,Materials,$6.22 M,SRR.AX,-20.0,0.6851724735339608
+1894,2054,SE1,Sensera Ltd,Information Technology,$6.21 M,SE1.AX,-67.39,1.0462574129051443
+1895,2055,CPT,Cipherpoint Ltd,Information Technology,$6.2 M,CPT.AX,-45.31,0.8253747864824099
+1896,2056,VKA,Viking Mines Ltd,Materials,$6.15 M,VKA.AX,-64.71,0.9862748728116201
+1897,2057,VAR,Variscan Mines Ltd,Materials,$6.13 M,VAR.AX,-68.49,0.8625867623141225
+1898,2058,G88,Golden Mile Resources Ltd,Materials,$6.11 M,G88.AX,-44.44,0.75597436965685
+1899,2059,CLT,Cellnet Group Ltd,Information Technology,$6.09 M,CLT.AX,-54.55,0.7523439176951398
+1900,2060,CML,Chase Mining Corporation Ltd,Materials,$6.09 M,CML.AX,-18.75,0.8844414964004895
+1901,2061,SHG,Singular Health Group Ltd,Health Care,$6.07 M,SHG.AX,-70.94,0.8130977015077157
+1902,2062,ODM,Odin Metals Ltd,Materials,$6.06 M,ODM.AX,-60.61,0.9629205816763748
+1903,2063,AIV,Activex Ltd,Materials,$6.05 M,AIV.AX,-83.53,0.795862729888266
+1904,2064,EMU,EMU NL,Materials,$6.05 M,EMU.AX,-50.0,1.0754749212203072
+1905,2065,OLL,Openlearning Ltd,Information Technology,$6 M,OLL.AX,-76.07,0.7682810945704508
+1906,2066,KNB,Koonenberry Gold Ltd,Materials,$5.98 M,KNB.AX,-60.0,0.7534618711228361
+1907,2067,9SP,9 Spokes International Ltd,Information Technology,$5.97 M,9SP.AX,-73.33,0.9547212046478349
+1908,2068,TMB,Tambourah Metals Ltd,Materials,$5.97 M,TMB.AX,-27.5,0.7252663406181192
+1909,2069,GMN,Gold Mountain Ltd,Materials,$5.97 M,GMN.AX,-83.42,1.057560537217935
+1910,2070,CVR,Cavalier Resources Ltd,Materials,$5.93 M,CVR.AX,-2.5,0.19747085339737003
+1911,2071,1AG,Alterra Ltd,Consumer Staples,$5.91 M,1AG.AX,-61.42,0.8583010670329919
+1912,2072,BMM,Balkan Mining and Minerals Ltd,Materials,$5.9 M,BMM.AX,-10.0,1.0941344037356937
+1913,2073,ENV,Enova Mining Ltd,Materials,$5.88 M,ENV.AX,-23.81,0.7778815493916363
+1914,2074,FDR,Finder Energy Holdings Ltd,Energy,$5.85 M,FDR.AX,-61.0,1.1581579796632915
+1915,2075,MHI,Merchant House International Ltd,Consumer Discretionary,$5.84 M,MHI.AX,-8.82,0.9322409335586466
+1916,2076,CRM,Carbon Minerals Ltd,Energy,$5.83 M,CRM.AX,24.0,0.5359593572589552
+1917,2077,NSM,North Stawell Minerals Ltd,Materials,$5.82 M,NSM.AX,-46.3,0.7130725340032946
+1918,2078,AQC,Australian Pacific Coal Ltd,Materials,$5.81 M,AQC.AX,-32.35,1.2232476117318476
+1919,2079,MPR,Mpower Group Ltd,Financials,$5.79 M,MPR.AX,-63.89,0.7255828086347931
+1920,2080,WGR,Western Gold Resources Ltd,Materials,$5.76 M,WGR.AX,-60.0,100.21309101923626
+1921,2081,SYT,Syntonic Ltd,Information Technology,$5.74 M,SYT.AX,0.0,0.0
+1922,2082,RR1,Reach Resources Ltd,Materials,$5.73 M,RR1.AX,-62.5,1.3252357263811487
+1923,2083,RBX,Resource Base Ltd,Materials,$5.7 M,RBX.AX,-30.0,0.9312844073236365
+1924,2084,MR1,Montem Resources Ltd,Materials,$5.67 M,MR1.AX,-26.67,1.338901801090236
+1925,2085,ILA,Island Pharmaceuticals Ltd,Health Care,$5.62 M,ILA.AX,-55.93,0.827561832136771
+1926,2086,GLV,Global Oil & Gas Ltd,Energy,$5.62 M,GLV.AX,-85.0,1.3364415322773875
+1927,2087,PBL,Parabellum Resources Ltd,Materials,$5.61 M,PBL.AX,-15.0,0.7019650829961827
+1928,2088,CBY,Canterbury Resources Ltd,Materials,$5.54 M,CBY.AX,-51.09,0.5989614435174143
+1929,2089,AL8,Alderan Resources Ltd,Materials,$5.53 M,AL8.AX,-71.74,0.8386100657572207
+1930,2090,TG1,Techgen Metals Ltd,Materials,$5.53 M,TG1.AX,-34.21,0.9542818646440553
+1931,2091,CRS,Caprice Resources Ltd,Materials,$5.51 M,CRS.AX,-60.59,0.8227276738871243
+1932,2092,PR1,Pure Resources Ltd,Materials,$5.51 M,PR1.AX,10.0,0.5463504685276643
+1933,2093,ENX,Enegex Ltd,Materials,$5.49 M,ENX.AX,-81.14,0.7665274498529263
+1934,2094,PYR,Payright Ltd,Financials,$5.47 M,PYR.AX,-85.42,1.0555210065894354
+1935,2095,OOK,Ookami Ltd,Materials,$5.46 M,OOK.AX,-46.0,1.1031392746873687
+1936,2096,M2R,Miramar Resources Ltd,Materials,$5.46 M,M2R.AX,-52.78,0.843860635267076
+1937,2097,ERG,Eneco Refresh Ltd,Consumer Staples,$5.45 M,ERG.AX,-48.72,0.8030033482601318
+1938,2098,KLI,Killi Resources Ltd,Materials,$5.45 M,KLI.AX,-17.5,1.0472720276346834
+1939,2099,BIR,BIR Financial Ltd,Financials,$5.44 M,BIR.AX,15.39,1.2878677006236576
+1940,2100,BHD,Benjamin Hornigold Ltd,Financials,$5.43 M,BHD.AX,-25.0,0.39000200294882154
+1941,2101,FE8,Faster Enterprises Ltd,Real Estate,$5.43 M,FE8.AX,0.0,0.0
+1942,2102,DEX,Duke Exploration Ltd,Materials,$5.41 M,DEX.AX,-83.33,0.8251145553770881
+1943,2103,DTI,DTI Group Ltd,Information Technology,$5.38 M,DTI.AX,-38.46,0.9407238725960436
+1944,2104,GPS,GPS Alliance Holdings Ltd,Real Estate,$5.35 M,GPS.AX,-2.38,0.023485530035985847
+1945,2105,OSM,Osmond Resources Ltd,Materials,$5.34 M,OSM.AX,-5.0,0.7959657968690753
+1946,2106,CUL,Cullen Resources Ltd,Materials,$5.29 M,CUL.AX,-50.0,0.9122358588745312
+1947,2107,SUH,Southern Hemisphere Mining Ltd,Materials,$5.28 M,SUH.AX,-61.28,0.8047942694598874
+1948,2108,DMG,Dragon Mountain Gold Ltd,Materials,$5.27 M,DMG.AX,0.0,
+1949,2109,BEL,Bentley Capital Ltd,Financials,$5.25 M,BEL.AX,-28.13,0.5751280102203022
+1950,2110,SRH,Saferoads Holdings Ltd,Industrials,$5.24 M,SRH.AX,-36.36,0.5632984843977502
+1951,2111,PNT,Panther Metals Ltd,Materials,$5.22 M,PNT.AX,-10.0,0.9257216609385995
+1952,2112,MKL,Mighty Kingdom Ltd,Communication Services,$5.2 M,MKL.AX,-75.15,0.9206488061308676
+1953,2113,RDS,Redstone Resources Ltd,Materials,$5.16 M,RDS.AX,-46.15,1.0664412508515402
+1954,2114,ENT,Enterprise Metals Ltd,Materials,$5.16 M,ENT.AX,-46.27,1.0583276216474145
+1955,2115,OSP,Osprey Medical Inc,Health Care,$5.13 M,OSP.AX,-85.71,0.705234941807198
+1956,2116,UUL,Ultima United Ltd,Real Estate,$5.13 M,UUL.AX,-86.0,1.1730049189094072
+1957,2117,REM,Remsense Technologies Ltd,Industrials,$5.1 M,REM.AX,-22.5,1.1515971110417855
+1958,2118,AQX,Alice QUEEN Ltd,Materials,$5.1 M,AQX.AX,-75.0,1.2315298336712996
+1959,2119,CIO,Connected Io Ltd,Information Technology,$5.09 M,CIO.AX,-68.0,0.7057773268099368
+1960,2120,IVT,Inventis Ltd,Industrials,$5.08 M,IVT.AX,-49.38,1.2120600691636254
+1961,2121,VTX,Vertex Minerals Ltd,Materials,$5.07 M,VTX.AX,-42.5,0.5938106539569609
+1962,2122,SCT,Scout Security Ltd,Consumer Discretionary,$5.06 M,SCT.AX,-38.89,1.171983328941948
+1963,2123,NWM,Norwest Minerals Ltd,Materials,$5.06 M,NWM.AX,-63.28,0.6869752394619045
+1964,2124,EVE,EVE Health Group Ltd,Consumer Staples,$5.05 M,EVE.AX,-76.0,2.4298592050031065
+1965,2125,CSF,Catalano Seafood Ltd,Consumer Staples,$5.01 M,CSF.AX,-17.5,0.6997465725935275
+1966,2126,CBE,Cobre Ltd,Materials,$4.96 M,CBE.AX,-82.35,1.2146997912807085
+1967,2127,MTM,MT Monger Resources Ltd,Materials,$4.9 M,MTM.AX,-32.5,1.0610971459211573
+1968,2128,TG6,TG Metals Ltd,Materials,$4.89 M,TG6.AX,-30.56,1.5926882425574118
+1969,2129,AGC,Australian Gold and Copper Ltd,Materials,$4.88 M,AGC.AX,-48.57,0.6159298750438775
+1970,2130,SER,Strategic Energy Resources Ltd,Materials,$4.85 M,SER.AX,-66.67,0.9120394493595863
+1971,2131,PRM,Prominence Energy Ltd,Energy,$4.85 M,PRM.AX,-84.62,2.0040549093936573
+1972,2132,IEC,Intra Energy Corporation Ltd,Energy,$4.85 M,IEC.AX,14.29,1.5004884382585855
+1973,2133,UUV,UUV Aquabotix Ltd,Industrials,$4.84 M,UUV.AX,0.0,0.0
+1974,2134,OVN,Oventus Medical Ltd,Health Care,$4.83 M,OVN.AX,-78.26,0.9072986014444488
+1975,2135,ICR,Intelicare Holdings Ltd,Health Care,$4.82 M,ICR.AX,-78.34,0.6859183002638619
+1976,2136,MEB,Medibio Ltd,Health Care,$4.79 M,MEB.AX,-71.43,1.460911207147965
+1977,2137,HXL,Hexima Ltd,Health Care,$4.79 M,HXL.AX,-81.25,1.220184230482448
+1978,2138,W2V,Way 2 Vat Ltd,Information Technology,$4.78 M,W2V.AX,-85.0,1.3168332436573462
+1979,2139,T3K,Tek-Ocean Group Ltd,Energy,$4.75 M,T3K.AX,-71.0,0.7398511748038269
+1980,2140,RXH,Rewardle Holdings Ltd,Communication Services,$4.74 M,RXH.AX,-30.77,1.204311720784593
+1981,2141,BME,Black Mountain Energy Ltd,Energy,$4.73 M,BME.AX,-57.0,0.706243009870139
+1982,2142,CRB,Carbine Resources Ltd,Materials,$4.73 M,CRB.AX,-66.67,0.8670485288392031
+1983,2143,UVA,Uvre Ltd,Materials,$4.72 M,UVA.AX,-25.0,1.8100119104100503
+1984,2144,CGB,Cann Global Ltd,Health Care,$4.66 M,CGB.AX,-88.0,2.021411149264426
+1985,2145,GSM,Golden State Mining Ltd,Materials,$4.66 M,GSM.AX,-74.19,0.7392122929902689
+1986,2146,CWL,Consolidated Financial Holdings Ltd,Information Technology,$4.66 M,CWL.AX,0.0,0.0
+1987,2147,AN1,Anagenics Ltd,Consumer Staples,$4.64 M,AN1.AX,-65.0,0.6389579661664092
+1988,2148,HIQ,HITIQ Ltd,Health Care,$4.64 M,HIQ.AX,-78.42,0.8414792604732803
+1989,2149,EMS,Eastern Metals Ltd,Materials,$4.63 M,EMS.AX,-35.0,0.9486027103741876
+1990,2150,ALT,Analytica Ltd,Health Care,$4.61 M,ALT.AX,-60.0,3.308562349341833
+1991,2151,LML,Lincoln Minerals Ltd,Materials,$4.6 M,LML.AX,0.0,0.0
+1992,2152,WNB,Wellness and Beauty Solutions Ltd,Consumer Discretionary,$4.58 M,WNB.AX,0.0,0.0
+1993,2153,GFN,Gefen International A.I. Ltd,Information Technology,$4.58 M,GFN.AX,-92.5,1.1302291760678598
+1994,2154,WMG,Western Mines Group Ltd,Materials,$4.58 M,WMG.AX,-37.5,0.8586957231564122
+1995,2155,FFC,Farmaforce Ltd,Health Care,$4.57 M,FFC.AX,-51.39,0.3758165017578558
+1996,2156,OLY,Olympio Metals Ltd,Industrials,$4.57 M,OLY.AX,287.1,156.84584304895367
+1997,2157,PHL,Propell Holdings Ltd,Financials,$4.56 M,PHL.AX,-58.66,0.7163871907908405
+1998,2158,POW,Protean Energy Ltd,Industrials,$4.55 M,POW.AX,-30.0,1.143011344163955
+1999,2159,T3D,333D Ltd,Industrials,$4.55 M,T3D.AX,-25.0,2.209423067956093
+2000,2160,PBX,Pacific Bauxite NL,Materials,$4.53 M,PBX.AX,3566.67,48.33981604345835
+2001,2161,IEQ,International Equities Corporation Ltd,Real Estate,$4.49 M,IEQ.AX,0.0,
+2002,2162,AFW,Applyflow Ltd,Communication Services,$4.44 M,AFW.AX,-69.85,1.9489907635442725
+2003,2163,NOR,Norwood Systems Ltd,Information Technology,$4.42 M,NOR.AX,-13.33,1.0136850826939354
+2004,2164,OXX,Octanex Ltd,Energy,$4.4 M,OXX.AX,-43.33,1.354730250817203
+2005,2165,DBO,Diablo Resources Ltd,Materials,$4.35 M,DBO.AX,-70.0,0.9467632660894566
+2006,2166,CMO,Cosmo Metals Ltd,Materials,$4.34 M,CMO.AX,-19.05,1.0383675035993225
+2007,2167,EAX,Energy Action Ltd,Industrials,$4.32 M,EAX.AX,-39.62,0.6498727965833401
+2008,2168,MTB,Mount Burgess Mining NL,Materials,$4.3 M,MTB.AX,-28.57,0.9606886317582316
+2009,2169,RC1,Redcastle Resources Ltd,Materials,$4.29 M,RC1.AX,87.5,1.9379123407086989
+2010,2170,AOA,Ausmon Resources Ltd,Materials,$4.29 M,AOA.AX,0.0,1.398083363833185
+2011,2171,AQS,AQUIS Entertainment Ltd,Consumer Discretionary,$4.29 M,AQS.AX,-48.94,0.8986327190195761
+2012,2172,CXU,Cauldron Energy Ltd,Energy,$4.28 M,CXU.AX,-79.49,1.1147300001699976
+2013,2173,AWJ,Auric Mining Ltd,Materials,$4.26 M,AWJ.AX,-41.54,0.7495282607800327
+2014,2174,SP3,Spectur Ltd,Information Technology,$4.25 M,SP3.AX,-42.86,0.6879109710401952
+2015,2175,HMI,Hiremii Ltd,Industrials,$4.23 M,HMI.AX,-59.6,1.0057849937066163
+2016,2176,RCR,Rincon Resources Ltd,Materials,$4.23 M,RCR.AX,-62.96,1.102203391850298
+2017,2177,WA1,WA1 Resources Ltd,Materials,$4.21 M,WA1.AX,-27.5,0.9208363138115221
+2018,2178,ATU,Atrum Coal Ltd,Materials,$4.15 M,ATU.AX,-76.23,1.2544808022641067
+2019,2179,TKL,Traka Resources Ltd,Materials,$4.13 M,TKL.AX,-60.0,1.034771939358416
+2020,2180,NZS,New Zealand Coastal Seafoods Ltd,Consumer Staples,$4.11 M,NZS.AX,-66.67,1.1229908204718844
+2021,2181,KGD,Kula Gold Ltd,Materials,$4.09 M,KGD.AX,-52.5,0.9744191987357872
+2022,2182,CL8,Carly Holdings Ltd,Consumer Discretionary,$4.07 M,CL8.AX,-43.55,0.7866464515279618
+2023,2183,ANR,Anatara Lifesciences Ltd,Health Care,$4.07 M,ANR.AX,-62.0,0.5785085713572302
+2024,2184,GO2,The GO2 People Ltd,Industrials,$4.07 M,GO2.AX,-75.0,0.7951347474864128
+2025,2185,1VG,Victory Goldfields Ltd,Materials,$4.04 M,1VG.AX,-47.5,0.9352424381321682
+2026,2186,PKO,Peako Ltd,Materials,$4.01 M,PKO.AX,-67.5,0.9611136405240845
+2027,2187,EZZ,EZZ Life Science Holdings Ltd,Health Care,$3.96 M,EZZ.AX,-34.04,0.7437649993262438
+2028,2188,YPB,YPB Group Ltd,Industrials,$3.94 M,YPB.AX,-68.0,3.295730393658016
+2029,2189,KEY,KEY Petroleum Ltd,Energy,$3.94 M,KEY.AX,-33.33,1.8118101203357941
+2030,2190,DVL,Dorsavi Ltd,Health Care,$3.89 M,DVL.AX,-60.71,0.7260641255630977
+2031,2191,RBR,RBR Group Ltd,Materials,$3.86 M,RBR.AX,-40.0,1.3202964210106425
+2032,2192,AUK,Aumake Ltd,Consumer Discretionary,$3.86 M,AUK.AX,-80.0,1.1145368187505924
+2033,2193,KNG,Kingsland Minerals Ltd,Materials,$3.86 M,KNG.AX,-25.0,1.0775262661199614
+2034,2194,SLM,Solis Minerals Ltd,Materials,$3.85 M,SLM.AX,-53.5,1.5800417951001358
+2035,2195,TTA,TTA Holdings Ltd,Consumer Discretionary,$3.85 M,TTA.AX,-30.0,0.9407214664240648
+2036,2196,MOH,Moho Resources Ltd,Materials,$3.83 M,MOH.AX,-64.71,0.7758474610047454
+2037,2197,AVM,Advance Metals Ltd,Materials,$3.82 M,AVM.AX,-54.89,0.9710858713044481
+2038,2198,WOO,Wooboard Technologies Ltd,Information Technology,$3.82 M,WOO.AX,-66.67,4.848570252400224
+2039,2199,FRS,Forrestania Resources Ltd,Materials,$3.81 M,FRS.AX,-35.0,1.1528662827308338
+2040,2200,M2M,MT Malcolm Mines NL,Materials,$3.8 M,M2M.AX,-69.0,0.8507552180651059
+2041,2201,RON,Ronin Resources Ltd,Materials,$3.77 M,RON.AX,-35.0,0.7272138638276694
+2042,2202,RGI,Roto-Gro International Ltd,Industrials,$3.77 M,RGI.AX,-73.17,0.5907366515800934
+2043,2203,OMX,Orange Minerals NL,Materials,$3.68 M,OMX.AX,-58.54,0.906238834832184
+2044,2204,NFL,Norfolk Metals Ltd,Materials,$3.68 M,NFL.AX,-35.0,0.7376005591796879
+2045,2205,KCC,Kincora Copper Ltd,Materials,$3.66 M,KCC.AX,-79.17,0.9664282037834104
+2046,2206,DUN,Dundas Minerals Ltd,Materials,$3.65 M,DUN.AX,-52.5,0.7829558830292828
+2047,2207,AMD,Arrow Minerals Ltd,Materials,$3.65 M,AMD.AX,-66.67,1.26989867511924
+2048,2208,HHY,HHY Fund,Financials,$3.65 M,HHY.AX,0.0,0.0
+2049,2209,M3M,M3 Mining Ltd,Materials,$3.61 M,M3M.AX,-42.5,1.117482505218021
+2050,2210,OM1,Omnia Metals Group Ltd,Materials,$3.6 M,OM1.AX,-30.0,0.6765776020215785
+2051,2211,APS,Allup Silica Ltd,Materials,$3.59 M,APS.AX,-51.5,1.3474835877474949
+2052,2212,POL,Polymetals Resources Ltd,Materials,$3.57 M,POL.AX,-55.5,0.80819591863565
+2053,2213,NSE,New Standard Energy Ltd,Energy,$3.55 M,NSE.AX,0.0,0.0
+2054,2214,PIM,Pinnacle Minerals Ltd,Materials,$3.53 M,PIM.AX,-27.5,1.0909385381896033
+2055,2215,JPR,Jupiter Energy Ltd,Energy,$3.53 M,JPR.AX,-25.81,1.2159316911419038
+2056,2216,OZZ,OZZ Resources Ltd,Materials,$3.51 M,OZZ.AX,-47.5,0.8317181508447278
+2057,2217,CYQ,CYCLIQ Group Ltd,Consumer Discretionary,$3.48 M,CYQ.AX,-66.67,0.7640335780418787
+2058,2218,SIS,Simble Solutions Ltd,Information Technology,$3.42 M,SIS.AX,-72.41,0.9430393456950442
+2059,2219,NES,Nelson Resources Ltd,Materials,$3.38 M,NES.AX,-79.02,0.9173680779276686
+2060,2220,WC1,West Cobar Metals Ltd,Materials,$3.38 M,WC1.AX,-45.0,0.6076404989404897
+2061,2221,M24,Mamba Exploration Ltd,Materials,$3.37 M,M24.AX,-61.91,0.9534753972729659
+2062,2222,IPB,IPB Petroleum Ltd,Energy,$3.37 M,IPB.AX,-58.33,1.0888216029258506
+2063,2223,M8S,M8 Sustainable Ltd,Industrials,$3.36 M,M8S.AX,-61.25,0.9987223048830007
+2064,2224,MBX,My Foodie BOX Ltd,Consumer Staples,$3.35 M,MBX.AX,-50.0,1.1310926710582803
+2065,2225,NVU,Nanoveu Ltd,Information Technology,$3.34 M,NVU.AX,-68.09,0.9161364878970334
+2066,2226,DLT,Delta Drone International Ltd,Information Technology,$3.3 M,DLT.AX,-50.0,0.995799903310775
+2067,2227,OEQ,Orion Equities Ltd,Financials,$3.29 M,OEQ.AX,-30.0,0.7351212958945639
+2068,2228,SAN,Sagalio Energy Ltd,Energy,$3.27 M,SAN.AX,-27.27,1.5155038101837361
+2069,2229,MMC,Mitre Mining Corporation Ltd,Materials,$3.25 M,MMC.AX,-40.0,0.6226671903752602
+2070,2230,RB6,RUBIX Resources Ltd,Materials,$3.25 M,RB6.AX,-40.0,0.7979227259057693
+2071,2231,ICE,Icetana Ltd,Information Technology,$3.25 M,ICE.AX,-77.38,0.9124341431211631
+2072,2232,MMR,Mec Resources Ltd,Energy,$3.24 M,MMR.AX,0.0,0.0
+2073,2233,OKJ,Oakajee Corporation Ltd,Materials,$3.2 M,OKJ.AX,-53.33,0.775432830219583
+2074,2234,C1X,Cosmos Exploration Ltd,Materials,$3.13 M,C1X.AX,-37.5,0.7129613196310589
+2075,2235,AUE,Aurum Resources Ltd,Materials,$3.13 M,AUE.AX,-37.5,0.6831570148155861
+2076,2236,AMM,Armada Metals Ltd,Materials,$3.1 M,AMM.AX,-69.0,0.8488829777953755
+2077,2237,NYM,Narryer Metals Ltd,Materials,$3.07 M,NYM.AX,-45.0,0.9516165543400457
+2078,2238,BUR,Burley Minerals Ltd,Materials,$3.05 M,BUR.AX,-55.5,0.7921721476377683
+2079,2239,PLG,Pearl Gull Iron Ltd,Materials,$2.96 M,PLG.AX,-73.0,1.3797500344525484
+2080,2240,LKY,Locksley Resources Ltd,Materials,$2.87 M,LKY.AX,-50.5,0.8024750788098184
+2081,2241,C29,C29 Metals Ltd,Materials,$2.86 M,C29.AX,-47.5,0.7112703696314765
+2082,2242,VOL,Victory Offices Ltd,Real Estate,$2.84 M,VOL.AX,-89.09,0.8901126698857162
+2083,2243,LVE,Love Group Global Ltd,Communication Services,$2.84 M,LVE.AX,-27.84,0.9078356222409889
+2084,2244,WSR,Westar Resources Ltd,Materials,$2.79 M,WSR.AX,-70.0,0.8626664337412726
+2085,2245,IVO,Invigor Group Ltd,Communication Services,$2.76 M,IVO.AX,-74.65,1.2213911019640142
+2086,2246,AGJ,Agricultural Land Trust,Real Estate,$2.74 M,AGJ.AX,0.0,0.0
+2087,2247,MSI,Multistack International Ltd,Industrials,$2.73 M,MSI.AX,-71.43,1.0253500532039095
+2088,2248,AJY,Asaplus Resources Ltd,Materials,$2.72 M,AJY.AX,-66.67,0.46613073837192515
+2089,2249,FOS,FOS Capital Ltd,Industrials,$2.66 M,FOS.AX,5.26,0.5139401875045608
+2090,2250,DC2,DC Two Ltd,Information Technology,$2.64 M,DC2.AX,-81.82,0.7888688467755771
+2091,2251,CDR,Codrus Minerals Ltd,Materials,$2.64 M,CDR.AX,-67.81,0.8341628736561891
+2092,2252,ALB,Albion Resources Ltd,Materials,$2.64 M,ALB.AX,-56.92,0.7737500536202044
+2093,2253,SMS,Star Minerals Ltd,Materials,$2.63 M,SMS.AX,-50.0,0.9154977902133465
+2094,2254,DMM,DMC Mining Ltd,Materials,$2.58 M,DMM.AX,-55.0,1.3508925059303254
+2095,2255,DAL,Dalaroo Metals Ltd,Materials,$2.54 M,DAL.AX,-57.5,0.8613947676144192
+2096,2256,SIT,Site Group International Ltd,Consumer Discretionary,$2.52 M,SIT.AX,-76.0,0.879090736587274
+2097,2257,ROC,Rocketboots Ltd,Information Technology,$2.44 M,ROC.AX,-61.5,1.78125662004972
+2098,2258,AO1,Assetowl Ltd,Information Technology,$2.36 M,AO1.AX,-72.13,1.6211945914225372
+2099,2259,OPL,Opyl Ltd,Information Technology,$2.34 M,OPL.AX,-78.5,0.8782369165376583
+2100,2260,ROO,Roots Sustainable Agricultural Technologies Ltd,Industrials,$2.25 M,ROO.AX,-70.0,1.2588648593682803
+2101,2261,EQS,Equity Story Group Ltd,Financials,$2.21 M,EQS.AX,-62.5,0.9239439030913223
+2102,2262,CFO,Cfoam Ltd,Industrials,$2.2 M,CFO.AX,-80.0,2.0760802695808285
+2103,2263,PRS,Prospech Ltd,Materials,$2.15 M,PRS.AX,-77.24,0.7641920109000089
+2104,2264,PKD,Parkd Ltd,Industrials,$2.1 M,PKD.AX,-48.78,1.0229618605898334
+2105,2265,RPG,Raptis Group Ltd,Real Estate,$2.1 M,RPG.AX,10.0,0.07251748901137706
+2106,2266,KLR,Kaili Resources Ltd,Energy,$2.06 M,KLR.AX,-44.0,0.842651283699014
+2107,2267,FGL,Frugl Group Ltd,Information Technology,$1.81 M,FGL.AX,-82.0,1.0779962965474392
+2108,2268,TNP,Triple Energy Ltd,Energy,$1.8 M,TNP.AX,0.0,2.2982978359146085
+2109,2269,3MF,3D Metalforge Ltd,Industrials,$1.73 M,3MF.AX,-92.0,0.866584088022531
+2110,2270,HHI,Health House International Ltd,Health Care,$1.63 M,HHI.AX,-92.0,0.9904667171645759
+2111,2271,ATM,Aneka Tambang (Persero) TBK (PT),Materials,$1.62 M,ATM.AX,24.5,0.19828805278968809
+2112,2272,JTL,JAYEX Technology Ltd,Health Care,$1.5 M,JTL.AX,-78.57,0.7154960953723754
+2113,2273,MCX,Mariner Corporation Ltd,Financials,$1.49 M,MCX.AX,-53.73,0.46459163647905416
+2114,2274,OAK,Oakridge International Ltd,Information Technology,$1.31 M,OAK.AX,-62.0,3.324650884236425
+2115,2275,QUE,Queste Communications Ltd,Financials,$1.16 M,QUE.AX,-21.82,0.4691080457564232
+2116,2276,CTV,Colortv Ltd,Communication Services,$927.74 TH,CTV.AX,-94.0,1.8791178885866326
+2117,2277,E2E,Eon NRG Ltd,Energy,$769.89 TH,E2E.AX,0.0,0.0
+2118,2278,LAM,Laramide Resources Ltd,Energy,$658.94 TH,LAM.AX,2.86,0.7228475100973247
+2119,2279,AIB,Aurora Global Income Trust,Financials,$632.53 TH,AIB.AX,-8.0,1.2671922647130658
