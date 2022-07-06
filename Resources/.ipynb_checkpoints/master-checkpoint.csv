@@ -1,0 +1,2121 @@
+Rank,Code,Company,Price,1 Day,1 Week,1 Month,1 Year,Sector,Mkt Cap
+1,BHP,BHP Group Ltd,$42.98,4.32%,6.76%,-1.58%,-0.27%,Materials,$217.58 B
+2,CBA,Commonwealth Bank of Australia,$93.54,-0.21%,6.84%,-12.28%,-6.34%,Financials,$159.62 B
+3,CSL,CSL Ltd,$274.03,0.38%,4.18%,1.86%,-4.99%,Health Care,$132 B
+4,NAB,National Australia Bank Ltd,$27.79,-0.50%,6.64%,-12.28%,6.39%,Financials,$88.72 B
+5,WBC,Westpac Banking Corporation,$19.75,-0.85%,2.92%,-18.02%,-23.51%,Financials,$69.15 B
+6,MQG,Macquarie Group Ltd,$167.23,0.58%,3.55%,-8.62%,7.96%,Financials,$64.17 B
+7,ANZ,Australia and New Zealand Banking Group Ltd,$22.42,-0.67%,4.82%,-12.70%,-20.47%,Financials,$62.64 B
+8,WDS,Woodside Energy Group Ltd,$32.68,4.34%,7.61%,8.43%,45.05%,Energy,$62.05 B
+9,FMG,Fortescue Metals Group Ltd,$18.56,3.80%,9.18%,-5.26%,-19.48%,Materials,$57.15 B
+10,WES,Wesfarmers Ltd,$43.14,-2.29%,1.75%,-7.68%,-26.24%,Consumer Discretionary,$48.91 B
+11,TLS,Telstra Corporation Ltd,$3.93,0.00%,3.15%,0.51%,9.17%,Communication Services,$45.41 B
+12,TCL,Transurban Group,$14.52,0.42%,4.24%,0.90%,1.33%,Industrials,$44.59 B
+13,WOW,Woolworths Group Ltd,$36.15,0.22%,9.95%,5.80%,-4.49%,Consumer Staples,$43.88 B
+14,RIO,RIO Tinto Ltd,$106.92,3.00%,5.25%,-5.71%,-15.18%,Materials,$39.69 B
+15,GMG,Goodman Group,$18.99,0.69%,7.35%,-4.33%,-10.13%,Real Estate,$35.48 B
+16,STO,Santos Ltd,$7.58,2.71%,3.55%,-8.01%,4.55%,Energy,$25.53 B
+17,COL,Coles Group Ltd,$17.87,-0.28%,6.31%,2.11%,5.55%,Consumer Staples,$23.88 B
+18,ALL,Aristocrat Leisure Ltd,$34.50,-0.86%,3.08%,-0.38%,-19.31%,Consumer Discretionary,$23.1 B
+19,NCM,Newcrest Mining Ltd,$22.37,2.90%,-5.41%,-9.58%,-13.43%,Materials,$19.98 B
+20,S32,SOUTH32 Ltd,$4.19,3.71%,3.20%,-11.04%,41.55%,Materials,$19.43 B
+21,QBE,QBE Insurance Group Ltd,$12.20,1.16%,8.64%,-1.61%,11.72%,Financials,$18.1 B
+22,RHC,Ramsay Health Care Ltd,$73.55,-0.12%,3.00%,-6.20%,15.68%,Health Care,$16.83 B
+23,SHL,Sonic Healthcare Ltd,$33.15,0.24%,-0.45%,-9.20%,-11.05%,Health Care,$15.92 B
+24,ASX,ASX Ltd,$82.02,0.68%,4.93%,0.56%,5.86%,Financials,$15.88 B
+25,BXB,Brambles Ltd,$10.92,0.37%,4.10%,-0.46%,-2.59%,Industrials,$15.14 B
+26,REA,REA Group Ltd,$114.47,-2.45%,18.04%,1.54%,-31.22%,Communication Services,$15.12 B
+27,CPU,Computershare Ltd,$24.45,0.99%,4.26%,7.05%,43.74%,Information Technology,$14.76 B
+28,JHX,James Hardie Industries Plc,$32.44,-1.16%,9.34%,-9.76%,-29.17%,Materials,$14.45 B
+29,SCG,Scentre Group,$2.73,1.87%,4.60%,-6.83%,-0.37%,Real Estate,$14.17 B
+30,APA,APA Group,$11.84,2.60%,6.09%,2.78%,27.45%,Utilities,$13.97 B
+31,SUN,Suncorp Group Ltd,$11.06,-1.51%,3.95%,-9.79%,0.91%,Financials,$13.96 B
+32,EDV,Endeavour Group Ltd,$7.58,1.61%,3.69%,4.55%,19.75%,Consumer Staples,$13.58 B
+33,COH,Cochlear Ltd,$202.28,-0.30%,4.51%,-7.42%,-19.05%,Health Care,$13.31 B
+34,AMC,Amcor Plc,$17.92,0.62%,6.10%,-2.56%,17.90%,Materials,$13.11 B
+35,WTC,Wisetech Global Ltd,$39.06,-0.76%,8.23%,-6.26%,24.08%,Information Technology,$12.75 B
+36,RMD,Resmed Inc,$30.75,-0.13%,5.85%,7.82%,-5.79%,Health Care,$12.43 B
+37,XRO,Xero Ltd,$82.57,-0.67%,9.05%,-5.60%,-39.72%,Information Technology,$12.35 B
+38,TPG,TPG Telecom Ltd,$6.16,0.16%,7.69%,6.21%,-0.81%,Communication Services,$11.45 B
+39,IAG,Insurance Australia Group Ltd,$4.36,-0.91%,3.56%,-2.46%,-14.34%,Financials,$10.75 B
+40,FPH,Fisher & Paykel Healthcare Corporation Ltd,$18.25,-1.08%,2.82%,1.39%,-38.80%,Health Care,$10.54 B
+42,DXS,Dexus,$9.50,0.74%,2.04%,-9.52%,-12.60%,Real Estate,$10.22 B
+43,ORG,Origin Energy Ltd,$5.93,3.31%,8.81%,-13.30%,25.90%,Utilities,$10.22 B
+44,TLC,The Lottery Corporation Ltd,$4.54,-0.44%,0.89%,-5.42%,-3.40%,Consumer Discretionary,$10.11 B
+d,AIA,Auckland International Airport Ltd,$6.70,1.36%,2.29%,0.60%,-1.03%,Industrials,$9.87 B
+47,REH,Reece Ltd,$14.71,0.20%,7.06%,-3.41%,-37.08%,Industrials,$9.5 B
+48,AFI,Australian Foundation Investment Company Ltd,$7.70,1.05%,4.05%,-4.23%,-0.77%,Financials,$9.47 B
+49,SGP,Stockland,$3.94,1.03%,6.78%,0.77%,-17.05%,Real Estate,$9.41 B
+50,MIN,Mineral Resources Ltd,$49.42,1.46%,2.30%,-19.37%,-4.02%,Materials,$9.35 B
+51,MPL,Medibank Private Ltd,$3.29,0.92%,6.13%,3.14%,4.44%,Financials,$9.06 B
+52,CWN,Crown Resorts Ltd,$13.09,0.00%,0.00%,1.47%,10.09%,Consumer Discretionary,$8.86 B
+53,GPT,GPT Group,$4.59,2.46%,7.75%,-3.57%,-4.77%,Real Estate,$8.79 B
+54,SOL,Washington H Soul Pattinson & Company Ltd,$24.25,2.23%,7.11%,-5.53%,-26.69%,Energy,$8.75 B
+55,VCX,Vicinity Centres,$1.92,3.50%,3.78%,2.40%,19.26%,Real Estate,$8.74 B
+56,NST,Northern Star Resources Ltd,$7.45,6.13%,-7.80%,-14.56%,-25.87%,Materials,$8.68 B
+57,QAN,Qantas Airways Ltd,$4.54,-2.16%,2.48%,-16.85%,0.00%,Industrials,$8.56 B
+59,LYC,Lynas Rare EARTHS Ltd,$9.34,1.41%,11.32%,-0.43%,70.44%,Materials,$8.43 B
+60,MGR,Mirvac Group,$2.12,-0.47%,0.95%,-4.93%,-28.14%,Real Estate,$8.36 B
+61,ALD,Ampol Ltd,$34.75,2.03%,8.56%,2.21%,23.53%,Energy,$8.28 B
+62,TWE,Treasury Wine Estates Ltd,$11.45,0.26%,5.73%,-2.05%,-1.55%,Consumer Staples,$8.27 B
+63,SPK,Spark New Zealand Ltd,$4.36,-1.36%,2.83%,1.16%,-2.68%,Communication Services,$8.16 B
+64,IGO,IGO Ltd,$10.47,1.16%,1.36%,-13.61%,38.13%,Materials,$7.93 B
+65,ALX,Atlas Arteria,$8.11,0.25%,-0.12%,14.23%,28.12%,Industrials,$7.78 B
+66,BSL,Bluescope Steel Ltd,$16.23,0.31%,4.51%,-10.68%,-26.66%,Materials,$7.72 B
+67,SEK,Seek Ltd,$21.61,-2.79%,10.48%,-12.33%,-33.22%,Communication Services,$7.67 B
+68,WOR,Worley Ltd,$14.47,3.06%,8.07%,-3.28%,22.01%,Energy,$7.58 B
+69,YAL,Yancoal Australia Ltd,$5.42,4.23%,7.75%,-10.86%,172.36%,Energy,$7.16 B
+70,MCY,Mercury NZ Ltd,$5.17,-1.52%,5.51%,-2.64%,-14.55%,Utilities,$7.14 B
+71,PLS,Pilbara Minerals Ltd,$2.39,3.02%,17.16%,-17.87%,65.97%,Materials,$7.11 B
+72,AZJ,Aurizon Holdings Ltd,$3.78,-0.53%,-2.33%,-5.03%,1.34%,Industrials,$6.96 B
+73,EBO,Ebos Group Ltd,$36.31,-1.55%,4.01%,-0.58%,21.03%,Health Care,$6.88 B
+74,AKE,Allkem Ltd,$10.76,-0.46%,9.80%,-23.20%,69.98%,Materials,$6.86 B
+75,IEL,Idp Education Ltd,$24.52,-0.61%,12.17%,5.69%,-1.92%,Consumer Discretionary,$6.82 B
+76,IPL,Incitec Pivot Ltd,$3.46,0.88%,5.81%,-1.14%,41.80%,Materials,$6.72 B
+77,ARG,Argo Investments Ltd,$8.95,0.22%,0.90%,-4.69%,0.90%,Financials,$6.71 B
+78,ORI,Orica Ltd,$16.06,0.19%,6.71%,-2.96%,19.32%,Materials,$6.57 B
+79,LLC,Lendlease Group,$9.32,0.22%,0.76%,-13.54%,-20.00%,Real Estate,$6.42 B
+80,OZL,OZ Minerals Ltd,$18.66,1.08%,-5.81%,-19.40%,-16.66%,Materials,$6.25 B
+81,SVW,Seven Group Holdings Ltd,$16.85,0.96%,1.51%,-10.47%,-16.79%,Industrials,$6.12 B
+82,DMP,Domino's PIZZA Enterprises Ltd,$69.57,-0.03%,9.91%,1.24%,-41.11%,Consumer Discretionary,$6.02 B
+83,CAR,Carsales.com Ltd,$20.76,0.00%,5.54%,6.46%,6.08%,Communication Services,$5.87 B
+84,AGL,AGL Energy Ltd,$8.55,4.27%,2.76%,-3.61%,-4.89%,Utilities,$5.75 B
+85,CHC,Charter Hall Group,$11.71,1.65%,5.50%,-11.62%,-24.94%,Real Estate,$5.54 B
+86,CWY,Cleanaway Waste Management Ltd,$2.60,0.00%,-2.62%,-11.57%,-2.62%,Industrials,$5.36 B
+87,ALQ,Als Ltd,$10.99,-2.48%,0.92%,-13.87%,-14.28%,Industrials,$5.32 B
+88,BEN,Bendigo and Adelaide Bank Ltd,$9.33,1.08%,6.87%,-12.06%,-10.29%,Financials,$5.27 B
+89,IFT,Infratil Ltd,$7.25,0.69%,7.41%,-0.28%,2.55%,Utilities,$5.26 B
+90,NXT,NEXTDC Ltd,$11.47,0.09%,13.68%,5.42%,-2.96%,Information Technology,$5.24 B
+91,MEZ,Meridian Energy Ltd,$4.11,-0.96%,5.39%,0.24%,-15.78%,Utilities,$5.19 B
+92,SDF,Steadfast Group Ltd,$5.10,0.39%,8.74%,0.39%,16.71%,Financials,$4.99 B
+93,QUB,QUBE Holdings Ltd,$2.80,-1.41%,0.36%,-6.04%,-9.68%,Industrials,$4.94 B
+95,WHC,Whitehaven Coal Ltd,$4.91,2.72%,8.15%,-4.48%,151.15%,Energy,$4.81 B
+96,CGF,Challenger Ltd,$7.04,1.59%,10.35%,-2.09%,32.33%,Financials,$4.8 B
+97,HVN,Harvey Norman Holdings Ltd,$3.85,-1.03%,3.77%,-11.90%,-26.95%,Consumer Discretionary,$4.8 B
+98,PME,Pro Medicus Ltd,$45.61,1.18%,18.19%,11.87%,-19.98%,Health Care,$4.76 B
+99,EVN,Evolution Mining Ltd,$2.58,-2.27%,-25.43%,-30.83%,-43.30%,Materials,$4.73 B
+100,AWC,Alumina Ltd,$1.55,1.98%,1.65%,-6.93%,-6.08%,Materials,$4.48 B
+101,VEA,Viva Energy Group Ltd,$2.88,2.13%,5.50%,-1.37%,43.63%,Energy,$4.47 B
+d,BOQ,Bank of Queensland Ltd,$6.84,-1.30%,5.72%,-9.64%,-24.42%,Financials,$4.43 B
+105,GQG,GQG Partners Inc,$1.47,5.78%,-1.68%,-9.57%,-33.41%,Financials,$4.33 B
+106,JBH,JB Hi-Fi Ltd,$39.01,-3.89%,1.27%,-15.96%,-21.48%,Consumer Discretionary,$4.27 B
+107,SQ2,Block Inc,$100.60,-3.18%,19.29%,-14.09%,-43.05%,Information Technology,$4.16 B
+109,MTS,Metcash Ltd,$4.18,-2.79%,8.01%,-1.18%,13.28%,Consumer Staples,$4.04 B
+110,BPT,Beach Energy Ltd,$1.77,6.97%,13.87%,7.62%,36.82%,Energy,$4.03 B
+111,ILU,Iluka Resources Ltd,$9.49,2.60%,8.71%,-11.97%,15.03%,Materials,$4.03 B
+112,ALU,Altium Ltd,$28.61,0.35%,12.24%,0.60%,-20.97%,Information Technology,$3.76 B
+113,FBU,Fletcher Building Ltd,$4.68,0.21%,10.38%,-5.26%,-32.57%,Industrials,$3.66 B
+114,FLT,Flight Centre Travel Group Ltd,$17.97,-2.28%,1.70%,-11.87%,23.51%,Consumer Discretionary,$3.59 B
+115,TNE,Technology One Ltd,$10.87,-1.63%,6.05%,4.22%,19.58%,Information Technology,$3.51 B
+116,DOW,Downer Edi Ltd,$5.12,0.00%,3.85%,-10.96%,-8.90%,Industrials,$3.46 B
+117,NHF,Nib Holdings Ltd,$7.44,0.41%,4.49%,1.09%,16.80%,Financials,$3.42 B
+118,UWL,Uniti Group Ltd,$4.96,0.61%,0.81%,0.61%,48.06%,Communication Services,$3.4 B
+119,A2M,The a2 Milk Company Ltd,$4.53,1.80%,6.84%,4.86%,-26.34%,Consumer Staples,$3.37 B
+120,CLW,Charter Hall Long Wale REIT,$4.64,1.09%,5.70%,-4.53%,-3.53%,Real Estate,$3.35 B
+121,NEC,Nine Entertainment Co. Holdings Ltd,$1.95,-0.26%,5.69%,-12.95%,-34.34%,Communication Services,$3.33 B
+122,RWC,Reliance Worldwide Corporation Ltd,$4.17,1.21%,10.90%,9.16%,-20.27%,Industrials,$3.29 B
+123,SCP,Shopping Centres Australasia Property Group,$2.93,0.69%,6.93%,-1.35%,12.69%,Real Estate,$3.27 B
+124,PMV,Premier Investments Ltd,$20.04,-0.89%,-0.40%,-10.09%,-29.14%,Consumer Discretionary,$3.19 B
+125,AMP,AMP Ltd,$0.98,-0.51%,-2.01%,-11.36%,-16.67%,Financials,$3.18 B
+126,NWL,Netwealth Group Ltd,$12.94,3.03%,16.26%,3.60%,-22.24%,Financials,$3.15 B
+127,ORA,Orora Ltd,$3.71,0.82%,1.92%,-4.13%,13.11%,Materials,$3.15 B
+128,BLD,Boral Ltd,$2.79,-1.41%,4.49%,-8.82%,-61.99%,Materials,$3.08 B
+129,CNU,Chorus Ltd,$6.69,-0.15%,5.69%,2.45%,13.39%,Communication Services,$2.99 B
+131,CRN,Coronado Global Resources Inc,$1.78,2.89%,8.21%,-19.82%,113.17%,Materials,$2.98 B
+132,NHC,New Hope Corporation Ltd,$3.55,6.61%,10.59%,-6.58%,101.71%,Energy,$2.95 B
+133,NIC,Nickel Industries Ltd,$1.08,3.87%,8.04%,-12.60%,8.59%,Materials,$2.94 B
+134,ANN,Ansell Ltd,$22.90,0.04%,7.61%,-16.24%,-46.71%,Health Care,$2.92 B
+135,BKW,Brickworks Ltd,$19.08,1.01%,7.92%,-7.33%,-23.00%,Materials,$2.9 B
+136,CIA,Champion Iron Ltd,$5.60,4.09%,5.46%,-25.23%,-15.02%,Materials,$2.89 B
+137,GOZ,Growthpoint Properties Australia,$3.68,1.66%,5.75%,-4.66%,-13.21%,Real Estate,$2.84 B
+139,HDN,Homeco Daily Needs REIT,$1.35,-1.47%,3.46%,1.51%,-2.54%,Real Estate,$2.78 B
+140,SGM,Sims Ltd,$14.27,0.85%,-1.38%,-19.70%,-13.31%,Materials,$2.78 B
+141,NSR,National Storage REIT,$2.32,0.00%,5.46%,-1.70%,14.29%,Real Estate,$2.77 B
+142,AVZ,AVZ Minerals Ltd,$0.78,0.00%,0.00%,0.00%,387.50%,Materials,$2.75 B
+143,CTD,Corporate Travel Management Ltd,$18.89,-2.98%,-2.18%,-12.91%,-9.62%,Consumer Discretionary,$2.74 B
+144,BRG,Breville Group Ltd,$19.24,-0.47%,9.13%,-6.83%,-34.89%,Consumer Discretionary,$2.68 B
+145,GOLD,ETFs Metal Securities Australia Ltd,$24.49,-0.61%,-0.73%,1.22%,11.61%,Financials,$2.67 B
+146,BWP,BWP Trust,$4.13,1.23%,6.17%,1.23%,-4.84%,Real Estate,$2.65 B
+147,APE,Eagers Automotive Ltd,$10.26,0.79%,13.25%,-4.47%,-37.52%,Consumer Discretionary,$2.64 B
+148,QUAL,Vaneck MSCI International Quality ETF,$36.23,-0.39%,6.81%,-0.14%,-6.04%,Financials,$2.62 B
+149,GNE,Genesis Energy Ltd,$2.49,0.81%,5.06%,1.22%,-19.42%,Utilities,$2.61 B
+150,ZIM,Zimplats Holdings Ltd,$24.15,-1.83%,-2.03%,-16.87%,20.75%,Materials,$2.6 B
+151,APM,APM Human Services International Ltd,$2.83,2.91%,13.66%,-11.56%,-20.28%,Industrials,$2.6 B
+152,SGR,The Star Entertainment Group Ltd,$2.71,-0.73%,5.45%,-9.06%,-25.55%,Consumer Discretionary,$2.58 B
+153,MFG,Magellan Financial Group Ltd,$13.68,-1.01%,8.66%,-8.07%,-74.20%,Financials,$2.53 B
+154,ARB,ARB Corporation Ltd,$30.78,0.72%,12.58%,-2.10%,-29.37%,Consumer Discretionary,$2.52 B
+155,PXA,Pexa Group Ltd,$13.94,1.98%,20.38%,-7.80%,-18.62%,Real Estate,$2.47 B
+d,ABP,Abacus Property Group,$2.76,1.10%,1.85%,-6.12%,-15.34%,Real Estate,$2.46 B
+158,TAH,Tabcorp Holdings Ltd,$1.08,1.41%,2.37%,6.93%,8.72%,Consumer Discretionary,$2.4 B
+160,CQR,Charter Hall Retail REIT,$4.04,1.51%,3.86%,-4.94%,4.39%,Real Estate,$2.35 B
+161,DRR,Deterra Royalties Ltd,$4.43,2.31%,10.20%,-1.12%,-1.99%,Materials,$2.34 B
+162,LTR,Liontown Resources Ltd,$1.07,-1.84%,4.93%,-19.32%,50.99%,Materials,$2.33 B
+163,PRU,Perseus Mining Ltd,$1.70,-0.29%,-2.02%,-10.76%,18.06%,Materials,$2.31 B
+165,EVT,Event Hospitality and Entertainment Ltd,$13.87,0.36%,0.00%,-5.97%,12.31%,Communication Services,$2.24 B
+166,IRE,Iress Ltd,$11.89,1.71%,16.91%,15.89%,-8.33%,Information Technology,$2.23 B
+167,BFL,BSP Financial Group Ltd,$4.76,0.00%,-2.66%,-4.80%,-8.46%,Financials,$2.22 B
+168,GNC,Graincorp Ltd,$9.56,2.14%,5.17%,-1.44%,85.27%,Consumer Staples,$2.19 B
+172,HLS,Healius Ltd,$3.70,-2.12%,0.00%,-12.94%,-18.32%,Health Care,$2.14 B
+174,BAP,Bapcor Ltd,$6.18,1.48%,9.00%,0.00%,-26.43%,Consumer Discretionary,$2.1 B
+175,VNT,Ventia Services Group Ltd,$2.44,0.83%,6.55%,-3.94%,43.53%,Industrials,$2.09 B
+176,CMW,Cromwell Property Group,$0.80,0.63%,15.22%,1.27%,-12.16%,Real Estate,$2.08 B
+177,MGF,Magellan Global Fund,$1.35,-1.10%,4.65%,-6.90%,-25.21%,Financials,$2.08 B
+178,WEB,Webjet Ltd,$5.46,-1.80%,2.83%,-8.54%,13.28%,Consumer Discretionary,$2.08 B
+179,CSR,CSR Ltd,$4.27,0.95%,7.02%,-8.57%,-27.75%,Materials,$2.07 B
+180,SNZ,Summerset Group Holdings Ltd,$8.86,0.00%,2.90%,-8.47%,-27.67%,Health Care,$2.05 B
+181,DDR,Dicker Data Ltd,$11.76,1.21%,7.30%,-2.16%,9.70%,Information Technology,$2.03 B
+182,ELD,Elders Ltd,$12.92,2.70%,4.19%,-4.51%,10.33%,Consumer Staples,$2.02 B
+183,SUL,Super Retail Group Ltd,$8.80,-0.79%,5.14%,-6.48%,-32.62%,Consumer Discretionary,$1.99 B
+184,NUF,Nufarm Ltd,$5.22,0.77%,7.19%,-2.79%,9.21%,Materials,$1.98 B
+185,DHG,Domain Holdings Australia Ltd,$3.13,-0.95%,16.79%,-2.19%,-38.15%,Communication Services,$1.98 B
+187,LNK,Link Administration Holdings Ltd,$3.83,-0.26%,10.69%,-14.89%,-23.09%,Information Technology,$1.96 B
+188,SFR,Sandfire Resources Ltd,$4.77,2.80%,-0.63%,-12.16%,-25.12%,Materials,$1.96 B
+189,WAM,WAM Capital Ltd,$1.79,1.71%,7.51%,-13.11%,-17.51%,Financials,$1.95 B
+190,SKC,Skycity Entertainment Group Ltd,$2.56,-0.39%,4.92%,3.23%,-19.24%,Consumer Discretionary,$1.95 B
+192,CIP,Centuria Industrial REIT,$3.03,0.00%,2.71%,-10.36%,-20.68%,Real Estate,$1.92 B
+193,VUK,Virgin Money Uk Plc,$2.32,-0.43%,7.41%,-14.07%,-38.46%,Financials,$1.9 B
+195,IFL,Insignia Financial Ltd,$2.88,-1.37%,2.86%,-11.93%,-33.64%,Financials,$1.88 B
+196,PDN,Paladin Energy Ltd,$0.63,0.81%,10.62%,-16.11%,22.55%,Energy,$1.86 B
+197,SMR,Stanmore Resources Ltd,$2.04,5.97%,3.03%,-21.84%,205.08%,Energy,$1.84 B
+199,CXO,Core Lithium Ltd,$1.04,1.46%,-3.26%,-20.31%,352.17%,Materials,$1.8 B
+200,IPH,IPH Ltd,$8.19,0.99%,12.97%,5.00%,7.20%,Industrials,$1.79 B
+202,PDL,Pendal Group Ltd,$4.63,0.65%,10.77%,-9.39%,-41.61%,Financials,$1.77 B
+203,MXT,Metrics Master Income Trust,$1.97,-0.76%,9.17%,-3.20%,-4.15%,Financials,$1.73 B
+205,WPR,Waypoint REIT,$2.42,1.26%,7.56%,-1.63%,-15.91%,Real Estate,$1.72 B
+206,AIZ,Air New Zealand Ltd,$0.51,0.00%,2.00%,-14.29%,-64.71%,Industrials,$1.72 B
+209,HUB,HUB24 Ltd,$21.18,2.12%,18.79%,-11.79%,-24.28%,Financials,$1.7 B
+211,PPT,Perpetual Ltd,$29.75,-1.29%,6.75%,-6.77%,-23.80%,Financials,$1.69 B
+213,INA,Ingenia Communities Group,$4.11,-0.24%,7.03%,4.32%,-33.39%,Real Estate,$1.68 B
+214,CEN,Contact Energy Ltd,$6.69,-3.74%,3.40%,0.60%,-10.20%,Utilities,$1.66 B
+215,AUB,AUB Group Ltd,$17.93,-1.81%,9.20%,0.17%,-15.79%,Financials,$1.66 B
+220,ABC,Adbri Ltd,$2.49,0.40%,6.87%,-11.39%,-28.65%,Materials,$1.63 B
+221,MVW,Vaneck Australian EQUAL Weight ETF,$31.24,0.19%,3.82%,-6.05%,-5.33%,Financials,$1.61 B
+223,LSF,L1 Long Short Fund Ltd,$2.61,1.56%,3.16%,-8.42%,1.95%,Financials,$1.6 B
+224,CNI,Centuria Capital Group,$1.99,2.31%,3.11%,-9.96%,-26.84%,Real Estate,$1.58 B
+225,ARF,Arena REIT,$4.51,1.35%,11.91%,6.87%,24.24%,Real Estate,$1.56 B
+226,RBD,Restaurant Brands New Zealand Ltd,$12.45,0.00%,0.00%,0.00%,0.81%,Consumer Discretionary,$1.55 B
+227,LOV,Lovisa Holdings Ltd,$14.45,0.07%,10.56%,-1.37%,0.00%,Consumer Discretionary,$1.55 B
+228,IVC,Invocare Ltd,$10.69,0.94%,5.01%,-2.73%,-6.06%,Consumer Discretionary,$1.54 B
+229,JLG,Johns LYNG Group Ltd,$5.90,0.86%,18.47%,4.06%,19.35%,Industrials,$1.53 B
+230,GRR,Grange Resources Ltd,$1.32,5.18%,6.88%,-14.84%,174.42%,Materials,$1.53 B
+231,PNI,Pinnacle Investment Management Group Ltd,$7.62,-4.15%,3.53%,-4.75%,-34.59%,Financials,$1.52 B
+232,WLE,Wam Leaders Ltd,$1.47,-0.34%,6.16%,-4.25%,-5.33%,Financials,$1.51 B
+234,BRN,Brainchip Holdings Ltd,$0.88,-4.87%,-3.83%,-18.89%,67.62%,Information Technology,$1.51 B
+236,TLX,TELIX Pharmaceuticals Ltd,$4.75,-0.63%,14.46%,10.98%,-19.76%,Health Care,$1.49 B
+237,LIC,Lifestyle Communities Ltd,$14.11,1.51%,18.67%,3.90%,-6.93%,Real Estate,$1.48 B
+238,JDO,Judo Capital Holdings Ltd,$1.32,-0.75%,3.13%,-26.46%,-37.14%,Financials,$1.46 B
+239,PSI,PSC Insurance Group Ltd,$4.18,-1.18%,5.82%,-6.07%,19.77%,Financials,$1.46 B
+241,SYA,Sayona Mining Ltd,$0.18,25.00%,34.62%,-16.67%,136.91%,Materials,$1.44 B
+242,HMC,Home Consortium Ltd,$4.80,-1.24%,9.84%,-11.44%,-14.29%,Real Estate,$1.44 B
+243,CCP,Credit Corp Group Ltd,$21.11,1.34%,9.04%,-8.62%,-28.44%,Financials,$1.43 B
+244,CHN,Chalice Mining Ltd,$3.85,-1.79%,3.77%,-38.40%,-44.44%,Materials,$1.43 B
+245,CGC,Costa Group Holdings Ltd,$2.99,1.01%,2.05%,-3.86%,-9.39%,Consumer Staples,$1.39 B
+246,AAC,Australian Agricultural Company Ltd,$2.30,-2.13%,2.22%,11.11%,65.47%,Consumer Staples,$1.39 B
+258,BKL,Blackmores Ltd,$70.00,-0.96%,-0.34%,-1.40%,-3.25%,Consumer Staples,$1.36 B
+249,OCL,Objective Corporation Ltd,$14.32,-2.59%,13.02%,-6.16%,-5.17%,Information Technology,$1.36 B
+250,MAQ,Macquarie Telecom Group Ltd,$62.21,-0.54%,5.80%,5.24%,17.82%,Communication Services,$1.34 B
+251,CQE,Charter Hall Social Infrastructure REIT,$3.60,1.70%,10.77%,0.84%,0.28%,Real Estate,$1.32 B
+253,PPH,Pushpay Holdings Ltd,$1.15,-3.38%,5.53%,-12.93%,-31.02%,Information Technology,$1.31 B
+254,LFG,Liberty Financial Group,$4.30,1.66%,7.50%,-12.25%,-43.42%,Financials,$1.31 B
+255,WAF,West African Resources Ltd,$1.28,3.66%,3.66%,2.00%,28.79%,Materials,$1.3 B
+257,KLS,Kelsian Group Ltd,$5.95,0.00%,-1.33%,-21.09%,-35.81%,Industrials,$1.3 B
+258,MFF,MFF Capital Investments Ltd,$2.22,0.00%,4.72%,-9.39%,-22.38%,Financials,$1.3 B
+259,CDA,Codan Ltd,$7.15,-0.14%,8.66%,-9.15%,-59.72%,Information Technology,$1.29 B
+260,LFS,Latitude Group Holdings Ltd,$1.25,1.22%,-0.40%,-30.45%,-45.15%,Financials,$1.29 B
+261,IAP,Irongate Group,$1.89,0.27%,0.27%,0.53%,28.57%,Real Estate,$1.28 B
+263,IMU,Imugene Ltd,$0.22,-10.42%,43.33%,13.16%,-41.89%,Health Care,$1.26 B
+264,SLR,Silver Lake Resources Ltd,$1.35,0.75%,-7.85%,-10.89%,-22.86%,Materials,$1.26 B
+265,GOR,Gold Road Resources Ltd,$1.20,3.91%,-1.24%,-8.08%,-9.13%,Materials,$1.26 B
+266,CMM,Capricorn Metals Ltd,$3.30,-3.79%,-6.25%,-6.78%,74.14%,Materials,$1.23 B
+267,DEG,De Grey Mining Ltd,$0.85,-2.30%,-3.41%,-19.43%,-28.57%,Materials,$1.2 B
+268,BKI,BKI Investment Company Ltd,$1.61,0.63%,2.22%,-4.45%,0.63%,Financials,$1.2 B
+269,BGA,Bega Cheese Ltd,$3.90,-1.27%,-2.50%,-16.84%,-36.59%,Consumer Staples,$1.18 B
+270,SP1,Southern Cross Payments Ltd,$1.07,0.00%,0.00%,0.00%,0.00%,Information Technology,$1.18 B
+271,AUI,Australian United Investment Company Ltd,$9.39,0.54%,1.51%,-3.59%,-6.38%,Financials,$1.18 B
+273,CKF,Collins Foods Ltd,$9.97,11.52%,18.97%,6.97%,-21.50%,Consumer Discretionary,$1.17 B
+274,GUD,G.U.D. Holdings Ltd,$8.25,-1.79%,3.64%,-27.31%,-28.26%,Consumer Discretionary,$1.16 B
+275,MGH,Maas Group Holdings Ltd,$3.91,2.90%,0.51%,-14.07%,-32.59%,Industrials,$1.16 B
+277,LKE,Lake Resources N.L.,$0.83,-4.05%,-38.75%,-41.75%,155.39%,Materials,$1.15 B
+278,SDR,Siteminder Ltd,$4.24,-0.94%,3.92%,-7.63%,-16.21%,Information Technology,$1.15 B
+279,NVX,Novonix Ltd,$2.37,-4.82%,1.28%,-36.46%,5.80%,Information Technology,$1.15 B
+282,RRL,Regis Resources Ltd,$1.46,-1.36%,-18.94%,-27.07%,-40.37%,Materials,$1.1 B
+283,COF,Centuria Office REIT,$1.84,1.38%,6.07%,-7.32%,-24.13%,Real Estate,$1.1 B
+284,BGP,Briscoe Group Australasia Ltd,$4.84,0.00%,0.00%,0.00%,19.51%,Consumer Discretionary,$1.08 B
+285,PTM,Platinum Asset Management Ltd,$1.83,-0.55%,7.04%,1.39%,-63.06%,Financials,$1.07 B
+286,HSN,Hansen Technologies Ltd,$5.32,3.50%,14.16%,5.14%,-14.47%,Information Technology,$1.07 B
+287,NAN,Nanosonics Ltd,$3.52,0.57%,16.56%,-4.09%,-39.73%,Health Care,$1.06 B
+288,RFF,Rural Funds Group,$2.74,2.62%,2.24%,-6.80%,3.17%,Real Estate,$1.05 B
+289,KAR,Karoon Energy Ltd,$1.86,6.59%,11.38%,-10.15%,40.38%,Energy,$1.04 B
+290,VSL,Vulcan Steel Ltd,$7.85,-0.25%,3.56%,-8.83%,10.56%,Materials,$1.03 B
+292,NWS,News Corporation,$23.46,-0.89%,2.81%,-3.42%,-26.41%,Communication Services,$1.02 B
+293,WTN,Winton Land Ltd,$3.45,0.00%,0.00%,0.00%,-11.31%,Real Estate,$1.02 B
+294,UMG,United Malt Group Ltd,$3.41,0.59%,1.49%,-9.55%,-23.37%,Consumer Staples,$1.02 B
+295,CXL,CALIX Ltd,$6.21,-0.16%,5.61%,-20.59%,140.70%,Materials,$1 B
+296,TGR,Tassal Group Ltd,$4.61,16.12%,30.23%,27.00%,27.00%,Consumer Staples,$990.33 M
+298,MND,Monadelphous Group Ltd,$10.37,0.00%,1.87%,-2.17%,1.77%,Industrials,$987.87 M
+299,ING,Inghams Group Ltd,$2.64,0.76%,4.35%,-5.38%,-33.67%,Consumer Staples,$981.23 M
+300,DUI,Diversified United Investment Ltd,$4.57,-0.65%,1.33%,-4.19%,-11.43%,Financials,$976.78 M
+301,DBI,Dalrymple Bay Infrastructure Ltd,$1.97,0.00%,-1.99%,-5.74%,-2.48%,Industrials,$976.65 M
+302,HGH,Heartland Group Holdings Ltd,$1.64,0.00%,0.00%,-17.59%,-15.03%,Financials,$972.36 M
+303,JIN,Jumbo Interactive Ltd,$15.40,4.05%,13.15%,-0.84%,-12.60%,Consumer Discretionary,$966.48 M
+305,GMA,Genworth Mortgage Insurance Australia Ltd,$2.50,5.49%,9.17%,-16.67%,-1.58%,Financials,$954.12 M
+306,HTA,Hutchison Telecommunications (Australia) Ltd,$0.07,2.94%,-6.67%,-9.09%,-36.36%,Communication Services,$950.08 M
+308,ACL,Australian Clinical Labs Ltd,$4.66,0.87%,4.96%,-11.41%,33.14%,Health Care,$940.55 M
+310,PNV,Polynovo Ltd,$1.41,7.25%,7.25%,14.69%,-50.70%,Health Care,$929.67 M
+311,GEM,G8 Education Ltd,$1.09,0.93%,4.31%,-5.63%,9.00%,Consumer Discretionary,$923.66 M
+313,MP1,Megaport Ltd,$5.80,-5.07%,9.43%,-18.54%,-67.74%,Information Technology,$916.1 M
+314,DXI,Dexus Industria REIT,$2.87,0.70%,3.61%,-8.01%,-12.37%,Real Estate,$910.96 M
+315,INR,Ioneer Ltd,$0.44,4.82%,17.57%,-18.69%,29.85%,Materials,$909.72 M
+317,OBL,Omni Bridgeway Ltd,$3.38,2.74%,14.19%,0.00%,-9.87%,Financials,$908 M
+318,29M,29METALS Ltd,$1.85,-2.38%,-10.63%,-32.23%,-7.50%,Materials,$890.44 M
+319,SYR,Syrah Resources Ltd,$1.32,2.73%,16.37%,-26.33%,30.87%,Materials,$880.32 M
+321,MCR,Mincor Resources NL,$1.78,6.29%,10.94%,-26.65%,70.67%,Materials,$859.75 M
+322,MAF,Ma Financial Group Ltd,$4.85,0.21%,7.54%,-23.02%,-9.85%,Financials,$848.54 M
+323,JRV,Jervois Global Ltd,$0.56,3.74%,12.12%,-31.06%,7.84%,Materials,$843.46 M
+324,ABB,Aussie Broadband Ltd,$3.52,1.15%,14.66%,-16.79%,20.96%,Communication Services,$836.43 M
+325,SIQ,Smartgroup Corporation Ltd,$6.24,-1.27%,6.67%,-23.90%,-13.45%,Industrials,$834.44 M
+326,RMS,Ramelius Resources Ltd,$0.95,-1.05%,-15.25%,-27.31%,-45.69%,Materials,$819.68 M
+328,CUV,Clinuvel Pharmaceuticals Ltd,$15.93,-1.24%,13.54%,3.51%,-44.32%,Health Care,$787.11 M
+329,NWH,NRW Holdings Ltd,$1.75,0.58%,1.16%,-12.09%,19.11%,Industrials,$783.84 M
+330,IMD,IMDEX Ltd,$1.97,-2.24%,-4.15%,-18.80%,0.26%,Materials,$779.03 M
+331,PBH,Pointsbet Holdings Ltd,$2.56,-8.57%,0.39%,-12.03%,-79.70%,Consumer Discretionary,$777.26 M
+332,VUL,Vulcan Energy Resources Ltd,$5.90,-6.05%,9.06%,-21.54%,-23.38%,Materials,$776.71 M
+333,JHG,Janus Henderson Group Plc,$36.55,-1.30%,7.75%,-5.63%,-29.21%,Financials,$770.08 M
+334,CIN,Carlton Investments Ltd,$29.00,-0.69%,0.00%,-8.29%,-3.33%,Financials,$767.77 M
+335,SGF,SG Fleet Group Ltd,$2.24,-1.32%,6.67%,-0.89%,-26.07%,Industrials,$766.05 M
+336,DGL,DGL Group Ltd,$2.71,-3.90%,14.35%,-2.17%,108.46%,Materials,$756.61 M
+337,MMS,Mcmillan Shakespeare Ltd,$9.74,-0.51%,8.10%,-13.73%,-23.67%,Industrials,$753.69 M
+338,OML,Ooh!Media Ltd,$1.25,3.32%,12.16%,-10.43%,-27.41%,Communication Services,$745.31 M
+339,KMD,KMD Brands Ltd,$1.05,-2.78%,3.45%,-0.94%,-29.05%,Consumer Discretionary,$744.45 M
+340,DTL,Data#3 Ltd,$4.81,-0.62%,6.89%,-1.64%,-12.55%,Information Technology,$742.42 M
+341,APX,Appen Ltd,$6.00,-5.81%,3.81%,-8.26%,-57.60%,Information Technology,$740.68 M
+342,URW,Unibail-Rodamco-Westfield,$3.98,-0.50%,1.27%,-21.50%,-35.60%,Real Estate,$735.13 M
+345,BGL,Bellevue Gold Ltd,$0.69,-2.14%,-12.18%,-21.26%,-30.10%,Materials,$706.53 M
+347,KKC,KKR Credit Income Fund,$1.90,0.26%,0.00%,-8.21%,-14.80%,Financials,$703 M
+348,ECX,Eclipx Group Ltd,$2.34,0.86%,9.86%,-0.43%,4.93%,Financials,$702.7 M
+349,AX1,Accent Group Ltd,$1.30,2.78%,4.44%,-6.16%,-52.91%,Consumer Discretionary,$701.72 M
+350,IDX,Integral Diagnostics Ltd,$3.04,0.66%,4.11%,-13.39%,-42.24%,Health Care,$696.38 M
+351,VRT,Virtus Health Ltd,$7.98,0.00%,1.66%,-1.24%,23.72%,Health Care,$695.17 M
+352,PWH,PWR Holdings Ltd,$6.91,1.62%,9.16%,-14.80%,-0.58%,Consumer Discretionary,$693.05 M
+353,DJW,Djerriwarrh Investments Ltd,$2.91,0.00%,3.93%,-4.90%,-4.59%,Financials,$690.13 M
+354,NCK,Nick Scali Ltd,$8.44,-1.17%,14.52%,-5.49%,-22.07%,Consumer Discretionary,$683.64 M
+355,ERA,Energy Resources of Australia Ltd,$0.19,15.63%,-28.85%,-36.21%,-35.09%,Energy,$682.91 M
+356,EMR,Emerald Resources NL,$1.15,0.44%,-2.54%,-5.74%,27.07%,Materials,$682.35 M
+357,BOE,Boss Energy Ltd,$1.93,4.89%,7.82%,-15.35%,46.21%,Energy,$680.48 M
+358,SBM,ST Barbara Ltd,$0.83,-3.49%,-28.45%,-30.25%,-52.98%,Materials,$677.06 M
+359,RED,RED 5 Ltd,$0.29,0.00%,-9.52%,-25.97%,54.05%,Materials,$671.56 M
+362,MGX,Mount Gibson Iron Ltd,$0.55,5.77%,-1.79%,-18.52%,-40.54%,Materials,$665.81 M
+363,PL8,Plato Income Maximiser Ltd,$1.20,0.84%,5.26%,-5.14%,-6.25%,Financials,$665.44 M
+364,ALG,Ardent Leisure Group Ltd,$1.39,2.97%,5.73%,2.59%,42.78%,Consumer Discretionary,$664.39 M
+365,ASB,Austal Ltd,$1.84,0.82%,0.82%,-8.71%,-10.92%,Industrials,$664.01 M
+366,BLY,Boart Longyear Group Ltd,$2.20,0.00%,-0.45%,-12.00%,-63.93%,Materials,$651.02 M
+367,HPI,Hotel Property Investments,$3.35,2.76%,7.72%,-6.69%,1.52%,Real Estate,$648.23 M
+368,PGH,Pact Group Holdings Ltd,$1.88,-1.57%,-1.05%,-12.56%,-48.91%,Materials,$647.27 M
+369,IFRA,Vaneck Ftse Global Infrastructure (Hedged) ETF,$21.65,0.56%,5.15%,-4.84%,2.56%,Financials,$645.82 M
+370,SWM,Seven West Media Ltd,$0.41,-1.22%,9.46%,-26.36%,-11.96%,Communication Services,$644 M
+371,IFM,Infomedia Ltd,$1.71,2.40%,6.88%,-0.58%,15.54%,Information Technology,$642.55 M
+373,SHV,Select Harvests Ltd,$5.27,-0.57%,-1.31%,-6.39%,-20.75%,Consumer Staples,$637.41 M
+375,SIG,Sigma Healthcare Ltd,$0.60,7.14%,15.39%,21.21%,0.84%,Health Care,$635.57 M
+379,SM1,Synlait Milk Ltd,$2.82,-2.76%,-1.05%,-9.62%,-17.06%,Consumer Staples,$616.4 M
+383,OCA,Oceania Healthcare Ltd,$0.84,0.00%,-11.11%,-9.19%,-38.01%,Health Care,$602.44 M
+384,WGB,Wam Global Ltd,$1.72,-1.44%,0.88%,-10.91%,-33.27%,Financials,$602.07 M
+385,CBO,Cobram Estate Olives Ltd,$1.45,1.75%,-4.61%,-9.38%,-22.04%,Consumer Staples,$601.03 M
+386,AQZ,Alliance Aviation Services Ltd,$3.73,0.27%,-2.61%,-7.67%,-14.25%,Industrials,$599.54 M
+387,PGF,PM Capital Global Opportunities Fund Ltd,$1.53,1.33%,1.66%,-2.24%,-2.55%,Financials,$598.8 M
+388,WGX,Westgold Resources Ltd,$1.26,3.70%,-3.45%,-7.35%,-33.33%,Materials,$596.61 M
+389,NBI,NB Global Corporate Income Trust,$1.35,-0.74%,1.50%,-8.78%,-26.43%,Financials,$595.91 M
+391,LLL,Leo Lithium Ltd,$0.60,4.35%,-14.29%,-14.29%,-14.29%,Materials,$591.99 M
+392,AD8,Audinate Group Ltd,$7.60,-3.80%,16.92%,19.69%,-3.68%,Information Technology,$586.5 M
+393,AEF,Australian Ethical Investment Ltd,$5.21,-3.16%,7.65%,-2.43%,-33.72%,Financials,$585.54 M
+394,RF1,Regal Investment Fund,$3.38,2.12%,7.64%,-9.87%,-32.04%,Financials,$583.29 M
+395,PPM,Pepper Money Ltd,$1.32,2.34%,15.86%,-28.14%,-49.42%,Financials,$578.16 M
+396,5EA,5E Advanced Materials Inc,$1.96,-9.07%,-29.42%,-44.14%,-33.73%,Materials,$576.68 M
+398,NEA,Nearmap Ltd,$1.15,-2.13%,14.43%,-3.36%,-36.81%,Information Technology,$573.93 M
+399,OMH,Om Holdings Ltd,$0.78,1.31%,-4.32%,-9.88%,-17.11%,Materials,$572.43 M
+400,WHF,Whitefield Ltd,$5.12,-0.20%,-1.16%,-5.19%,-16.20%,Financials,$569.9 M
+401,RIC,Ridley Corporation Ltd,$1.78,0.57%,4.40%,4.71%,54.78%,Consumer Staples,$568.7 M
+402,PFP,Propel Funeral Partners Ltd,$4.80,0.00%,11.63%,-3.03%,26.98%,Consumer Discretionary,$565.9 M
+403,BBN,Baby Bunting Group Ltd,$4.25,-2.75%,3.16%,-1.16%,-21.30%,Consumer Discretionary,$562.95 M
+404,VACF,Vanguard Australian Corp Fixed Interest INDEX ETF,$47.45,0.17%,1.22%,-2.10%,-10.93%,Financials,$561.73 M
+405,OFX,OFX Group Ltd,$2.31,2.21%,7.94%,-4.94%,73.68%,Financials,$561.57 M
+410,VG1,Vgi Partners Global Investments Ltd,$1.49,-1.33%,1.37%,-4.81%,-38.38%,Financials,$556.26 M
+411,360,LIFE360 Inc,$2.99,-3.24%,15.00%,-20.48%,-49.49%,Information Technology,$555.13 M
+412,SSM,Service Stream Ltd,$0.90,1.70%,10.43%,4.05%,7.56%,Industrials,$554.36 M
+413,REG,Regis Healthcare Ltd,$1.84,-1.08%,-3.41%,-17.86%,-8.00%,Health Care,$553.53 M
+414,EQT,EQT Holdings Ltd,$26.20,-0.38%,1.16%,-4.03%,-0.34%,Financials,$553.49 M
+415,TUA,Tuas Ltd,$1.19,-4.03%,8.18%,-4.80%,77.61%,Communication Services,$552.05 M
+416,STX,Strike Energy Ltd,$0.27,3.85%,5.88%,-8.48%,-16.92%,Energy,$548.13 M
+417,MAD,Mader Group Ltd,$2.68,3.08%,12.13%,16.52%,215.29%,Industrials,$536 M
+419,EHE,Estia Health Ltd,$2.05,3.28%,6.22%,-5.53%,-18.97%,Health Care,$535.96 M
+420,RPL,Regal Partners Ltd,$2.53,0.00%,-12.15%,-41.03%,-61.08%,Financials,$535.13 M
+421,ASM,Australian Strategic Materials Ltd,$3.73,-2.10%,0.81%,-28.82%,-47.47%,Materials,$529.5 M
+422,GWA,GWA Group Ltd,$1.99,4.46%,10.25%,-2.93%,-27.64%,Industrials,$527.76 M
+423,GDI,GDI Property Group,$0.98,2.08%,3.70%,-3.92%,-14.04%,Real Estate,$525.76 M
+424,QRI,Qualitas Real Estate Income Fund,$1.40,0.00%,-1.41%,-4.76%,-13.76%,Financials,$525.33 M
+426,OPH,Ophir High Conviction Fund,$2.43,-2.02%,1.67%,-8.99%,-43.22%,Financials,$518.2 M
+427,EML,EML Payments Ltd,$1.39,-5.46%,-2.12%,-6.10%,-61.53%,Information Technology,$517.24 M
+428,TER,Terracom Ltd,$0.65,7.50%,-0.77%,-14.57%,486.36%,Energy,$514.61 M
+430,NMT,Neometals Ltd,$0.93,-4.64%,1.09%,-29.12%,111.78%,Materials,$507.25 M
+431,AKP,Audio Pixels Holdings Ltd,$17.52,-1.57%,1.57%,-3.20%,-31.83%,Consumer Discretionary,$502.8 M
+432,PEB,Pacific Edge Ltd,$0.62,0.00%,0.81%,-8.82%,-59.74%,Health Care,$502.31 M
+433,MIR,Mirrabooka Investments Ltd,$2.84,1.79%,8.40%,-11.25%,-18.39%,Financials,$500.26 M
+434,HCW,Healthco Healthcare and Wellness REIT,$1.54,0.33%,0.33%,-6.69%,-23.25%,Real Estate,$499.46 M
+435,SSR,SSR Mining Inc,$25.85,-5.10%,-6.17%,-6.98%,27.15%,Materials,$496.27 M
+437,MOT,Metrics Income Opportunities Trust,$1.84,0.27%,0.55%,-13.03%,-9.42%,Financials,$486.26 M
+438,HM1,Hearts and Minds Investments Ltd,$2.12,-1.85%,4.95%,-4.51%,-49.64%,Financials,$483.04 M
+439,RMC,Resimac Group Ltd,$1.19,0.42%,-4.05%,-16.55%,-52.98%,Financials,$482.76 M
+440,GCI,Gryphon Capital Income Trust,$1.98,0.00%,2.60%,-3.66%,-2.71%,Financials,$480.24 M
+441,MYX,Mayne Pharma Group Ltd,$0.27,1.89%,14.89%,-8.48%,-16.92%,Health Care,$476.51 M
+442,PRN,Perenti Global Ltd,$0.67,2.29%,9.84%,3.08%,0.00%,Materials,$472.83 M
+443,NEU,Neuren Pharmaceuticals Ltd,$3.75,-0.79%,8.07%,3.88%,140.39%,Health Care,$472.37 M
+444,ARU,Arafura Resources Ltd,$0.30,-1.64%,1.70%,-21.05%,114.29%,Materials,$466.24 M
+445,PPC,Peet Ltd,$0.97,2.11%,8.99%,-9.35%,-18.83%,Real Estate,$464.86 M
+447,CVW,Clearview Wealth Ltd,$0.70,1.45%,10.24%,-11.39%,40.00%,Financials,$462.73 M
+451,FGX,Future Generation Investment Company Ltd,$1.14,-0.87%,-0.44%,-10.63%,-16.24%,Financials,$458.39 M
+452,QAL,Qualitas Ltd,$1.55,-3.13%,2.99%,-22.50%,-38.00%,Real Estate,$455.7 M
+453,PGG,Partners Group Global Income Fund,$1.65,0.61%,11.11%,-0.30%,-10.33%,Financials,$453.97 M
+454,PIC,Perpetual Equity Investment Company Ltd,$1.20,2.56%,6.20%,-2.04%,-6.98%,Financials,$451.21 M
+455,FCL,Fineos Corporation Holdings Plc,$1.41,-5.69%,3.30%,-21.45%,-61.05%,Information Technology,$450.33 M
+456,GDX,Vaneck Gold Miners ETF,$42.74,0.00%,-1.77%,-5.76%,-5.76%,Financials,$448.25 M
+457,MYS,Mystate Ltd,$4.19,-1.18%,10.26%,-10.85%,-9.31%,Financials,$443.74 M
+458,SGLLV,Ricegrowers Ltd,$7.15,-9.84%,-0.56%,2.14%,3.18%,Consumer Staples,$442.92 M
+459,TPW,Temple & Webster Group Ltd,$3.66,-2.92%,3.98%,-16.25%,-68.23%,Consumer Discretionary,$441.08 M
+460,PAN,Panoramic Resources Ltd,$0.22,4.88%,4.88%,-21.82%,48.28%,Materials,$440.95 M
+461,AGY,Argosy Minerals Ltd,$0.33,-5.80%,3.18%,-27.78%,238.54%,Materials,$440.72 M
+462,CCX,City Chic Collective Ltd,$1.90,-3.06%,5.56%,-22.13%,-63.60%,Consumer Discretionary,$440.65 M
+464,FGG,Future Generation Global Investment Company Ltd,$1.11,0.46%,2.32%,-10.16%,-28.25%,Financials,$435.72 M
+465,SLX,SILEX Systems Ltd,$2.12,-1.85%,8.72%,66.93%,131.69%,Information Technology,$434.55 M
+467,PSC,Prospect Resources Ltd,$0.97,-0.51%,0.00%,1.04%,410.53%,Materials,$433.36 M
+469,MOAT,Vaneck Morningstar Wide Moat ETF,$95.93,-0.70%,7.46%,0.42%,-1.99%,Financials,$425.14 M
+471,MSB,Mesoblast Ltd,$0.65,-2.99%,-6.48%,-34.34%,-68.60%,Health Care,$422.8 M
+472,HIO,Hawsons Iron Ltd,$0.59,15.69%,43.90%,3.51%,287.39%,Materials,$422.47 M
+473,MNY,MONEY3 Corporation Ltd,$1.97,-0.51%,5.91%,-11.66%,-39.01%,Financials,$421.11 M
+474,REP,Ram Essential Services Property Fund,$0.81,-0.62%,-4.17%,-9.04%,-19.50%,Real Estate,$419.47 M
+475,OPT,Opthea Ltd,$1.18,4.89%,16.83%,-11.61%,-9.92%,Health Care,$415.54 M
+476,AFG,Australian Finance Group Ltd,$1.54,-3.45%,1.99%,-18.95%,-45.00%,Financials,$414.46 M
+477,AVR,Anteris Technologies Ltd,$30.00,8.30%,43.61%,50.00%,327.35%,Health Care,$414.43 M
+478,SKO,Serko Ltd,$3.44,-0.29%,9.21%,5.52%,-49.41%,Information Technology,$414.23 M
+479,ADT,Adriatic Metals Plc,$1.99,0.00%,5.03%,-14.07%,-23.65%,Materials,$413.92 M
+480,BLX,Beacon Lighting Group Ltd,$1.85,1.65%,3.93%,-13.95%,-1.60%,Consumer Discretionary,$413.14 M
+483,STA,Strandline Resources Ltd,$0.33,0.00%,13.79%,-8.33%,65.00%,Materials,$409.26 M
+484,VG8,Vgi Partners Asian Investments Ltd,$1.85,2.78%,4.82%,1.37%,-23.87%,Financials,$408.82 M
+485,COE,Cooper Energy Ltd,$0.25,4.17%,-15.25%,2.67%,11.23%,Energy,$408.18 M
+486,CTM,Centaurus Metals Ltd,$0.96,2.69%,2.14%,-18.38%,29.93%,Materials,$407.89 M
+487,ALK,Alkane Resources Ltd,$0.68,0.74%,-20.47%,-34.93%,-40.87%,Materials,$405 M
+489,DXC,Dexus Convenience Retail REIT,$2.93,0.00%,6.55%,-6.39%,-22.07%,Real Estate,$404.71 M
+490,TYR,Tyro Payments Ltd,$0.78,-9.83%,-9.30%,-24.27%,-77.71%,Information Technology,$403.43 M
+491,ALI,Argo Global Listed Infrastructure Ltd,$2.40,4.35%,5.26%,0.42%,9.09%,Financials,$402.08 M
+492,BCB,Bowen Coking Coal Ltd,$0.26,4.00%,-24.64%,-25.71%,280.25%,Materials,$400.9 M
+493,AGG,Anglogold Ashanti Ltd,$4.48,2.99%,-0.89%,-9.50%,-8.94%,Materials,$399.65 M
+497,RUL,Rpmglobal Holdings Ltd,$1.68,0.00%,5.00%,0.00%,-4.55%,Information Technology,$390.75 M
+498,QHAL,Vaneck MSCI International Quality (Hedged) ETF,$34.11,-0.32%,8.29%,-2.57%,-12.96%,Financials,$390.32 M
+500,SKT,Sky Network Television Ltd,$2.23,1.36%,8.78%,-3.46%,39.38%,Communication Services,$389.55 M
+501,MHJ,Michael Hill International Ltd,$1.00,3.09%,8.11%,-2.91%,20.48%,Consumer Discretionary,$388.29 M
+502,PE1,Pengana Private Equity Trust,$1.39,1.83%,8.59%,-8.55%,21.86%,Financials,$386.4 M
+504,PCI,Perpetual Credit Income Trust,$0.96,0.00%,2.13%,-4.95%,-9.01%,Financials,$384.78 M
+506,BUB,Bubs Australia Ltd,$0.63,-3.10%,2.46%,28.87%,35.87%,Consumer Staples,$382.98 M
+507,JMS,Jupiter Mines Ltd,$0.20,2.63%,2.63%,-7.14%,-32.76%,Materials,$382 M
+508,SNL,Supply Network Ltd,$9.35,2.97%,4.00%,3.66%,24.67%,Consumer Discretionary,$381.8 M
+510,PWR,Peter Warren Automotive Holdings Ltd,$2.20,-1.35%,3.29%,-9.09%,-40.54%,Consumer Discretionary,$378.23 M
+511,IWLD,Ishares Core MSCI World Ex Aus Esg Leaders ETF,$38.34,-0.10%,6.44%,-0.16%,-15.42%,Financials,$376.64 M
+512,BVS,Bravura Solutions Ltd,$1.51,1.34%,3.07%,-5.03%,-56.86%,Information Technology,$375.01 M
+513,AOF,Australian Unity Office Fund,$2.28,-0.87%,0.44%,4.11%,-13.31%,Real Estate,$374.79 M
+514,SDG,Sunland Group Ltd,$2.73,-1.44%,0.74%,-0.37%,15.68%,Real Estate,$373.76 M
+515,SST,Steamships Trading Company Ltd,$12.00,0.00%,0.00%,-0.83%,20.00%,Industrials,$372.1 M
+516,PMC,Platinum Capital Ltd,$1.27,0.00%,0.80%,-3.07%,-16.78%,Financials,$371.81 M
+518,WBT,Weebit Nano Ltd,$2.15,-5.29%,9.69%,-15.02%,24.70%,Information Technology,$370.45 M
+519,CVN,Carnarvon Energy Ltd,$0.21,7.90%,5.13%,-10.87%,-14.58%,Energy,$369.04 M
+521,MVF,Monash Ivf Group Ltd,$0.94,-2.08%,1.08%,-12.15%,10.59%,Health Care,$366.26 M
+524,EHL,Emeco Holdings Ltd,$0.69,-1.43%,-2.82%,-11.54%,-32.02%,Industrials,$363.4 M
+525,GDF,Garda Property Group,$1.60,-1.24%,2.90%,1.92%,26.59%,Real Estate,$363.09 M
+527,GLN,Galan Lithium Ltd,$1.17,-1.68%,9.35%,-17.61%,37.65%,Materials,$356.15 M
+529,HT1,HT&E Ltd,$1.14,3.17%,-1.30%,-24.50%,-31.94%,Communication Services,$354.64 M
+530,VGL,Vista Group International Ltd,$1.52,0.00%,4.48%,8.21%,-31.14%,Information Technology,$353.29 M
+531,PAC,Pacific Current Group Ltd,$6.87,-0.44%,2.08%,-6.53%,20.95%,Financials,$351.4 M
+532,FLOT,Vaneck Australian Floating Rate ETF,$24.70,0.00%,0.12%,-0.12%,-1.48%,Financials,$350.34 M
+533,WMI,Wam Microcap Ltd,$1.68,4.04%,15.52%,-1.47%,-8.47%,Financials,$350.31 M
+534,ADH,Adairs Ltd,$2.04,-0.49%,14.29%,-12.45%,-50.37%,Consumer Discretionary,$349.49 M
+535,MLX,Metals X Ltd,$0.39,1.32%,2.67%,-23.00%,75.00%,Materials,$349.3 M
+536,AFP,Aft Pharmaceuticals Ltd,$3.33,0.00%,-4.31%,4.06%,-20.71%,Health Care,$349.2 M
+537,AMI,Aurelia Metals Ltd,$0.28,5.66%,5.66%,-16.42%,-25.33%,Materials,$346.38 M
+538,EZL,EUROZ Hartleys Group Ltd,$1.76,0.57%,5.72%,1.15%,3.85%,Financials,$346.26 M
+539,SLC,Superloop Ltd,$0.72,-3.38%,7.52%,-11.73%,-21.86%,Communication Services,$345.64 M
+541,3PL,3P Learning Ltd,$1.23,-0.81%,-1.60%,-14.58%,-5.02%,Consumer Discretionary,$340.08 M
+543,TLG,Talga Group Ltd,$1.11,-5.93%,-1.33%,-19.27%,-17.16%,Materials,$338.52 M
+544,GMD,Genesis Minerals Ltd,$1.34,0.75%,0.00%,-12.42%,92.37%,Materials,$338 M
+545,AMH,Amcil Ltd,$1.09,-0.46%,0.00%,-3.54%,-9.92%,Financials,$337.76 M
+547,BET,Betmakers Technology Group Ltd,$0.37,-2.63%,10.45%,-23.71%,-67.83%,Consumer Discretionary,$334.65 M
+548,CDP,Carindale Property Trust,$4.60,0.22%,3.37%,0.22%,2.22%,Real Estate,$334.19 M
+549,RNU,Renascor Resources Ltd,$0.16,-3.13%,3.33%,-31.11%,134.85%,Energy,$333.91 M
+550,PLL,Piedmont Lithium Inc,$0.63,2.44%,-9.35%,-26.74%,-33.68%,Materials,$332.37 M
+551,DVP,Develop Global Ltd,$2.06,-0.96%,2.49%,-13.45%,-42.78%,Materials,$331.86 M
+552,BCI,BCI Minerals Ltd,$0.28,-5.17%,1.85%,-24.66%,-50.45%,Materials,$331.71 M
+553,NTO,Nitro Software Ltd,$1.36,-3.55%,7.09%,4.62%,-57.79%,Information Technology,$331.63 M
+554,BSE,Base Resources Ltd,$0.28,-1.75%,12.00%,-6.67%,-5.09%,Materials,$329.84 M
+555,RDY,Readytech Holdings Ltd,$3.08,2.67%,12.41%,3.01%,25.20%,Information Technology,$329.49 M
+556,SRV,Servcorp Ltd,$3.40,5.26%,1.49%,3.03%,0.00%,Real Estate,$329.18 M
+557,ZIP,ZIP Co Ltd,$0.48,-7.77%,-10.38%,-44.44%,-93.79%,Financials,$326.77 M
+558,AGI,Ainsworth Game Technology Ltd,$0.97,-2.02%,-3.00%,-8.06%,-22.40%,Consumer Discretionary,$326.69 M
+559,PAI,Platinum Asia Investments Ltd,$0.89,-0.56%,4.12%,6.63%,-27.46%,Financials,$325.73 M
+561,ECF,Elanor Commercial Property Fund,$1.02,0.00%,3.55%,-1.92%,-10.87%,Real Estate,$322.89 M
+562,KGN,Kogan.com Ltd,$3.00,-4.76%,0.33%,-16.67%,-76.92%,Consumer Discretionary,$320.78 M
+563,CWP,Cedar Woods Properties Ltd,$3.89,-3.23%,9.27%,-7.82%,-43.05%,Real Estate,$319.48 M
+564,A4N,Alpha Hpa Ltd,$0.40,-1.24%,-1.24%,-28.57%,-21.57%,Materials,$318.19 M
+565,NGI,Navigator Global Investments Ltd,$1.34,2.29%,11.67%,-7.27%,-19.52%,Financials,$315.83 M
+566,BCK,Brockman Mining Ltd,$0.03,0.00%,0.00%,-15.00%,-10.53%,Materials,$315.53 M
+567,ASG,Autosports Group Ltd,$1.56,0.97%,11.43%,-15.22%,-40.00%,Consumer Discretionary,$313.56 M
+568,HFR,Highfield Resources Ltd,$0.86,-2.27%,14.67%,-3.91%,14.67%,Materials,$313.41 M
+570,TIE,Tietto Minerals Ltd,$0.33,-1.52%,0.00%,-21.69%,8.33%,Materials,$311.84 M
+571,KCN,Kingsgate Consolidated Ltd,$1.40,-1.41%,2.94%,-11.39%,62.79%,Materials,$309.85 M
+572,BFG,Bell Financial Group Ltd,$0.96,9.09%,-11.11%,-18.99%,-46.37%,Financials,$307.91 M
+573,IHL,Incannex Healthcare Ltd,$0.24,-9.43%,-4.00%,-42.86%,-2.04%,Health Care,$307.75 M
+574,PNR,Pantoro Ltd,$0.20,-7.14%,0.00%,-29.09%,-2.50%,Materials,$307.13 M
+575,FSF,Fonterra Shareholders' Fund,$2.85,-2.73%,1.42%,9.20%,-16.42%,Consumer Staples,$306.14 M
+576,SYM,SYMBIO Holdings Ltd,$3.60,-3.74%,-4.76%,-18.18%,-33.95%,Information Technology,$305.42 M
+577,UNI,Universal Store Holdings Ltd,$4.15,-7.37%,17.56%,-2.81%,-43.92%,Consumer Discretionary,$303.76 M
+579,MAH,Macmahon Holdings Ltd,$0.14,3.70%,7.69%,-12.50%,-22.22%,Materials,$301.7 M
+580,RAC,Race Oncology Ltd,$1.89,1.89%,24.42%,8.33%,-47.93%,Health Care,$300.69 M
+581,COG,COG Financial Services Ltd,$1.60,4.24%,8.11%,-6.71%,23.08%,Financials,$300.66 M
+582,PDI,Predictive Discovery Ltd,$0.19,2.70%,2.70%,-5.00%,118.39%,Materials,$300.59 M
+584,MNS,Magnis Energy Technologies Ltd,$0.31,-3.13%,3.33%,-24.39%,16.98%,Materials,$299.61 M
+586,TRJ,Trajan Group Holdings Ltd,$2.00,-1.96%,1.52%,-27.54%,-12.28%,Health Care,$298.91 M
+587,BTH,Bigtincan Holdings Ltd,$0.54,-1.82%,13.68%,6.93%,-50.36%,Information Technology,$298.27 M
+588,NWF,Newfield Resources Ltd,$0.40,0.00%,3.95%,-5.95%,18.61%,Materials,$294.52 M
+592,PSQ,Pacific Smiles Group Ltd,$1.82,-1.09%,-4.21%,13.04%,-34.06%,Health Care,$290.44 M
+595,NWE,Norwest Energy NL,$0.04,0.00%,13.16%,30.30%,437.50%,Energy,$288.43 M
+596,MYR,Myer Holdings Ltd,$0.35,1.45%,12.90%,-16.67%,4.48%,Consumer Discretionary,$287.45 M
+597,CAJ,Capitol Health Ltd,$0.28,1.85%,1.85%,-19.12%,-22.54%,Health Care,$286.61 M
+598,CVC,CVC Ltd,$2.45,0.00%,0.00%,11.36%,24.37%,Financials,$286.22 M
+599,SXL,Southern Cross Media Group Ltd,$1.09,5.34%,13.61%,-25.69%,-48.09%,Communication Services,$283.02 M
+600,BMN,Bannerman Energy Ltd,$0.19,0.00%,15.15%,0.00%,11.77%,Energy,$282.66 M
+601,PPE,Peoplein Ltd,$2.85,-2.40%,9.62%,-10.94%,-37.77%,Industrials,$281.45 M
+602,TRA,Turners Automotive Group Ltd,$3.25,0.00%,0.00%,0.00%,14.04%,Consumer Discretionary,$279.73 M
+603,MAU,Magnetic Resources NL,$1.24,0.41%,-0.80%,-11.43%,-18.95%,Materials,$278.19 M
+605,CGS,Cogstate Ltd,$1.60,3.23%,12.68%,-5.88%,15.94%,Health Care,$277.39 M
+607,IMM,Immutep Ltd,$0.32,3.23%,3.23%,-18.99%,-39.05%,Health Care,$277.2 M
+608,GNG,GR Engineering Services Ltd,$1.71,-2.29%,-5.00%,-10.00%,13.25%,Materials,$275.71 M
+610,HLO,Helloworld Travel Ltd,$1.77,-1.94%,8.28%,-24.25%,10.31%,Consumer Discretionary,$273.62 M
+612,BST,Best & Less Group Holdings Ltd,$2.17,-0.91%,14.21%,-13.20%,0.46%,Consumer Discretionary,$272.05 M
+613,SPL,Starpharma Holdings Ltd,$0.67,0.76%,2.31%,-10.74%,-56.39%,Health Care,$271.61 M
+614,NEW,NEW Energy Solar Ltd,$0.85,4.32%,4.97%,5.63%,1.20%,Utilities,$270.9 M
+615,RSG,Resolute Mining Ltd,$0.25,8.89%,0.00%,-10.91%,-52.43%,Materials,$270.46 M
+616,WAX,Wam Research Ltd,$1.36,0.74%,8.80%,-8.73%,-16.82%,Financials,$269.33 M
+617,EGG,Enero Group Ltd,$3.05,3.39%,11.31%,5.17%,32.61%,Communication Services,$268.54 M
+618,UOS,United Overseas Australia Ltd,$0.53,0.00%,-3.64%,-14.52%,-30.26%,Real Estate,$267.86 M
+619,SRG,SRG Global Ltd,$0.60,-2.44%,3.45%,-1.64%,18.81%,Industrials,$267.48 M
+620,DDH,DDH1 Ltd,$0.63,-2.34%,-2.34%,-20.89%,-46.12%,Materials,$266.72 M
+621,MYD,Mydeal.com.Au Ltd,$1.03,0.00%,0.49%,0.99%,81.42%,Consumer Discretionary,$265.3 M
+622,ABA,Auswide Bank Ltd,$6.07,0.00%,1.76%,-11.77%,-2.88%,Financials,$264.73 M
+623,WXOZ,SPDR S&P World Ex Australia Carbon Control Fund,$37.88,-0.58%,5.78%,-1.25%,-7.63%,Financials,$264.67 M
+624,FDV,Frontier Digital Ventures Ltd,$0.70,-2.11%,-8.55%,-23.63%,-47.15%,Communication Services,$263.6 M
+628,LGL,Lynch Group Holdings Ltd,$2.10,0.00%,-2.33%,-3.67%,-42.15%,Consumer Staples,$256.34 M
+629,NPR,Newmark Property REIT,$1.41,-4.73%,-6.62%,-12.96%,-25.79%,Real Estate,$256.12 M
+630,CDM,Cadence Capital Ltd,$0.86,-1.15%,-3.37%,-8.02%,-18.87%,Financials,$256.09 M
+631,SUBD,Vaneck Australian Subordinated Debt ETF,$24.51,0.16%,0.08%,-0.53%,-3.35%,Financials,$254.95 M
+632,FZO,Family ZONE Cyber Safety Ltd,$0.31,1.64%,10.71%,-13.89%,-48.15%,Information Technology,$254.8 M
+633,PPS,Praemium Ltd,$0.50,1.01%,5.26%,-21.26%,-53.92%,Information Technology,$253.95 M
+635,IGL,Ive Group Ltd,$1.77,0.28%,18.46%,1.44%,20.07%,Communication Services,$253.29 M
+636,SO4,Salt Lake Potash Ltd,$0.31,0.00%,0.00%,0.00%,-12.68%,Materials,$253.11 M
+637,RBL,Redbubble Ltd,$0.92,3.39%,15.82%,-2.14%,-75.34%,Consumer Discretionary,$252.47 M
+638,NXL,NUIX Ltd,$0.80,-0.63%,3.25%,-20.50%,-67.15%,Information Technology,$252.27 M
+640,RHY,RHYTHM Biosciences Ltd,$1.17,0.86%,10.38%,-4.29%,26.83%,Health Care,$250.48 M
+641,DYL,Deep Yellow Ltd,$0.65,1.58%,8.40%,-8.51%,-9.16%,Energy,$249.74 M
+642,DGO,DGO Gold Ltd,$2.93,0.00%,0.00%,1.38%,-2.98%,Materials,$245.81 M
+643,APZ,Aspen Group,$1.57,1.78%,7.90%,-1.26%,17.16%,Real Estate,$243.42 M
+644,CAI,Calidus Resources Ltd,$0.60,-7.69%,-4.76%,-32.58%,29.03%,Materials,$241.93 M
+646,SFC,Schaffer Corporation Ltd,$17.60,0.00%,3.77%,-4.35%,-14.98%,Consumer Discretionary,$240.09 M
+647,KED,Keypath Education International Inc,$1.15,-11.54%,-14.18%,-24.84%,-70.44%,Consumer Discretionary,$239.46 M
+652,FFX,Firefinch Ltd,$0.20,0.00%,-11.11%,-81.22%,-50.00%,Materials,$236.25 M
+654,MLD,Maca Ltd,$0.69,-2.13%,-2.13%,-9.80%,-10.39%,Materials,$235.78 M
+655,GDG,Generation Development Group Ltd,$1.27,-2.69%,0.00%,-15.67%,49.70%,Financials,$235.34 M
+656,TIG,Tigers Realm Coal Ltd,$0.02,5.88%,5.88%,0.00%,125.00%,Materials,$235.2 M
+658,KSC,K & S Corporation Ltd,$1.75,0.00%,-1.69%,-2.24%,9.03%,Industrials,$234.63 M
+659,GAL,Galileo Mining Ltd,$1.31,3.56%,-14.94%,-22.94%,385.19%,Materials,$234.24 M
+660,KSL,Kina Securities Ltd,$0.82,0.62%,0.00%,-8.43%,-23.11%,Financials,$233.85 M
+661,SVM,Sovereign Metals Ltd,$0.50,3.13%,0.00%,-7.48%,-25.00%,Materials,$233.01 M
+663,EOS,Electro Optic Systems Holdings Ltd,$1.54,0.00%,-3.45%,-20.21%,-65.08%,Industrials,$232.41 M
+664,PYC,PYC Therapeutics Ltd,$0.07,8.96%,4.29%,0.00%,-51.33%,Health Care,$232.21 M
+665,MAY,Melbana Energy Ltd,$0.08,-9.30%,9.86%,-16.13%,258.89%,Energy,$227.3 M
+666,TWR,Tower Ltd,$0.60,8.18%,3.48%,-4.03%,-14.05%,Financials,$225.79 M
+667,PIA,Pengana International Equities Ltd,$0.88,-2.22%,-2.22%,-16.98%,-32.82%,Financials,$225.31 M
+668,LOT,Lotus Resources Ltd,$0.23,0.00%,9.52%,-11.54%,35.29%,Materials,$225.13 M
+669,NZM,NZME Ltd,$1.16,0.87%,10.48%,0.00%,70.59%,Communication Services,$224.53 M
+670,C79,Chrysos Corporation Ltd,$3.76,3.87%,-1.57%,-27.69%,-42.15%,Industrials,$224.25 M
+671,FID,Fiducian Group Ltd,$7.10,-4.83%,5.97%,-4.18%,-1.66%,Financials,$223.49 M
+672,HUM,Humm Group Ltd,$0.45,-1.10%,-10.00%,-38.36%,-53.61%,Financials,$222.87 M
+673,ARX,Aroa Biosurgery Ltd,$0.65,0.78%,-4.41%,-20.73%,-38.68%,Health Care,$222.77 M
+674,IHWL,Ishares Core MSCI World Ex Aus Esg Leaders Aud Hed,$37.60,-0.27%,5.83%,-2.36%,-18.97%,Financials,$222.76 M
+676,HE8,Helios Energy Ltd,$0.09,1.19%,-5.56%,-15.00%,-48.49%,Energy,$221.34 M
+677,AIS,Aeris Resources Ltd,$0.07,0.00%,4.55%,-25.00%,-61.79%,Materials,$221.29 M
+678,ADN,Andromeda Metals Ltd,$0.07,-4.05%,5.97%,-35.46%,-60.56%,Materials,$220.65 M
+679,WOT,Wotso Property,$1.35,3.85%,8.43%,3.45%,-6.90%,Real Estate,$220.54 M
+680,BRL,Bathurst Resources Ltd,$1.15,1.77%,4.55%,-19.01%,161.36%,Materials,$220.06 M
+681,WGN,Wagners Holding Company Ltd,$1.17,0.00%,-0.43%,-1.27%,-43.72%,Materials,$218.58 M
+682,LYL,Lycopodium Ltd,$5.50,0.37%,7.84%,-4.01%,1.10%,Industrials,$218.57 M
+683,LRK,Lark Distilling Co. Ltd,$2.90,0.35%,9.43%,14.17%,-10.49%,Consumer Staples,$218.39 M
+684,NCZ,New Century Resources Ltd,$1.66,-2.65%,-5.43%,-24.77%,-49.85%,Materials,$216.79 M
+686,QVE,QV Equities Ltd,$0.95,1.07%,1.61%,-8.70%,-5.03%,Financials,$216.64 M
+687,GNP,Genusplus Group Ltd,$1.22,-1.61%,11.93%,-4.69%,35.56%,Industrials,$215.64 M
+688,WQG,WCM Global Growth Ltd,$1.15,-4.58%,-2.14%,-2.14%,-27.99%,Financials,$212.95 M
+690,PAR,Paradigm Biopharmaceuticals Ltd,$0.93,-6.09%,-5.61%,-23.24%,-52.32%,Health Care,$210.53 M
+691,MRM,Mma Offshore Ltd,$0.58,0.00%,13.73%,-1.70%,36.47%,Energy,$208.41 M
+693,BTI,Bailador Technology Investments Ltd,$1.48,1.72%,12.17%,8.46%,10.90%,Financials,$207.95 M
+694,ENN,Elanor Investors Group,$1.71,-2.85%,-1.16%,-14.32%,-12.11%,Consumer Discretionary,$207.87 M
+695,TBR,Tribune Resources Ltd,$3.96,0.25%,-0.50%,-1.98%,-15.75%,Materials,$207.77 M
+696,OGC,Oceanagold Corporation,$2.95,5.36%,-4.22%,-11.15%,15.69%,Materials,$207.41 M
+697,EVS,Envirosuite Ltd,$0.17,3.13%,10.00%,0.00%,83.33%,Information Technology,$207.07 M
+698,HZN,Horizon Oil Ltd,$0.13,4.00%,8.33%,-16.13%,18.18%,Energy,$205.26 M
+699,SRL,Sunrise Energy Metals Ltd,$2.27,-1.30%,-7.35%,-24.08%,23.04%,Materials,$204.43 M
+700,VMY,Vimy Resources Ltd,$0.18,0.00%,12.90%,-5.41%,52.17%,Energy,$203.63 M
+701,RHI,Red Hill Iron Ltd,$3.19,0.31%,4.25%,-9.12%,338.91%,Materials,$203.61 M
+702,GL1,Global Lithium Resources Ltd,$1.28,1.19%,8.02%,-21.71%,412.00%,Materials,$203.13 M
+703,PLUS,Vaneck Australian Corporate Bond Plus ETF,$15.97,0.19%,1.59%,-2.86%,-14.83%,Financials,$202.66 M
+704,ELO,Elmo Software Ltd,$2.24,-8.20%,-6.67%,-28.89%,-49.78%,Information Technology,$201.9 M
+706,D2O,Duxton Water Ltd,$1.68,1.21%,5.33%,9.09%,19.15%,Utilities,$201.42 M
+707,AZL,Arizona Lithium Ltd,$0.09,0.00%,-3.23%,-40.00%,309.09%,Materials,$200.94 M
+708,COB,Cobalt Blue Holdings Ltd,$0.63,-5.30%,5.04%,-24.24%,127.27%,Materials,$200.75 M
+709,CEL,Challenger Exploration Ltd,$0.20,-2.50%,-7.14%,-30.36%,-17.02%,Materials,$199.52 M
+710,WMA,Wam Alternative Assets Ltd,$1.03,-0.97%,2.50%,-6.39%,3.54%,Financials,$199.37 M
+711,IMA,Image Resources NL,$0.19,0.00%,5.71%,-11.91%,12.12%,Materials,$198.32 M
+713,GVF,Global Value Fund Ltd,$1.13,2.73%,6.10%,0.00%,0.00%,Financials,$196.89 M
+714,PPK,PPK Group Ltd,$2.20,-1.79%,6.28%,-27.39%,-85.31%,Industrials,$196.44 M
+715,PCG,Pengana Capital Group Ltd,$1.75,0.58%,6.06%,-12.50%,2.94%,Financials,$190.55 M
+716,NTU,Northern Minerals Ltd,$0.04,0.00%,5.41%,-9.30%,21.88%,Materials,$189.53 M
+718,RWL,Rubicon Water Ltd,$1.10,0.00%,-3.08%,-6.78%,10.00%,Information Technology,$189.07 M
+719,REIT,Vaneck Ftse International Property (Hedged) ETF,$17.55,-0.06%,4.34%,-5.08%,-13.63%,Financials,$188.58 M
+720,FRI,Finbar Group Ltd,$0.69,5.34%,1.47%,-4.17%,-19.30%,Real Estate,$187.76 M
+721,DUB,Dubber Corporation Ltd,$0.62,-7.52%,12.84%,-36.92%,-80.10%,Information Technology,$187.53 M
+722,SVL,Silver Mines Ltd,$0.15,-3.33%,-9.38%,-23.68%,-44.23%,Materials,$187.32 M
+723,AHQ,Allegiance Coal Ltd,$0.48,-2.04%,1.05%,-12.73%,-28.89%,Materials,$187.11 M
+724,ZER,ZETA Resources Ltd,$0.33,-1.49%,-5.71%,-13.16%,-10.81%,Materials,$186.62 M
+725,QUS,Betashares S&P 500 EQUAL Weight ETF,$39.90,-0.33%,6.00%,-2.75%,-1.48%,Financials,$186.54 M
+726,RTR,Rumble Resources Ltd,$0.30,3.45%,13.21%,-17.81%,-44.95%,Materials,$186.43 M
+728,TGP,360 Capital Group,$0.85,1.20%,5.63%,-3.98%,-6.63%,Financials,$185.05 M
+730,BYE,Byron Energy Ltd,$0.17,0.00%,9.68%,-2.86%,61.91%,Energy,$183.84 M
+731,PGC,Paragon Care Ltd,$0.29,-3.39%,-5.00%,-9.52%,9.62%,Health Care,$183.62 M
+732,HLA,Healthia Ltd,$1.43,-3.38%,3.62%,-8.92%,-28.12%,Health Care,$183.49 M
+733,PBP,Probiotec Ltd,$2.25,0.00%,5.63%,-0.88%,0.45%,Health Care,$182.98 M
+734,AVJ,Avjennings Ltd,$0.45,0.00%,-4.26%,-10.00%,-27.42%,Real Estate,$182.8 M
+735,MVB,Vaneck Australian Banks ETF,$27.61,0.15%,5.58%,-12.49%,-8.15%,Financials,$182.79 M
+738,GLB,Globe International Ltd,$4.35,-2.69%,2.35%,-14.37%,-23.68%,Consumer Discretionary,$180.37 M
+739,WAR,Wam Strategic Value Ltd,$1.00,0.50%,-1.96%,-9.09%,-20.95%,Financials,$180.13 M
+740,NOL,Nobleoak Life Ltd,$2.10,3.96%,10.53%,-1.87%,7.69%,Financials,$180.04 M
+742,QPM,Queensland Pacific Metals Ltd,$0.12,-8.00%,15.00%,-34.29%,-17.86%,Materials,$179.82 M
+743,MFB,My Food Bag Group Ltd,$0.74,0.00%,-9.20%,-6.33%,-42.64%,Consumer Staples,$179.4 M
+744,KPG,Kelly Partners Group Holdings Ltd,$3.92,0.51%,6.52%,10.42%,11.36%,Industrials,$176.4 M
+746,MVR,Vaneck Australian Resources ETF,$32.48,2.56%,4.10%,-8.58%,4.71%,Financials,$175.9 M
+747,LPD,Lepidico Ltd,$0.03,0.00%,8.00%,-6.90%,145.46%,Materials,$175.69 M
+748,VML,Vital Metals Ltd,$0.04,-2.33%,2.44%,-20.76%,-4.55%,Materials,$175.16 M
+749,CAT,Catapult Group International Ltd,$0.76,-0.66%,0.00%,-22.96%,-62.62%,Information Technology,$175.1 M
+752,SHJ,Shine Justice Ltd,$1.00,3.09%,9.89%,-6.54%,-11.50%,Consumer Discretionary,$173.26 M
+753,NRZ,Neurizer Ltd,$0.18,-2.70%,12.50%,2.86%,24.14%,Energy,$171.79 M
+755,PRT,PRT Company Ltd,$0.47,0.00%,0.00%,0.00%,106.67%,Communication Services,$170.34 M
+756,BRI,Big River Industries Ltd,$2.07,1.47%,-0.48%,-14.82%,-5.91%,Materials,$170.21 M
+757,AMA,AMA Group Ltd,$0.17,-2.94%,6.45%,-19.51%,-70.47%,Industrials,$168.7 M
+758,AGE,Alligator Energy Ltd,$0.05,8.33%,6.12%,-20.00%,44.44%,Energy,$168.63 M
+759,VLUE,Vaneck MSCI International Value ETF,$21.45,0.37%,4.08%,-4.28%,-0.79%,Financials,$167.31 M
+760,A1M,Aic Mines Ltd,$0.54,-3.57%,1.89%,-10.00%,100.00%,Materials,$166.73 M
+761,VIA,Viagold Rare Earth Resources Holdings Ltd,$2.00,0.00%,0.00%,0.00%,2339.02%,Materials,$166.62 M
+762,CLV,Clover Corporation Ltd,$1.00,2.04%,-2.91%,-23.66%,-44.90%,Materials,$166.44 M
+763,SFX,Sheffield Resources Ltd,$0.48,2.13%,3.23%,-6.80%,50.00%,Materials,$166.36 M
+764,EXP,Experience Co Ltd,$0.22,0.00%,-3.30%,-8.33%,-23.96%,Consumer Discretionary,$165.5 M
+765,GSS,Genetic Signatures Ltd,$1.15,0.00%,10.05%,-6.88%,0.88%,Health Care,$164.89 M
+766,MVE,Vaneck S&P/ASX Midcap ETF,$33.33,-0.03%,5.11%,-6.19%,-7.15%,Financials,$164.69 M
+767,SLH,Silk Logistics Holdings Ltd,$2.08,1.46%,4.00%,-11.49%,4.00%,Industrials,$163.74 M
+768,JRL,Jindalee Resources Ltd,$2.85,-1.72%,0.00%,-10.94%,11.77%,Materials,$163.53 M
+769,X64,Ten Sixty Four Ltd,$0.72,-1.38%,-2.06%,-6.54%,-12.27%,Materials,$162.99 M
+770,AVG,Australian Vintage Ltd,$0.65,-0.77%,2.38%,-5.15%,-18.75%,Consumer Staples,$162.95 M
+772,EWC,Energy World Corporation Ltd,$0.06,0.00%,-1.59%,-16.22%,-24.39%,Utilities,$161.7 M
+773,NXS,Next Science Ltd,$0.75,-2.60%,1.35%,-7.98%,-47.55%,Health Care,$161.09 M
+775,CTT,Cettire Ltd,$0.42,-11.58%,6.33%,-28.21%,-84.33%,Consumer Discretionary,$160.12 M
+776,ORR,Orecorp Ltd,$0.40,-1.24%,-17.53%,-27.93%,-49.37%,Materials,$159.6 M
+777,PEN,Peninsula Energy Ltd,$0.16,-5.88%,0.00%,-5.88%,3.23%,Energy,$159.57 M
+779,EEG,Empire Energy Group Ltd,$0.21,-4.55%,10.53%,-12.50%,-35.39%,Energy,$159.4 M
+780,3DP,Pointerra Ltd,$0.24,-6.00%,34.29%,-2.08%,-51.04%,Information Technology,$159.28 M
+781,SHA,Shape Australia Corporation Ltd,$1.89,0.00%,-0.26%,-10.00%,-3.57%,Industrials,$157.33 M
+782,BKY,Berkeley Energia Ltd,$0.35,1.45%,12.90%,-2.10%,-38.05%,Energy,$156.03 M
+784,IXR,Ionic Rare EARTHS Ltd,$0.04,2.56%,2.56%,-20.00%,73.91%,Materials,$154.9 M
+785,FEX,FENIX Resources Ltd,$0.30,0.00%,0.00%,-4.76%,-11.77%,Materials,$154.86 M
+787,PET,Phoslock Environmental Technologies Ltd,$0.25,0.00%,0.00%,0.00%,0.00%,Industrials,$152.98 M
+788,CII,Ci Resources Ltd,$1.32,7.76%,14.78%,8.20%,10.00%,Materials,$152.57 M
+789,GNX,GENEX Power Ltd,$0.11,0.00%,-8.33%,-21.43%,-51.11%,Utilities,$152.37 M
+790,BKT,Black Rock Mining Ltd,$0.16,0.00%,3.33%,-22.50%,14.82%,Materials,$151.47 M
+792,RCE,Recce Pharmaceuticals Ltd,$0.85,10.39%,50.44%,7.60%,-7.10%,Health Care,$151 M
+793,TNT,Tesserent Ltd,$0.12,4.35%,20.00%,-11.11%,-51.02%,Information Technology,$150.98 M
+794,SXE,Southern Cross Electrical Engineering Ltd,$0.58,0.00%,-0.86%,-3.33%,5.46%,Industrials,$150.8 M
+796,CVL,Civmec Ltd,$0.62,0.00%,-1.59%,-2.36%,-4.62%,Industrials,$148.05 M
+797,AXE,Archer Materials Ltd,$0.60,-4.03%,-2.46%,-17.36%,-34.62%,Information Technology,$147.84 M
+798,ERD,Eroad Ltd,$1.33,-6.99%,-13.92%,-43.40%,-76.25%,Information Technology,$147.28 M
+800,RCT,Reef Casino Trust,$3.00,0.00%,2.74%,-0.99%,18.11%,Consumer Discretionary,$147.18 M
+801,ERF,Elanor Retail Property Fund,$1.15,0.00%,9.52%,6.48%,-6.12%,Real Estate,$146.87 M
+802,COI,Comet Ridge Ltd,$0.17,-2.86%,9.68%,-10.53%,174.19%,Energy,$146.21 M
+804,ALC,Alcidion Group Ltd,$0.12,-4.17%,4.55%,-20.69%,-72.09%,Health Care,$145.83 M
+805,MCA,Murray Cod Australia Ltd,$0.19,0.00%,31.03%,-13.64%,-51.28%,Consumer Staples,$145.4 M
+806,SMP,Smartpay Holdings Ltd,$0.61,0.00%,4.27%,2.52%,-24.69%,Information Technology,$145.35 M
+807,CCV,Cash Converters International,$0.23,-2.13%,0.00%,-6.12%,6.98%,Financials,$144.34 M
+808,IPG,Ipd Group Ltd,$1.67,-0.30%,11.00%,15.63%,38.75%,Industrials,$143.67 M
+810,LPI,Lithium Power International Ltd,$0.41,0.00%,9.33%,-27.43%,134.29%,Materials,$143.15 M
+811,MME,Moneyme Ltd,$0.60,3.45%,-13.04%,-48.72%,-71.96%,Financials,$142.71 M
+812,CAA,Capral Ltd,$8.02,3.62%,14.41%,-10.89%,9.86%,Materials,$142.49 M
+813,PTB,PTB Group Ltd,$1.11,3.74%,8.82%,-3.90%,53.10%,Industrials,$141.2 M
+814,MIH,MNC Media Investment Ltd,$3.60,0.00%,0.00%,0.00%,0.00%,Communication Services,$141.09 M
+815,POS,Poseidon Nickel Ltd,$0.05,0.00%,4.55%,-33.33%,-41.03%,Materials,$140.94 M
+816,ARL,Ardea Resources Ltd,$0.83,3.75%,-2.35%,-28.45%,58.86%,Materials,$140.88 M
+817,ICT,Icollege Ltd,$0.13,8.33%,18.18%,18.18%,8.33%,Consumer Discretionary,$140.76 M
+818,GOW,Gowing Bros Ltd,$2.64,1.54%,-0.38%,-8.97%,12.82%,Financials,$140.74 M
+819,WGO,Warrego Energy Ltd,$0.12,-4.17%,-4.17%,-11.54%,-50.00%,Energy,$140.66 M
+820,QGL,Quantum Graphite Ltd,$0.48,-3.03%,14.29%,6.67%,841.18%,Materials,$140.64 M
+822,EOL,Energy One Ltd,$5.10,7.37%,16.44%,-7.10%,-21.66%,Information Technology,$140.43 M
+823,HPG,Hipages Group Holdings Ltd,$1.07,5.42%,20.90%,-7.76%,-63.73%,Communication Services,$140.18 M
+824,EGH,Eureka Group Holdings Ltd,$0.59,-1.67%,-1.67%,-6.35%,-1.67%,Real Estate,$139.94 M
+825,FLN,Freelancer Ltd,$0.31,19.23%,34.78%,3.33%,-74.17%,Industrials,$139.88 M
+826,MGV,Musgrave Minerals Ltd,$0.26,-1.89%,-13.33%,-16.13%,-27.78%,Materials,$139.66 M
+827,IOD,Iodm Ltd,$0.24,14.29%,6.67%,-11.11%,9.09%,Information Technology,$139.63 M
+828,ATA,Atturra Ltd,$0.70,-0.71%,17.80%,-2.80%,39.00%,Information Technology,$139.38 M
+829,FSA,FSA Group Ltd,$1.11,-0.45%,0.46%,-8.68%,6.76%,Financials,$139.21 M
+831,EGN,Engenco Ltd,$0.44,0.00%,0.00%,-5.38%,-17.76%,Industrials,$138.82 M
+832,FOR,Forager Australian Shares Fund,$1.27,0.79%,2.01%,-7.30%,-23.95%,Financials,$138.74 M
+833,BOC,Bougainville Copper Ltd,$0.35,1.47%,-1.43%,-13.75%,-33.65%,Materials,$138.37 M
+834,CAU,Cronos Australia Ltd,$0.25,4.17%,11.11%,-3.85%,127.27%,Health Care,$137.66 M
+835,RKN,Reckon Ltd,$1.22,0.83%,1.25%,0.41%,54.78%,Information Technology,$137.65 M
+837,ADO,Anteotech Ltd,$0.07,-8.00%,0.00%,-30.30%,-74.91%,Health Care,$137.16 M
+839,EPY,Earlypay Ltd,$0.48,1.06%,9.20%,-11.22%,1.06%,Financials,$136.39 M
+840,ANO,Advance Zinctek Ltd,$2.21,0.00%,5.24%,4.74%,-40.27%,Materials,$135.52 M
+841,TRS,The Reject Shop Ltd,$3.53,7.95%,14.61%,-4.08%,-35.70%,Consumer Discretionary,$135.29 M
+842,LEG,Legend Mining Ltd,$0.05,2.08%,-2.00%,-31.94%,-51.00%,Materials,$135 M
+843,MTO,Motorcycle Holdings Ltd,$2.18,3.32%,18.80%,-12.80%,-22.70%,Consumer Discretionary,$134.52 M
+844,CNB,Carnaby Resources Ltd,$0.93,-3.63%,29.17%,-3.13%,165.71%,Materials,$134.44 M
+845,CLG,Close the Loop Ltd,$0.40,0.00%,23.08%,12.68%,33.33%,Industrials,$134.18 M
+846,AND,Ansarada Group Ltd,$1.50,3.45%,11.11%,-16.67%,32.74%,Information Technology,$134 M
+847,ANG,Austin Engineering Ltd,$0.23,2.22%,4.55%,-9.80%,64.29%,Industrials,$133.8 M
+848,DTZ,DOTZ Nano Ltd,$0.30,0.00%,-7.69%,-4.76%,-13.04%,Information Technology,$133.4 M
+850,EGR,Ecograf Ltd,$0.30,9.26%,7.27%,-29.76%,-48.70%,Materials,$132.85 M
+851,GTK,Gentrack Group Ltd,$1.32,1.54%,3.53%,-12.58%,-30.89%,Information Technology,$132.63 M
+852,A2B,A2B Australia Ltd,$1.09,3.81%,7.92%,0.93%,-9.17%,Industrials,$132.14 M
+853,RDT,Red Dirt Metals Ltd,$0.43,8.86%,32.31%,-24.56%,152.94%,Materials,$130.96 M
+854,CYL,Catalyst Metals Ltd,$1.32,3.94%,-2.94%,-14.84%,-32.65%,Materials,$129.96 M
+855,CNEW,Vaneck China New Economy ETF,$8.26,-0.60%,2.61%,15.36%,-12.87%,Financials,$128.99 M
+856,WXHG,SPDR S&P World Ex Aus Carbon Control (Hedged) Fund,$25.20,-0.28%,5.93%,-2.59%,-13.31%,Financials,$128.79 M
+857,FLC,Fluence Corporation Ltd,$0.20,-5.95%,-8.14%,-22.55%,1.28%,Industrials,$128.48 M
+858,WAT,Waterco Ltd,$3.60,0.00%,3.45%,-1.37%,24.14%,Consumer Discretionary,$127.78 M
+859,ART,Airtasker Ltd,$0.29,-6.45%,-7.94%,-29.27%,-73.39%,Communication Services,$127.64 M
+860,ACF,Acrow Formwork and Construction Services Ltd,$0.50,0.00%,17.65%,9.89%,31.58%,Industrials,$127.57 M
+861,ARA,Ariadne Australia Ltd,$0.65,0.00%,3.18%,-7.14%,18.18%,Industrials,$127.56 M
+862,LRS,Latin Resources Ltd,$0.07,-2.94%,10.00%,-42.61%,37.50%,Materials,$127.38 M
+863,NTD,National Tyre & Wheel Ltd,$0.97,2.66%,2.66%,-7.21%,-10.23%,Consumer Discretionary,$127.32 M
+864,SSG,Shaver Shop Group Ltd,$0.97,0.00%,0.00%,-5.37%,-2.51%,Consumer Discretionary,$127.08 M
+865,IVZ,Invictus Energy Ltd,$0.17,0.00%,3.03%,-17.07%,6.25%,Energy,$126.91 M
+866,G6M,Group 6 Metals Ltd,$0.20,-4.76%,14.29%,-18.37%,-16.67%,Materials,$126.15 M
+867,AVL,Australian Vanadium Ltd,$0.03,-3.03%,-5.88%,-27.27%,68.42%,Materials,$126.11 M
+868,TGF,Tribeca Global Natural Resources Ltd,$2.05,0.49%,-1.44%,-23.51%,-8.48%,Financials,$126.08 M
+869,QIP,QANTM Intellectual Property Ltd,$0.92,-0.54%,-1.61%,-8.50%,-21.12%,Industrials,$125.81 M
+870,AR1,Austral Resources Australia Ltd,$0.51,-9.74%,18.61%,30.77%,155.00%,Materials,$125.06 M
+871,DRE,Dreadnought Resources Ltd,$0.04,10.00%,4.76%,0.00%,83.33%,Materials,$124.9 M
+872,CLNE,Vaneck Global Clean Energy ETF,$8.65,1.17%,6.14%,5.36%,-16.02%,Financials,$124.56 M
+873,RDG,Resource Development Group Ltd,$0.04,-2.27%,2.38%,-10.42%,-6.52%,Industrials,$124.06 M
+874,CYG,Coventry Group Ltd,$1.35,7.57%,15.88%,5.47%,-5.59%,Industrials,$123.43 M
+875,FWD,Fleetwood Ltd,$1.31,-3.68%,-13.53%,-19.39%,-41.52%,Consumer Discretionary,$123.4 M
+876,CD3,CD Private Equity Fund Iii,$1.71,3.64%,21.28%,6.88%,13.25%,Financials,$123.17 M
+877,DSE,Dropsuite Ltd,$0.18,0.00%,9.09%,0.00%,-5.26%,Information Technology,$122.74 M
+878,CKA,Cokal Ltd,$0.13,4.00%,4.00%,-3.70%,124.14%,Materials,$122.06 M
+879,M7T,MACH7 Technologies Ltd,$0.51,-8.93%,5.16%,-14.29%,-51.43%,Health Care,$121.8 M
+880,REX,Regional Express Holdings Ltd,$1.10,5.77%,9.45%,-5.17%,-8.33%,Industrials,$121.17 M
+881,EXR,Elixir Energy Ltd,$0.14,-3.57%,3.85%,-6.90%,-44.90%,Energy,$120.38 M
+882,MBH,Maggie Beer Holdings Ltd,$0.34,-0.73%,13.33%,-9.33%,-13.92%,Consumer Staples,$119.46 M
+883,AVH,Avita Medical Inc,$1.58,-2.48%,20.23%,2.94%,-71.67%,Health Care,$119.38 M
+884,PLT,Plenti Group Ltd,$0.70,2.19%,14.75%,1.45%,-48.53%,Financials,$119.11 M
+885,SEC,Spheria Emerging Companies Ltd,$1.97,0.25%,7.65%,-7.51%,-15.81%,Financials,$118.5 M
+886,AMN,Agrimin Ltd,$0.41,1.24%,-3.53%,-17.17%,1.45%,Materials,$117.81 M
+887,TBN,Tamboran Resources Ltd,$0.22,-4.35%,7.32%,-15.39%,-45.00%,Energy,$117.71 M
+888,EMV,Emvision Medical Devices Ltd,$1.52,-1.30%,16.92%,-18.72%,-46.10%,Health Care,$117.7 M
+889,LVH,Livehire Ltd,$0.40,1.94%,49.06%,31.67%,9.72%,Information Technology,$117.44 M
+890,ESGI,Vaneck MSCI International Sustainable Equity ETF,$26.65,0.04%,4.84%,-2.24%,-6.62%,Financials,$117.37 M
+891,IRD,Iron Road Ltd,$0.15,0.00%,-3.33%,-19.44%,-44.23%,Materials,$115.85 M
+892,LCY,Legacy Iron Ore Ltd,$0.02,-5.26%,-10.00%,-25.00%,38.46%,Materials,$115.32 M
+893,EER,East Energy Resources Ltd,$0.04,0.00%,0.00%,0.00%,0.00%,Energy,$115.24 M
+894,DRX,Diatreme Resources Ltd,$0.03,-3.03%,-15.79%,28.00%,52.38%,Materials,$115.12 M
+895,ABY,Adore Beauty Group Ltd,$1.22,0.00%,15.64%,-11.59%,-73.25%,Consumer Discretionary,$114.83 M
+896,LAU,Lindsay Australia Ltd,$0.38,-1.30%,-3.80%,-5.00%,1.33%,Industrials,$114.76 M
+897,BBC,BNK Banking Corporation Ltd,$0.97,-1.02%,-2.02%,-13.78%,29.33%,Financials,$114.66 M
+898,NVA,Nova Minerals Ltd,$0.64,10.44%,11.40%,0.00%,-49.20%,Materials,$114.43 M
+899,CAM,Clime Capital Ltd,$0.82,-0.61%,1.88%,-4.12%,-14.66%,Financials,$114.29 M
+900,EP1,E&P Financial Group Ltd,$0.48,2.13%,-5.88%,-12.73%,-28.36%,Financials,$114.09 M
+901,IPX,Iperionx Ltd,$0.81,-7.96%,-0.61%,3.85%,-4.71%,Materials,$113.63 M
+902,VHT,Volpara Health Technologies Ltd,$0.45,11.11%,-4.26%,-40.79%,-61.54%,Health Care,$113.37 M
+903,MDX,Mindax Ltd,$0.06,0.00%,0.00%,0.00%,-20.27%,Materials,$113.26 M
+904,ARR,American Rare EARTHS Ltd,$0.29,23.91%,23.91%,-16.18%,265.39%,Materials,$112.78 M
+905,AHX,Apiam Animal Health Ltd,$0.67,-2.56%,-3.96%,-13.31%,-28.24%,Health Care,$112.76 M
+906,TOT,360 Capital REIT,$0.80,0.63%,2.56%,-10.11%,-17.95%,Financials,$112.55 M
+907,GT1,Green Technology Metals Ltd,$0.63,-0.79%,-10.07%,-32.43%,150.00%,Materials,$112.47 M
+908,PYG,Paygroup Ltd,$0.95,0.00%,160.27%,163.89%,106.52%,Information Technology,$112.41 M
+909,BWX,BWX Ltd,$0.70,-40.60%,-39.83%,-50.00%,-87.25%,Consumer Staples,$112.17 M
+910,SPY,SPDR S&P 500 ETF Trust,$561.20,-0.35%,6.59%,-1.02%,-0.37%,Financials,$111.68 M
+911,PTX,Prescient Therapeutics Ltd,$0.17,3.03%,6.25%,3.03%,-17.07%,Health Care,$111.23 M
+912,88E,88 Energy Ltd,$0.01,0.00%,-22.22%,-36.36%,-75.00%,Energy,$111.2 M
+913,RYD,Ryder Capital Ltd,$1.30,-0.39%,3.60%,-8.80%,-26.42%,Financials,$110.3 M
+914,URF,US Masters Residential Property Fund,$0.28,5.77%,-3.51%,0.00%,10.00%,Real Estate,$110.26 M
+915,IPD,Impedimed Ltd,$0.06,3.33%,1.64%,-25.30%,-43.64%,Health Care,$110.23 M
+916,RAP,Resapp Health Ltd,$0.13,2.00%,-27.14%,15.91%,210.98%,Health Care,$109.61 M
+917,EL8,Elevate Uranium Ltd,$0.40,1.28%,1.28%,-16.84%,27.42%,Energy,$108.82 M
+918,BLU,Blue Energy Ltd,$0.07,-1.39%,-8.97%,-6.58%,7.58%,Energy,$108.5 M
+919,SND,Saunders International Ltd,$1.02,0.00%,9.09%,-5.56%,29.11%,Industrials,$108.27 M
+920,CE1,Calima Energy Ltd,$0.18,6.06%,-5.41%,-12.50%,-2.78%,Energy,$107.87 M
+921,4DS,4DS Memory Ltd,$0.07,1.39%,0.00%,-27.00%,-49.66%,Information Technology,$106.76 M
+922,DSK,Dusk Group Ltd,$1.71,-0.58%,-8.56%,-12.53%,-52.63%,Consumer Discretionary,$106.48 M
+923,BBT,Bluebet Holdings Ltd,$0.53,12.77%,37.66%,-3.64%,-53.51%,Consumer Discretionary,$106.06 M
+924,MVP,Medical Developments International Ltd,$1.49,0.00%,-10.00%,-41.30%,-68.20%,Health Care,$105.89 M
+925,CCR,Credit Clear Ltd,$0.36,-4.05%,-8.97%,-23.66%,-32.38%,Information Technology,$105.65 M
+926,STM,Sunstone Metals Ltd,$0.04,-8.89%,7.90%,-24.07%,173.33%,Materials,$105.55 M
+927,DRA,DRA Global Ltd,$1.95,0.00%,-0.26%,-11.59%,-50.76%,Industrials,$105.35 M
+928,EVO,Evolve Education Group Ltd,$0.66,0.76%,3.94%,-5.71%,-17.50%,Consumer Discretionary,$105.3 M
+929,VVA,Viva Leisure Ltd,$1.16,-1.28%,-2.11%,-26.12%,-31.77%,Consumer Discretionary,$103.84 M
+930,AZY,Antipa Minerals Ltd,$0.03,3.13%,-5.71%,-26.67%,-23.26%,Materials,$103.61 M
+931,NSC,Naos Small Cap Opportunities Company Ltd,$0.72,0.00%,0.00%,-7.69%,-25.39%,Financials,$103.55 M
+932,EAI,Ellerston Asian Investments Ltd,$0.81,0.00%,1.25%,0.62%,-31.93%,Financials,$103.28 M
+933,JAN,Janison Education Group Ltd,$0.44,-3.33%,-1.14%,-34.09%,-50.57%,Information Technology,$102.49 M
+934,PGL,Prospa Group Ltd,$0.62,-3.13%,2.48%,-16.22%,-27.06%,Financials,$102.09 M
+935,BCN,Beacon Minerals Ltd,$0.03,-3.45%,-3.45%,-12.50%,-15.15%,Materials,$101.96 M
+936,ASN,Anson Resources Ltd,$0.10,2.06%,-1.00%,-23.85%,52.31%,Materials,$101.76 M
+937,WZR,Wisr Ltd,$0.08,-1.32%,-3.85%,-25.00%,-72.73%,Financials,$101.72 M
+938,GLL,Galilee Energy Ltd,$0.30,1.70%,-6.25%,-3.23%,-43.40%,Energy,$101.56 M
+939,CAE,Cannindah Resources Ltd,$0.19,-15.56%,5.56%,-22.45%,222.03%,Materials,$101.41 M
+940,NET,Netlinkz Ltd,$0.03,24.00%,-6.06%,-38.00%,40.91%,Information Technology,$101.24 M
+941,SOM,Somnomed Ltd,$1.21,0.83%,-3.20%,-20.40%,-45.00%,Health Care,$100.14 M
+942,GCY,Gascoyne Resources Ltd,$0.24,-2.08%,4.44%,-17.54%,-21.67%,Materials,$100.09 M
+943,EMH,European Metals Holdings Ltd,$0.71,0.00%,6.77%,-25.26%,-51.37%,Materials,$99.95 M
+944,IKE,Ikegps Group Ltd,$0.63,0.81%,17.93%,-6.72%,-43.18%,Information Technology,$99.66 M
+945,GDC,Global Data Centre Group,$1.28,0.00%,-1.54%,-10.49%,-28.09%,Financials,$98.91 M
+946,ASH,Ashley Services Group Ltd,$0.69,-0.73%,0.00%,1.48%,48.91%,Industrials,$98.62 M
+947,CYC,Cyclopharm Ltd,$1.06,-0.94%,1.44%,-15.60%,-39.37%,Health Care,$98.51 M
+948,HZR,HAZER Group Ltd,$0.60,11.11%,13.21%,-20.00%,-29.41%,Materials,$97.74 M
+949,WSP,Whispir Ltd,$0.83,-9.29%,7.10%,-16.16%,-66.26%,Information Technology,$97.72 M
+950,NZK,New Zealand King Salmon Investments Ltd,$0.18,5.88%,-2.70%,0.00%,-86.96%,Consumer Staples,$97.46 M
+951,WKT,Walkabout Resources Ltd,$0.22,0.00%,0.00%,0.00%,7.50%,Materials,$97.24 M
+952,SDI,SDI Ltd,$0.81,0.00%,1.25%,3.19%,-10.99%,Health Care,$96.28 M
+953,KIL,Kiland Ltd,$1.27,4.10%,-1.55%,11.40%,17.14%,Materials,$96.17 M
+954,4DX,4DMEDICAL Ltd,$0.46,27.78%,31.43%,-25.81%,-60.68%,Health Care,$96.12 M
+955,PEX,Peel Mining Ltd,$0.17,-2.94%,-2.94%,-21.43%,-38.89%,Materials,$95.83 M
+956,SLA,Silk Laser Australia Ltd,$1.81,-0.82%,-9.75%,-32.14%,-59.44%,Consumer Discretionary,$95.68 M
+957,VLS,Vita Life Sciences Ltd,$1.80,-0.28%,0.00%,0.00%,73.08%,Health Care,$95.65 M
+958,HCH,Hot Chili Ltd,$0.85,-5.06%,0.60%,-28.99%,-51.71%,Materials,$95.36 M
+959,LIN,Lindian Resources Ltd,$0.12,-4.17%,32.18%,109.09%,447.62%,Materials,$95.36 M
+960,SNC,Sandon Capital Investments Ltd,$0.70,-2.78%,-1.41%,-14.63%,-29.73%,Financials,$95.04 M
+961,ESS,Essential Metals Ltd,$0.39,-3.75%,11.59%,-31.86%,313.98%,Materials,$94.9 M
+962,LMG,Latrobe Magnesium Ltd,$0.06,1.72%,11.32%,-21.33%,210.53%,Materials,$94.62 M
+963,DME,Dome Gold Mines Ltd,$0.27,0.00%,-3.57%,8.00%,54.29%,Materials,$94.39 M
+964,WMC,Wiluna Mining Corporation Ltd,$0.26,-8.77%,-16.13%,-53.98%,-71.59%,Materials,$94.16 M
+965,BBL,Brisbane Broncos Ltd,$0.96,0.00%,11.63%,-2.04%,100.00%,Communication Services,$94.12 M
+966,ICI,Icandy Interactive Ltd,$0.07,2.78%,34.55%,0.00%,5.71%,Communication Services,$93.77 M
+967,TEK,Thorney Technologies Ltd,$0.22,4.76%,-4.35%,-15.39%,-49.43%,Financials,$93.51 M
+968,AUC,Ausgold Ltd,$0.05,-4.17%,-6.12%,-20.69%,12.20%,Materials,$93.36 M
+969,VMT,Vmoto Ltd,$0.33,1.54%,6.45%,-13.16%,-2.94%,Consumer Discretionary,$93.28 M
+970,1MC,Morella Corporation Ltd,$0.02,-10.00%,12.50%,-35.71%,-74.29%,Materials,$93.17 M
+971,ZNC,Zenith Minerals Ltd,$0.27,-6.90%,0.00%,-28.95%,0.00%,Materials,$93.09 M
+972,AUT,Auteco Minerals Ltd,$0.05,12.50%,9.76%,-13.46%,-47.06%,Materials,$93.03 M
+973,ACQ,Acorn Capital Investment Fund Ltd,$1.08,1.42%,2.38%,-15.02%,-26.63%,Financials,$92.52 M
+974,TWD,Tamawood Ltd,$2.66,-5.00%,-4.66%,-12.79%,-23.12%,Consumer Discretionary,$92.42 M
+975,GDA,Good Drinks Australia Ltd,$0.72,-0.69%,5.15%,-8.33%,-14.88%,Consumer Staples,$91.76 M
+976,TMT,Technology Metals Australia Ltd,$0.44,6.10%,38.10%,14.47%,33.85%,Materials,$91.27 M
+977,TOP,Thorney Opportunities Ltd,$0.47,-3.13%,0.00%,-7.92%,-14.68%,Financials,$90.71 M
+978,NZO,New Zealand Oil & Gas Ltd,$0.41,-1.22%,-1.22%,1.25%,3.85%,Energy,$90.7 M
+979,MCP,Mcpherson's Ltd,$0.70,0.00%,-2.78%,-13.04%,-38.05%,Consumer Staples,$90.62 M
+980,CYM,Cyprium Metals Ltd,$0.16,0.00%,16.36%,3.23%,-37.26%,Materials,$90.37 M
+981,MAM,Microequities Asset Management Group Ltd,$0.67,0.00%,17.54%,-9.46%,-5.63%,Financials,$89.52 M
+982,AEE,Aura Energy Ltd,$0.19,0.00%,15.63%,-8.64%,-11.31%,Energy,$89.51 M
+983,DUR,Duratec Ltd,$0.37,-1.33%,5.71%,10.45%,-5.13%,Industrials,$89.01 M
+984,POD,Podium Minerals Ltd,$0.29,1.75%,0.00%,-23.68%,-41.41%,Materials,$88.87 M
+985,HLTH,Vaneck Global Healthcare Leaders ETF,$10.28,-0.48%,8.44%,2.29%,-7.30%,Financials,$88.41 M
+986,MXI,Maxiparts Ltd,$1.87,1.91%,2.19%,-3.87%,-22.54%,Industrials,$88.4 M
+987,CU6,Clarity Pharmaceuticals Ltd,$0.49,8.89%,11.36%,12.64%,-65.00%,Health Care,$88.13 M
+988,EBR,EBR Systems Inc,$0.34,-4.29%,-20.24%,-21.18%,-68.98%,Health Care,$88.1 M
+989,PLY,Playside Studios Ltd,$0.61,1.67%,15.09%,-16.44%,121.82%,Communication Services,$88.02 M
+990,ASO,Aston Minerals Ltd,$0.08,-7.06%,-4.82%,-41.48%,-50.63%,Materials,$87.97 M
+991,DCN,Dacian Gold Ltd,$0.08,2.53%,-15.63%,-56.22%,-71.07%,Materials,$87.89 M
+992,ACB,A-Cap Energy Ltd,$0.07,-2.74%,9.23%,-14.46%,19.71%,Energy,$87.5 M
+993,RFG,Retail Food Group Ltd,$0.04,-2.38%,-8.89%,-21.15%,-39.71%,Consumer Discretionary,$87.09 M
+994,NXG,Nexgen Energy (Canada) Ltd,$5.70,2.33%,9.41%,-15.18%,1.79%,Energy,$86.8 M
+995,LM8,Lunnon Metals Ltd,$0.79,0.00%,17.91%,-13.19%,81.61%,Materials,$86.8 M
+996,ACW,Actinogen Medical Ltd,$0.05,-2.04%,-4.00%,-36.00%,-65.71%,Health Care,$86.19 M
+997,KZA,KAZIA Therapeutics Ltd,$0.62,-0.81%,-16.33%,-21.15%,-52.87%,Health Care,$85.33 M
+998,ORN,Orion Minerals Ltd,$0.02,5.56%,-13.64%,-13.64%,-45.71%,Materials,$85.16 M
+999,SMI,Santana Minerals Ltd,$0.64,13.27%,12.28%,-27.68%,652.94%,Materials,$84.89 M
+1000,BSX,Blackstone Minerals Ltd,$0.18,-10.00%,-5.26%,-38.98%,-47.06%,Materials,$84.86 M
+1001,LIS,Li-S Energy Ltd,$0.51,2.00%,21.43%,-16.39%,-40.00%,Industrials,$84.62 M
+1002,EUR,European Lithium Ltd,$0.06,0.00%,12.96%,-15.28%,12.96%,Materials,$84.36 M
+1003,PIQ,Proteomics International Laboratories Ltd,$0.80,-0.63%,1.92%,-15.87%,-14.05%,Health Care,$84.04 M
+1004,GTN,GTN Ltd,$0.39,-2.50%,-13.33%,-22.00%,21.88%,Communication Services,$83.96 M
+1005,CAN,Cann Group Ltd,$0.24,0.00%,-2.04%,-20.00%,-32.39%,Health Care,$83.8 M
+1006,BRU,Buru Energy Ltd,$0.14,3.70%,-3.45%,-17.65%,-3.45%,Energy,$83.45 M
+1007,TUL,Tulla Resources Plc,$0.52,1.96%,6.12%,-9.57%,10.64%,Materials,$83.31 M
+1008,CD2,CD Private Equity Fund Ii,$1.51,3.79%,14.02%,5.99%,3.79%,Financials,$83.06 M
+1009,COS,Cosol Ltd,$0.59,0.00%,14.71%,2.63%,-11.36%,Information Technology,$83.02 M
+1010,RXM,REX Minerals Ltd,$0.14,3.70%,-9.68%,-37.78%,-58.82%,Materials,$82.97 M
+1011,ESPO,Vaneck Video Gaming and Esports ETF,$9.01,-1.64%,5.88%,0.56%,-20.97%,Financials,$82.91 M
+1012,KGL,KGL Resources Ltd,$0.19,0.00%,-2.63%,-39.34%,-68.94%,Materials,$82.9 M
+1013,DNK,Danakali Ltd,$0.23,-6.25%,-15.09%,-28.57%,-52.63%,Materials,$82.88 M
+1014,TGN,Tungsten Mining NL,$0.11,0.00%,5.00%,-8.70%,-22.22%,Materials,$82.57 M
+1015,AVC,Auctus Investment Group Ltd,$1.04,4.00%,4.00%,7.22%,-5.46%,Financials,$81.67 M
+1016,KLL,Kalium Lakes Ltd,$0.07,1.47%,-8.00%,-22.47%,-72.94%,Materials,$81.54 M
+1017,GAP,Gale Pacific Ltd,$0.30,0.00%,1.72%,-10.61%,-28.05%,Consumer Discretionary,$81.54 M
+1018,ELT,Elementos Ltd,$0.46,-2.13%,22.67%,-30.83%,8.24%,Materials,$81.48 M
+1019,BIS,Bisalloy Steel Group Ltd,$1.73,0.88%,0.58%,1.77%,45.38%,Materials,$81.46 M
+1020,TGA,Thorn Group Ltd,$0.24,-2.04%,-2.04%,-3.03%,9.09%,Consumer Discretionary,$81.44 M
+1021,TTM,Titan Minerals Ltd,$0.06,-13.64%,-18.57%,-28.75%,-50.44%,Materials,$80.38 M
+1022,RVR,Red River Resources Ltd,$0.16,-3.13%,3.33%,-13.89%,-22.50%,Materials,$80.36 M
+1023,KOV,Korvest Ltd,$7.00,2.04%,-0.57%,-10.37%,43.74%,Industrials,$80.26 M
+1024,DRO,Droneshield Ltd,$0.19,0.00%,2.78%,-15.91%,19.36%,Industrials,$80.02 M
+1025,CTP,Central Petroleum Ltd,$0.11,-4.35%,0.00%,-8.33%,-4.35%,Energy,$79.85 M
+1026,SEQ,Sequoia Financial Group Ltd,$0.59,0.00%,-0.85%,-8.59%,8.33%,Financials,$79.82 M
+1027,MFD,Mayfield Childcare Ltd,$1.24,-0.80%,2.48%,-15.93%,14.82%,Consumer Discretionary,$79.59 M
+1028,HAV,Havilah Resources Ltd,$0.25,4.17%,-3.85%,-7.41%,6.38%,Materials,$79.15 M
+1029,FCT,Firstwave Cloud Technology Ltd,$0.05,0.00%,2.17%,-11.32%,-32.34%,Information Technology,$78.13 M
+1030,FAR,FAR Ltd,$0.78,1.30%,5.41%,0.00%,-38.58%,Energy,$77.84 M
+1031,RLT,Renergen Ltd,$3.25,1.25%,-4.41%,3.50%,81.56%,Energy,$77.78 M
+1032,CSS,Clean Seas Seafood Ltd,$0.47,-5.05%,-3.09%,-13.76%,-12.15%,Consumer Staples,$77.72 M
+1033,BRK,Brookside Energy Ltd,$0.02,28.57%,28.57%,5.88%,-21.74%,Energy,$77.27 M
+1034,OCC,Orthocell Ltd,$0.39,30.00%,21.88%,5.41%,-34.45%,Health Care,$76.88 M
+1035,CLX,Cti Logistics Ltd,$0.98,0.00%,3.16%,-2.97%,10.11%,Industrials,$76.86 M
+1036,RND,Rand Mining Ltd,$1.35,-2.17%,-3.92%,-10.00%,-6.90%,Materials,$76.78 M
+1037,HIT,Hitech Group Australia Ltd,$1.87,1.08%,5.65%,-6.03%,-6.50%,Industrials,$76.76 M
+1038,CUP,Countplus Ltd,$0.67,0.00%,15.52%,11.67%,-34.95%,Industrials,$76.53 M
+1039,FSG,Field Solutions Holdings Ltd,$0.10,6.38%,1.01%,-23.08%,-33.33%,Communication Services,$76.37 M
+1040,AEG,Absolute Equity Performance Fund Ltd,$0.85,2.42%,3.05%,1.81%,-20.28%,Financials,$76.37 M
+1041,WIN,Widgie Nickel Ltd,$0.31,-17.57%,15.09%,-17.57%,52.50%,Materials,$76.31 M
+1042,TMH,The Market Herald Ltd,$0.39,0.00%,-2.50%,-2.50%,-35.00%,Communication Services,$76.14 M
+1043,XRF,XRF Scientific Ltd,$0.56,0.90%,3.70%,-15.15%,24.44%,Industrials,$76.1 M
+1044,MGT,Magnetite Mines Ltd,$0.02,-4.76%,-16.67%,-23.08%,-76.58%,Materials,$75.83 M
+1045,NAM,Namoi Cotton Ltd,$0.44,0.00%,3.53%,-13.73%,20.55%,Industrials,$75.73 M
+1046,OKU,Oklo Resources Ltd,$0.15,3.45%,3.45%,3.45%,42.86%,Materials,$75.67 M
+1047,STK,Strickland Metals Ltd,$0.06,-4.84%,-7.81%,-24.36%,40.48%,Materials,$75.59 M
+1048,PH2,Pure Hydrogen Corporation Ltd,$0.22,0.00%,0.00%,-35.29%,4.76%,Energy,$75.26 M
+1049,UBI,Universal Biosensors Inc,$0.36,4.41%,7.58%,-19.32%,-55.63%,Health Care,$75.2 M
+1050,DBF,Duxton Farms Ltd,$1.80,-1.37%,3.76%,-1.91%,35.99%,Consumer Staples,$75.05 M
+1051,TVL,Touch Ventures Ltd,$0.11,-12.50%,-8.70%,-27.59%,-73.75%,Financials,$74.9 M
+1052,DVDY,Vaneck Morningstar Australian Moat Income ETF,$21.35,0.38%,4.81%,-0.88%,-7.58%,Financials,$74.85 M
+1053,BFC,Beston Global Food Company Ltd,$0.09,-3.37%,30.30%,19.44%,-36.30%,Consumer Staples,$74.29 M
+1054,CLU,Cluey Ltd,$0.66,4.76%,2.33%,-17.50%,-42.61%,Consumer Discretionary,$74.25 M
+1055,HMY,Harmoney Corp Ltd,$0.74,-3.29%,-2.00%,-33.18%,-43.46%,Financials,$74.25 M
+1056,SHM,Shriro Holdings Ltd,$0.78,3.33%,1.97%,-9.36%,-32.02%,Consumer Discretionary,$74.11 M
+1057,BRV,Big River Gold Ltd,$0.34,-1.47%,-1.47%,0.00%,-12.99%,Materials,$73.82 M
+1058,LBL,Laserbond Ltd,$0.68,0.00%,0.75%,-15.63%,-27.42%,Industrials,$73.78 M
+1059,LER,Leaf Resources Ltd,$0.08,0.00%,0.00%,0.00%,-31.30%,Materials,$73.32 M
+1060,E25,Element 25 Ltd,$0.48,-4.00%,-4.00%,-24.41%,-78.48%,Materials,$73.3 M
+1061,ZEO,Zeotech Ltd,$0.05,2.13%,-5.88%,-9.43%,-36.00%,Materials,$73.2 M
+1062,SGH,Slater & Gordon Ltd,$0.52,0.00%,-3.70%,-16.13%,-23.53%,Consumer Discretionary,$72.9 M
+1063,SWP,Swoop Holdings Ltd,$0.50,-3.85%,-0.99%,-21.88%,-44.75%,Communication Services,$72.66 M
+1064,VRX,VRX Silica Ltd,$0.13,0.00%,-7.14%,-27.78%,-40.91%,Materials,$72.59 M
+1065,KSS,Kleos Space S.A,$0.41,-3.57%,-2.41%,-22.12%,-56.92%,Industrials,$72.3 M
+1066,DEV,DEVEX Resources Ltd,$0.23,2.22%,-8.00%,-39.47%,-33.33%,Materials,$72.26 M
+1067,IKW,Ikwezi Mining Ltd,$1.77,0.00%,21.23%,1.72%,883.33%,Energy,$71.95 M
+1068,ATR,Astron Corporation Ltd,$0.59,0.86%,0.00%,4.46%,0.86%,Materials,$71.65 M
+1069,NC1,Nico Resources Ltd,$0.82,2.50%,16.31%,-41.43%,310.00%,Materials,$71.55 M
+1070,EOF,Ecofibre Ltd,$0.21,-8.89%,-16.33%,-44.60%,-73.20%,Health Care,$71.54 M
+1071,G1A,Galena Mining Ltd,$0.15,0.00%,-3.23%,-23.08%,-37.50%,Materials,$71.46 M
+1072,GRV,Greenvale Mining Ltd,$0.18,2.86%,-12.20%,2.86%,-38.98%,Energy,$71.45 M
+1073,STG,Straker Translations Ltd,$1.05,-2.78%,0.00%,-6.67%,-46.97%,Industrials,$71.19 M
+1074,WCG,Webcentral Ltd,$0.22,-2.27%,7.50%,-4.44%,-57.00%,Information Technology,$71.18 M
+1075,WOA,Wide Open Agriculture Ltd,$0.56,-2.63%,-0.89%,-16.54%,-33.53%,Consumer Staples,$71.15 M
+1076,ATL,Apollo Tourism & Leisure Ltd,$0.38,-3.80%,-9.52%,-26.92%,1.33%,Consumer Discretionary,$70.74 M
+1077,XF1,Xref Ltd,$0.38,7.04%,1.33%,-19.15%,24.59%,Information Technology,$70.41 M
+1078,SSL,Sietel Ltd,$8.75,0.00%,0.00%,-2.24%,8.29%,Real Estate,$70.07 M
+1079,CXM,Centrex Ltd,$0.12,0.00%,4.55%,-17.86%,139.19%,Materials,$70.02 M
+1080,BMT,Beamtree Holdings Ltd,$0.29,1.79%,9.62%,-13.64%,-26.92%,Health Care,$69.61 M
+1081,AJL,AJ Lucas Group Ltd,$0.06,1.75%,1.75%,-9.38%,132.00%,Industrials,$69.38 M
+1082,RMI,Resource Mining Corporation Ltd,$0.17,-5.71%,3.13%,6.45%,1078.57%,Materials,$69 M
+1083,TSI,Top Shelf International Holdings Ltd,$1.07,-1.39%,8.67%,-17.44%,-36.57%,Consumer Staples,$68.98 M
+1084,CRR,Critical Resources Ltd,$0.05,-4.17%,2.22%,-41.77%,70.37%,Materials,$68.45 M
+1085,MNB,Minbos Resources Ltd,$0.13,-1.89%,0.00%,-23.53%,113.12%,Materials,$68.34 M
+1086,PTL,Pental Ltd,$0.40,-3.61%,3.90%,-1.24%,-4.76%,Consumer Staples,$68.18 M
+1087,ADA,Adacel Technologies Ltd,$0.89,1.14%,11.25%,-6.32%,-4.30%,Information Technology,$68.11 M
+1088,TNG,TNG Ltd,$0.05,-3.92%,-16.95%,-30.99%,-20.97%,Materials,$68.03 M
+1089,JYC,Joyce Corporation Ltd,$2.40,0.00%,2.13%,-11.44%,-9.43%,Consumer Discretionary,$67.84 M
+1090,CVV,Caravel Minerals Ltd,$0.17,0.00%,-8.11%,-19.05%,-64.08%,Materials,$67.49 M
+1091,NML,Navarre Minerals Ltd,$0.05,0.00%,-12.96%,-40.51%,-51.55%,Materials,$67.34 M
+1092,IRI,Integrated Research Ltd,$0.39,-1.27%,1.30%,-30.97%,-80.15%,Information Technology,$67.27 M
+1093,ATC,Altech Chemicals Ltd,$0.05,2.17%,-2.08%,-29.85%,0.00%,Materials,$67.06 M
+1094,MLG,MLG OZ Ltd,$0.46,-2.13%,1.10%,-20.69%,-51.06%,Materials,$67.01 M
+1095,HRL,HRL Holdings Ltd,$0.14,64.63%,66.67%,58.82%,17.39%,Industrials,$66.74 M
+1096,LSX,Lion Selection Group Ltd,$0.45,-1.11%,-1.11%,-6.32%,8.54%,Financials,$66.65 M
+1097,USQ,US Student Housing REIT,$1.20,0.00%,-5.51%,-7.69%,-13.04%,Real Estate,$66.65 M
+1098,PEK,Peak Rare EARTHS Ltd,$0.32,-3.03%,-17.95%,-34.02%,-67.68%,Materials,$66.35 M
+1099,BC8,Black Cat Syndicate Ltd,$0.31,3.33%,-8.82%,-27.91%,-50.40%,Materials,$66.23 M
+1100,SB2,Salter Brothers Emerging Companies Ltd,$0.70,1.45%,6.06%,-2.78%,-27.46%,Financials,$66.07 M
+1101,FYI,FYI Resources Ltd,$0.18,10.77%,24.14%,-12.20%,-65.05%,Materials,$65.86 M
+1102,HGO,Hillgrove Resources Ltd,$0.06,3.70%,-5.09%,-23.29%,-6.67%,Materials,$65.76 M
+1103,PRL,Province Resources Ltd,$0.06,1.82%,5.66%,-38.46%,-58.52%,Materials,$65.51 M
+1104,VR1,Vection Technologies Ltd,$0.06,-7.81%,22.92%,-10.61%,3.51%,Information Technology,$65.49 M
+1105,SPZ,Smart Parking Ltd,$0.19,2.78%,15.63%,2.78%,-5.13%,Information Technology,$65.22 M
+1106,ONE,Oneview Healthcare Plc,$0.13,-3.85%,4.17%,-44.44%,-72.83%,Health Care,$64.83 M
+1107,LME,Limeade Inc,$0.26,-7.27%,-8.93%,-19.05%,-65.54%,Information Technology,$64.65 M
+1108,MWY,Midway Ltd,$0.74,-0.67%,-2.63%,-27.81%,-17.78%,Materials,$64.63 M
+1109,RZI,RAIZ Invest Ltd,$0.69,0.00%,13.12%,-17.86%,-55.77%,Financials,$64.48 M
+1110,FGR,First Graphene Ltd,$0.12,0.00%,-8.00%,-14.82%,-54.90%,Materials,$64.4 M
+1111,BOL,Boom Logistics Ltd,$0.15,0.00%,3.45%,-14.29%,3.45%,Industrials,$64.17 M
+1112,MSV,Mitchell Services Ltd,$0.29,9.62%,-5.00%,-5.00%,-25.67%,Materials,$64.11 M
+1113,CDD,Cardno Ltd,$1.64,1.86%,0.31%,-1.21%,-82.74%,Industrials,$64.06 M
+1114,SEG,Sports Entertainment Group Ltd,$0.25,2.08%,2.08%,-2.00%,6.52%,Communication Services,$63.97 M
+1115,CBR,Carbon Revolution Ltd,$0.31,-1.61%,7.02%,-36.46%,-72.15%,Consumer Discretionary,$63.09 M
+1116,EM2,Eagle Mountain Mining Ltd,$0.24,-4.08%,-9.62%,-42.68%,-70.99%,Materials,$63.01 M
+1117,SPQ,Superior Resources Ltd,$0.04,2.78%,19.36%,-2.63%,208.33%,Materials,$62.95 M
+1118,FMS,Flinders Mines Ltd,$0.37,2.78%,-12.94%,-11.91%,-57.71%,Materials,$62.47 M
+1119,OEL,Otto Energy Ltd,$0.01,0.00%,0.00%,-7.14%,62.50%,Energy,$62.34 M
+1120,AKL,Auckland Real Estate Trust,$0.78,0.65%,0.65%,-1.90%,0.65%,Real Estate,$62.27 M
+1121,BNO,Bionomics Ltd,$0.05,0.00%,-9.80%,-24.59%,-75.79%,Health Care,$62.25 M
+1122,AZS,AZURE Minerals Ltd,$0.20,2.56%,-23.08%,-23.08%,-16.67%,Materials,$62.15 M
+1123,YOJ,Yojee Ltd,$0.06,1.85%,7.84%,-22.54%,-68.57%,Information Technology,$62.09 M
+1124,TOY,Toys'R'US ANZ Ltd,$0.07,10.77%,-1.37%,-16.28%,-31.43%,Consumer Discretionary,$62.05 M
+1125,XTC,Xantippe Resources Ltd,$0.01,0.00%,0.00%,-27.27%,300.00%,Materials,$61.57 M
+1126,KIN,KIN Mining NL,$0.07,0.00%,-5.33%,-11.25%,-40.14%,Materials,$61.5 M
+1127,TZN,Terramin Australia Ltd,$0.03,0.00%,-9.38%,-27.50%,-3.33%,Materials,$61.38 M
+1128,NCC,Naos Emerging Opportunities Company Ltd,$0.84,-2.89%,1.21%,-15.15%,-18.05%,Financials,$61.28 M
+1129,SPT,Splitit Payments Ltd,$0.13,0.00%,-10.35%,-56.67%,-76.79%,Information Technology,$61.25 M
+1130,CSX,Cleanspace Holdings Ltd,$0.80,0.00%,1.27%,-19.29%,-50.93%,Health Care,$61.23 M
+1131,TPD,Talon Energy Ltd,$0.01,7.69%,16.67%,-12.50%,0.00%,Energy,$60.99 M
+1132,MDR,Medadvisor Ltd,$0.16,10.35%,10.35%,-18.99%,-45.76%,Health Care,$60.93 M
+1133,OIL,Optiscan Imaging Ltd,$0.10,0.00%,-10.91%,-24.62%,-57.39%,Health Care,$60.7 M
+1134,DGR,DGR Global Ltd,$0.06,3.57%,0.00%,-15.94%,0.00%,Materials,$60.53 M
+1135,GGG,Greenland Minerals Ltd,$0.05,0.00%,-10.00%,-28.57%,-53.13%,Materials,$60.48 M
+1136,BRB,Breaker Resources NL,$0.19,-2.63%,-5.13%,-22.92%,15.63%,Materials,$60.28 M
+1137,5GG,Pentanet Ltd,$0.28,3.70%,12.00%,-1.75%,-60.56%,Communication Services,$60.25 M
+1138,EMN,Euro Manganese Inc,$0.24,0.00%,2.17%,-22.95%,-51.55%,Materials,$60.22 M
+1139,AVD,Avada Group Ltd,$0.82,-6.82%,0.00%,8.61%,-18.00%,Industrials,$60.08 M
+1140,MX1,Micro-X Ltd,$0.13,8.33%,18.18%,-24.64%,-59.38%,Health Care,$59.99 M
+1141,BDM,Burgundy Diamond Mines Ltd,$0.18,29.63%,9.38%,0.00%,-35.19%,Materials,$59.77 M
+1142,ELS,Elsight Ltd,$0.40,-4.82%,9.72%,-4.82%,-1.25%,Information Technology,$59.35 M
+1143,EQR,EQ Resources Ltd,$0.04,-2.22%,-4.35%,-27.87%,57.14%,Materials,$59.14 M
+1144,PRO,Prophecy International Holdings Ltd,$0.80,-3.03%,3.90%,-11.11%,42.86%,Information Technology,$58.87 M
+1145,SOR,Strategic Elements Ltd,$0.15,0.00%,0.00%,-11.77%,-31.82%,Financials,$58.63 M
+1146,HNG,Hancock & Gore Ltd,$0.26,1.96%,1.96%,-7.14%,10.64%,Industrials,$58.33 M
+1147,WAA,Wam Active Ltd,$0.78,0.00%,2.63%,-16.13%,-27.10%,Financials,$57.86 M
+1148,PVE,Po Valley Energy Ltd,$0.05,-1.82%,5.88%,74.19%,86.21%,Energy,$57.73 M
+1149,8VI,8VI Holdings Ltd,$1.35,3.45%,-10.00%,-25.00%,-76.88%,Consumer Discretionary,$57.21 M
+1150,RFX,Redflow Ltd,$0.04,-2.50%,-11.36%,-26.42%,-32.76%,Industrials,$57.21 M
+1151,LIT,Lithium Australia Ltd,$0.06,-3.51%,-21.43%,-37.50%,-45.00%,Materials,$56.95 M
+1152,MEU,Marmota Ltd,$0.06,5.46%,1.75%,-14.71%,41.46%,Energy,$56.84 M
+1153,MAP,Microba Life Sciences Ltd,$0.25,-10.71%,8.70%,-3.85%,-44.44%,Health Care,$56.58 M
+1154,GME,GME Resources Ltd,$0.10,0.00%,-4.04%,-24.00%,90.51%,Materials,$56.43 M
+1155,TAM,Tanami Gold NL,$0.05,2.13%,-4.00%,-12.73%,-30.44%,Materials,$56.4 M
+1156,RFT,Rectifier Technologies Ltd,$0.04,0.00%,-4.65%,-24.07%,32.26%,Industrials,$56.37 M
+1157,MEA,Mcgrath Ltd,$0.34,-2.86%,9.68%,-5.56%,-40.87%,Real Estate,$56.34 M
+1158,SES,Secos Group Ltd,$0.11,0.00%,-8.70%,-32.26%,-59.62%,Materials,$56.27 M
+1159,LOM,Lucapa Diamond Company Ltd,$0.04,-7.14%,-7.14%,-20.41%,-17.02%,Materials,$56.14 M
+1160,SMN,Structural Monitoring Systems Plc,$0.44,-2.25%,-3.33%,-19.44%,13.32%,Information Technology,$55.78 M
+1161,RTG,RTG Mining Inc,$0.07,-6.67%,-6.67%,-11.39%,-57.58%,Materials,$55.76 M
+1162,MCL,Mighty Craft Ltd,$0.17,-2.86%,-10.53%,-20.93%,-48.49%,Consumer Discretionary,$55.74 M
+1163,NOX,Noxopharm Ltd,$0.19,-5.00%,-5.00%,-20.83%,-68.07%,Health Care,$55.53 M
+1164,DUG,DUG Technology Ltd,$0.47,2.17%,27.03%,-2.08%,-65.19%,Information Technology,$55.52 M
+1165,BOT,Botanix Pharmaceuticals Ltd,$0.06,-1.72%,-3.39%,-30.49%,-31.33%,Health Care,$55.47 M
+1166,NOV,Novatti Group Ltd,$0.17,0.00%,3.13%,-26.67%,-75.56%,Information Technology,$55.32 M
+1167,APW,Aims Property Securities Fund,$1.24,2.48%,21.57%,12.73%,5.09%,Real Estate,$55.31 M
+1168,REY,REY Resources Ltd,$0.26,0.00%,13.04%,13.04%,-3.70%,Energy,$55.1 M
+1169,MI6,Minerals 260 Ltd,$0.25,-3.85%,-16.67%,-48.45%,-50.00%,Materials,$55 M
+1170,ANP,Antisense Therapeutics Ltd,$0.08,-3.53%,-3.53%,-18.00%,-57.95%,Health Care,$54.84 M
+1171,HNR,Hannans Ltd,$0.02,0.00%,0.00%,-8.70%,203.55%,Materials,$54.73 M
+1172,IVX,Invion Ltd,$0.01,6.25%,-5.56%,-34.62%,-39.29%,Health Care,$54.54 M
+1173,VRC,Volt Resources Ltd,$0.02,0.00%,6.25%,-10.53%,-51.43%,Materials,$54.51 M
+1174,KME,Kip Mcgrath Education Centres Ltd,$0.96,0.00%,9.09%,-7.69%,-21.95%,Consumer Discretionary,$54.26 M
+1175,SZL,Sezzle Inc,$0.27,-10.00%,-1.82%,-48.08%,-96.98%,Information Technology,$54.22 M
+1176,LGP,Little Green Pharma Ltd,$0.23,-4.26%,-6.25%,-41.56%,-71.52%,Health Care,$54.06 M
+1177,CAF,Centrepoint Alliance Ltd,$0.28,-1.79%,34.15%,14.58%,25.00%,Financials,$53.87 M
+1178,MEC,Morphic Ethical Equities Fund Ltd,$1.01,0.00%,0.50%,-1.94%,-18.55%,Financials,$53.83 M
+1179,VEE,Veem Ltd,$0.40,-1.25%,-3.66%,-43.97%,-70.30%,Industrials,$53.61 M
+1180,NXM,Nexus Minerals Ltd,$0.19,-11.91%,-13.95%,-35.09%,164.29%,Materials,$53.59 M
+1181,ATS,Australis Oil & Gas Ltd,$0.04,-6.52%,-17.31%,-27.12%,-8.51%,Energy,$53.47 M
+1182,IBC,Ironbark Capital Ltd,$0.49,4.30%,4.30%,-4.90%,-4.90%,Financials,$53.42 M
+1183,IVR,Investigator Resources Ltd,$0.04,-2.44%,-11.11%,-27.27%,-51.22%,Materials,$53.29 M
+1184,SFG,Seafarms Group Ltd,$0.01,0.00%,-8.33%,-31.25%,-81.67%,Consumer Staples,$53.2 M
+1185,VEN,Vintage Energy Ltd,$0.07,0.00%,1.43%,-11.25%,0.00%,Energy,$52.98 M
+1186,VAN,Vango Mining Ltd,$0.04,5.00%,-17.65%,5.00%,-37.31%,Materials,$52.92 M
+1187,RMY,Rma Global Ltd,$0.11,15.79%,0.00%,-31.25%,-57.69%,Communication Services,$52.73 M
+1188,SHP,South HARZ Potash Ltd,$0.10,6.45%,7.61%,-31.72%,16.47%,Materials,$52.67 M
+1189,CHZ,Chesser Resources Ltd,$0.09,2.30%,14.10%,-9.18%,-31.54%,Materials,$52.34 M
+1190,CYP,Cynata Therapeutics Ltd,$0.37,-1.35%,-2.67%,-8.75%,-27.72%,Health Care,$52.3 M
+1191,CZR,CZR Resources Ltd,$0.02,25.00%,7.14%,0.00%,42.86%,Materials,$52.29 M
+1192,ERM,Emmerson Resources Ltd,$0.10,1.05%,6.67%,-3.03%,47.69%,Materials,$52.29 M
+1193,HHR,Hartshead Resources NL,$0.03,-9.68%,33.33%,55.56%,75.00%,Energy,$51.93 M
+1194,VMS,Venture Minerals Ltd,$0.03,-3.13%,6.90%,-27.91%,-77.04%,Materials,$51.77 M
+1195,MTC,Metalstech Ltd,$0.31,0.00%,-8.82%,-28.74%,66.93%,Materials,$51.67 M
+1196,CHL,Camplify Holdings Ltd,$1.83,-2.66%,10.91%,-13.68%,30.71%,Industrials,$51.32 M
+1197,NOU,Noumi Ltd,$0.19,27.59%,42.31%,0.00%,-52.56%,Consumer Staples,$51.27 M
+1198,ESK,Etherstack Plc,$0.39,2.63%,-11.36%,-2.50%,-35.00%,Information Technology,$50.98 M
+1199,EGL,Environmental Group Ltd (the),$0.17,0.00%,-2.94%,-23.26%,83.33%,Industrials,$50.92 M
+1200,SVY,Stavely Minerals Ltd,$0.20,-3.70%,-18.75%,-40.91%,-55.68%,Materials,$50.89 M
+1201,TOE,Toro Energy Ltd,$0.01,0.00%,-13.33%,-27.78%,-35.00%,Energy,$50.67 M
+1202,HTG,Harvest Technology Group Ltd,$0.09,-2.27%,-4.44%,-18.10%,-71.58%,Information Technology,$50.65 M
+1203,PCL,Pancontinental Energy NL,$0.01,16.67%,40.00%,-12.50%,366.67%,Energy,$50.08 M
+1204,AIM,Ai-Media Technologies Ltd,$0.24,-2.04%,-11.11%,-41.46%,-72.25%,Industrials,$49.9 M
+1205,S2R,S2 Resources Ltd,$0.14,-3.45%,3.70%,-20.00%,16.67%,Materials,$49.89 M
+1206,INF,Infinity Lithium Corporation Ltd,$0.12,4.35%,-4.00%,-11.11%,37.93%,Materials,$49.8 M
+1207,NTI,Neurotech International Ltd,$0.07,2.90%,24.56%,22.41%,20.34%,Health Care,$49.54 M
+1208,EMD,Emyria Ltd,$0.18,0.00%,-12.20%,-34.55%,2.86%,Health Care,$49.5 M
+1209,TIP,Teaminvest Private Group Ltd,$0.38,4.17%,-1.32%,-13.79%,-35.90%,Financials,$49.4 M
+1210,MSL,MSL Solutions Ltd,$0.14,0.00%,8.00%,-18.18%,0.00%,Information Technology,$49.18 M
+1211,MYE,Metarock Group Ltd,$0.38,-6.25%,-10.71%,-29.25%,-54.82%,Materials,$49.12 M
+1212,SWF,Selfwealth Ltd,$0.21,13.89%,41.38%,13.89%,-54.95%,Financials,$48.5 M
+1213,ASW,Advanced Share Registry Ltd,$0.25,0.00%,8.70%,4.17%,22.30%,Financials,$48.35 M
+1214,CUE,CUE Energy Resources Ltd,$0.07,0.00%,0.00%,-10.39%,6.15%,Energy,$48.17 M
+1215,CPH,Creso Pharma Ltd,$0.04,0.00%,-5.13%,-30.19%,-73.57%,Health Care,$47.97 M
+1216,EMKT,Vaneck MSCI Multifactor Em Markets Equity ETF,$19.96,-0.30%,2.36%,-0.15%,-12.15%,Financials,$47.94 M
+1217,NWC,New World Resources Ltd,$0.03,3.45%,-6.25%,-23.08%,-60.99%,Materials,$47.91 M
+1218,MEK,Meeka Gold Ltd,$0.05,4.00%,0.00%,-14.75%,-11.86%,Materials,$47.86 M
+1219,MMI,Metro Mining Ltd,$0.02,0.00%,6.67%,-30.44%,0.00%,Materials,$47.82 M
+1220,PAL,Palla Pharma Ltd,$0.30,0.00%,0.00%,0.00%,-20.27%,Health Care,$47.76 M
+1221,PX1,Plexure Group Ltd,$0.14,0.00%,-3.57%,-27.03%,-79.23%,Information Technology,$47.73 M
+1222,FBR,FBR Ltd,$0.02,0.00%,-18.18%,-33.33%,-52.63%,Industrials,$47.72 M
+1223,KTG,K-Tig Ltd,$0.26,0.00%,8.33%,-13.33%,-37.35%,Industrials,$47.09 M
+1224,FHE,Frontier Energy Ltd,$0.21,2.50%,5.13%,-21.15%,46.43%,Materials,$47.02 M
+1225,EDC,Eildon Capital Group,$1.00,0.00%,0.00%,0.51%,-3.40%,Financials,$46.97 M
+1226,GRX,Greenx Metals Ltd,$0.19,2.78%,-5.13%,-2.63%,-29.60%,Materials,$46.92 M
+1227,SPN,Sparc Technologies Ltd,$0.70,13.93%,29.91%,-19.19%,148.21%,Materials,$46.9 M
+1228,EBG,Eumundi Group Ltd,$1.09,0.00%,0.93%,-0.91%,6.86%,Consumer Discretionary,$46.76 M
+1229,GEN,Genmin Ltd,$0.17,0.00%,-8.33%,-21.43%,-17.50%,Materials,$46.74 M
+1230,AMS,Atomos Ltd,$0.21,-2.33%,-16.00%,-25.00%,-77.90%,Consumer Discretionary,$46.69 M
+1231,TTT,Titomic Ltd,$0.23,-8.00%,15.00%,35.29%,-41.77%,Materials,$46.58 M
+1232,MXC,MGC Pharmaceuticals Ltd,$0.02,-5.56%,-5.56%,-15.00%,-54.05%,Health Care,$46.38 M
+1233,MPP,Metro Performance Glass Ltd,$0.25,0.00%,0.00%,4.17%,-35.07%,Industrials,$46.34 M
+1234,BIT,Biotron Ltd,$0.07,4.76%,-4.35%,-34.00%,37.50%,Health Care,$46.33 M
+1235,SNS,Sensen Networks Ltd,$0.07,0.00%,-1.39%,-16.47%,-52.67%,Information Technology,$46.23 M
+1236,BBX,BBX Minerals Ltd,$0.10,0.00%,-4.76%,-25.93%,-62.26%,Materials,$46 M
+1237,BNL,Blue Star Helium Ltd,$0.03,3.57%,11.54%,-6.45%,-14.71%,Energy,$46 M
+1238,PNC,Pioneer Credit Ltd,$0.41,-2.38%,-5.75%,-11.83%,-10.87%,Financials,$45.9 M
+1239,PPG,Pro-Pac Packaging Ltd,$0.57,3.67%,4.63%,-35.80%,-71.75%,Materials,$45.83 M
+1240,IAM,Income Asset Management Group Ltd,$0.17,13.79%,6.45%,-13.16%,-45.90%,Financials,$45.58 M
+1241,CPV,Clearvue Technologies Ltd,$0.22,-2.27%,-17.31%,-24.56%,-48.81%,Industrials,$45.52 M
+1242,HRZ,Horizon Minerals Ltd,$0.08,-4.76%,-20.00%,-38.46%,-33.33%,Materials,$45.44 M
+1243,FFI,FFI Holdings Ltd,$4.22,0.00%,-14.75%,-32.91%,-40.56%,Consumer Staples,$45.41 M
+1244,STP,Step One Clothing Ltd,$0.25,-5.77%,4.26%,-7.55%,-83.99%,Consumer Discretionary,$45.41 M
+1245,PPL,Pureprofile Ltd,$0.04,-6.82%,7.90%,-12.77%,51.85%,Communication Services,$45.39 M
+1246,LKO,Lakes Blue Energy NL,$0.00,0.00%,0.00%,0.00%,0.00%,Energy,$45.3 M
+1247,KRM,Kingsrose Mining Ltd,$0.06,1.70%,15.39%,-14.29%,15.39%,Materials,$45.15 M
+1248,MRC,Mineral Commodities Ltd,$0.08,-1.18%,-2.33%,-23.64%,-58.62%,Materials,$44.94 M
+1249,ECL,Excelsior Capital Ltd,$1.53,2.00%,-0.33%,-1.92%,-6.42%,Industrials,$44.36 M
+1250,RTE,Retech Technology Co. Ltd,$0.19,0.00%,0.00%,0.00%,-24.00%,Consumer Discretionary,$44.25 M
+1251,RSH,Respiri Ltd,$0.06,-3.33%,48.72%,65.71%,-18.31%,Health Care,$44.19 M
+1252,KKO,Kinetiko Energy Ltd,$0.06,0.00%,28.00%,-20.00%,-41.47%,Energy,$43.78 M
+1253,AVA,AVA Risk Group Ltd,$0.18,-2.70%,-7.69%,0.00%,-51.35%,Information Technology,$43.73 M
+1254,ASP,Aspermont Ltd,$0.02,-5.26%,-10.00%,-14.29%,-35.71%,Communication Services,$43.73 M
+1255,FME,Future Metals NL,$0.15,0.00%,-3.33%,-14.71%,-34.09%,Materials,$43.29 M
+1256,AAR,Astral Resources NL,$0.07,-1.37%,-1.37%,-17.24%,-11.11%,Materials,$42.92 M
+1257,MPX,Mustera Property Group Ltd,$0.30,0.00%,0.00%,0.00%,-1.67%,Real Estate,$42.55 M
+1258,LRT,Lowell Resources Fund,$1.45,0.00%,3.57%,-11.59%,-9.38%,Financials,$42.53 M
+1259,WLD,Wellard Ltd,$0.08,0.00%,-3.61%,5.26%,31.15%,Consumer Staples,$42.5 M
+1260,EIQ,Echoiq Ltd,$0.11,5.00%,-4.55%,-16.00%,0.00%,Information Technology,$42.4 M
+1261,RXL,ROX Resources Ltd,$0.25,-3.85%,-1.96%,-25.37%,-42.53%,Materials,$42.24 M
+1262,GSR,Greenstone Resources Ltd,$0.04,-4.65%,-18.00%,-16.33%,127.78%,Materials,$42.02 M
+1263,AYA,ARTRYA Ltd,$0.67,1.52%,38.14%,-16.25%,-50.37%,Health Care,$41.97 M
+1264,FSI,Flagship Investments Ltd,$1.62,1.25%,1.25%,-15.18%,-29.57%,Financials,$41.89 M
+1265,AHF,Australian Dairy Nutritionals Group,$0.08,-3.80%,11.77%,20.64%,52.00%,Consumer Staples,$41.69 M
+1266,LVT,Livetiles Ltd,$0.05,-2.17%,1.12%,-27.42%,-70.97%,Information Technology,$41.54 M
+1267,3DA,Amaero International Ltd,$0.18,0.00%,9.38%,-22.22%,-70.09%,Industrials,$41.4 M
+1268,CV1,CV Check Ltd,$0.10,5.56%,3.26%,-9.52%,-32.14%,Information Technology,$41.25 M
+1269,AME,Alto Metals Ltd,$0.08,2.63%,4.00%,-6.02%,-16.13%,Materials,$41.19 M
+1270,PAB,PATRYS Ltd,$0.02,-9.09%,-13.04%,-9.09%,-65.37%,Health Care,$41.14 M
+1271,AKM,Aspire Mining Ltd,$0.08,-1.22%,-3.57%,-6.90%,9.46%,Materials,$41.12 M
+1272,RPM,RPM Automotive Group Ltd,$0.26,-8.77%,-1.89%,-16.13%,-27.78%,Consumer Discretionary,$40.97 M
+1273,AGS,Alliance Resources Ltd,$0.18,0.00%,0.00%,0.00%,32.76%,Materials,$40.95 M
+1274,DGH,Desane Group Holdings Ltd,$1.00,0.00%,0.00%,-9.91%,-15.25%,Real Estate,$40.91 M
+1275,HRN,Horizon Gold Ltd,$0.33,0.00%,0.00%,-8.33%,-20.26%,Materials,$40.82 M
+1276,DNA,Donaco International Ltd,$0.03,-2.94%,-5.71%,-2.94%,-15.39%,Consumer Discretionary,$40.77 M
+1277,MVS,Vaneck Small Companies Masters ETF,$18.71,0.81%,6.79%,-5.79%,-15.03%,Financials,$40.66 M
+1278,DTR,Dateline Resources Ltd,$0.08,-3.53%,-16.33%,-31.67%,-9.89%,Materials,$40.65 M
+1279,CD1,CD Private Equity Fund I,$1.04,0.48%,2.97%,-5.46%,-3.70%,Financials,$40.57 M
+1280,ICG,Inca Minerals Ltd,$0.08,0.00%,-2.33%,12.00%,-23.64%,Materials,$40.45 M
+1281,SDV,Scidev Ltd,$0.22,13.16%,30.30%,-12.25%,-74.10%,Materials,$40.39 M
+1282,ARV,Artemis Resources Ltd,$0.03,-3.33%,-3.33%,-21.62%,-44.23%,Materials,$40.26 M
+1283,VR8,Vanadium Resources Ltd,$0.09,3.66%,14.87%,-22.73%,32.81%,Materials,$40.25 M
+1284,DEM,De.Mem Ltd,$0.18,9.09%,12.50%,2.86%,-35.71%,Utilities,$40.14 M
+1285,FML,Focus Minerals Ltd,$0.14,3.70%,-17.65%,-22.22%,-46.15%,Materials,$40.12 M
+1286,DXB,Dimerix Ltd,$0.13,0.00%,-7.41%,-13.79%,-39.02%,Health Care,$40.11 M
+1287,WAK,Wa Kaolin Ltd,$0.19,2.70%,5.56%,-2.56%,-7.32%,Materials,$40.01 M
+1288,GAS,State GAS Ltd,$0.20,14.29%,-4.76%,-20.00%,-60.78%,Energy,$39.97 M
+1289,OBM,Ora Banda Mining Ltd,$0.03,-6.45%,0.00%,-30.95%,-80.25%,Materials,$39.85 M
+1290,DW8,DW8 Ltd,$0.02,-6.25%,0.00%,-34.78%,-81.01%,Consumer Discretionary,$39.68 M
+1291,ENR,Encounter Resources Ltd,$0.13,0.00%,-3.85%,-7.41%,-7.89%,Materials,$39.65 M
+1292,OSL,Oncosil Medical Ltd,$0.04,11.11%,-11.11%,-25.93%,-26.38%,Health Care,$39.65 M
+1293,AFA,Asf Group Ltd,$0.05,-1.96%,0.00%,42.86%,-16.67%,Financials,$39.63 M
+1294,APC,Australian Potash Ltd,$0.05,0.00%,-5.77%,-25.76%,-65.00%,Materials,$39.61 M
+1295,AR9,Archtis Ltd,$0.15,7.14%,50.00%,0.00%,-37.50%,Information Technology,$39.57 M
+1296,IIQ,Inoviq Ltd,$0.43,-6.52%,6.17%,-18.87%,-77.95%,Health Care,$39.57 M
+1297,GPR,Geopacific Resources Ltd,$0.08,-5.00%,-15.56%,-63.81%,-75.08%,Materials,$39.46 M
+1298,WIA,WIA Gold Ltd,$0.09,0.00%,8.97%,49.12%,107.32%,Materials,$39.3 M
+1299,ASR,Asra Minerals Ltd,$0.03,-3.33%,0.00%,-19.44%,3.57%,Materials,$38.86 M
+1300,KAT,Katana Capital Ltd,$1.13,0.00%,0.00%,0.00%,11.88%,Financials,$38.49 M
+1301,PXS,Pharmaxis Ltd,$0.07,-2.78%,-2.78%,-15.66%,-6.67%,Health Care,$38.44 M
+1302,TMK,TMK Energy Ltd,$0.01,10.00%,0.00%,0.00%,37.50%,Energy,$38.28 M
+1303,XTE,Xtek Ltd,$0.38,-1.30%,5.56%,-8.43%,-7.71%,Industrials,$38.24 M
+1304,MPA,Mad Paws Holdings Ltd,$0.13,-10.35%,0.00%,-21.21%,-23.53%,Consumer Discretionary,$38.17 M
+1305,MRR,Minrex Resources Ltd,$0.04,-5.26%,9.09%,-34.55%,80.00%,Materials,$38.17 M
+1306,FHS,Freehill Mining Ltd,$0.02,10.53%,-4.55%,0.00%,-38.24%,Materials,$37.99 M
+1307,8IH,8I Holdings Ltd,$0.11,23.53%,5.00%,15.39%,-64.41%,Financials,$37.63 M
+1308,AZI,Altamin Ltd,$0.10,0.00%,1.05%,-1.03%,33.32%,Materials,$37.6 M
+1309,AR3,Australian Rare EARTHS Ltd,$0.40,2.60%,5.33%,-14.13%,31.67%,Materials,$37.6 M
+1310,NAC,Naos Ex-50 Opportunities Company Ltd,$0.84,-1.77%,-6.70%,-9.73%,-27.39%,Financials,$37.58 M
+1311,HMX,Hammer Metals Ltd,$0.05,4.55%,-14.82%,-17.86%,-50.00%,Materials,$37.51 M
+1312,TEM,Tempest Minerals Ltd,$0.07,-20.43%,105.56%,51.02%,365.06%,Materials,$37.35 M
+1313,KAI,Kairos Minerals Ltd,$0.02,18.75%,-5.00%,-26.92%,-38.71%,Materials,$37.28 M
+1314,ISU,Iselect Ltd,$0.16,-3.13%,0.00%,3.33%,-61.25%,Consumer Discretionary,$37.21 M
+1315,BWF,Blackwall Ltd,$0.55,0.00%,3.77%,-27.15%,-6.78%,Financials,$37.11 M
+1316,STN,Saturn Metals Ltd,$0.29,-6.56%,-10.94%,-28.75%,-33.72%,Materials,$37.02 M
+1317,CDO,Cadence Opportunities Fund Ltd,$2.42,0.00%,-2.81%,-0.41%,-12.69%,Financials,$36.87 M
+1318,WWI,West Wits Mining Ltd,$0.02,0.00%,-13.04%,-25.93%,-76.53%,Materials,$36.84 M
+1319,FEG,Far East Gold Ltd,$0.30,-3.23%,3.45%,-14.29%,50.00%,Materials,$36.61 M
+1320,IBG,Ironbark ZINC Ltd,$0.03,0.00%,33.33%,-17.65%,33.33%,Materials,$36.6 M
+1321,EPM,Eclipse Metals Ltd,$0.02,-5.00%,-9.52%,-26.92%,-9.52%,Energy,$36.5 M
+1322,C6C,Copper Mountain Mining Corporation,$2.17,-1.81%,-2.69%,-25.17%,-46.42%,Materials,$36.38 M
+1323,KSN,Kingston Resources Ltd,$0.09,-3.30%,-11.11%,-32.31%,-57.07%,Materials,$36.32 M
+1324,TBA,Tombola Gold Ltd,$0.04,-2.56%,-24.00%,-35.59%,-5.00%,Materials,$36.3 M
+1325,HAL,Halo Technologies Holdings Ltd,$0.28,24.44%,-20.00%,-50.88%,-76.67%,Financials,$36.26 M
+1326,CIW,Clime Investment Management Ltd,$0.50,-6.54%,0.00%,-13.79%,-18.03%,Financials,$36.14 M
+1327,KNI,Kuniko Ltd,$0.72,-10.00%,24.14%,-21.74%,260.00%,Materials,$36 M
+1328,AKG,Academies Australasia Group Ltd,$0.28,0.00%,-6.67%,-8.20%,0.00%,Consumer Discretionary,$35.73 M
+1329,92E,92 Energy Ltd,$0.44,-1.14%,-12.12%,-23.01%,35.94%,Energy,$35.62 M
+1330,JGH,Jade Gas Holdings Ltd,$0.05,3.85%,-10.00%,-8.48%,575.00%,Energy,$35.6 M
+1331,GGE,Grand Gulf Energy Ltd,$0.02,0.00%,-11.54%,-28.13%,130.00%,Energy,$35.57 M
+1332,FTZ,Fertoz Ltd,$0.16,-3.13%,-6.06%,-16.22%,3.33%,Materials,$35.5 M
+1333,VBS,Vectus Biosystems Ltd,$0.97,-3.00%,-10.19%,-19.17%,-30.22%,Health Care,$35.18 M
+1334,LEX,Lefroy Exploration Ltd,$0.24,0.00%,-5.88%,-20.00%,-75.76%,Materials,$35.01 M
+1335,FPC,Fat Prophets Global Contrarian Fund Ltd,$0.88,-3.30%,-12.00%,-18.52%,-34.08%,Financials,$34.92 M
+1336,PAM,Pan Asia Metals Ltd,$0.47,-6.93%,3.30%,-1.05%,276.00%,Materials,$34.62 M
+1337,SPD,Southern Palladium Ltd,$0.80,-10.11%,44.14%,60.00%,60.00%,Materials,$34.46 M
+1338,COD,Coda Minerals Ltd,$0.29,7.41%,0.00%,-32.56%,-77.69%,Materials,$34.28 M
+1339,IXU,Ixup Ltd,$0.04,2.70%,-9.52%,-44.12%,-78.89%,Information Technology,$34.28 M
+1340,PHO,Phosco Ltd,$0.14,0.00%,3.70%,-6.67%,112.12%,Materials,$34.11 M
+1341,EV1,Evolution Energy Minerals Ltd,$0.31,-6.06%,-3.13%,-22.50%,55.00%,Materials,$34.1 M
+1342,CDX,Cardiex Ltd,$0.31,6.90%,0.00%,-1.59%,-60.26%,Health Care,$34.09 M
+1343,DOC,Doctor Care Anywhere Group Plc,$0.15,3.45%,3.45%,-28.57%,-81.93%,Health Care,$34.08 M
+1344,UBN,Urbanise.com Ltd,$0.60,0.00%,0.00%,-6.98%,-62.03%,Information Technology,$33.94 M
+1345,ST1,Spirit Technology Solutions Ltd,$0.05,-1.92%,-3.77%,6.25%,-81.11%,Communication Services,$33.9 M
+1346,XAM,Xanadu Mines Ltd,$0.02,0.00%,4.35%,-14.29%,-33.33%,Materials,$33.89 M
+1347,ATH,Alterity Therapeutics Ltd,$0.01,0.00%,-12.50%,-15.15%,-50.00%,Health Care,$33.7 M
+1348,AE1,Aerison Group Ltd,$0.11,0.00%,-24.14%,-26.67%,-45.00%,Industrials,$33.65 M
+1349,BNR,Bulletin Resources Ltd,$0.12,-4.17%,-4.17%,-32.35%,80.51%,Materials,$33.65 M
+1350,KNM,Kneomedia Ltd,$0.03,-3.85%,0.00%,-16.67%,400.00%,Communication Services,$33.65 M
+1351,IBX,Imagion Biosystems Ltd,$0.03,0.00%,7.14%,-30.23%,-70.00%,Health Care,$33.64 M
+1352,FAL,Falcon Metals Ltd,$0.19,0.00%,-15.56%,-30.91%,-62.00%,Materials,$33.63 M
+1353,VRS,Veris Ltd,$0.06,1.59%,10.35%,-3.76%,-9.86%,Industrials,$33.52 M
+1354,GBZ,GBM Resources Ltd,$0.06,-1.54%,-8.57%,-34.02%,-44.35%,Materials,$33.47 M
+1355,IXC,INVEX Therapeutics Ltd,$0.45,-3.26%,-1.11%,-15.24%,-29.92%,Health Care,$33.44 M
+1356,VTG,Vita Group Ltd,$0.19,0.00%,-11.63%,-28.30%,-80.00%,Consumer Discretionary,$33.42 M
+1357,BLG,Bluglass Ltd,$0.03,0.00%,-3.70%,-3.70%,-12.77%,Information Technology,$33.17 M
+1358,CG1,Carbonxt Group Ltd,$0.18,2.94%,16.67%,-4.11%,25.00%,Materials,$33.14 M
+1359,AT1,Atomo Diagnostics Ltd,$0.06,-1.70%,-6.45%,-27.50%,-69.47%,Health Care,$33.11 M
+1360,GBE,Globe Metals & Mining Ltd,$0.07,-10.13%,-16.47%,-14.46%,-58.24%,Materials,$33.08 M
+1361,MIO,Macarthur Minerals Ltd,$0.21,0.00%,-14.58%,-38.81%,-50.00%,Materials,$33.06 M
+1362,TSO,Tesoro Gold Ltd,$0.04,-4.35%,-11.11%,-41.33%,-69.66%,Materials,$33 M
+1363,RNO,Rhinomed Ltd,$0.12,-4.17%,-11.54%,-32.35%,-25.31%,Health Care,$32.86 M
+1364,SRJ,SRJ Technologies Group Plc,$0.43,0.00%,0.00%,0.00%,91.11%,Energy,$32.84 M
+1365,SMG,Soon Mining Ltd,$0.20,0.00%,0.00%,0.00%,0.00%,Materials,$32.77 M
+1366,DVR,Diverger Ltd,$0.87,-3.33%,-2.79%,-13.00%,-14.71%,Financials,$32.72 M
+1367,REE,RAREX Ltd,$0.06,-3.33%,1.75%,-28.40%,-23.68%,Materials,$32.64 M
+1368,MYG,Mayfield Group Holdings Ltd,$0.36,0.00%,0.00%,0.00%,-17.24%,Industrials,$32.61 M
+1369,PFG,Prime Financial Group Ltd,$0.16,-5.88%,-8.57%,-13.51%,75.82%,Financials,$32.55 M
+1370,LEL,Lithium Energy Ltd,$0.72,-5.26%,0.00%,-41.94%,89.47%,Materials,$32.51 M
+1371,GC1,Glennon Small Companies Ltd,$0.63,-4.18%,-1.56%,-7.35%,-18.71%,Financials,$32.32 M
+1372,GTG,Genetic Technologies Ltd,$0.00,16.67%,16.67%,16.67%,-61.11%,Health Care,$32.32 M
+1373,TRY,Troy Resources Ltd,$0.04,0.00%,0.00%,0.00%,-2.63%,Materials,$32.22 M
+1374,CTE,Cryosite Ltd,$0.66,1.54%,-2.94%,-4.35%,65.00%,Health Care,$32.21 M
+1375,INV,Investsmart Group Ltd,$0.23,0.00%,-4.17%,-11.54%,12.20%,Financials,$32 M
+1376,AS1,Angel Seafood Holdings Ltd,$0.20,0.00%,0.00%,0.00%,50.00%,Consumer Staples,$31.9 M
+1377,AUZ,Australian Mines Ltd,$0.07,-2.86%,-17.07%,-40.87%,-70.27%,Materials,$31.87 M
+1378,SPX,Spenda Ltd,$0.01,0.00%,11.11%,-9.09%,-80.39%,Information Technology,$31.78 M
+1379,AUQ,Alara Resources Ltd,$0.05,0.00%,-2.17%,-40.00%,221.43%,Materials,$31.74 M
+1380,PCK,Painchek Ltd,$0.03,-6.67%,-12.50%,-30.00%,-54.10%,Health Care,$31.71 M
+1381,SEN,Senetas Corporation Ltd,$0.03,0.00%,4.00%,-23.53%,-45.83%,Information Technology,$31.56 M
+1382,PGO,Pacgold Ltd,$0.57,-2.56%,-10.24%,-5.00%,132.44%,Materials,$31.33 M
+1383,99L,99 Loyalty Ltd,$0.03,8.00%,-3.57%,-3.57%,-57.81%,Information Technology,$31.31 M
+1384,SRN,Surefire Resources NL,$0.02,2.38%,7.50%,-44.87%,43.33%,Materials,$31.29 M
+1385,ANX,ANAX Metals Ltd,$0.08,-1.28%,-8.33%,-9.41%,-6.10%,Materials,$31.23 M
+1386,PVS,Pivotal Systems Corporation,$0.20,0.00%,-7.14%,-38.10%,-87.20%,Information Technology,$31.09 M
+1387,SRK,Strike Resources Ltd,$0.12,0.00%,4.55%,-34.29%,-51.06%,Materials,$31.05 M
+1388,CLZ,Classic Minerals Ltd,$0.00,0.00%,0.00%,0.00%,0.00%,Materials,$31.02 M
+1389,CST,Castile Resources Ltd,$0.16,-6.06%,-13.89%,-11.43%,-31.11%,Materials,$30.96 M
+1390,TGH,Terragen Holdings Ltd,$0.16,6.67%,18.52%,-3.03%,-44.83%,Materials,$30.89 M
+1391,CAY,Canyon Resources Ltd,$0.04,-4.35%,-49.43%,-49.43%,-63.33%,Materials,$30.88 M
+1392,CCG,Comms Group Ltd,$0.09,0.00%,0.00%,-10.53%,21.43%,Communication Services,$30.71 M
+1393,SOV,Sovereign Cloud Holdings Ltd,$0.25,4.17%,47.06%,-13.79%,-57.64%,Information Technology,$30.66 M
+1394,AIQ,Alternative Investment Trust,$0.10,0.00%,0.00%,-4.76%,-16.67%,Financials,$30.64 M
+1395,CPN,Caspin Resources Ltd,$0.44,-1.14%,-4.40%,-42.76%,-74.41%,Materials,$30.37 M
+1396,CAD,Caeneus Minerals Ltd,$0.01,0.00%,8.33%,-7.14%,-35.00%,Materials,$30.29 M
+1397,TGM,Theta Gold Mines Ltd,$0.06,-9.84%,-12.70%,-50.00%,-73.81%,Materials,$30.26 M
+1398,LDX,Lumos Diagnostics Holdings Ltd,$0.16,6.90%,10.71%,-29.59%,-86.76%,Health Care,$29.86 M
+1399,YBR,Yellow Brick Road Holdings Ltd,$0.09,-1.08%,-3.16%,-8.00%,2.22%,Financials,$29.86 M
+1400,WR1,Winsome Resources Ltd,$0.22,0.00%,7.32%,-47.62%,10.00%,Materials,$29.73 M
+1401,FRE,Firebrick Pharma Ltd,$0.28,3.70%,-6.67%,-24.32%,40.00%,Health Care,$29.71 M
+1402,BDT,Birddog Technology Ltd,$0.15,-9.38%,-12.12%,-29.27%,-77.69%,Information Technology,$29.67 M
+1403,SOP,Synertec Corporation Ltd,$0.08,1.22%,0.00%,3.75%,-17.00%,Industrials,$29.66 M
+1404,RVS,Revasum Inc,$0.28,1.82%,1.82%,-31.71%,0.00%,Information Technology,$29.66 M
+1405,GWR,GWR Group Ltd,$0.09,0.00%,0.00%,-23.33%,-70.14%,Materials,$29.55 M
+1406,KRR,King River Resources Ltd,$0.02,-5.00%,0.00%,-17.39%,-29.63%,Materials,$29.52 M
+1407,SIO,Simonds Group Ltd,$0.20,0.00%,-4.76%,-20.00%,-66.10%,Consumer Discretionary,$29.45 M
+1408,K2F,K2FLY Ltd,$0.17,9.68%,0.00%,-12.82%,-45.16%,Information Technology,$29.44 M
+1409,MZZ,Matador Mining Ltd,$0.14,-6.90%,-10.00%,-28.95%,-69.32%,Materials,$29.37 M
+1410,MRD,Mount Ridley Mines Ltd,$0.01,0.00%,-9.09%,-33.33%,150.00%,Materials,$29.29 M
+1411,BSA,BSA Ltd,$0.05,-1.92%,-28.17%,-36.25%,-82.51%,Industrials,$29.12 M
+1412,ABX,ABX Group Ltd,$0.13,0.00%,-3.70%,-21.21%,23.81%,Materials,$29.07 M
+1413,AGN,Argenica Therapeutics Ltd,$0.45,12.50%,18.42%,-4.26%,130.77%,Health Care,$28.93 M
+1414,QSML,Vaneck MSCI Intl Small Companies Quality ETF,$19.26,-0.05%,5.48%,-2.73%,-13.09%,Financials,$28.89 M
+1415,OEX,OILEX Ltd,$0.00,16.67%,0.00%,16.67%,-12.50%,Energy,$28.85 M
+1416,AHC,Austco Healthcare Ltd,$0.10,8.70%,9.89%,0.00%,-20.00%,Health Care,$28.71 M
+1417,DKM,Duketon Mining Ltd,$0.24,0.00%,-9.62%,-26.56%,-26.56%,Materials,$28.68 M
+1418,VYS,Vysarn Ltd,$0.07,0.00%,0.00%,-8.75%,-19.78%,Materials,$28.61 M
+1419,CHM,Chimeric Therapeutics Ltd,$0.09,3.37%,3.37%,-20.00%,-67.09%,Health Care,$28.52 M
+1420,MEM,Memphasys Ltd,$0.04,0.00%,5.88%,-18.18%,-44.62%,Health Care,$28.52 M
+1421,SXG,Southern Cross Gold Ltd,$0.46,5.17%,-9.41%,128.75%,128.75%,Materials,$28.49 M
+1422,MLS,Metals Australia Ltd,$0.05,-5.66%,8.70%,-41.18%,66.67%,Materials,$28.4 M
+1423,BML,Boab Metals Ltd,$0.19,0.00%,-2.63%,-45.59%,-56.98%,Materials,$28.4 M
+1424,DTC,Damstra Holdings Ltd,$0.11,-4.35%,42.86%,14.58%,-86.96%,Information Technology,$28.35 M
+1425,CMP,Compumedics Ltd,$0.16,6.67%,0.00%,-15.79%,-55.56%,Health Care,$28.35 M
+1426,GBR,Great Boulder Resources Ltd,$0.07,-3.60%,-6.94%,-30.21%,-18.29%,Materials,$28.33 M
+1427,AFL,Af Legal Group Ltd,$0.37,-3.90%,5.71%,-9.76%,-34.51%,Industrials,$28.24 M
+1428,PTG,Proptech Group Ltd,$0.21,-10.64%,-17.65%,-38.24%,-74.85%,Information Technology,$28.15 M
+1429,TI1,Tombador Iron Ltd,$0.03,-3.85%,-16.67%,-26.47%,-70.24%,Materials,$28 M
+1430,QHL,Quickstep Holdings Ltd,$0.39,1.30%,-2.50%,-17.02%,-23.53%,Industrials,$27.97 M
+1431,ACS,Accent Resources NL,$0.06,0.00%,0.00%,0.00%,20.00%,Materials,$27.96 M
+1432,CF1,Complii Fintech Solutions Ltd,$0.08,0.00%,1.27%,6.67%,35.59%,Information Technology,$27.86 M
+1433,JAT,Jatcorp Ltd,$0.01,0.00%,-7.14%,-1.70%,-33.65%,Consumer Discretionary,$27.83 M
+1434,KMT,Kopore Metals Ltd,$0.03,0.00%,-3.23%,-23.08%,20.00%,Materials,$27.79 M
+1435,ITM,Itech Minerals Ltd,$0.31,-4.69%,3.39%,-33.70%,52.50%,Materials,$27.7 M
+1436,CNR,Cannon Resources Ltd,$0.36,2.86%,28.57%,12.50%,80.00%,Materials,$27.69 M
+1437,HAW,Hawthorn Resources Ltd,$0.08,-2.35%,2.47%,-30.83%,84.44%,Materials,$27.68 M
+1438,BYI,Beyond International Ltd,$0.45,0.00%,-10.00%,-18.18%,-35.71%,Communication Services,$27.6 M
+1439,AV1,Adveritas Ltd,$0.06,-12.68%,-8.82%,-33.33%,-40.95%,Information Technology,$27.6 M
+1440,AGR,Aguia Resources Ltd,$0.07,-1.43%,2.99%,-8.00%,-5.48%,Materials,$27.59 M
+1441,AGD,Austral Gold Ltd,$0.05,4.65%,-6.25%,-30.77%,-68.97%,Materials,$27.55 M
+1442,BKG,Booktopia Group Ltd,$0.20,5.26%,8.11%,-45.21%,-92.31%,Consumer Discretionary,$27.47 M
+1443,EDE,Eden Innovations Ltd,$0.01,10.00%,0.00%,-15.39%,-47.62%,Energy,$27.34 M
+1444,KPO,Kalina Power Ltd,$0.02,5.88%,-5.26%,-30.77%,-43.75%,Utilities,$27.27 M
+1445,CNJ,Conico Ltd,$0.02,-9.09%,-31.03%,-42.86%,-25.16%,Materials,$27.17 M
+1446,TFL,Tasfoods Ltd,$0.06,0.00%,1.64%,-11.43%,-43.64%,Consumer Staples,$27.1 M
+1447,ELE,Elmore Ltd,$0.03,0.00%,13.79%,0.00%,57.14%,Materials,$27 M
+1448,EYE,Nova EYE Medical Ltd,$0.19,-2.63%,-7.50%,-7.50%,-41.27%,Health Care,$26.93 M
+1449,AMX,Aerometrex Ltd,$0.29,-5.00%,29.55%,-13.64%,-61.22%,Industrials,$26.9 M
+1450,AQI,Alicanto Minerals Ltd,$0.07,12.90%,22.81%,-1.41%,-48.15%,Materials,$26.86 M
+1451,MGL,Magontec Ltd,$0.35,1.45%,-2.78%,-17.65%,37.26%,Materials,$26.86 M
+1452,PNN,Power Minerals Ltd,$0.44,-2.25%,8.75%,-12.12%,74.00%,Materials,$26.76 M
+1453,RHT,Resonance Health Ltd,$0.06,-6.45%,7.41%,-34.09%,-63.75%,Health Care,$26.73 M
+1454,NGE,NGE Capital Ltd,$0.74,3.50%,2.78%,-7.50%,12.12%,Financials,$26.64 M
+1455,PF1,Pathfinder Resources Ltd,$0.50,0.00%,0.00%,0.00%,47.06%,Materials,$26.56 M
+1456,IDT,IDT Australia Ltd,$0.11,0.00%,0.00%,-24.14%,-66.67%,Health Care,$26.51 M
+1457,ROG,Red Sky Energy Ltd,$0.01,-16.67%,-16.67%,-16.67%,-28.57%,Energy,$26.51 M
+1458,ADS,Adslot Ltd,$0.01,9.09%,0.00%,-20.00%,-55.56%,Information Technology,$26.45 M
+1459,KYK,KYCKR Ltd,$0.05,0.00%,-10.91%,-14.04%,16.67%,Information Technology,$26.34 M
+1460,PV1,Provaris Energy Ltd,$0.05,-4.00%,20.00%,-28.36%,-31.43%,Energy,$26.29 M
+1461,TLM,Talisman Mining Ltd,$0.14,7.69%,0.00%,-26.32%,-31.71%,Materials,$26.28 M
+1462,CCA,Change Financial Ltd,$0.07,8.20%,24.53%,-13.16%,-34.00%,Information Technology,$26.26 M
+1463,KZR,Kalamazoo Resources Ltd,$0.18,0.00%,-21.74%,-47.06%,-51.02%,Materials,$26.13 M
+1464,IG6,International Graphite Ltd,$0.32,3.23%,6.67%,12.28%,60.00%,Industrials,$26.08 M
+1465,AMO,Ambertech Ltd,$0.28,1.82%,-3.45%,-12.50%,24.44%,Information Technology,$26.04 M
+1466,NCL,Netccentric Ltd,$0.09,0.00%,1.10%,21.05%,-42.50%,Communication Services,$26.04 M
+1467,EVR,EV Resources Ltd,$0.03,7.69%,7.69%,-28.21%,33.33%,Materials,$25.93 M
+1468,E2M,E2 Metals Ltd,$0.13,-3.70%,-10.35%,-24.64%,-58.07%,Materials,$25.89 M
+1469,GW1,Greenwing Resources Ltd,$0.21,-2.33%,-8.70%,-31.15%,-16.00%,Materials,$25.88 M
+1470,ECT,Environmental Clean Technologies Ltd,$0.02,-6.25%,-6.25%,-25.00%,15.39%,Industrials,$25.74 M
+1471,DDB,Dynamic Group Holdings Ltd,$0.28,12.00%,9.80%,-12.50%,-35.63%,Industrials,$25.68 M
+1472,TZL,TZ Ltd,$0.12,4.55%,30.68%,4.55%,17.35%,Information Technology,$25.61 M
+1473,MMA,Maronan Metals Ltd,$0.34,1.49%,0.00%,-9.33%,70.00%,Materials,$25.5 M
+1474,8CO,8COMMON Ltd,$0.12,4.55%,15.00%,27.78%,-11.54%,Information Technology,$25.48 M
+1475,TCG,Turaco Gold Ltd,$0.06,3.51%,-18.06%,-32.18%,-41.00%,Materials,$25.24 M
+1476,LNY,Laneway Resources Ltd,$0.00,0.00%,0.00%,0.00%,4.35%,Materials,$25.21 M
+1477,NGY,Nuenergy Gas Ltd,$0.02,0.00%,-15.00%,-29.17%,-57.50%,Energy,$25.18 M
+1478,EME,Energy Metals Ltd,$0.12,-4.00%,-14.29%,-41.46%,-31.43%,Energy,$25.16 M
+1479,CNW,Cirrus Networks Holdings Ltd,$0.03,0.00%,-6.90%,-10.00%,-6.90%,Information Technology,$25.11 M
+1480,NSB,Neuroscientific Biopharmaceuticals Ltd,$0.18,-10.26%,0.00%,-16.67%,-48.53%,Health Care,$25.11 M
+1481,IOU,Ioupay Ltd,$0.05,-6.25%,-6.25%,-45.12%,-80.85%,Communication Services,$24.93 M
+1482,QXR,QX Resources Ltd,$0.03,7.41%,20.83%,-48.21%,81.25%,Materials,$24.92 M
+1483,BGT,Bio-Gene Technology Ltd,$0.14,0.00%,-3.45%,-6.67%,-24.32%,Materials,$24.78 M
+1484,AXI,Axiom Properties Ltd,$0.06,-5.00%,-10.94%,-18.57%,-12.31%,Real Estate,$24.66 M
+1485,AON,Apollo Minerals Ltd,$0.05,-1.92%,-17.74%,-28.17%,-43.96%,Materials,$24.54 M
+1486,SNG,Siren Gold Ltd,$0.29,11.54%,-4.92%,-25.64%,3.57%,Materials,$24.49 M
+1487,1AE,Aurora Energy Metals Ltd,$0.21,-1.18%,-16.00%,-26.32%,5.00%,Materials,$24.46 M
+1488,CLE,Cyclone Metals Ltd,$0.00,0.00%,0.00%,-20.00%,-55.56%,Materials,$24.42 M
+1489,PAA,Pharmaust Ltd,$0.08,-2.53%,-3.75%,-14.44%,-16.30%,Health Care,$24.4 M
+1490,JAL,Jameson Resources Ltd,$0.07,0.00%,-6.67%,-6.67%,-17.65%,Materials,$24.37 M
+1491,VBC,Verbrec Ltd,$0.11,4.76%,10.00%,-8.33%,-21.43%,Industrials,$24.36 M
+1492,LBT,LBT Innovations Ltd,$0.08,-1.30%,18.75%,-10.59%,-6.17%,Health Care,$24.31 M
+1493,DCL,Domacom Ltd,$0.07,0.00%,0.00%,0.00%,0.00%,Financials,$24.23 M
+1494,PVW,PVW Resources Ltd,$0.26,-3.70%,10.64%,-13.33%,79.31%,Materials,$24.19 M
+1495,VMC,Venus Metals Corporation Ltd,$0.16,-11.11%,0.00%,-15.79%,-13.51%,Materials,$24.17 M
+1496,AQN,Aquirian Ltd,$0.30,0.00%,0.00%,1.70%,50.00%,Industrials,$24 M
+1497,CDT,Castle Minerals Ltd,$0.02,0.00%,-4.00%,-33.33%,71.43%,Materials,$23.99 M
+1498,EQX,Equatorial Resources Ltd,$0.19,0.00%,5.56%,-2.56%,-35.59%,Materials,$23.93 M
+1499,AVE,Avecho Biotechnology Ltd,$0.01,-7.14%,8.33%,-23.53%,-23.53%,Health Care,$23.89 M
+1500,FFG,Fatfish Group Ltd,$0.02,27.78%,15.00%,-20.69%,-65.67%,Financials,$23.83 M
+1501,RRR,Revolver Resources Holdings Ltd,$0.28,-12.50%,12.00%,-6.67%,40.00%,Materials,$23.76 M
+1502,OPY,Openpay Group Ltd,$0.15,0.00%,-9.09%,-36.17%,-89.93%,Financials,$23.74 M
+1503,IDA,Indiana Resources Ltd,$0.05,0.00%,3.85%,-5.26%,-26.03%,Materials,$23.74 M
+1504,QEM,QEM Ltd,$0.20,-2.50%,0.00%,-20.41%,21.88%,Materials,$23.72 M
+1505,AAU,Antilles Gold Ltd,$0.07,4.69%,0.00%,1.52%,-9.46%,Materials,$23.68 M
+1506,NAG,Nagambie Resources Ltd,$0.05,4.55%,-6.12%,-4.17%,-42.50%,Materials,$23.6 M
+1507,BNZ,BENZ Mining Corp,$0.45,-4.26%,-6.25%,-25.00%,-45.12%,Materials,$23.59 M
+1508,SUV,Suvo Strategic Minerals Ltd,$0.04,-4.76%,-11.11%,-42.86%,-71.43%,Materials,$23.47 M
+1509,NYR,Nyrada Inc,$0.15,-1.64%,7.14%,-11.77%,-48.28%,Health Care,$23.4 M
+1510,CGA,Contango Asset Management Ltd,$0.49,21.25%,-19.17%,-25.95%,-51.26%,Financials,$23.33 M
+1511,ANL,Amani Gold Ltd,$0.00,0.00%,-33.33%,-33.33%,0.00%,Materials,$23.29 M
+1512,AXP,AXP Energy Ltd,$0.00,0.00%,-20.00%,-33.33%,0.00%,Energy,$23.25 M
+1513,SCN,Scorpion Minerals Ltd,$0.07,-5.41%,-2.78%,-27.84%,16.67%,Materials,$23.23 M
+1514,GOAT,Vaneck Morningstar International Wide Moat ETF,$23.14,-0.94%,5.90%,-1.15%,-3.22%,Financials,$23.15 M
+1515,WTL,WT Financial Group Ltd,$0.07,0.00%,1.41%,-20.00%,2.86%,Financials,$23.12 M
+1516,ICS,Icsglobal Ltd,$2.19,0.00%,0.00%,0.00%,0.00%,Health Care,$23.05 M
+1517,PPY,Papyrus Australia Ltd,$0.05,0.00%,0.00%,-16.95%,96.00%,Materials,$23.01 M
+1518,IMR,Imricor Medical Systems Inc,$0.16,6.67%,39.13%,-43.86%,-91.80%,Health Care,$22.97 M
+1519,JAY,Jayride Group Ltd,$0.13,0.00%,-13.33%,-18.75%,-50.00%,Industrials,$22.93 M
+1520,GSN,Great Southern Mining Ltd,$0.04,2.38%,-2.27%,2.38%,-4.44%,Materials,$22.89 M
+1521,FLX,FELIX Group Holdings Ltd,$0.18,-2.78%,-16.67%,-31.37%,-35.19%,Information Technology,$22.89 M
+1522,EFE,Eastern Resources Ltd,$0.02,-4.17%,0.00%,-34.29%,53.33%,Materials,$22.87 M
+1523,EVZ,EVZ Ltd,$0.19,0.00%,5.56%,5.56%,31.03%,Industrials,$22.83 M
+1524,VN8,VONEX Ltd,$0.07,-1.45%,0.00%,-13.92%,-47.69%,Communication Services,$22.68 M
+1525,MCE,Matrix Composites & Engineering Ltd,$0.16,-3.13%,0.00%,3.33%,19.23%,Energy,$22.64 M
+1526,PEC,Perpetual Resources Ltd,$0.05,0.00%,12.20%,-4.17%,-61.67%,Materials,$22.64 M
+1527,SKY,SKY Metals Ltd,$0.06,-1.64%,0.00%,-25.00%,-45.46%,Materials,$22.61 M
+1528,ZNO,ZOONO Group Ltd,$0.14,-3.57%,-6.90%,-28.95%,-78.05%,Materials,$22.47 M
+1529,MKR,Manuka Resources Ltd,$0.19,0.00%,-5.00%,-11.63%,-42.42%,Materials,$22.45 M
+1530,MEL,Metgasco Ltd,$0.02,4.35%,0.00%,-4.00%,-7.94%,Energy,$22.32 M
+1531,GFL,Global Masters Fund Ltd,$2.08,0.00%,0.00%,-6.31%,-12.97%,Financials,$22.3 M
+1532,OKR,Okapi Resources Ltd,$0.19,0.00%,-2.56%,-24.00%,0.00%,Materials,$22.26 M
+1533,MKG,Mako Gold Ltd,$0.06,-3.33%,-21.62%,-30.12%,-30.95%,Materials,$22.17 M
+1534,RCL,Readcloud Ltd,$0.19,2.78%,15.63%,-21.28%,-48.61%,Information Technology,$22.16 M
+1535,HFY,Hubify Ltd,$0.05,2.27%,25.00%,0.00%,-32.84%,Communication Services,$22.12 M
+1536,COO,Corum Group Ltd,$0.04,-2.63%,8.82%,-9.76%,-55.42%,Information Technology,$22.08 M
+1537,MOZ,Mosaic Brands Ltd,$0.21,-8.89%,-6.82%,-57.29%,-66.12%,Consumer Discretionary,$22.05 M
+1538,CLB,Candy Club Holdings Ltd,$0.06,0.00%,-6.25%,-23.08%,-58.62%,Consumer Staples,$22.05 M
+1539,RTH,Ras Technology Holdings Ltd,$0.49,4.30%,18.29%,21.25%,-67.67%,Industrials,$22.05 M
+1540,EX1,Exopharm Ltd,$0.14,-9.68%,-3.45%,-22.22%,-72.28%,Health Care,$22.01 M
+1541,VAL,Valor Resources Ltd,$0.01,0.00%,-14.29%,-29.41%,-40.00%,Materials,$21.95 M
+1542,RGL,Riversgold Ltd,$0.03,-9.38%,7.41%,-29.27%,-8.56%,Materials,$21.93 M
+1543,TCF,360 Capital Enhanced Income Fund,$5.30,0.57%,1.92%,-7.34%,-6.85%,Financials,$21.9 M
+1544,FRX,Flexiroam Ltd,$0.03,6.25%,25.93%,-19.05%,25.93%,Communication Services,$21.81 M
+1545,AML,Aeon Metals Ltd,$0.02,4.76%,4.76%,-38.89%,-69.44%,Materials,$21.8 M
+1546,MCM,MC Mining Ltd,$0.11,10.00%,11.11%,-21.43%,10.00%,Energy,$21.74 M
+1547,HSC,HSC Technology Group Ltd,$0.01,0.00%,0.00%,-9.09%,-47.37%,Information Technology,$21.73 M
+1548,PNM,Pacific Nickel Mines Ltd,$0.08,5.26%,1.27%,11.89%,60.00%,Materials,$21.7 M
+1549,SGQ,ST George Mining Ltd,$0.03,6.90%,-6.06%,-20.51%,-56.34%,Materials,$21.7 M
+1550,TIA,Tian An Australia Ltd,$0.25,0.00%,0.00%,0.00%,-19.36%,Real Estate,$21.65 M
+1551,EMB,Embelton Ltd,$10.00,0.00%,0.00%,0.00%,-17.36%,Industrials,$21.58 M
+1552,ENA,Ensurance Ltd,$0.24,2.13%,4.35%,-4.00%,14.29%,Financials,$21.55 M
+1553,DCC,Digitalx Ltd,$0.03,3.57%,-3.33%,-39.58%,-40.82%,Information Technology,$21.53 M
+1554,Z2U,ZOOM2U Technologies Ltd,$0.18,5.88%,9.09%,-28.00%,-10.00%,Information Technology,$21.52 M
+1555,NIM,Nimy Resources Ltd,$0.43,-1.15%,21.13%,-14.00%,115.00%,Materials,$21.46 M
+1556,TYX,Tyranna Resources Ltd,$0.01,0.00%,-12.50%,55.56%,133.33%,Materials,$21.45 M
+1557,ADX,ADX Energy Ltd,$0.01,0.00%,0.00%,-12.50%,0.00%,Energy,$21.42 M
+1558,TON,Triton Minerals Ltd,$0.02,0.00%,-22.73%,-37.04%,-51.43%,Materials,$21.4 M
+1559,WLS,WCM Global Long Short Ltd,$0.56,1.82%,4.67%,-5.09%,-8.94%,Financials,$21.32 M
+1560,OLI,Oliver's Real Food Ltd,$0.06,0.00%,0.00%,0.00%,0.00%,Consumer Discretionary,$21.28 M
+1561,MM8,Medallion Metals Ltd,$0.20,3.90%,-20.00%,-23.08%,-18.37%,Materials,$21.21 M
+1562,HMD,Heramed Ltd,$0.10,-4.76%,0.00%,-28.57%,-64.91%,Health Care,$21.19 M
+1563,BUD,Buddy Technologies Ltd,$0.01,0.00%,0.00%,0.00%,-86.05%,Consumer Discretionary,$21.08 M
+1564,CGN,Crater Gold Mining Ltd,$0.02,0.00%,0.00%,0.00%,6.25%,Materials,$21.06 M
+1565,AOU,Auroch Minerals Ltd,$0.06,-6.56%,-14.93%,-38.04%,-65.46%,Materials,$21.06 M
+1566,S66,Star Combo Pharma Ltd,$0.16,0.00%,3.33%,3.33%,-38.00%,Consumer Staples,$20.85 M
+1567,HLF,Halo Food Co. Ltd,$0.05,0.00%,0.00%,-7.97%,-56.67%,Consumer Staples,$20.84 M
+1568,OEC,Orbital Corporation Ltd,$0.23,0.00%,-10.00%,-22.41%,-73.41%,Industrials,$20.47 M
+1569,ESR,Estrella Resources Ltd,$0.02,-5.56%,-10.53%,-37.04%,-65.31%,Materials,$20.41 M
+1570,CAG,Cape Range Ltd,$0.22,-8.51%,-8.51%,-10.42%,16.22%,Information Technology,$20.41 M
+1571,ATX,Amplia Therapeutics Ltd,$0.11,7.14%,10.53%,-8.70%,-53.86%,Health Care,$20.37 M
+1572,IHR,Intellihr Ltd,$0.06,13.21%,11.11%,-33.33%,-73.91%,Information Technology,$20.35 M
+1573,WNX,Wellnex Life Ltd,$0.07,-1.47%,-5.63%,-32.32%,-87.36%,Consumer Staples,$20.32 M
+1574,ECP,ECP Emerging Growth Ltd,$1.10,9.45%,14.58%,-4.76%,-23.61%,Financials,$20.17 M
+1575,LCL,Los Cerros Ltd,$0.03,-18.42%,-20.51%,-48.33%,-81.77%,Materials,$20.17 M
+1576,WWG,Wiseway Group Ltd,$0.12,0.00%,-11.11%,-33.33%,-59.55%,Industrials,$20.08 M
+1577,GLE,GLG Corp Ltd,$0.27,0.00%,-10.00%,-10.00%,-25.00%,Consumer Discretionary,$20.01 M
+1578,PNX,PNX Metals Ltd,$0.01,12.50%,12.50%,-10.00%,-41.81%,Materials,$20 M
+1579,WEMG,SPDR S&P Emerging Markets Carbon Control Fund,$21.72,-0.73%,2.84%,3.58%,-16.46%,Financials,$19.98 M
+1580,MQR,Marquee Resources Ltd,$0.06,-1.54%,3.23%,-39.05%,18.52%,Materials,$19.96 M
+1581,OPN,Openn Negotiation Ltd,$0.17,-5.56%,6.25%,-17.07%,-15.00%,Industrials,$19.94 M
+1582,PWN,Parkway Corporate Ltd,$0.01,-10.00%,-10.00%,-18.18%,-21.74%,Materials,$19.92 M
+1583,AGH,Althea Group Holdings Ltd,$0.06,-5.97%,-7.35%,-48.57%,-80.31%,Health Care,$19.91 M
+1584,IPT,Impact Minerals Ltd,$0.01,14.29%,0.00%,-27.27%,-36.51%,Materials,$19.85 M
+1585,TYM,TYMLEZ Group Ltd,$0.02,0.00%,11.11%,-33.33%,66.67%,Information Technology,$19.79 M
+1586,CETF,Vaneck Ftse China A50 ETF,$63.50,-0.58%,3.37%,16.45%,-11.50%,Financials,$19.78 M
+1587,GMR,Golden Rim Resources Ltd,$0.06,31.25%,16.67%,-1.56%,-47.50%,Materials,$19.78 M
+1588,MVL,Marvel Gold Ltd,$0.03,0.00%,-15.15%,-28.21%,-41.89%,Materials,$19.72 M
+1589,JCS,Jcurve Solutions Ltd,$0.06,0.00%,-6.25%,-6.25%,3.45%,Information Technology,$19.7 M
+1590,HGL,Hudson Investment Group Ltd,$0.33,0.00%,0.00%,0.00%,50.00%,Real Estate,$19.59 M
+1591,WRK,WRKR Ltd,$0.02,-5.88%,0.00%,-15.79%,-42.86%,Information Technology,$19.58 M
+1592,TKM,Trek Metals Ltd,$0.06,12.50%,5.00%,-25.88%,1.61%,Materials,$19.57 M
+1593,ZEU,ZEUS Resources Ltd,$0.09,0.00%,0.00%,0.00%,-1.11%,Energy,$19.5 M
+1594,DEL,Delorean Corporation Ltd,$0.09,3.45%,-8.16%,-40.00%,-56.10%,Utilities,$19.41 M
+1595,GTR,Gti Energy Ltd,$0.01,0.00%,0.00%,-18.75%,-39.05%,Materials,$19.4 M
+1596,FFT,Future First Technologies Ltd,$0.03,0.00%,-3.23%,-11.77%,-51.10%,Industrials,$19.22 M
+1597,CUF,Cufe Ltd,$0.02,5.26%,-9.09%,-33.33%,-60.00%,Materials,$19.17 M
+1598,EQE,EQUUS Mining Ltd,$0.11,0.00%,-18.52%,-33.33%,-45.00%,Materials,$19.15 M
+1599,MRZ,Mont Royal Resources Ltd,$0.29,-5.00%,-5.00%,-10.94%,14.00%,Materials,$19.11 M
+1600,MGU,Magnum Mining and Exploration Ltd,$0.04,-2.70%,-12.20%,-30.77%,-77.50%,Materials,$19.09 M
+1601,CAV,Carnavale Resources Ltd,$0.01,0.00%,-22.22%,-22.22%,0.00%,Materials,$19.03 M
+1602,AQD,Ausquest Ltd,$0.02,0.00%,-8.00%,15.00%,9.52%,Materials,$18.98 M
+1603,BEM,Blackearth Minerals NL,$0.07,-1.41%,2.94%,-29.29%,-29.29%,Materials,$18.92 M
+1604,FPP,Fat Prophets Global Property Fund,$0.83,-7.78%,-4.05%,-12.63%,-12.63%,Real Estate,$18.91 M
+1605,KAU,Kaiser Reef Ltd,$0.15,-3.33%,-3.33%,-30.95%,-38.83%,Materials,$18.83 M
+1606,AMT,Allegra Orthopaedics Ltd,$0.18,0.00%,0.00%,0.00%,-10.00%,Health Care,$18.8 M
+1607,VPR,Volt Power Group Ltd,$0.00,0.00%,0.00%,0.00%,-33.33%,Utilities,$18.69 M
+1608,ADV,Ardiden Ltd,$0.01,0.00%,-12.50%,-39.13%,-12.50%,Materials,$18.68 M
+1609,ODY,Odyssey Gold Ltd,$0.04,-7.90%,-10.26%,-22.22%,-70.83%,Materials,$18.64 M
+1610,YRL,Yandal Resources Ltd,$0.16,18.52%,-11.11%,-23.81%,-69.02%,Materials,$18.57 M
+1611,LPM,Lithium Plus Minerals Ltd,$0.42,2.47%,9.21%,-23.15%,66.00%,Materials,$18.52 M
+1612,INL,Innlanz Ltd,$0.06,0.00%,-1.67%,-1.67%,9.26%,Consumer Discretionary,$18.48 M
+1613,AHI,Advanced Human Imaging Ltd,$0.11,4.76%,-2.22%,-31.25%,-90.98%,Information Technology,$18.34 M
+1614,PIL,Peppermint Innovation Ltd,$0.01,0.00%,12.50%,-25.00%,-43.75%,Information Technology,$18.34 M
+1615,CY5,CYGNUS Gold Ltd,$0.16,0.00%,0.00%,-6.06%,40.91%,Materials,$18.29 M
+1616,DRM,Demetallica Ltd,$0.21,0.00%,-3.45%,-20.76%,-16.00%,Materials,$18.24 M
+1617,IMC,Immuron Ltd,$0.08,5.26%,-13.04%,-20.00%,-50.00%,Health Care,$18.22 M
+1618,SKF,SKYFII Ltd,$0.04,-2.22%,-12.00%,-32.31%,-61.74%,Information Technology,$18.22 M
+1619,EDU,EDU Holdings Ltd,$0.14,8.00%,3.85%,-3.57%,-15.63%,Consumer Discretionary,$18.13 M
+1620,MRL,Mayur Resources Ltd,$0.08,0.00%,-6.25%,-37.50%,-64.29%,Materials,$18.12 M
+1621,GML,Gateway Mining Ltd,$0.01,14.29%,-20.00%,-27.27%,-60.00%,Materials,$18.08 M
+1622,FOD,The Food Revolution Group Ltd,$0.02,-5.00%,5.56%,-24.00%,-26.92%,Consumer Staples,$17.99 M
+1623,PTR,Petratherm Ltd,$0.08,19.40%,-15.79%,-20.00%,50.94%,Materials,$17.98 M
+1624,BCC,Beam Communications Holdings Ltd,$0.21,2.50%,-12.77%,-25.46%,-14.58%,Information Technology,$17.72 M
+1625,ECS,ECS Botanics Holdings Ltd,$0.02,0.00%,-5.88%,-27.27%,-57.90%,Health Care,$17.71 M
+1626,RDM,Red Metal Ltd,$0.07,-7.69%,-1.37%,-24.21%,-48.57%,Materials,$17.68 M
+1627,CNQ,Clean TEQ Water Ltd,$0.40,-4.82%,-5.95%,-30.09%,-34.17%,Industrials,$17.64 M
+1628,RWD,Reward Minerals Ltd,$0.09,0.00%,0.00%,-18.18%,-10.00%,Materials,$17.58 M
+1629,COY,Coppermoly Ltd,$0.01,0.00%,0.00%,-11.11%,-20.00%,Materials,$17.55 M
+1630,SNX,Sierra Nevada Gold Inc,$0.43,-1.15%,4.88%,-9.47%,-14.00%,Materials,$17.55 M
+1631,TOU,Tlou Energy Ltd,$0.03,0.00%,-3.33%,-14.71%,-29.27%,Energy,$17.41 M
+1632,TPO,Tian Poh Resources Ltd,$0.05,0.00%,0.00%,0.00%,0.00%,Materials,$17.39 M
+1633,WRM,White Rock Minerals Ltd,$0.10,0.00%,-4.76%,-23.08%,-80.95%,Materials,$17.37 M
+1634,WHK,Whitehawk Ltd,$0.08,20.64%,33.33%,-22.45%,-49.33%,Consumer Discretionary,$17.31 M
+1635,RAD,Radiopharm Theranostics Ltd,$0.15,0.00%,3.57%,-23.68%,-75.83%,Health Care,$17.22 M
+1636,TPC,TPC Consolidated Ltd,$1.51,0.00%,-9.58%,-16.58%,-56.86%,Utilities,$17.18 M
+1637,VIG,Victor Group Holdings Ltd,$0.03,0.00%,0.00%,0.00%,0.00%,Information Technology,$17.17 M
+1638,XPN,Xpon Technologies Group Ltd,$0.11,0.00%,0.00%,-31.25%,-45.00%,Information Technology,$17.15 M
+1639,HPC,The Hydration Pharmaceuticals Company Ltd,$0.12,0.00%,-25.00%,-52.00%,-66.20%,Consumer Staples,$17.08 M
+1640,AHN,Athena Resources Ltd,$0.02,-12.50%,-16.00%,200.00%,5.00%,Materials,$17.07 M
+1641,FTL,Firetail Resources Ltd,$0.28,1.85%,0.00%,-19.12%,10.00%,Materials,$16.99 M
+1642,AII,Almonty Industries Inc,$0.95,0.00%,-6.86%,15.85%,-5.00%,Materials,$16.92 M
+1643,BIQ,Buildingiq Inc,$0.02,0.00%,0.00%,0.00%,0.00%,Information Technology,$16.89 M
+1644,TSN,The Sustainable Nutrition Group Ltd,$0.14,0.00%,0.00%,0.00%,-62.16%,Consumer Staples,$16.88 M
+1645,RGS,Regeneus Ltd,$0.06,0.00%,10.00%,27.91%,-26.67%,Health Care,$16.85 M
+1646,MAN,Mandrake Resources Ltd,$0.03,-2.86%,-8.11%,-30.61%,-76.55%,Materials,$16.82 M
+1647,AC8,Auscann Group Holdings Ltd,$0.04,5.56%,-5.00%,-34.48%,-62.00%,Health Care,$16.74 M
+1648,HIL,Hills Ltd,$0.07,4.35%,-8.86%,-19.10%,-46.67%,Information Technology,$16.7 M
+1649,TMS,Tennant Minerals Ltd,$0.03,8.00%,-10.00%,-27.03%,17.39%,Materials,$16.65 M
+1650,WSI,Weststar Industrial Ltd,$0.15,-11.77%,-3.23%,-9.09%,25.00%,Materials,$16.61 M
+1651,LRL,Labyrinth Resources Ltd,$0.02,-5.00%,-9.52%,-29.63%,-59.57%,Materials,$16.59 M
+1652,TRT,Todd River Resources Ltd,$0.03,3.57%,3.57%,-27.50%,-53.97%,Materials,$16.59 M
+1653,SBW,Shekel Brainweigh Ltd,$0.10,0.00%,-4.76%,-23.08%,0.00%,Information Technology,$16.56 M
+1654,GTI,Gratifii Ltd,$0.02,11.77%,0.00%,-9.52%,-32.14%,Information Technology,$16.49 M
+1655,ACU,Acumentis Group Ltd,$0.09,0.00%,-6.00%,-18.26%,-18.26%,Real Estate,$16.48 M
+1656,ARO,Astro Resources NL,$0.00,-12.50%,-30.00%,16.67%,-12.50%,Materials,$16.47 M
+1657,MDC,Medlab Clinical Ltd,$0.05,9.09%,-12.73%,-36.84%,-68.00%,Health Care,$16.42 M
+1658,AYI,A1 Investments & Resources Ltd,$0.00,0.00%,0.00%,0.00%,0.00%,Financials,$16.42 M
+1659,ORM,Orion Metals Ltd,$0.03,0.00%,0.00%,0.00%,150.00%,Materials,$16.35 M
+1660,1AD,Adalta Ltd,$0.05,4.00%,1.96%,0.00%,-59.61%,Health Care,$16.34 M
+1661,AU1,The Agency Group Australia Ltd,$0.04,-2.56%,-5.00%,-17.39%,-24.00%,Real Estate,$16.29 M
+1662,JNO,Juno Minerals Ltd,$0.12,0.00%,-11.11%,4.35%,-33.33%,Materials,$16.28 M
+1663,IME,Imexhs Ltd,$0.50,-1.00%,10.00%,-28.78%,-69.63%,Health Care,$16.27 M
+1664,HLX,HELIX Resources Ltd,$0.01,0.00%,-12.50%,-30.00%,-74.07%,Materials,$16.26 M
+1665,ATP,Atlas Pearls Ltd,$0.04,2.70%,18.75%,-7.32%,153.33%,Consumer Discretionary,$16.26 M
+1666,KP2,Kore Potash Plc,$0.02,21.62%,25.00%,-2.17%,50.00%,Materials,$16.24 M
+1667,CGO,CPT Global Ltd,$0.39,0.00%,1.30%,-17.90%,-27.78%,Information Technology,$16.23 M
+1668,GED,Golden Deeps Ltd,$0.01,0.00%,0.00%,-30.00%,7.69%,Materials,$16.17 M
+1669,LLO,Lion One Metals Ltd,$1.51,-0.66%,-6.21%,22.27%,31.30%,Materials,$16.14 M
+1670,WC8,Wildcat Resources Ltd,$0.03,-3.85%,-16.67%,-24.24%,-3.85%,Materials,$16.13 M
+1671,ALA,Arovella Therapeutics Ltd,$0.02,9.09%,0.00%,-29.41%,-56.36%,Health Care,$16.08 M
+1672,MLM,Metallica Minerals Ltd,$0.02,-7.69%,0.00%,-25.00%,-27.27%,Materials,$15.98 M
+1673,ACR,ACRUX Ltd,$0.06,1.82%,-13.85%,-15.15%,-56.92%,Health Care,$15.98 M
+1674,14D,1414 Degrees Ltd,$0.08,-1.25%,5.33%,2.60%,-14.13%,Industrials,$15.94 M
+1675,BGD,Barton Gold Holdings Ltd,$0.19,-7.50%,-5.13%,-22.92%,-13.95%,Materials,$15.9 M
+1676,SMX,Security Matters Ltd,$0.10,-4.04%,-9.52%,-45.71%,-70.31%,Information Technology,$15.76 M
+1677,LHM,Land & Homes Group Ltd,$0.02,0.00%,0.00%,7.14%,36.36%,Real Estate,$15.74 M
+1678,QFE,Quickfee Ltd,$0.06,-1.67%,-21.33%,-35.17%,-77.31%,Financials,$15.67 M
+1679,CCZ,Castillo Copper Ltd,$0.01,9.09%,-7.69%,-29.41%,-66.67%,Materials,$15.59 M
+1680,N1H,N1 Holdings Ltd,$0.18,0.00%,-10.00%,-10.00%,200.00%,Financials,$15.58 M
+1681,SLS,Solstice Minerals Ltd,$0.16,0.00%,-11.43%,-24.39%,-22.50%,Materials,$15.54 M
+1682,ALO,Alloggio Group Ltd,$0.14,0.00%,8.00%,3.85%,-32.50%,Consumer Discretionary,$15.54 M
+1683,KBC,Keybridge Capital Ltd,$0.08,0.00%,0.00%,-16.67%,8.70%,Financials,$15.51 M
+1684,KTA,Krakatoa Resources Ltd,$0.05,-2.17%,-15.09%,-40.00%,-8.16%,Materials,$15.51 M
+1685,LCE,London City Equities Ltd,$0.51,0.00%,0.00%,1.00%,12.22%,Financials,$15.48 M
+1686,ADR,Adherium Ltd,$0.01,0.00%,0.00%,-30.00%,-58.82%,Health Care,$15.46 M
+1687,MDI,Middle Island Resources Ltd,$0.13,-3.85%,0.00%,0.00%,19.05%,Materials,$15.3 M
+1688,MEI,Meteoric Resources NL,$0.01,-9.09%,-23.08%,-28.57%,-80.39%,Materials,$15.26 M
+1689,2BE,Tubi Ltd,$0.05,0.00%,0.00%,0.00%,0.00%,Energy,$15.25 M
+1690,EGY,Energy Technologies Ltd,$0.06,1.82%,0.00%,0.00%,-58.74%,Industrials,$15.25 M
+1691,ASQ,Australian Silica Quartz Group Ltd,$0.06,-1.79%,-15.39%,-28.57%,-50.00%,Materials,$15.22 M
+1692,BMH,Baumart Holdings Ltd,$0.11,0.00%,0.00%,-41.67%,-47.50%,Industrials,$15.2 M
+1693,RAG,Ragnar Metals Ltd,$0.04,2.56%,0.00%,-18.37%,-40.30%,Materials,$15.17 M
+1694,CCE,Carnegie Clean Energy Ltd,$0.00,0.00%,-33.33%,-50.00%,-66.67%,Utilities,$15.1 M
+1695,TSL,Titanium Sands Ltd,$0.01,-7.69%,9.09%,-20.00%,-60.00%,Materials,$15.1 M
+1696,TCO,Transmetro Corporation Ltd,$1.12,0.00%,0.00%,1.82%,33.33%,Consumer Discretionary,$14.99 M
+1697,BCT,Bluechiip Ltd,$0.03,-3.85%,-10.71%,-16.67%,-34.21%,Information Technology,$14.96 M
+1698,HGV,Hygrovest Ltd,$0.07,1.56%,1.56%,3.18%,-17.72%,Health Care,$14.95 M
+1699,LIO,Lion Energy Ltd,$0.04,2.94%,16.67%,-5.41%,-23.91%,Energy,$14.91 M
+1700,MOQ,MOQ Ltd,$0.05,4.35%,-4.00%,-5.88%,-70.25%,Information Technology,$14.9 M
+1701,SCU,Stemcell United Ltd,$0.01,0.00%,0.00%,0.00%,-6.67%,Health Care,$14.7 M
+1702,TEG,Triangle Energy (Global) Ltd,$0.01,-4.35%,-4.35%,-15.39%,-50.00%,Energy,$14.69 M
+1703,CLA,Celsius Resources Ltd,$0.01,0.00%,-7.69%,-40.00%,-60.00%,Materials,$14.66 M
+1704,MTH,Mithril Resources Ltd,$0.01,0.00%,0.00%,-23.08%,-66.67%,Materials,$14.65 M
+1705,CHK,Cohiba Minerals Ltd,$0.01,12.50%,12.50%,-18.18%,-47.06%,Materials,$14.65 M
+1706,HPR,High Peak Royalties Ltd,$0.07,0.00%,40.00%,27.27%,25.00%,Energy,$14.63 M
+1707,HYD,HYDRIX Ltd,$0.07,-3.90%,5.71%,-9.76%,-64.76%,Information Technology,$14.63 M
+1708,NTM,NT Minerals Ltd,$0.02,-11.54%,-4.17%,-28.13%,-65.67%,Materials,$14.58 M
+1709,AJJ,Asian American Medical Group Ltd,$0.04,0.00%,0.00%,0.00%,11.77%,Health Care,$14.54 M
+1710,E33,East 33 Ltd,$0.05,-3.57%,-1.82%,-12.90%,-73.00%,Consumer Staples,$14.52 M
+1711,TRU,Truscreen Group Ltd,$0.04,0.00%,-9.09%,-25.93%,-34.43%,Health Care,$14.51 M
+1712,LSA,Lachlan Star Ltd,$0.01,0.00%,10.00%,-31.25%,-78.43%,Materials,$14.51 M
+1713,CAZ,Cazaly Resources Ltd,$0.04,0.00%,6.85%,0.00%,-20.41%,Materials,$14.46 M
+1714,RIM,Rimfire Pacific Mining Ltd,$0.01,0.00%,0.00%,0.00%,0.00%,Materials,$14.45 M
+1715,DCG,Decmil Group Ltd,$0.09,-3.13%,-15.46%,-19.13%,-80.00%,Industrials,$14.43 M
+1716,HOR,Horseshoe Metals Ltd,$0.03,4.00%,-10.35%,-13.33%,116.67%,Materials,$14.35 M
+1717,WFL,Wellfully Ltd,$0.05,15.22%,8.16%,-8.62%,6.00%,Health Care,$14.34 M
+1718,KWR,Kingwest Resources Ltd,$0.06,1.72%,1.72%,-57.86%,-23.38%,Materials,$14.34 M
+1719,IR1,Iris Metals Ltd,$0.24,2.13%,-17.24%,-38.46%,20.00%,Materials,$14.31 M
+1720,MXR,Maximus Resources Ltd,$0.05,-6.25%,-4.26%,-30.77%,-34.78%,Materials,$14.31 M
+1721,AUH,Austchina Holdings Ltd,$0.01,0.00%,0.00%,-22.22%,-70.83%,Energy,$14.26 M
+1722,CTO,Citigold Corporation Ltd,$0.01,-16.67%,-16.67%,-28.57%,-54.55%,Materials,$14.17 M
+1723,ZAG,Zuleika Gold Ltd,$0.03,0.00%,0.00%,-26.03%,-6.90%,Materials,$14.08 M
+1724,TMZ,Thomson Resources Ltd,$0.02,0.00%,-20.00%,-28.57%,-84.00%,Materials,$14.07 M
+1725,WBE,Whitebark Energy Ltd,$0.00,25.00%,150.00%,-16.67%,-16.67%,Energy,$14.06 M
+1726,RFA,Rare Foods Australia Ltd,$0.07,6.06%,4.48%,40.00%,-12.50%,Consumer Staples,$14.05 M
+1727,FZR,Fitzroy River Corporation Ltd,$0.13,0.00%,13.04%,-16.13%,-13.33%,Energy,$14.03 M
+1728,NNL,Nordic Nickel Ltd,$0.24,-2.04%,-14.29%,-4.00%,-4.00%,Materials,$14 M
+1729,REZ,Resources & Energy Group Ltd,$0.03,0.00%,27.27%,-15.15%,-9.68%,Materials,$13.99 M
+1730,FRB,Firebird Metals Ltd,$0.27,-7.02%,-11.67%,-19.70%,-53.91%,Materials,$13.91 M
+1731,BID,Bill Identity Ltd,$0.06,-12.31%,-12.31%,-39.36%,-88.82%,Information Technology,$13.9 M
+1732,CSE,Copper Strike Ltd,$0.11,0.00%,0.00%,-34.38%,16.67%,Materials,$13.89 M
+1733,MOB,Mobilicom Ltd,$0.04,0.00%,19.44%,13.16%,-23.21%,Information Technology,$13.84 M
+1734,CRL,Comet Resources Ltd,$0.02,0.00%,0.00%,0.00%,11.11%,Materials,$13.83 M
+1735,ANW,Aus Tin Mining Ltd,$0.00,0.00%,0.00%,0.00%,0.00%,Materials,$13.77 M
+1736,MAT,Matsa Resources Ltd,$0.04,-9.52%,-17.39%,-26.92%,-48.65%,Materials,$13.64 M
+1737,PGD,Peregrine Gold Ltd,$0.36,-1.39%,-8.97%,-31.73%,-4.05%,Materials,$13.59 M
+1738,ARC,ARC Funds Ltd,$0.45,0.00%,0.00%,-21.05%,73.08%,Financials,$13.53 M
+1739,MAG,Magmatic Resources Ltd,$0.05,-7.02%,-5.36%,-20.90%,-59.23%,Materials,$13.49 M
+1740,AW1,American West Metals Ltd,$0.15,-3.23%,11.11%,-18.92%,3.45%,Materials,$13.44 M
+1741,SRZ,Stellar Resources Ltd,$0.02,-5.88%,-5.88%,-30.44%,-30.44%,Materials,$13.43 M
+1742,LNR,Lanthanein Resources Ltd,$0.02,0.00%,0.00%,-33.33%,27.00%,Materials,$13.41 M
+1743,DLC,Delecta Ltd,$0.01,0.00%,0.00%,0.00%,83.33%,Consumer Discretionary,$13.25 M
+1744,SPA,Spacetalk Ltd,$0.06,8.93%,15.09%,-10.29%,-60.65%,Information Technology,$13.19 M
+1745,GTE,Great Western Exploration Ltd,$0.07,0.00%,-8.75%,-2.67%,-33.64%,Materials,$13.14 M
+1746,BAT,Battery Minerals Ltd,$0.01,0.00%,0.00%,-37.50%,-70.59%,Materials,$13.13 M
+1747,SIX,Sprintex Ltd,$0.05,1.96%,1.96%,-3.70%,-31.58%,Consumer Discretionary,$13.12 M
+1748,XRG,Xreality Group Ltd,$0.03,6.90%,0.00%,-32.61%,82.35%,Consumer Discretionary,$13.06 M
+1749,ADY,Admiralty Resources NL,$0.01,0.00%,-16.67%,-23.08%,-41.18%,Materials,$13.04 M
+1750,GLH,Global Health Ltd,$0.23,0.00%,2.22%,-17.86%,-51.58%,Health Care,$13.03 M
+1751,CR9,Corella Resources Ltd,$0.04,0.00%,-4.65%,-4.65%,-6.82%,Materials,$12.96 M
+1752,AJX,Alexium International Group Ltd,$0.02,11.11%,-9.09%,-37.50%,-56.52%,Materials,$12.91 M
+1753,OSX,Osteopore Ltd,$0.11,4.76%,-12.00%,-35.29%,-76.34%,Health Care,$12.9 M
+1754,ARN,Aldoro Resources Ltd,$0.13,-3.70%,-10.35%,-40.91%,-58.07%,Materials,$12.9 M
+1755,DCX,Discovex Resources Ltd,$0.01,0.00%,-12.80%,-19.50%,-12.80%,Materials,$12.84 M
+1756,PFT,Pure Foods Tasmania Ltd,$0.21,-12.77%,-8.89%,-21.15%,-68.46%,Consumer Staples,$12.67 M
+1757,NHE,Noble Helium Ltd,$0.17,-8.33%,10.00%,-19.51%,-17.50%,Energy,$12.64 M
+1758,IRX,Inhalerx Ltd,$0.08,0.00%,11.94%,-11.77%,-25.00%,Health Care,$12.64 M
+1759,PGM,Platina Resources Ltd,$0.03,-3.33%,-6.45%,-29.27%,-66.28%,Materials,$12.6 M
+1760,PXX,Polarx Ltd,$0.01,0.00%,-12.50%,-12.50%,-57.36%,Materials,$12.59 M
+1761,DDD,3D Resources Ltd,$0.00,0.00%,0.00%,0.00%,-40.00%,Materials,$12.55 M
+1762,KNO,Knosys Ltd,$0.06,-4.92%,-4.92%,-32.56%,-55.39%,Information Technology,$12.54 M
+1763,MIL,Millennium Services Group Ltd,$0.27,-6.90%,0.00%,-27.03%,-50.91%,Industrials,$12.54 M
+1764,IQ3,IQ3CORP Ltd,$0.12,0.00%,0.00%,0.00%,-20.00%,Financials,$12.52 M
+1765,ALV,Alvo Minerals Ltd,$0.23,2.22%,2.22%,-8.00%,-8.00%,Materials,$12.43 M
+1766,SKS,SKS Technologies Group Ltd,$0.12,-4.17%,-11.54%,-23.33%,-50.00%,Industrials,$12.42 M
+1767,RNE,Renu Energy Ltd,$0.03,-5.56%,17.24%,-20.93%,-43.33%,Utilities,$12.4 M
+1768,ALY,Alchemy Resources Ltd,$0.01,-7.14%,-13.33%,-51.85%,2.25%,Materials,$12.39 M
+1769,TPP,Tempo Australia Ltd,$0.03,13.33%,-24.44%,-47.69%,-46.88%,Industrials,$12.38 M
+1770,WML,Woomera Mining Ltd,$0.02,0.00%,0.00%,-25.00%,-9.25%,Materials,$12.36 M
+1771,ARD,Argent Minerals Ltd,$0.01,0.00%,-12.50%,-36.36%,-64.10%,Materials,$12.36 M
+1772,BMG,BMG Resources Ltd,$0.03,3.23%,-11.11%,-31.92%,-36.00%,Materials,$12.35 M
+1773,PUR,Pursuit Minerals Ltd,$0.01,-7.14%,-23.53%,-40.91%,-80.30%,Materials,$12.33 M
+1774,RNT,Rent.com.Au Ltd,$0.03,0.00%,-3.45%,-26.32%,-77.60%,Communication Services,$12.33 M
+1775,TOR,Torque Metals Ltd,$0.20,0.00%,2.63%,-11.36%,-11.36%,Materials,$12.3 M
+1776,CM8,Crowd Media Holdings Ltd,$0.02,-5.56%,-26.09%,-52.78%,-26.09%,Communication Services,$12.24 M
+1777,AJQ,Armour Energy Ltd,$0.01,-7.69%,0.00%,0.00%,-76.00%,Energy,$12.24 M
+1778,ZGL,ZICOM Group Ltd,$0.06,0.00%,-1.72%,-12.31%,-8.07%,Industrials,$12.23 M
+1779,SIH,Sihayo Gold Ltd,$0.00,-20.00%,-20.00%,-33.33%,-77.78%,Materials,$12.2 M
+1780,OVT,Ovato Ltd,$0.10,-9.09%,-4.76%,-23.08%,-50.00%,Industrials,$12.16 M
+1781,BMR,Ballymore Resources Ltd,$0.17,0.00%,-14.29%,-17.50%,-17.50%,Materials,$12.12 M
+1782,HMG,Hamelin Gold Ltd,$0.11,4.76%,-4.35%,-15.39%,-45.00%,Materials,$12.1 M
+1783,CHR,Charger Metals NL,$0.37,-5.13%,-5.13%,-32.73%,85.00%,Materials,$12.05 M
+1784,LRV,Larvotto Resources Ltd,$0.29,3.57%,26.09%,-12.12%,45.00%,Materials,$12.04 M
+1785,NUH,Nuheara Ltd,$0.12,0.00%,4.35%,-7.69%,-86.96%,Information Technology,$12.03 M
+1786,AUN,Aurumin Ltd,$0.11,0.00%,-12.00%,-37.14%,-40.54%,Materials,$12.01 M
+1787,AKO,Akora Resources Ltd,$0.19,2.70%,-13.64%,-20.83%,-20.83%,Materials,$11.99 M
+1788,QML,Qmines Ltd,$0.18,-2.70%,-7.69%,-25.00%,-47.06%,Materials,$11.97 M
+1789,TDO,3D Oil Ltd,$0.05,0.00%,7.14%,-15.09%,-10.00%,Energy,$11.93 M
+1790,BIO,Biome Australia Ltd,$0.08,-7.32%,-6.17%,-24.00%,-62.00%,Consumer Staples,$11.89 M
+1791,TMG,Trigg Mining Ltd,$0.07,-5.48%,4.55%,-16.87%,-17.22%,Materials,$11.73 M
+1792,CWX,Carawine Resources Ltd,$0.09,1.19%,-32.00%,-41.38%,-61.36%,Materials,$11.72 M
+1793,FTC,Fintech Chain Ltd,$0.02,-5.26%,-10.00%,-43.75%,-67.86%,Information Technology,$11.71 M
+1794,BTR,Brightstar Resources Ltd,$0.02,12.50%,5.88%,-21.74%,-40.00%,Materials,$11.64 M
+1795,KGM,Kalnorth Gold Mines Ltd,$0.01,0.00%,0.00%,0.00%,0.00%,Materials,$11.63 M
+1796,UCM,Uscom Ltd,$0.06,-1.67%,-9.23%,-28.05%,-64.94%,Health Care,$11.61 M
+1797,CZN,Corazon Mining Ltd,$0.02,2.70%,-17.39%,-26.92%,-43.16%,Materials,$11.6 M
+1798,A1G,African Gold Ltd,$0.10,0.00%,8.99%,-30.71%,-55.96%,Materials,$11.58 M
+1799,LCT,Living Cell Technologies Ltd,$0.01,12.50%,28.57%,80.00%,-21.52%,Health Care,$11.57 M
+1800,TAR,Taruga Minerals Ltd,$0.02,-4.76%,-4.76%,-9.09%,-62.96%,Materials,$11.56 M
+1801,BTN,Butn Ltd,$0.15,42.86%,50.00%,0.00%,-70.00%,Financials,$11.53 M
+1802,LPE,Locality Planning Energy Holdings Ltd,$0.07,1.52%,31.37%,31.37%,-64.74%,Utilities,$11.47 M
+1803,TRP,Tissue Repair Ltd,$0.25,6.52%,-2.00%,-7.55%,-78.70%,Health Care,$11.46 M
+1804,R3D,R3D Resources Ltd,$0.12,-11.54%,0.00%,0.00%,-39.72%,Basic Materials,$11.45 M
+1805,SHO,Sportshero Ltd,$0.02,5.26%,11.11%,-25.93%,0.00%,Communication Services,$11.4 M
+1806,MRQ,MRG Metals Ltd,$0.01,8.33%,-7.14%,-18.75%,8.33%,Materials,$11.36 M
+1807,FNX,Finexia Financial Group Ltd,$0.07,0.00%,7.69%,7.69%,-6.67%,Financials,$11.35 M
+1808,RDN,Raiden Resources Ltd,$0.01,0.00%,-11.11%,-27.27%,-69.23%,Materials,$11.34 M
+1809,KAM,K2 Asset Management Holdings Ltd,$0.05,-6.00%,-9.62%,-20.34%,-40.51%,Financials,$11.33 M
+1810,ICL,Iceni Gold Ltd,$0.09,-5.38%,-29.60%,-26.67%,-52.43%,Materials,$11.28 M
+1811,BTC,BTC Health Ltd,$0.04,0.00%,0.00%,-16.67%,-46.67%,Financials,$11.27 M
+1812,GUL,Gullewa Ltd,$0.06,0.00%,-11.94%,-20.27%,-28.05%,Materials,$11.26 M
+1813,AS2,Askari Metals Ltd,$0.27,1.89%,1.89%,-44.33%,35.00%,Materials,$11.23 M
+1814,SHN,Sunshine Gold Ltd,$0.02,4.35%,-7.69%,-33.33%,-55.56%,Materials,$11.23 M
+1815,EM1,Emerge Gaming Ltd,$0.01,0.00%,-16.67%,-33.33%,-71.43%,Communication Services,$11.21 M
+1816,DAF,Discovery Alaska Ltd,$0.05,0.00%,0.00%,-34.21%,-13.79%,Materials,$11.21 M
+1817,SBR,Sabre Resources Ltd,$0.00,-11.11%,-20.00%,-20.00%,0.00%,Materials,$11.16 M
+1818,EPX,Ep&T Global Ltd,$0.06,5.17%,5.17%,-28.24%,-69.50%,Information Technology,$11.09 M
+1819,ODA,Orcoda Ltd,$0.07,0.00%,7.69%,-33.33%,-36.36%,Information Technology,$11.07 M
+1820,AYM,Australia United Mining Ltd,$0.01,50.00%,50.00%,0.00%,-25.00%,Materials,$11.06 M
+1821,AEV,Avenira Ltd,$0.01,0.00%,0.00%,-8.33%,74.63%,Materials,$11.01 M
+1822,TNY,Tinybeans Group Ltd,$0.18,0.00%,2.86%,-35.71%,-83.41%,Communication Services,$10.99 M
+1823,SHE,Stonehorse Energy Ltd,$0.02,0.00%,-5.88%,-23.81%,-30.44%,Energy,$10.95 M
+1824,BUX,Buxton Resources Ltd,$0.08,4.17%,8.70%,-17.58%,-18.48%,Materials,$10.94 M
+1825,NUC,Nuchev Ltd,$0.21,5.00%,-2.33%,-23.64%,-55.79%,Consumer Staples,$10.87 M
+1826,TTI,Traffic Technologies Ltd,$0.02,0.00%,-21.05%,-25.00%,-61.51%,Industrials,$10.83 M
+1827,MRG,Murray River Organics Group Ltd,$0.25,0.00%,0.00%,0.00%,58.07%,Consumer Staples,$10.81 M
+1828,RAS,Ragusa Minerals Ltd,$0.09,-7.61%,-1.16%,-55.26%,19.72%,Materials,$10.69 M
+1829,MHC,Manhattan Corporation Ltd,$0.01,16.67%,-22.22%,-36.36%,-46.15%,Materials,$10.68 M
+1830,THR,Thor Mining Plc,$0.01,0.00%,5.26%,-28.57%,-37.50%,Materials,$10.67 M
+1831,BMO,Bastion Minerals Ltd,$0.14,0.00%,-12.50%,0.00%,-24.32%,Materials,$10.63 M
+1832,MM1,Midas Minerals Ltd,$0.20,5.41%,0.00%,-40.00%,-2.50%,Materials,$10.62 M
+1833,ICN,Icon Energy Ltd,$0.01,0.00%,-6.67%,-33.33%,12.00%,Energy,$10.57 M
+1834,LAW,Lawfinance Ltd,$0.17,-17.50%,-8.33%,-36.54%,-81.91%,Financials,$10.51 M
+1835,BCA,Black Canyon Ltd,$0.24,-4.08%,-6.00%,-21.67%,-6.00%,Materials,$10.48 M
+1836,RCW,Rightcrowd Ltd,$0.04,2.56%,25.00%,-57.90%,-87.88%,Information Technology,$10.46 M
+1837,MBK,Metal Bank Ltd,$0.00,0.00%,0.00%,-27.27%,-47.68%,Materials,$10.43 M
+1838,LSR,Lodestar Minerals Ltd,$0.01,0.00%,-14.29%,-33.33%,-33.33%,Materials,$10.43 M
+1839,PUA,Peak Minerals Ltd,$0.01,25.00%,-9.09%,-28.57%,-40.80%,Materials,$10.41 M
+1840,MMG,Monger Gold Ltd,$0.26,13.04%,4.00%,-14.75%,30.00%,Materials,$10.41 M
+1841,MCT,Metalicity Ltd,$0.00,0.00%,-14.29%,-40.00%,-68.85%,Materials,$10.38 M
+1842,DLM,Dominion Minerals Ltd,$0.05,-1.96%,-7.41%,-23.08%,900.00%,Materials,$10.36 M
+1843,AEI,Aeris Environmental Ltd,$0.04,0.00%,-2.33%,-27.59%,-72.00%,Industrials,$10.26 M
+1844,SCL,Schrole Group Ltd,$0.30,15.69%,15.69%,-1.67%,-50.83%,Information Technology,$10.26 M
+1845,LBY,Laybuy Group Holdings Ltd,$0.04,-9.09%,-14.89%,-42.86%,-92.86%,Information Technology,$10.19 M
+1846,PSL,Paterson Resources Ltd,$0.03,0.00%,0.00%,7.14%,-28.57%,Materials,$10.18 M
+1847,LYK,Lykos Metals Ltd,$0.17,6.45%,-8.33%,-41.07%,-17.50%,Materials,$10.15 M
+1848,CPM,Cooper Metals Ltd,$0.38,-3.85%,-7.41%,-30.56%,87.50%,Materials,$10.13 M
+1849,WEL,Winchester Energy Ltd,$0.01,0.00%,-16.67%,-28.57%,-33.33%,Energy,$10.1 M
+1850,MXO,Motio Ltd,$0.04,0.00%,-2.38%,-10.87%,-59.00%,Communication Services,$10.1 M
+1851,RLF,RLF Agtech Ltd,$0.12,9.09%,-14.29%,-27.27%,-40.00%,Materials,$10.07 M
+1852,YOW,Yowie Group Ltd,$0.05,0.00%,-2.13%,-2.13%,12.20%,Consumer Staples,$10.05 M
+1853,BDX,Bcal Diagnostics Ltd,$0.08,26.67%,8.57%,-24.00%,-69.60%,Health Care,$10.04 M
+1854,PG1,Pearl Global Ltd,$0.01,-4.76%,-23.08%,-33.33%,-81.68%,Industrials,$10.02 M
+1855,HCD,Hydrocarbon Dynamics Ltd,$0.02,-5.56%,21.43%,-19.05%,13.33%,Energy,$9.98 M
+1856,DDT,Datadot Technology Ltd,$0.01,14.29%,0.00%,-5.88%,33.33%,Consumer Discretionary,$9.95 M
+1857,SGI,Stealth Global Holdings Ltd,$0.10,-0.50%,0.51%,-9.55%,4.74%,Industrials,$9.92 M
+1858,CPO,Culpeo Minerals Ltd,$0.23,-6.25%,-8.16%,50.00%,12.50%,Materials,$9.9 M
+1859,A8G,Australasian Metals Ltd,$0.24,41.18%,20.00%,-38.46%,77.78%,Materials,$9.88 M
+1860,SW1,Swift Networks Group Ltd,$0.02,-15.00%,-15.00%,-8.11%,-5.56%,Communication Services,$9.86 M
+1861,NC6,Nanollose Ltd,$0.07,-7.04%,0.00%,-26.67%,-28.26%,Health Care,$9.83 M
+1862,GLA,Gladiator Resources Ltd,$0.02,-5.00%,-7.32%,-20.83%,35.71%,Materials,$9.83 M
+1863,IMB,Intelligent Monitoring Group Ltd,$0.08,5.26%,-16.67%,-40.74%,-88.92%,Industrials,$9.82 M
+1864,LNU,Linius Technologies Ltd,$0.01,-9.09%,-9.09%,-16.67%,-73.68%,Information Technology,$9.8 M
+1865,TMR,Tempus Resources Ltd,$0.07,-18.89%,21.67%,5.80%,-59.44%,Materials,$9.77 M
+1866,CUS,Copper Search Ltd,$0.19,-5.13%,-11.91%,-30.19%,-47.14%,Materials,$9.77 M
+1867,HXG,Hexagon Energy Materials Ltd,$0.02,-7.32%,-17.39%,-29.63%,-73.97%,Materials,$9.75 M
+1868,KLO,Kingsland Global Ltd,$0.02,0.00%,0.00%,0.00%,4.35%,Real Estate,$9.72 M
+1869,BOA,Boadicea Resources Ltd,$0.13,-3.85%,-16.67%,-21.88%,-40.48%,Materials,$9.71 M
+1870,SGC,Sacgasco Ltd,$0.02,6.67%,-5.88%,-23.81%,-42.86%,Energy,$9.68 M
+1871,BEX,Bikeexchange Ltd,$0.03,-24.44%,70.00%,13.33%,-82.92%,Consumer Discretionary,$9.65 M
+1872,CLH,Collection House Ltd,$0.07,-2.86%,4.62%,-24.44%,-57.50%,Financials,$9.65 M
+1873,VOR,Vortiv Ltd,$0.02,11.77%,5.56%,-13.64%,-49.20%,Information Technology,$9.6 M
+1874,BUY,Bounty Oil & Gas NL,$0.01,0.00%,0.00%,-12.50%,-62.16%,Energy,$9.59 M
+1875,PGY,Pilot Energy Ltd,$0.02,0.00%,-13.64%,-5.00%,-76.83%,Energy,$9.58 M
+1876,ZLD,Zelira Therapeutics Ltd,$1.00,3.09%,0.00%,-17.36%,-87.30%,Health Care,$9.58 M
+1877,FXG,FELIX Gold Ltd,$0.12,4.55%,9.52%,-8.00%,-32.35%,Materials,$9.51 M
+1878,RLC,Reedy Lagoon Corporation Ltd,$0.02,0.00%,0.00%,-34.62%,13.33%,Materials,$9.48 M
+1879,AD1,AD1 Holdings Ltd,$0.01,16.67%,7.69%,-17.65%,-62.16%,Communication Services,$9.46 M
+1880,CTQ,Careteq Ltd,$0.08,-3.49%,-7.78%,-27.83%,-58.50%,Health Care,$9.44 M
+1881,OZM,Ozaurum Resources Ltd,$0.17,3.13%,0.00%,-15.39%,37.50%,Materials,$9.44 M
+1882,ID8,Identitii Ltd,$0.05,-7.84%,-4.08%,-14.55%,-46.05%,Information Technology,$9.44 M
+1883,KOB,Koba Resources Ltd,$0.15,3.57%,-3.33%,-23.68%,-27.50%,Materials,$9.43 M
+1884,HCT,Holista Colltech Ltd,$0.03,17.24%,-2.86%,17.24%,-46.88%,Consumer Staples,$9.36 M
+1885,JAV,Javelin Minerals Ltd,$0.00,0.00%,0.00%,0.00%,-60.00%,Materials,$9.35 M
+1886,BRX,Belararox Ltd,$0.33,-2.94%,-25.00%,-43.10%,65.00%,Materials,$9.35 M
+1887,CAQ,CAQ Holdings Ltd,$0.01,0.00%,0.00%,0.00%,-31.58%,Real Estate,$9.33 M
+1888,IND,Industrial Minerals Ltd,$0.32,-7.35%,-3.08%,6.78%,57.50%,Materials,$9.26 M
+1889,AAJ,Aruma Resources Ltd,$0.06,-3.28%,-11.94%,-10.61%,-9.23%,Materials,$9.26 M
+1890,SRY,Story-I Ltd,$0.02,0.00%,0.00%,0.00%,0.00%,Consumer Discretionary,$9.03 M
+1891,ARE,Argonaut Resources NL,$0.00,0.00%,-16.67%,-16.67%,-58.33%,Materials,$9.02 M
+1892,AWV,Anova Metals Ltd,$0.01,-14.29%,-40.00%,-57.14%,-70.00%,Materials,$8.99 M
+1893,B4P,Beforepay Group Ltd,$0.27,1.92%,-1.85%,-50.00%,-92.23%,Financials,$8.97 M
+1894,AX8,Accelerate Resources Ltd,$0.03,13.33%,9.68%,-12.82%,3.03%,Materials,$8.96 M
+1895,HVM,Happy Valley Nutrition Ltd,$0.04,-6.67%,-20.76%,-20.76%,-73.75%,Consumer Staples,$8.93 M
+1896,DOU,Douugh Ltd,$0.02,0.00%,-6.25%,-34.78%,-84.54%,Information Technology,$8.92 M
+1897,GRE,Greentech Metals Ltd,$0.29,-13.64%,21.28%,62.86%,42.50%,Materials,$8.91 M
+1898,OAU,Ora Gold Ltd,$0.01,12.50%,0.00%,-25.00%,-52.45%,Materials,$8.86 M
+1899,INP,Incentiapay Ltd,$0.01,-12.50%,-36.36%,-53.33%,-72.98%,Consumer Discretionary,$8.86 M
+1900,NPM,Newpeak Metals Ltd,$0.00,0.00%,0.00%,0.00%,-50.00%,Materials,$8.85 M
+1901,DXN,DXN Ltd,$0.01,0.00%,20.00%,0.00%,-40.00%,Information Technology,$8.83 M
+1902,CXZ,Connexion Telematics Ltd,$0.01,0.00%,0.00%,11.11%,-37.50%,Information Technology,$8.81 M
+1903,BDG,Black Dragon Gold Corp,$0.04,-22.81%,-21.43%,-30.16%,-40.54%,Materials,$8.77 M
+1904,MEG,Megado Gold Ltd,$0.08,0.00%,0.00%,-44.83%,-51.52%,Materials,$8.72 M
+1905,ABV,Advanced Braking Technology Ltd,$0.02,0.00%,0.00%,-30.30%,-34.29%,Consumer Discretionary,$8.72 M
+1906,HPP,Health and Plant Protein Group Ltd,$0.07,0.00%,-2.74%,-26.80%,-73.21%,Consumer Staples,$8.72 M
+1907,DMC,Design Milk Co Ltd,$0.24,-20.00%,-20.00%,-31.43%,-36.84%,Consumer Discretionary,$8.71 M
+1908,G50,Gold 50 Ltd,$0.16,0.00%,-13.89%,-26.19%,-38.00%,Materials,$8.68 M
+1909,GIB,Gibb River Diamonds Ltd,$0.04,5.13%,-14.58%,-22.64%,-33.87%,Materials,$8.67 M
+1910,SHH,Shree Minerals Ltd,$0.01,0.00%,-12.50%,-22.22%,-41.67%,Materials,$8.67 M
+1911,SKN,Skin Elements Ltd,$0.02,-4.76%,-4.76%,-33.33%,-80.00%,Consumer Staples,$8.66 M
+1912,VIP,VIP Gloves Ltd,$0.01,0.00%,-8.33%,-31.25%,-76.09%,Health Care,$8.65 M
+1913,AM7,Arcadia Minerals Ltd,$0.19,0.00%,-2.63%,-15.91%,-5.13%,Materials,$8.64 M
+1914,SIV,SIV Capital Ltd,$0.22,0.00%,0.00%,7.32%,-24.14%,Industrials,$8.64 M
+1915,DM1,Desert Metals Ltd,$0.18,0.00%,-18.18%,-40.98%,-70.25%,Materials,$8.64 M
+1916,OD6,OD6 Metals Ltd,$0.18,2.94%,-12.50%,-12.50%,-12.50%,Materials,$8.63 M
+1917,OAR,OAR Resources Ltd,$0.00,-20.00%,-20.00%,-50.00%,-71.43%,Materials,$8.62 M
+1918,WNR,Wingara AG Ltd,$0.05,0.00%,0.00%,-18.33%,-58.15%,Consumer Staples,$8.6 M
+1919,AUR,Auris Minerals Ltd,$0.02,-5.26%,0.00%,-28.00%,-65.39%,Materials,$8.58 M
+1920,AL3,AML3D Ltd,$0.06,3.64%,-21.92%,-28.75%,-65.46%,Industrials,$8.58 M
+1921,TD1,Tali Digital Ltd,$0.01,16.67%,16.67%,16.67%,-77.90%,Health Care,$8.57 M
+1922,SI6,SI6 Metals Ltd,$0.01,0.00%,-7.69%,-29.41%,-45.46%,Materials,$8.57 M
+1923,BEE,Broo Ltd,$0.01,0.00%,0.00%,0.00%,-43.75%,Consumer Staples,$8.57 M
+1924,KFM,Kingfisher Mining Ltd,$0.25,0.00%,-12.28%,-7.41%,29.87%,Materials,$8.56 M
+1925,EMT,Emetals Ltd,$0.01,0.00%,-9.09%,-23.08%,-52.38%,Materials,$8.5 M
+1926,WCN,White Cliff Minerals Ltd,$0.01,0.00%,-18.75%,-40.91%,8.33%,Materials,$8.5 M
+1927,AVW,Avira Resources Ltd,$0.00,0.00%,0.00%,0.00%,-20.00%,Materials,$8.48 M
+1928,REC,Recharge Metals Ltd,$0.26,10.64%,26.83%,4.00%,30.00%,Materials,$8.47 M
+1929,X2M,X2M Connect Ltd,$0.10,6.38%,5.26%,-4.76%,-60.00%,Information Technology,$8.46 M
+1930,RAN,Range International Ltd,$0.01,-10.00%,0.00%,-18.18%,-28.00%,Materials,$8.45 M
+1931,GRL,Godolphin Resources Ltd,$0.10,0.00%,5.26%,-13.04%,-37.50%,Materials,$8.41 M
+1932,NKL,Nickelx Ltd,$0.14,3.85%,17.39%,-22.86%,-18.18%,Materials,$8.38 M
+1933,AKN,Auking Mining Ltd,$0.08,2.44%,9.09%,-14.29%,-39.48%,Materials,$8.37 M
+1934,HT8,Harris Technology Group Ltd,$0.03,0.00%,0.00%,-12.50%,-77.60%,Consumer Discretionary,$8.35 M
+1935,IS3,I Synergy Group Ltd,$0.03,0.00%,-24.39%,-60.26%,-32.61%,Information Technology,$8.32 M
+1936,ACP,Audalia Resources Ltd,$0.01,0.00%,0.00%,0.00%,-52.00%,Materials,$8.31 M
+1937,LYN,Lycaon Resources Ltd,$0.26,4.00%,-21.21%,-40.91%,30.00%,Materials,$8.3 M
+1938,BEZ,Besra Gold Inc,$0.05,0.00%,-4.00%,-46.07%,-76.00%,Materials,$8.25 M
+1939,RMX,Red Mountain Mining Ltd,$0.01,-16.67%,0.00%,-41.18%,-44.44%,Materials,$8.21 M
+1940,FAU,First Au Ltd,$0.01,-9.09%,-16.67%,-23.08%,-28.57%,Materials,$8.19 M
+1941,AUA,Audeara Ltd,$0.11,4.76%,13.40%,37.50%,11.11%,Consumer Discretionary,$8.16 M
+1942,MHK,Metal Hawk Ltd,$0.16,0.00%,10.35%,-30.44%,-33.33%,Materials,$8.13 M
+1943,AYT,Austin Metals Ltd,$0.01,14.29%,-11.11%,-42.86%,-69.23%,Materials,$8.13 M
+1944,GGX,GAS2GRID Ltd,$0.00,0.00%,-20.00%,-20.00%,0.00%,Energy,$8.12 M
+1945,CT1,Constellation Technologies Ltd,$0.01,10.00%,10.00%,-21.43%,-65.63%,Information Technology,$8.09 M
+1946,KFE,Kogi Iron Ltd,$0.01,25.00%,-16.67%,-16.67%,-64.29%,Materials,$8.09 M
+1947,ZMI,ZINC of Ireland NL,$0.04,0.00%,-11.11%,-40.30%,-39.39%,Materials,$8.08 M
+1948,IGN,Ignite Ltd,$0.09,0.00%,5.88%,-30.77%,52.54%,Industrials,$8.06 M
+1949,TAS,Tasman Resources Ltd,$0.01,0.00%,-14.29%,-33.33%,-55.56%,Materials,$8.05 M
+1950,TRM,Truscott Mining Corporation Ltd,$0.05,-3.64%,-3.64%,10.42%,76.67%,Materials,$8.05 M
+1951,OLH,Oldfields Holdings Ltd,$0.05,0.00%,0.00%,-4.00%,-30.44%,Industrials,$8.05 M
+1952,CI1,Credit Intelligence Ltd,$0.10,7.53%,3.09%,-16.67%,-70.59%,Industrials,$8.01 M
+1953,SLZ,Sultan Resources Ltd,$0.10,1.05%,-4.00%,-38.07%,-52.00%,Materials,$8 M
+1954,TSC,Twenty Seven Co. Ltd,$0.00,20.00%,0.00%,0.00%,-25.00%,Energy,$7.98 M
+1955,S3N,Sensore Ltd,$0.38,7.04%,-7.32%,-41.99%,-55.29%,Materials,$7.94 M
+1956,NSX,NSX Ltd,$0.03,3.70%,-20.00%,-42.86%,-76.67%,Financials,$7.91 M
+1957,MPG,Many Peaks Gold Ltd,$0.25,0.00%,22.50%,-37.98%,22.50%,Materials,$7.86 M
+1958,ABE,Australian Bond Exchange Holdings Ltd,$0.23,7.14%,-22.41%,-33.82%,-65.39%,Financials,$7.85 M
+1959,GES,Genesis Resources Ltd,$0.01,0.00%,-23.08%,0.00%,-16.67%,Materials,$7.83 M
+1960,VMM,Viridis Mining and Minerals Ltd,$0.25,0.00%,-9.09%,-10.71%,-37.50%,Materials,$7.8 M
+1961,IMI,Infinity Mining Ltd,$0.14,-6.90%,-3.57%,-10.00%,-32.50%,Materials,$7.76 M
+1962,MSG,MCS Services Ltd,$0.04,0.00%,7.90%,2.50%,-34.92%,Industrials,$7.75 M
+1963,WEC,White Energy Company Ltd,$0.01,0.00%,0.00%,-23.08%,-92.00%,Energy,$7.74 M
+1964,TEE,Top End Energy Ltd,$0.22,4.88%,4.88%,-17.31%,7.50%,Energy,$7.74 M
+1965,PVL,Powerhouse Ventures Ltd,$0.06,1.59%,-1.54%,-23.81%,-36.00%,Financials,$7.73 M
+1966,FRM,Farm Pride Foods Ltd,$0.14,-3.45%,3.70%,-17.65%,-63.16%,Consumer Staples,$7.73 M
+1967,DTM,Dart Mining NL,$0.06,0.00%,-1.72%,-17.39%,-56.15%,Materials,$7.71 M
+1968,BYH,Bryah Resources Ltd,$0.03,3.03%,-2.86%,-27.66%,-43.33%,Materials,$7.69 M
+1969,NCR,Nucoal Resources Ltd,$0.01,0.00%,0.00%,-9.09%,-9.09%,Materials,$7.69 M
+1970,CXX,Cradle Resources Ltd,$0.04,0.00%,0.00%,0.00%,31.02%,Materials,$7.69 M
+1971,BVR,Bellavista Resources Ltd,$0.21,2.44%,-10.64%,-16.00%,5.00%,Materials,$7.66 M
+1972,TMX,Terrain Minerals Ltd,$0.01,0.00%,25.00%,0.00%,11.11%,Materials,$7.61 M
+1973,KAL,Kalgoorlie Gold Mining Ltd,$0.11,5.00%,-4.55%,-4.55%,-47.50%,Materials,$7.61 M
+1974,DOR,Doriemus Plc,$0.06,1.61%,-21.25%,-30.00%,-60.49%,Energy,$7.58 M
+1975,GCX,GCX Metals Ltd,$0.05,-8.00%,12.20%,12.20%,12.20%,Energy,$7.56 M
+1976,CBL,Control Bionics Ltd,$0.15,0.00%,0.00%,-31.82%,-78.10%,Health Care,$7.55 M
+1977,RFR,Rafaella Resources Ltd,$0.03,0.00%,-11.11%,-20.00%,-64.44%,Materials,$7.51 M
+1978,ADD,Adavale Resources Ltd,$0.02,-8.70%,-22.22%,-30.00%,-77.17%,Materials,$7.5 M
+1979,CR1,Constellation Resources Ltd,$0.15,0.00%,0.00%,-25.00%,-58.33%,Materials,$7.49 M
+1980,OXT,Orexplore Technologies Ltd,$0.07,-4.00%,2.86%,2.86%,-71.20%,Industrials,$7.46 M
+1981,ATV,Activeport Group Ltd,$0.08,-1.32%,-6.25%,-34.78%,-62.50%,Information Technology,$7.45 M
+1982,CMD,Cassius Mining Ltd,$0.02,0.00%,0.00%,0.00%,53.33%,Materials,$7.43 M
+1983,SSH,SSH Group Ltd,$0.19,0.00%,-7.50%,-15.91%,-7.50%,Industrials,$7.43 M
+1984,BOD,BOD Australia Ltd,$0.07,-7.90%,-10.26%,-53.33%,-79.71%,Health Care,$7.41 M
+1985,ALM,Alma Metals Ltd,$0.01,0.00%,-28.57%,-47.37%,-54.55%,Energy,$7.39 M
+1986,A3D,Aurora Labs Ltd,$0.04,21.21%,-6.98%,-33.33%,-41.18%,Industrials,$7.37 M
+1987,NIS,Nickelsearch Ltd,$0.13,4.17%,4.17%,-16.67%,-37.50%,Materials,$7.32 M
+1988,BPH,BPH Energy Ltd,$0.01,-4.35%,-15.39%,-26.67%,-84.93%,Health Care,$7.31 M
+1989,HVY,Heavy Minerals Ltd,$0.19,2.70%,-2.56%,0.00%,-5.00%,Materials,$7.31 M
+1990,ERL,Empire Resources Ltd,$0.01,0.00%,-12.50%,-22.22%,-41.10%,Materials,$7.27 M
+1991,NGS,Nutritional Growth Solutions Ltd,$0.11,-4.55%,-8.70%,-25.00%,-56.25%,Consumer Staples,$7.27 M
+1992,PO3,Purifloh Ltd,$0.23,-9.80%,-20.69%,-13.21%,-86.47%,Utilities,$7.25 M
+1993,FIN,FIN Resources Ltd,$0.01,8.33%,-27.78%,-50.00%,-74.00%,Materials,$7.23 M
+1994,EPN,Epsilon Healthcare Ltd,$0.03,50.00%,42.86%,-9.09%,-76.92%,Health Care,$7.21 M
+1995,E79,E79 Gold Mines Ltd,$0.13,-3.70%,-3.70%,-10.35%,-35.00%,Materials,$7.21 M
+1996,EMP,Emperor Energy Ltd,$0.03,0.00%,-11.11%,-25.58%,-5.88%,Energy,$7.2 M
+1997,JXT,Jaxsta Ltd,$0.02,-4.55%,-4.55%,-44.74%,-64.41%,Information Technology,$7.19 M
+1998,ZMM,ZIMI Ltd,$0.11,46.67%,20.88%,-8.33%,-56.86%,Information Technology,$7.19 M
+1999,NAE,New Age Exploration Ltd,$0.01,-16.67%,-28.57%,-50.00%,-61.54%,Energy,$7.18 M
+2000,SRI,Sipa Resources Ltd,$0.04,6.06%,-2.78%,-10.26%,-35.19%,Materials,$7.18 M
+2001,IPC,Imperial Pacific Ltd,$1.42,0.00%,0.71%,0.71%,18.33%,Financials,$7.17 M
+2002,AER,Aeeris Ltd,$0.10,0.00%,0.00%,-16.67%,-35.48%,Communication Services,$7.16 M
+2003,LRD,Lord Resources Ltd,$0.23,9.76%,25.00%,-30.77%,12.50%,Materials,$7.15 M
+2004,SLB,Stelar Metals Ltd,$0.19,-1.30%,0.00%,-5.00%,-5.00%,Materials,$7.13 M
+2005,ERW,Errawarra Resources Ltd,$0.18,5.88%,5.88%,-2.70%,-20.00%,Materials,$7.12 M
+2006,RNX,Renegade Exploration Ltd,$0.01,0.00%,0.00%,-20.00%,33.33%,Materials,$7.12 M
+2007,TTB,Total Brain Ltd,$0.05,-3.64%,1.92%,-41.11%,-82.75%,Health Care,$7.09 M
+2008,FFF,Forbidden Foods Ltd,$0.09,-1.10%,4.65%,-25.00%,-60.00%,Consumer Staples,$7.08 M
+2009,NMR,Native Mineral Resources Holdings Ltd,$0.16,0.00%,0.00%,-5.88%,-42.27%,Materials,$7.06 M
+2010,BXN,Bioxyne Ltd,$0.01,0.00%,-15.39%,-21.43%,-63.33%,Consumer Staples,$7.04 M
+2011,AAP,Australian Agricultural Projects Ltd,$0.02,4.55%,-4.17%,4.55%,4.55%,Consumer Staples,$7.02 M
+2012,PRX,Prodigy Gold NL,$0.01,-7.69%,-14.29%,-36.84%,-70.00%,Materials,$6.99 M
+2013,SFM,Santa Fe Minerals Ltd,$0.10,0.00%,0.00%,-4.00%,6.67%,Materials,$6.99 M
+2014,BPM,BPM Minerals Ltd,$0.13,0.00%,-3.85%,-32.43%,-64.29%,Materials,$6.99 M
+2015,NRX,Noronex Ltd,$0.04,5.13%,17.14%,-18.00%,-71.72%,Materials,$6.99 M
+2016,ODE,Odessa Minerals Ltd,$0.01,8.33%,18.18%,-23.53%,116.67%,Materials,$6.98 M
+2017,EQN,Equinox Resources Ltd,$0.16,-6.06%,-13.89%,-11.43%,-22.50%,Materials,$6.98 M
+2018,KOR,Korab Resources Ltd,$0.02,-5.00%,-20.83%,-32.14%,35.71%,Materials,$6.97 M
+2019,NME,NEX Metals Exploration Ltd,$0.03,-31.58%,-25.71%,-18.75%,-10.35%,Materials,$6.94 M
+2020,MRI,My Rewards International Ltd,$0.05,0.00%,0.00%,-15.00%,-74.50%,Industrials,$6.94 M
+2021,VMG,VDM Group Ltd,$0.00,0.00%,0.00%,-50.00%,-60.00%,Industrials,$6.93 M
+2022,TML,Timah Resources Ltd,$0.08,0.00%,7.14%,7.14%,13.64%,Utilities,$6.88 M
+2023,GNM,Great Northern Minerals Ltd,$0.00,0.00%,0.00%,-20.00%,-66.67%,Materials,$6.84 M
+2024,SAU,Southern Gold Ltd,$0.03,0.00%,-8.57%,-15.79%,-54.29%,Materials,$6.83 M
+2025,BLZ,BLAZE Minerals Ltd,$0.02,0.00%,0.00%,-29.63%,-38.71%,Energy,$6.79 M
+2026,ECG,Ecargo Holdings Ltd,$0.01,-8.33%,0.00%,-26.67%,-57.69%,Industrials,$6.77 M
+2027,RD1,Registry Direct Ltd,$0.02,0.00%,0.00%,33.33%,-20.00%,Information Technology,$6.69 M
+2028,AHK,Ark Mines Ltd,$0.20,0.00%,-21.57%,-33.33%,488.24%,Materials,$6.66 M
+2029,EXL,Elixinol Wellness Ltd,$0.02,0.00%,-8.70%,-56.25%,-83.85%,Consumer Staples,$6.64 M
+2030,SVS,Sunvest Corporation Ltd,$0.55,0.00%,0.00%,0.00%,9.00%,Financials,$6.63 M
+2031,BPP,Babylon Pump & Power Ltd,$0.01,-9.09%,0.00%,-44.44%,-68.75%,Industrials,$6.62 M
+2032,BAS,Bass Oil Ltd,$0.04,-7.50%,-7.50%,-13.95%,-38.33%,Energy,$6.61 M
+2033,RML,Resolution Minerals Ltd,$0.01,0.00%,6.67%,-27.27%,-65.22%,Materials,$6.59 M
+2034,PFE,Pantera Minerals Ltd,$0.13,8.33%,8.33%,4.00%,-35.00%,Materials,$6.57 M
+2035,CZL,Consolidated ZINC Ltd,$0.02,12.50%,-10.00%,-25.00%,-51.35%,Materials,$6.54 M
+2036,MTR,Metal Tiger Plc,$0.33,0.00%,0.00%,0.00%,-41.07%,Materials,$6.53 M
+2037,MGG,Mogul Games Group Ltd,$0.00,0.00%,0.00%,-42.86%,-71.43%,Communication Services,$6.52 M
+2038,LV1,Live Verdure Ltd,$0.16,-13.89%,-13.89%,-27.91%,-18.42%,Consumer Staples,$6.52 M
+2039,CMX,CHEMX Materials Ltd,$0.14,-6.67%,-15.15%,-37.78%,-30.00%,Materials,$6.49 M
+2040,1ST,1ST Group Ltd,$0.01,25.00%,25.00%,-28.57%,-73.60%,Health Care,$6.44 M
+2041,XST,Xstate Resources Ltd,$0.00,0.00%,-33.33%,-33.33%,-60.00%,Energy,$6.43 M
+2042,RIE,Riedel Resources Ltd,$0.01,-14.29%,-33.33%,-25.00%,-53.85%,Materials,$6.43 M
+2043,FG1,FLYNN Gold Ltd,$0.10,0.00%,-16.67%,-28.57%,-33.33%,Materials,$6.41 M
+2044,LGM,Legacy Minerals Holdings Ltd,$0.14,0.00%,0.00%,-3.45%,-30.00%,Materials,$6.35 M
+2045,APG,Austpac Resources NL,$0.00,0.00%,0.00%,0.00%,0.00%,Materials,$6.33 M
+2046,LDR,Lode Resources Ltd,$0.16,-3.03%,6.67%,-3.03%,-20.00%,Materials,$6.33 M
+2047,RLG,Roolife Group Ltd,$0.01,12.50%,0.00%,-25.00%,-65.39%,Communication Services,$6.32 M
+2048,NNG,Nexion Group Ltd,$0.08,-2.50%,11.43%,16.42%,-58.95%,Information Technology,$6.31 M
+2049,VTI,Visioneering Technologies Inc,$0.26,8.33%,4.00%,-29.73%,-76.36%,Health Care,$6.28 M
+2050,HAR,Haranga Resources Ltd,$0.15,-14.29%,-18.92%,-6.25%,-25.00%,Materials,$6.27 M
+2051,FIJ,Fiji Kava Ltd,$0.03,-15.39%,0.00%,-26.67%,-65.26%,Consumer Staples,$6.27 M
+2052,NTL,New Talisman Gold Mines Ltd,$0.00,33.33%,0.00%,0.00%,-33.33%,Materials,$6.25 M
+2053,SRR,Sarama Resources Ltd,$0.16,0.00%,0.00%,-11.11%,-20.00%,Materials,$6.22 M
+2054,SE1,Sensera Ltd,$0.02,0.00%,0.00%,0.00%,-67.39%,Information Technology,$6.21 M
+2055,CPT,Cipherpoint Ltd,$0.02,0.00%,0.00%,-2.78%,-45.31%,Information Technology,$6.2 M
+2056,VKA,Viking Mines Ltd,$0.01,0.00%,-14.29%,-25.00%,-64.71%,Materials,$6.15 M
+2057,VAR,Variscan Mines Ltd,$0.02,0.00%,-4.17%,-30.30%,-68.49%,Materials,$6.13 M
+2058,G88,Golden Mile Resources Ltd,$0.03,0.00%,-21.05%,-38.78%,-44.44%,Materials,$6.11 M
+2059,CLT,Cellnet Group Ltd,$0.03,4.17%,0.00%,-16.67%,-54.55%,Information Technology,$6.09 M
+2060,CML,Chase Mining Corporation Ltd,$0.01,0.00%,-27.78%,-7.14%,-18.75%,Materials,$6.09 M
+2061,SHG,Singular Health Group Ltd,$0.09,3.33%,1.09%,-38.00%,-70.94%,Health Care,$6.07 M
+2062,ODM,Odin Metals Ltd,$0.01,0.00%,-7.14%,-35.00%,-60.61%,Materials,$6.06 M
+2063,AIV,Activex Ltd,$0.03,0.00%,-15.15%,-40.43%,-83.53%,Materials,$6.05 M
+2064,EMU,EMU NL,$0.01,15.79%,0.00%,-31.25%,-50.00%,Materials,$6.05 M
+2065,OLL,Openlearning Ltd,$0.03,3.70%,-6.67%,-42.86%,-76.07%,Information Technology,$6 M
+2066,KNB,Koonenberry Gold Ltd,$0.08,0.00%,-11.11%,-11.11%,-60.00%,Materials,$5.98 M
+2067,9SP,9 Spokes International Ltd,$0.00,0.00%,0.00%,0.00%,-73.33%,Information Technology,$5.97 M
+2068,TMB,Tambourah Metals Ltd,$0.15,3.57%,3.57%,-32.56%,-27.50%,Materials,$5.97 M
+2069,GMN,Gold Mountain Ltd,$0.01,0.00%,-16.67%,-16.67%,-83.42%,Materials,$5.97 M
+2070,CVR,Cavalier Resources Ltd,$0.20,0.00%,-2.50%,-2.50%,-2.50%,Materials,$5.93 M
+2071,1AG,Alterra Ltd,$0.02,0.00%,-5.56%,20.89%,-61.42%,Consumer Staples,$5.91 M
+2072,BMM,Balkan Mining and Minerals Ltd,$0.18,-2.70%,-5.26%,-33.33%,-10.00%,Materials,$5.9 M
+2073,ENV,Enova Mining Ltd,$0.02,0.00%,0.00%,-11.11%,-23.81%,Materials,$5.88 M
+2074,FDR,Finder Energy Holdings Ltd,$0.08,1.30%,-11.36%,-29.09%,-61.00%,Energy,$5.85 M
+2075,MHI,Merchant House International Ltd,$0.06,0.00%,0.00%,14.82%,-8.82%,Consumer Discretionary,$5.84 M
+2076,CRM,Carbon Minerals Ltd,$0.31,0.00%,0.00%,0.00%,24.00%,Energy,$5.83 M
+2077,NSM,North Stawell Minerals Ltd,$0.15,-14.71%,-12.12%,-38.30%,-46.30%,Materials,$5.82 M
+2078,AQC,Australian Pacific Coal Ltd,$0.12,0.00%,-14.82%,-23.33%,-32.35%,Materials,$5.81 M
+2079,MPR,Mpower Group Ltd,$0.03,-7.14%,0.00%,0.00%,-63.89%,Financials,$5.79 M
+2080,WGR,Western Gold Resources Ltd,$0.08,-2.44%,-23.81%,-36.00%,-60.00%,Materials,$5.76 M
+2081,SYT,Syntonic Ltd,$0.00,0.00%,0.00%,0.00%,0.00%,Information Technology,$5.74 M
+2082,RR1,Reach Resources Ltd,$0.00,-25.00%,-40.00%,-45.46%,-62.50%,Materials,$5.73 M
+2083,RBX,Resource Base Ltd,$0.14,16.67%,-3.45%,-15.15%,-30.00%,Materials,$5.7 M
+2084,MR1,Montem Resources Ltd,$0.02,0.00%,-12.00%,-26.67%,-26.67%,Materials,$5.67 M
+2085,ILA,Island Pharmaceuticals Ltd,$0.13,0.00%,8.33%,-35.00%,-55.93%,Health Care,$5.62 M
+2086,GLV,Global Oil & Gas Ltd,$0.00,0.00%,-14.29%,-85.71%,-85.00%,Energy,$5.62 M
+2087,PBL,Parabellum Resources Ltd,$0.17,-2.86%,-10.53%,-15.00%,-15.00%,Materials,$5.61 M
+2088,CBY,Canterbury Resources Ltd,$0.05,0.00%,-4.26%,-19.64%,-51.09%,Materials,$5.54 M
+2089,AL8,Alderan Resources Ltd,$0.01,-18.75%,-7.14%,-31.58%,-71.74%,Materials,$5.53 M
+2090,TG1,Techgen Metals Ltd,$0.13,-3.85%,-13.79%,-10.71%,-34.21%,Materials,$5.53 M
+2091,CRS,Caprice Resources Ltd,$0.07,-1.47%,-18.29%,-18.29%,-60.59%,Materials,$5.51 M
+2092,PR1,Pure Resources Ltd,$0.22,7.32%,0.00%,-2.22%,10.00%,Materials,$5.51 M
+2093,ENX,Enegex Ltd,$0.03,17.86%,0.00%,-34.00%,-81.14%,Materials,$5.49 M
+2094,PYR,Payright Ltd,$0.07,-18.61%,-36.36%,-58.82%,-85.42%,Financials,$5.47 M
+2095,OOK,Ookami Ltd,$0.14,0.00%,-3.57%,-25.00%,-46.00%,Materials,$5.46 M
+2096,M2R,Miramar Resources Ltd,$0.09,-4.49%,13.33%,-32.00%,-52.78%,Materials,$5.46 M
+2097,ERG,Eneco Refresh Ltd,$0.02,0.00%,0.00%,-25.93%,-48.72%,Consumer Staples,$5.45 M
+2098,KLI,Killi Resources Ltd,$0.17,-5.71%,-17.50%,-34.00%,-17.50%,Materials,$5.45 M
+2099,BIR,BIR Financial Ltd,$0.03,0.00%,50.00%,30.44%,15.39%,Financials,$5.44 M
+2100,BHD,Benjamin Hornigold Ltd,$0.23,0.00%,2.27%,-13.46%,-25.00%,Financials,$5.43 M
+2101,FE8,Faster Enterprises Ltd,$0.05,0.00%,0.00%,0.00%,0.00%,Real Estate,$5.43 M
+2102,DEX,Duke Exploration Ltd,$0.06,5.26%,-15.49%,-45.46%,-83.33%,Materials,$5.41 M
+2103,DTI,DTI Group Ltd,$0.01,0.00%,-7.69%,-40.00%,-38.46%,Information Technology,$5.38 M
+2104,GPS,GPS Alliance Holdings Ltd,$0.04,0.00%,0.00%,0.00%,-2.38%,Real Estate,$5.35 M
+2105,OSM,Osmond Resources Ltd,$0.19,-5.00%,-9.52%,-13.64%,-5.00%,Materials,$5.34 M
+2106,CUL,Cullen Resources Ltd,$0.01,0.00%,-7.14%,-23.53%,-50.00%,Materials,$5.29 M
+2107,SUH,Southern Hemisphere Mining Ltd,$0.02,-5.26%,-5.26%,-18.18%,-61.28%,Materials,$5.28 M
+2108,DMG,Dragon Mountain Gold Ltd,$0.02,0.00%,0.00%,0.00%,0.00%,Materials,$5.27 M
+2109,BEL,Bentley Capital Ltd,$0.07,1.47%,-1.43%,-25.00%,-28.13%,Financials,$5.25 M
+2110,SRH,Saferoads Holdings Ltd,$0.14,-6.67%,-12.50%,-22.22%,-36.36%,Industrials,$5.24 M
+2111,PNT,Panther Metals Ltd,$0.18,9.09%,0.00%,-18.18%,-10.00%,Materials,$5.22 M
+2112,MKL,Mighty Kingdom Ltd,$0.04,-2.38%,0.00%,-43.84%,-75.15%,Communication Services,$5.2 M
+2113,RDS,Redstone Resources Ltd,$0.01,0.00%,16.67%,-12.50%,-46.15%,Materials,$5.16 M
+2114,ENT,Enterprise Metals Ltd,$0.01,-11.11%,-27.27%,-46.67%,-46.27%,Materials,$5.16 M
+2115,OSP,Osprey Medical Inc,$0.20,0.00%,0.00%,0.00%,-85.71%,Health Care,$5.13 M
+2116,UUL,Ultima United Ltd,$0.07,0.00%,-4.11%,-6.67%,-86.00%,Real Estate,$5.13 M
+2117,REM,Remsense Technologies Ltd,$0.16,-8.82%,3.33%,-18.42%,-22.50%,Industrials,$5.1 M
+2118,AQX,Alice QUEEN Ltd,$0.00,-14.29%,-40.00%,-40.00%,-75.00%,Materials,$5.1 M
+2119,CIO,Connected Io Ltd,$0.02,0.00%,-27.27%,-60.00%,-68.00%,Information Technology,$5.09 M
+2120,IVT,Inventis Ltd,$0.08,0.00%,-6.90%,-19.00%,-49.38%,Industrials,$5.08 M
+2121,VTX,Vertex Minerals Ltd,$0.12,4.55%,4.55%,-8.00%,-42.50%,Materials,$5.07 M
+2122,SCT,Scout Security Ltd,$0.03,22.22%,17.86%,-2.94%,-38.89%,Consumer Discretionary,$5.06 M
+2123,NWM,Norwest Minerals Ltd,$0.03,0.00%,-3.45%,-39.13%,-63.28%,Materials,$5.06 M
+2124,EVE,EVE Health Group Ltd,$0.00,0.00%,0.00%,-20.00%,-76.00%,Consumer Staples,$5.05 M
+2125,CSF,Catalano Seafood Ltd,$0.17,-8.33%,-10.81%,-2.94%,-17.50%,Consumer Staples,$5.01 M
+2126,CBE,Cobre Ltd,$0.03,50.00%,20.00%,-28.57%,-82.35%,Materials,$4.96 M
+2127,MTM,MT Monger Resources Ltd,$0.14,0.00%,28.57%,-20.59%,-32.50%,Materials,$4.9 M
+2128,TG6,TG Metals Ltd,$0.13,-13.79%,-13.79%,-30.56%,-30.56%,Materials,$4.89 M
+2129,AGC,Australian Gold and Copper Ltd,$0.07,-7.69%,-4.00%,-19.10%,-48.57%,Materials,$4.88 M
+2130,SER,Strategic Energy Resources Ltd,$0.02,5.26%,5.26%,-16.67%,-66.67%,Materials,$4.85 M
+2131,PRM,Prominence Energy Ltd,$0.00,0.00%,100.00%,-77.78%,-84.62%,Energy,$4.85 M
+2132,IEC,Intra Energy Corporation Ltd,$0.01,0.00%,-11.11%,-38.46%,14.29%,Energy,$4.85 M
+2133,UUV,UUV Aquabotix Ltd,$0.00,0.00%,0.00%,0.00%,0.00%,Industrials,$4.84 M
+2134,OVN,Oventus Medical Ltd,$0.02,0.00%,0.00%,11.11%,-78.26%,Health Care,$4.83 M
+2135,ICR,Intelicare Holdings Ltd,$0.04,0.00%,0.00%,-38.46%,-78.34%,Health Care,$4.82 M
+2136,MEB,Medibio Ltd,$0.00,33.33%,-33.33%,-33.33%,-71.43%,Health Care,$4.79 M
+2137,HXL,Hexima Ltd,$0.03,-14.29%,-89.29%,-89.83%,-81.25%,Health Care,$4.79 M
+2138,W2V,Way 2 Vat Ltd,$0.03,-14.29%,-14.29%,-40.00%,-85.00%,Information Technology,$4.78 M
+2139,T3K,Tek-Ocean Group Ltd,$0.15,7.41%,7.41%,-14.71%,-71.00%,Energy,$4.75 M
+2140,RXH,Rewardle Holdings Ltd,$0.01,-5.26%,-18.18%,-25.00%,-30.77%,Communication Services,$4.74 M
+2141,BME,Black Mountain Energy Ltd,$0.09,-6.52%,-12.25%,-36.30%,-57.00%,Energy,$4.73 M
+2142,CRB,Carbine Resources Ltd,$0.02,0.00%,7.14%,-31.82%,-66.67%,Materials,$4.73 M
+2143,UVA,Uvre Ltd,$0.15,0.00%,-6.25%,-25.00%,-25.00%,Materials,$4.72 M
+2144,CGB,Cann Global Ltd,$0.02,0.00%,-5.26%,-33.33%,-88.00%,Health Care,$4.66 M
+2145,GSM,Golden State Mining Ltd,$0.04,-2.44%,-10.11%,-38.46%,-74.19%,Materials,$4.66 M
+2146,CWL,Consolidated Financial Holdings Ltd,$0.04,0.00%,0.00%,0.00%,0.00%,Information Technology,$4.66 M
+2147,AN1,Anagenics Ltd,$0.02,10.53%,-19.23%,-40.00%,-65.00%,Consumer Staples,$4.64 M
+2148,HIQ,HITIQ Ltd,$0.04,7.90%,0.00%,-22.64%,-78.42%,Health Care,$4.64 M
+2149,EMS,Eastern Metals Ltd,$0.13,0.00%,4.00%,-31.58%,-35.00%,Materials,$4.63 M
+2150,ALT,Analytica Ltd,$0.00,0.00%,0.00%,-50.00%,-60.00%,Health Care,$4.61 M
+2151,LML,Lincoln Minerals Ltd,$0.01,0.00%,0.00%,0.00%,0.00%,Materials,$4.6 M
+2152,WNB,Wellness and Beauty Solutions Ltd,$0.07,0.00%,0.00%,0.00%,0.00%,Consumer Discretionary,$4.58 M
+2153,GFN,Gefen International A.I. Ltd,$0.08,5.63%,-1.32%,-48.28%,-92.50%,Information Technology,$4.58 M
+2154,WMG,Western Mines Group Ltd,$0.13,-7.41%,-10.71%,-28.57%,-37.50%,Materials,$4.58 M
+2155,FFC,Farmaforce Ltd,$0.04,0.00%,0.00%,0.00%,-51.39%,Health Care,$4.57 M
+2156,OLY,Olympio Metals Ltd,$0.12,4.35%,0.00%,-35.14%,287.10%,Industrials,$4.57 M
+2157,PHL,Propell Holdings Ltd,$0.04,-4.44%,-14.00%,-24.56%,-58.66%,Financials,$4.56 M
+2158,POW,Protean Energy Ltd,$0.01,0.00%,0.00%,-12.50%,-30.00%,Industrials,$4.55 M
+2159,T3D,333D Ltd,$0.00,0.00%,-25.00%,-25.00%,-25.00%,Industrials,$4.55 M
+2160,PBX,Pacific Bauxite NL,$0.11,4.76%,10.00%,-26.67%,3566.67%,Materials,$4.53 M
+2161,IEQ,International Equities Corporation Ltd,$0.04,0.00%,0.00%,0.00%,0.00%,Real Estate,$4.49 M
+2162,AFW,Applyflow Ltd,$0.00,0.00%,-25.00%,-25.00%,-69.85%,Communication Services,$4.44 M
+2163,NOR,Norwood Systems Ltd,$0.01,0.00%,-7.14%,-7.14%,-13.33%,Information Technology,$4.42 M
+2164,OXX,Octanex Ltd,$0.02,0.00%,-5.56%,-15.00%,-43.33%,Energy,$4.4 M
+2165,DBO,Diablo Resources Ltd,$0.06,11.11%,-4.76%,-10.45%,-70.00%,Materials,$4.35 M
+2166,CMO,Cosmo Metals Ltd,$0.17,6.25%,21.43%,21.43%,-19.05%,Materials,$4.34 M
+2167,EAX,Energy Action Ltd,$0.16,0.00%,0.00%,0.00%,-39.62%,Industrials,$4.32 M
+2168,MTB,Mount Burgess Mining NL,$0.01,0.00%,0.00%,-16.67%,-28.57%,Materials,$4.3 M
+2169,RC1,Redcastle Resources Ltd,$0.02,7.14%,7.14%,-6.25%,87.50%,Materials,$4.29 M
+2170,AOA,Ausmon Resources Ltd,$0.01,-9.09%,-16.67%,-37.50%,0.00%,Materials,$4.29 M
+2171,AQS,AQUIS Entertainment Ltd,$0.12,0.00%,0.00%,-20.00%,-48.94%,Consumer Discretionary,$4.29 M
+2172,CXU,Cauldron Energy Ltd,$0.01,0.00%,0.00%,-38.46%,-79.49%,Energy,$4.28 M
+2173,AWJ,Auric Mining Ltd,$0.08,0.00%,-1.30%,-16.48%,-41.54%,Materials,$4.26 M
+2174,SP3,Spectur Ltd,$0.04,11.11%,-2.44%,-18.37%,-42.86%,Information Technology,$4.25 M
+2175,HMI,Hiremii Ltd,$0.04,-2.44%,0.00%,-25.93%,-59.60%,Industrials,$4.23 M
+2176,RCR,Rincon Resources Ltd,$0.10,-9.09%,-23.08%,-31.03%,-62.96%,Materials,$4.23 M
+2177,WA1,WA1 Resources Ltd,$0.15,0.00%,-3.33%,-14.71%,-27.50%,Materials,$4.21 M
+2178,ATU,Atrum Coal Ltd,$0.01,-14.29%,-25.00%,-45.46%,-76.23%,Materials,$4.15 M
+2179,TKL,Traka Resources Ltd,$0.01,20.00%,-25.00%,-29.41%,-60.00%,Materials,$4.13 M
+2180,NZS,New Zealand Coastal Seafoods Ltd,$0.00,0.00%,0.00%,0.00%,-66.67%,Consumer Staples,$4.11 M
+2181,KGD,Kula Gold Ltd,$0.02,-17.39%,-24.00%,-40.63%,-52.50%,Materials,$4.09 M
+2182,CL8,Carly Holdings Ltd,$0.04,16.67%,25.00%,-2.78%,-43.55%,Consumer Discretionary,$4.07 M
+2183,ANR,Anatara Lifesciences Ltd,$0.06,0.00%,0.00%,-5.00%,-62.00%,Health Care,$4.07 M
+2184,GO2,The GO2 People Ltd,$0.01,-9.09%,-16.67%,-41.18%,-75.00%,Industrials,$4.07 M
+2185,1VG,Victory Goldfields Ltd,$0.11,0.00%,-4.55%,-16.00%,-47.50%,Materials,$4.04 M
+2186,PKO,Peako Ltd,$0.01,0.00%,-7.14%,-31.58%,-67.50%,Materials,$4.01 M
+2187,EZZ,EZZ Life Science Holdings Ltd,$0.31,5.09%,3.33%,3.33%,-34.04%,Health Care,$3.96 M
+2188,YPB,YPB Group Ltd,$0.02,-5.88%,-11.11%,-36.00%,-68.00%,Industrials,$3.94 M
+2189,KEY,KEY Petroleum Ltd,$0.00,0.00%,0.00%,-20.00%,-33.33%,Energy,$3.94 M
+2190,DVL,Dorsavi Ltd,$0.01,-8.33%,0.00%,-26.67%,-60.71%,Health Care,$3.89 M
+2191,RBR,RBR Group Ltd,$0.00,0.00%,-14.29%,-25.00%,-40.00%,Materials,$3.86 M
+2192,AUK,Aumake Ltd,$0.01,-16.67%,-9.09%,-37.50%,-80.00%,Consumer Discretionary,$3.86 M
+2193,KNG,Kingsland Minerals Ltd,$0.15,3.45%,7.14%,-25.00%,-25.00%,Materials,$3.86 M
+2194,SLM,Solis Minerals Ltd,$0.09,3.33%,2.20%,-19.13%,-53.50%,Materials,$3.85 M
+2195,TTA,TTA Holdings Ltd,$0.03,0.00%,0.00%,3.70%,-30.00%,Consumer Discretionary,$3.85 M
+2196,MOH,Moho Resources Ltd,$0.02,0.00%,-11.11%,-36.84%,-64.71%,Materials,$3.83 M
+2197,AVM,Advance Metals Ltd,$0.01,-20.00%,-11.11%,-38.46%,-54.89%,Materials,$3.82 M
+2198,WOO,Wooboard Technologies Ltd,$0.00,0.00%,0.00%,0.00%,-66.67%,Information Technology,$3.82 M
+2199,FRS,Forrestania Resources Ltd,$0.13,-7.14%,0.00%,-38.10%,-35.00%,Materials,$3.81 M
+2200,M2M,MT Malcolm Mines NL,$0.06,0.00%,-1.59%,-20.51%,-69.00%,Materials,$3.8 M
+2201,RON,Ronin Resources Ltd,$0.13,8.33%,8.33%,-23.53%,-35.00%,Materials,$3.77 M
+2202,RGI,Roto-Gro International Ltd,$0.01,0.00%,0.00%,0.00%,-73.17%,Industrials,$3.77 M
+2203,OMX,Orange Minerals NL,$0.09,1.19%,1.19%,-39.29%,-58.54%,Materials,$3.68 M
+2204,NFL,Norfolk Metals Ltd,$0.13,0.00%,-7.14%,-13.33%,-35.00%,Materials,$3.68 M
+2205,KCC,Kincora Copper Ltd,$0.05,-9.09%,-16.67%,-46.24%,-79.17%,Materials,$3.66 M
+2206,DUN,Dundas Minerals Ltd,$0.10,-5.00%,-13.64%,-26.92%,-52.50%,Materials,$3.65 M
+2207,AMD,Arrow Minerals Ltd,$0.00,0.00%,-20.00%,-33.33%,-66.67%,Materials,$3.65 M
+2208,HHY,HHY Fund,$0.05,0.00%,0.00%,0.00%,0.00%,Financials,$3.65 M
+2209,M3M,M3 Mining Ltd,$0.12,-4.17%,-8.00%,-17.86%,-42.50%,Materials,$3.61 M
+2210,OM1,Omnia Metals Group Ltd,$0.14,7.69%,0.00%,-6.67%,-30.00%,Materials,$3.6 M
+2211,APS,Allup Silica Ltd,$0.10,0.00%,-15.65%,-46.11%,-51.50%,Materials,$3.59 M
+2212,POL,Polymetals Resources Ltd,$0.09,-1.11%,-1.11%,-31.54%,-55.50%,Materials,$3.57 M
+2213,NSE,New Standard Energy Ltd,$0.00,0.00%,0.00%,0.00%,0.00%,Energy,$3.55 M
+2214,PIM,Pinnacle Minerals Ltd,$0.15,0.00%,-9.38%,-14.71%,-27.50%,Materials,$3.53 M
+2215,JPR,Jupiter Energy Ltd,$0.02,0.00%,-13.21%,-23.33%,-25.81%,Energy,$3.53 M
+2216,OZZ,OZZ Resources Ltd,$0.11,0.00%,15.39%,5.00%,-47.50%,Materials,$3.51 M
+2217,CYQ,CYCLIQ Group Ltd,$0.01,-9.09%,-9.09%,-47.37%,-66.67%,Consumer Discretionary,$3.48 M
+2218,SIS,Simble Solutions Ltd,$0.01,0.00%,-11.11%,-27.27%,-72.41%,Information Technology,$3.42 M
+2219,NES,Nelson Resources Ltd,$0.01,-4.17%,4.55%,-32.35%,-79.02%,Materials,$3.38 M
+2220,WC1,West Cobar Metals Ltd,$0.11,0.00%,-8.33%,-15.39%,-45.00%,Materials,$3.38 M
+2221,M24,Mamba Exploration Ltd,$0.08,0.00%,6.67%,-19.19%,-61.91%,Materials,$3.37 M
+2222,IPB,IPB Petroleum Ltd,$0.01,0.00%,0.00%,-33.33%,-58.33%,Energy,$3.37 M
+2223,M8S,M8 Sustainable Ltd,$0.01,0.00%,0.00%,-15.79%,-61.25%,Industrials,$3.36 M
+2224,MBX,My Foodie BOX Ltd,$0.10,-16.67%,-23.08%,-33.33%,-50.00%,Consumer Staples,$3.35 M
+2225,NVU,Nanoveu Ltd,$0.02,7.14%,-6.25%,7.14%,-68.09%,Information Technology,$3.34 M
+2226,DLT,Delta Drone International Ltd,$0.01,-8.33%,-21.43%,-21.43%,-50.00%,Information Technology,$3.3 M
+2227,OEQ,Orion Equities Ltd,$0.21,0.00%,-22.22%,-40.00%,-30.00%,Financials,$3.29 M
+2228,SAN,Sagalio Energy Ltd,$0.02,0.00%,0.00%,0.00%,-27.27%,Energy,$3.27 M
+2229,MMC,Mitre Mining Corporation Ltd,$0.12,0.00%,0.00%,-17.24%,-40.00%,Materials,$3.25 M
+2230,RB6,RUBIX Resources Ltd,$0.12,0.00%,-17.24%,-33.33%,-40.00%,Materials,$3.25 M
+2231,ICE,Icetana Ltd,$0.02,5.56%,-20.83%,-44.12%,-77.38%,Information Technology,$3.25 M
+2232,MMR,Mec Resources Ltd,$0.00,0.00%,0.00%,0.00%,0.00%,Energy,$3.24 M
+2233,OKJ,Oakajee Corporation Ltd,$0.04,0.00%,-18.61%,-18.61%,-53.33%,Materials,$3.2 M
+2234,C1X,Cosmos Exploration Ltd,$0.13,0.00%,0.00%,-19.36%,-37.50%,Materials,$3.13 M
+2235,AUE,Aurum Resources Ltd,$0.13,0.00%,0.00%,-7.41%,-37.50%,Materials,$3.13 M
+2236,AMM,Armada Metals Ltd,$0.06,3.33%,-17.33%,-50.40%,-69.00%,Materials,$3.1 M
+2237,NYM,Narryer Metals Ltd,$0.11,4.76%,-21.43%,-42.11%,-45.00%,Materials,$3.07 M
+2238,BUR,Burley Minerals Ltd,$0.09,0.00%,-8.25%,-25.83%,-55.50%,Materials,$3.05 M
+2239,PLG,Pearl Gull Iron Ltd,$0.05,35.00%,12.50%,54.29%,-73.00%,Materials,$2.96 M
+2240,LKY,Locksley Resources Ltd,$0.10,0.00%,-20.80%,-29.29%,-50.50%,Materials,$2.87 M
+2241,C29,C29 Metals Ltd,$0.11,-4.55%,-4.55%,-34.38%,-47.50%,Materials,$2.86 M
+2242,VOL,Victory Offices Ltd,$0.02,-5.26%,-28.00%,-66.04%,-89.09%,Real Estate,$2.84 M
+2243,LVE,Love Group Global Ltd,$0.07,-12.50%,-12.50%,-12.50%,-27.84%,Communication Services,$2.84 M
+2244,WSR,Westar Resources Ltd,$0.05,2.27%,2.27%,-40.00%,-70.00%,Materials,$2.79 M
+2245,IVO,Invigor Group Ltd,$0.02,-14.29%,-25.00%,-67.27%,-74.65%,Communication Services,$2.76 M
+2246,AGJ,Agricultural Land Trust,$0.03,0.00%,0.00%,0.00%,0.00%,Real Estate,$2.74 M
+2247,MSI,Multistack International Ltd,$0.02,-13.04%,-33.33%,-33.33%,-71.43%,Industrials,$2.73 M
+2248,AJY,Asaplus Resources Ltd,$0.02,0.00%,0.00%,0.00%,-66.67%,Materials,$2.72 M
+2249,FOS,FOS Capital Ltd,$0.20,-2.44%,-2.44%,-18.37%,5.26%,Industrials,$2.66 M
+2250,DC2,DC Two Ltd,$0.05,0.00%,13.64%,-23.08%,-81.82%,Information Technology,$2.64 M
+2251,CDR,Codrus Minerals Ltd,$0.07,-4.35%,-13.16%,-26.67%,-67.81%,Materials,$2.64 M
+2252,ALB,Albion Resources Ltd,$0.08,0.00%,-11.58%,-42.07%,-56.92%,Materials,$2.64 M
+2253,SMS,Star Minerals Ltd,$0.10,0.00%,-23.08%,-52.38%,-50.00%,Materials,$2.63 M
+2254,DMM,DMC Mining Ltd,$0.09,-5.26%,-1.10%,-30.77%,-55.00%,Materials,$2.58 M
+2255,DAL,Dalaroo Metals Ltd,$0.09,-10.53%,-10.53%,-29.17%,-57.50%,Materials,$2.54 M
+2256,SIT,Site Group International Ltd,$0.00,0.00%,0.00%,0.00%,-76.00%,Consumer Discretionary,$2.52 M
+2257,ROC,Rocketboots Ltd,$0.08,4.05%,-4.94%,-9.41%,-61.50%,Information Technology,$2.44 M
+2258,AO1,Assetowl Ltd,$0.00,-25.00%,-25.00%,-40.00%,-72.13%,Information Technology,$2.36 M
+2259,OPL,Opyl Ltd,$0.04,13.16%,-10.42%,-36.77%,-78.50%,Information Technology,$2.34 M
+2260,ROO,Roots Sustainable Agricultural Technologies Ltd,$0.00,0.00%,-14.29%,-33.33%,-70.00%,Industrials,$2.25 M
+2261,EQS,Equity Story Group Ltd,$0.08,0.00%,-3.85%,-18.48%,-62.50%,Financials,$2.21 M
+2262,CFO,Cfoam Ltd,$0.00,-25.00%,-25.00%,-25.00%,-80.00%,Industrials,$2.2 M
+2263,PRS,Prospech Ltd,$0.03,0.00%,-8.33%,-21.43%,-77.24%,Materials,$2.15 M
+2264,PKD,Parkd Ltd,$0.02,0.00%,-32.26%,-41.67%,-48.78%,Industrials,$2.1 M
+2265,RPG,Raptis Group Ltd,$0.03,0.00%,0.00%,0.00%,10.00%,Real Estate,$2.1 M
+2266,KLR,Kaili Resources Ltd,$0.01,0.00%,0.00%,-12.50%,-44.00%,Energy,$2.06 M
+2267,FGL,Frugl Group Ltd,$0.01,-10.00%,0.00%,-35.71%,-82.00%,Information Technology,$1.81 M
+2268,TNP,Triple Energy Ltd,$0.03,0.00%,0.00%,0.00%,0.00%,Energy,$1.8 M
+2269,3MF,3D Metalforge Ltd,$0.01,9.09%,-14.29%,-45.46%,-92.00%,Industrials,$1.73 M
+2270,HHI,Health House International Ltd,$0.01,0.00%,0.00%,-20.00%,-92.00%,Health Care,$1.63 M
+2271,ATM,Aneka Tambang (Persero) TBK (PT),$1.25,0.00%,-0.40%,-0.40%,24.50%,Materials,$1.62 M
+2272,JTL,JAYEX Technology Ltd,$0.01,0.00%,-14.29%,-14.29%,-78.57%,Health Care,$1.5 M
+2273,MCX,Mariner Corporation Ltd,$0.03,0.00%,0.00%,0.00%,-53.73%,Financials,$1.49 M
+2274,OAK,Oakridge International Ltd,$0.08,-5.00%,-24.00%,-36.67%,-62.00%,Information Technology,$1.31 M
+2275,QUE,Queste Communications Ltd,$0.04,-38.57%,-38.57%,-38.57%,-21.82%,Financials,$1.16 M
+2276,CTV,Colortv Ltd,$0.01,0.00%,0.00%,-25.00%,-94.00%,Communication Services,$927.74 TH
+2277,E2E,Eon NRG Ltd,$0.00,0.00%,0.00%,0.00%,0.00%,Energy,$769.89 TH
+2278,LAM,Laramide Resources Ltd,$0.54,0.00%,-6.90%,-9.24%,2.86%,Energy,$658.94 TH
+2279,AIB,Aurora Global Income Trust,$0.09,-12.38%,-12.38%,-12.38%,-8.00%,Financials,$632.53 TH
