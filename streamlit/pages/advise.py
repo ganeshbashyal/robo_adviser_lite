@@ -9,6 +9,7 @@ import hvplot.pandas
 #import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
 import holoviews as hv
+import time
 
 
 # Display image
@@ -23,11 +24,36 @@ asx_df = asx_df[['Company', 'Code']]
 asx_dict = dict(asx_df.values)
 companyList = asx_dict.keys()
 
+# If state is set
 if 'close_df' in st.session_state:
-     st.write('Loading from Cache')
      user_choice = st.multiselect('Your Choice', options = st.session_state.user_choice, default=st.session_state.user_choice)
-     st.bokeh_chart(hv.render(st.session_state.mc_plot))  
+     st.bokeh_chart(hv.render(st.session_state.my_df_plot)) 
+     user_amount_choice = st.number_input('How much would you like to invest',value = st.session_state.user_amount_choice)
+     iterator = 0
+     user_weight_choice = [0] * len(st.session_state.user_choice)
+     for choice in st.session_state.user_choice:
+          user_weight_choice[iterator] = st.number_input(choice, value = st.session_state.user_weight_choice[iterator -1])
+          iterator = iterator + 1            
+
+     st.write('Your Potfolio Return')
+
+     # fig, ax = plt.subplots()
+     # ax.plot(st.session_state.MC_thirty_year.simulated_return)
+     # st.pyplot(fig)
+
+     # fig, ax = plt.subplots(figsize=(1,1))
+     # ax.hist(st.session_state.MC_thirty_year.simulated_return.iloc[-1, :],bins=10)
+     # ax.axvline(st.session_state.MC_thirty_year.confidence_interval.iloc[0], color='r')
+     # ax.axvline(st.session_state.MC_thirty_year.confidence_interval.iloc[1], color='r')
+     # st.pyplot(fig)
+
+     #st.pyplot(st.session_state.fig)
+
+     st.write(st.session_state.output)
+
+#Else - State is not set    
 else:
+     # 1st Form for user to select upto 5 companies
      with st.form("my_form",clear_on_submit=False):
           st.write("Select upto 5 companies to start with")
           user_choice = st.multiselect(
@@ -38,98 +64,167 @@ else:
           else:
                st.error("You can select maximum 5 companies")
                error = st.form_submit_button("Submit")   
-               st.stop()
-               
+               st.stop()         
+              
      # Every form must have a submit button.
-          submitted = st.form_submit_button("Submit")    
+          submitted = st.form_submit_button("Submit")
           if submitted:
                ticker_list = []
-          for company in user_choice:
-               ticker_list.append(asx_dict[company]+'.ax')
-          ticker = yf.Tickers(ticker_list)
-          close_df = ticker.history(period="1y")
-          st.session_state.close_df = close_df
-          st.session_state.user_choice = user_choice
-          
+               for company in user_choice:
+                    ticker_list.append(asx_dict[company]+'.ax')
+               ticker = yf.Tickers(ticker_list)
+               my_df = ticker.history(period="5y")
+               my_df = my_df['Close']
+               my_df.columns = user_choice
+               my_df_plot = my_df.hvplot.line(title='How your selected companies are performing', ylabel='Price in AUD', xlabel='Date')
+               st.session_state.my_df_plot = my_df_plot
+               st.bokeh_chart(hv.render(my_df_plot)) 
 
-          # Comes Adam Code
-          data = yf.download(ticker_list, start="2017-01-01", end="2017-04-30")
-          MC_thirty_year = MCSimulation(
-                                   portfolio_data = data,
-                                   weights = [0.2,0.2,0.2,0.2,0.2],
-                                   num_simulation = 300,
-                                   num_trading_days = 252 * 5
-                              )
-          st.write(MC_thirty_year.calc_cumulative_return())
-          mc_plot = MC_thirty_year.plot_distribution()
-          #st.session_state.mc_plot = mc_plot
-          #MC_thirty_year.plot_distribution()
-          #st.pyplot(mc_plot)
-          even_tbl = MC_thirty_year.summarize_cumulative_return()
-          st.write(even_tbl)
-          # Your code from here
-          #close_df = close_df['Close'].dropna()
-          # close_df.columns = user_choice
-          # st.dataframe(close_df.head())
-          # close_df_plot = close_df.hvplot.line(title='Comparison', ylabel='Price in AUD', xlabel='Date')
-          # st.session_state.close_df_plot = close_df_plot
-          # st.bokeh_chart(hv.render(close_df_plot))
+               #st.write("RoboAdvisor fetching details for your selected companies ..... ")
 
-          # Assigning information to variables
-          # iterator = 1
-          # for ticker in ticker_list:
-          #      globals()[f'input{iterator}_info'] = yf.Ticker(ticker).info
-          #      iterator += 1
-          # #st.write(globals()[f'input1_info'])
-          # iterator = 1
-          # while iterator <= len(user_choice):
-          #      info = globals()[f'input{iterator}_info']
-          #      globals()[f'input{iterator}_name'] = info['longName']
-          #      globals()[f'input{iterator}_shortName'] = info['shortName']
-          #      globals()[f'input{iterator}_sector'] = info['sector']
-          #      globals()[f'input{iterator}_industry'] = info['industry']
-          #      globals()[f'input{iterator}_website'] = info['website']
-          #      globals()[f'input{iterator}_city'] = info['city']
-          #      globals()[f'input{iterator}_state'] = info['state']
-          #      globals()[f'input{iterator}_logoUrl'] = info['logo_url']
+               my_bar = st.progress(0)
+               for percent_complete in range(100):
+                    time.sleep(0.2)
+                    my_bar.progress(percent_complete + 1)
 
-          #      globals()[f'input{iterator}_dayHigh'] = info['dayHigh']
-          #      globals()[f'input{iterator}_ebitda'] = info['ebitda']
-          #      globals()[f'input{iterator}_forwardPE'] = info['forwardPE']
-          #      globals()[f'input{iterator}_targetLowPrice'] = info['targetLowPrice']
-          #      globals()[f'input{iterator}_recommendationKey'] = info['recommendationKey']
+               # Michael Code starts here
+              
+               x = 1
+               for ticker in ticker_list:
+                    globals()[f'input{x}_info'] = yf.Ticker(ticker).stats()
+                    x += 1
+               close_df = yf.download((ticker_list), period='1y')['Close'].dropna()
+
+               # Assigning information to variables
+               x = 1
+               while x <= len(user_choice):
+                    info = globals()[f'input{x}_info']
+                    globals()[f'input{x}_name'] = info['price']['longName']
+                    globals()[f'input{x}_shortName'] = info['price']['shortName']
+                    globals()[f'input{x}_sector'] = info['summaryProfile']['sector']
+                    globals()[f'input{x}_industry'] = info['summaryProfile']['industry']
+                    globals()[f'input{x}_website'] = info['summaryProfile']['website']
+                    globals()[f'input{x}_city'] = info['summaryProfile']['city']
+                    globals()[f'input{x}_state'] = info['summaryProfile']['state']
+
+                    globals()[f'input{x}_close'] = info['summaryDetail']['previousClose']
+                    globals()[f'input{x}_ebitda'] = info['financialData']['ebitda']
+                    globals()[f'input{x}_forwardPE'] = info['summaryDetail']['forwardPE']
+                    globals()[f'input{x}_targetLowPrice'] = info['financialData']['targetLowPrice']
+                    globals()[f'input{x}_recommendationKey'] = info['financialData']['recommendationKey']
+                    
+                    globals()[f'input{x}_profitMargins'] = info['financialData']['profitMargins']
+                    globals()[f'input{x}_quickRatio'] = info['financialData']['quickRatio']
+                    globals()[f'input{x}_roa'] = info['financialData']['returnOnAssets']
+                    globals()[f'input{x}_roe'] = info['financialData']['returnOnEquity']
                
-          #      globals()[f'input{iterator}_profitMargins'] = info['profitMargins']
-          #      globals()[f'input{iterator}_quickRatio'] = info['quickRatio']
-          #      globals()[f'input{iterator}_roa'] = info['returnOnAssets']
-          #      globals()[f'input{iterator}_roe'] = info['returnOnEquity']   
-          #      iterator += 1
+                    x += 1
+               
+               # Form and display graph
+               ticker_plot = close_df.hvplot.line(title="Performance Over The Last Year", xlabel='Date', ylabel='Price ($)', min_height=300, responsive=True)
+               ticker_plot.get_dimension('Variable').label='Stock:'
+               #    display(ticker_plot)
 
-          # # Display Selected Companies information
-          # x = 1
-          # for ticker in ticker_list:
+               x = 1
+               for ticker in ticker_list:
 
-          # # Form and display graph
+                    # General information
 
-          #      # General information
-          #      st.write(
-          #           f"{globals()[f'input{x}_name']} ({ticker}) is a {globals()[f'input{x}_sector']} company, apart of the {globals()[f'input{x}_industry']} industry, "
-          #           f"located in {globals()[f'input{x}_city']}, {globals()[f'input{x}_state']}. "
-          #           f"It traded at a high of ${globals()[f'input{x}_dayHigh']} today, its forward price-to-earnings ratio is {round(globals()[f'input{x}_forwardPE'],2)} "
-          #           f"and its EBITDA is sitting at ${globals()[f'input{x}_ebitda']}. "
-          #      )
 
-          #      # Financial information
-          #      st.write(
-          #           f"{globals()[f'input{x}_shortName']}'s profit margins are currently at {round(globals()[f'input{x}_profitMargins']*100,2)}% "
-          #           f"and quick ratio is {globals()[f'input{x}_quickRatio']}. "
-          #           f"The return of assets ratio is {round(globals()[f'input{x}_roa'],5)}, while the return of equities ratio is {round(globals()[f'input{x}_roe'],5)}. "
-          #           f"According to Yahoo Finance, the target low price is ${globals()[f'input{x}_targetLowPrice']}, so it's recommended to {globals()[f'input{x}_recommendationKey']}."
-          #      )
+                    general_info = (
+                         f"{x}. {globals()[f'input{x}_name']} ({ticker}) is a {globals()[f'input{x}_sector']} company, apart of the {globals()[f'input{x}_industry']} industry, "
+                         f"located in {globals()[f'input{x}_city']}, {globals()[f'input{x}_state']}. "
+                         f"It traded at a high of {globals()[f'input{x}_close']} AUD today, its forward price-to-earnings ratio is {round(globals()[f'input{x}_forwardPE'],2)} "
+                         f"and its EBITDA is sitting at {globals()[f'input{x}_ebitda']} AUD. "
+                    )
+                    st.write(general_info)
 
-          #      # Websites
-          #      st.write(globals()[f'input{x}_website'])
-          #      st.write(f'https://au.finance.yahoo.com/quote/{ticker}')
-          #      st.write('----------------------------------------')
-          #      x+=1
-        
+                    # Financial information
+
+                    financial_info = (
+                         f"   {globals()[f'input{x}_shortName']}'s profit margins are currently at {round(globals()[f'input{x}_profitMargins']*100,2)}% "
+                         f"and quick ratio is {globals()[f'input{x}_quickRatio']}. "
+                         f"The return of assets ratio is {round(globals()[f'input{x}_roa'],5)}, while the return of equities ratio is {round(globals()[f'input{x}_roe'],5)}. "
+                         f"According to Yahoo Finance, the target low price is {globals()[f'input{x}_targetLowPrice']} AUD, so it's recommended to {globals()[f'input{x}_recommendationKey']}."
+                    )
+                    st.write(financial_info)
+
+                    # Websites
+                    print(globals()[f'input{x}_website'])
+                    print(f'https://au.finance.yahoo.com/quote/{ticker}')
+                    print('----------------------------------------')
+                    x+=1
+
+
+
+
+     # 2nd Form for user to input weights and run monte carlo simulation
+     st.write('Choose your portfolio')
+     with st.form("weight_form",clear_on_submit=False):
+          user_amount_choice = st.number_input('How much would you like to invest')
+          st.session_state.user_amount_choice = user_amount_choice
+          st.write("Choose your weights")
+          iterator = 0
+          user_weight_choice = [0] * len(user_choice)
+          weight_sum = 0
+          for choice in user_choice:
+               #user_weight_choice[iterator] = st.text_input(choice, float(0.2))
+               user_weight_choice[iterator] = st.number_input(choice)
+               weight_sum = weight_sum + user_weight_choice[iterator]
+               iterator = iterator + 1 
+          if weight_sum == 1:
+               pass
+          else:
+               st.error("Sum of all weights must equal 1")
+               error = st.form_submit_button("Submit")   
+               st.stop()               
+     # Every form must have a submit button.
+          submitted = st.form_submit_button("Submit")
+          if submitted:
+               st.session_state.user_weight_choice = user_weight_choice 
+               ticker_list = []
+               for company in user_choice:
+                    ticker_list.append(asx_dict[company]+'.ax')
+               ticker = yf.Tickers(ticker_list)
+               close_df = ticker.history(period="1y")
+               st.session_state.close_df = close_df
+               st.session_state.user_choice = user_choice
+               st.write('Roboadvisor doing its magic ......')
+
+               my_bar = st.progress(0)
+               for percent_complete in range(100):
+                    time.sleep(0.2)
+                    my_bar.progress(percent_complete + 1)
+
+               data = yf.download(ticker_list, start="2021-01-01", end="2022-06-30")
+               MC_thirty_year = MCSimulation(
+                                        portfolio_data = data,
+                                        weights=user_weight_choice,
+                                        num_simulation = 50,
+                                        num_trading_days = 252 * 5
+                                   )
+               MC_thirty_year.calc_cumulative_return()
+               st.session_state.MC_thirty_year = MC_thirty_year
+               
+               #fig, ax = plt.subplots()
+               # fig, ax = plt.subplots(figsize=(2,2))
+               # ax.set_title(f'Returns for your portfolio with {default_distribution[0]}')
+               # ax.plot(MC_thirty_year.simulated_return)
+               # st.pyplot(fig)
+
+
+               # fig, ax = plt.subplots(figsize=(2,2))
+               # ax.hist(MC_thirty_year.simulated_return.iloc[-1, :],bins=10)
+               # ax.axvline(MC_thirty_year.confidence_interval.iloc[0], color='r')
+               # ax.axvline(MC_thirty_year.confidence_interval.iloc[1], color='r')
+               # st.pyplot(fig)
+               # st.session_state.fig = fig
+              
+
+               return_tbl = MC_thirty_year.summarize_cumulative_return()
+               #st.write(return_tbl)
+               ci_lower = round(return_tbl.loc['95% CI Lower']*user_amount_choice,2)
+               ci_upper = round(return_tbl.loc['95% CI Upper']*user_amount_choice ,2)
+               output = (f"There is a 95% chance that an initial investment of {user_amount_choice} AUD in the portfolio over the next 30 years will end within in the range of {ci_lower} AUD and {ci_upper} AUD")
+               st.session_state.output = output
+               st.write(output)
