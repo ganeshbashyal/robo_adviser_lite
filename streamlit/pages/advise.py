@@ -37,19 +37,6 @@ if 'close_df' in st.session_state:
           iterator = iterator + 1            
 
      st.write('Your Potfolio Return')
-
-     # fig, ax = plt.subplots()
-     # ax.plot(st.session_state.MC_thirty_year.simulated_return)
-     # st.pyplot(fig)
-
-     # fig, ax = plt.subplots(figsize=(1,1))
-     # ax.hist(st.session_state.MC_thirty_year.simulated_return.iloc[-1, :],bins=10)
-     # ax.axvline(st.session_state.MC_thirty_year.confidence_interval.iloc[0], color='r')
-     # ax.axvline(st.session_state.MC_thirty_year.confidence_interval.iloc[1], color='r')
-     # st.pyplot(fig)
-
-     #st.pyplot(st.session_state.fig)
-
      st.write(st.session_state.output)
 
 #Else - State is not set    
@@ -82,26 +69,19 @@ else:
                st.session_state.my_df_plot = my_df_plot
                st.bokeh_chart(hv.render(my_df_plot)) 
 
-               #st.write("RoboAdvisor fetching details for your selected companies ..... ")
-
+               # Initialize progress bar
                my_bar = st.progress(0)
                my_bar.progress(1)
                my_bar.progress(2)
+
+               # Get stats for user selected companies
                x = 1
                for ticker in ticker_list:
                     globals()[f'input{x}_info'] = yf.Ticker(ticker).stats()
                     x += 1
+
+               # Complete progress bar
                my_bar.progress(100)
-
-                         
-
-               # Michael Code starts here
-
-               # x = 1
-               # for ticker in ticker_list:
-               #      globals()[f'input{x}_info'] = yf.Ticker(ticker).stats()
-               #      x += 1
-               
 
 
                close_df = yf.download((ticker_list), period='1y')['Close'].dropna()
@@ -136,35 +116,35 @@ else:
                ticker_plot.get_dimension('Variable').label='Stock:'
                #    display(ticker_plot)
 
-               x = 1
-               for ticker in ticker_list:
+               # x = 1
+               # for ticker in ticker_list:
 
-                    # General information
+               #      # General information
 
 
-                    general_info = (
-                         f"{x}. {globals()[f'input{x}_name']} ({ticker}) is a {globals()[f'input{x}_sector']} company, apart of the {globals()[f'input{x}_industry']} industry, "
-                         f"located in {globals()[f'input{x}_city']}, {globals()[f'input{x}_state']}. "
-                         f"It traded at a high of {globals()[f'input{x}_close']} AUD today, its forward price-to-earnings ratio is {round(globals()[f'input{x}_forwardPE'],2)} "
-                         f"and its EBITDA is sitting at {globals()[f'input{x}_ebitda']} AUD. "
-                    )
-                    st.write(general_info)
+               #      general_info = (
+               #           f"{x}. {globals()[f'input{x}_name']} ({ticker}) is a {globals()[f'input{x}_sector']} company, apart of the {globals()[f'input{x}_industry']} industry, "
+               #           f"located in {globals()[f'input{x}_city']}, {globals()[f'input{x}_state']}. "
+               #           f"It traded at a high of {globals()[f'input{x}_close']} AUD today, its forward price-to-earnings ratio is {round(globals()[f'input{x}_forwardPE'],2)} "
+               #           f"and its EBITDA is sitting at {globals()[f'input{x}_ebitda']} AUD. "
+               #      )
+               #      st.write(general_info)
 
-                    # Financial information
+               #      # Financial information
 
-                    financial_info = (
-                         f"   {globals()[f'input{x}_shortName']}'s profit margins are currently at {round(globals()[f'input{x}_profitMargins']*100,2)}% "
-                         f"and quick ratio is {globals()[f'input{x}_quickRatio']}. "
-                         f"The return of assets ratio is {round(globals()[f'input{x}_roa'],5)}, while the return of equities ratio is {round(globals()[f'input{x}_roe'],5)}. "
-                         f"According to Yahoo Finance, the target low price is {globals()[f'input{x}_targetLowPrice']} AUD, so it's recommended to {globals()[f'input{x}_recommendationKey']}."
-                    )
-                    st.write(financial_info)
+               #      financial_info = (
+               #           f"   {globals()[f'input{x}_shortName']}'s profit margins are currently at {round(globals()[f'input{x}_profitMargins']*100,2)}% "
+               #           f"and quick ratio is {globals()[f'input{x}_quickRatio']}. "
+               #           f"The return of assets ratio is {round(globals()[f'input{x}_roa'],5)}, while the return of equities ratio is {round(globals()[f'input{x}_roe'],5)}. "
+               #           f"According to Yahoo Finance, the target low price is {globals()[f'input{x}_targetLowPrice']} AUD, so it's recommended to {globals()[f'input{x}_recommendationKey']}."
+               #      )
+               #      st.write(financial_info)
 
-                    # Websites
-                    print(globals()[f'input{x}_website'])
-                    print(f'https://au.finance.yahoo.com/quote/{ticker}')
-                    print('----------------------------------------')
-                    x+=1
+               #      # Websites
+               #      print(globals()[f'input{x}_website'])
+               #      print(f'https://au.finance.yahoo.com/quote/{ticker}')
+               #      print('----------------------------------------')
+               #      x+=1
 
 
 
@@ -209,7 +189,7 @@ else:
                MC_thirty_year = MCSimulation(
                                         portfolio_data = data,
                                         weights=user_weight_choice,
-                                        num_simulation = 50,
+                                        num_simulation = 100,
                                         num_trading_days = 252 * 5
                                    )
                MC_thirty_year.calc_cumulative_return()
