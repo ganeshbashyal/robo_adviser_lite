@@ -10,6 +10,7 @@ import hvplot.pandas
 import matplotlib.pyplot as plt
 import holoviews as hv
 import time
+from datetime import datetime
 
 
 # Display image
@@ -76,23 +77,33 @@ else:
                my_df = ticker.history(period="5y")
                my_df = my_df['Close']
                my_df.columns = user_choice
-               my_df_plot = my_df.hvplot.line(title='How your selected companies are performing', ylabel='Price in AUD', xlabel='Date')
+               my_df_plot = my_df.hvplot.line(title='How your selected companies are performing', ylabel='Price in AUD', xlabel='Date',height=500,
+                                    width=1000,)
                st.session_state.my_df_plot = my_df_plot
                st.bokeh_chart(hv.render(my_df_plot)) 
 
                #st.write("RoboAdvisor fetching details for your selected companies ..... ")
 
                my_bar = st.progress(0)
-               for percent_complete in range(100):
-                    time.sleep(0.2)
-                    my_bar.progress(percent_complete + 1)
-
-               # Michael Code starts here
-              
+               my_bar.progress(1)
+               my_bar.progress(2)
                x = 1
                for ticker in ticker_list:
                     globals()[f'input{x}_info'] = yf.Ticker(ticker).stats()
                     x += 1
+               my_bar.progress(100)
+
+                         
+
+               # Michael Code starts here
+
+               # x = 1
+               # for ticker in ticker_list:
+               #      globals()[f'input{x}_info'] = yf.Ticker(ticker).stats()
+               #      x += 1
+               
+
+
                close_df = yf.download((ticker_list), period='1y')['Close'].dropna()
 
                # Assigning information to variables
@@ -189,14 +200,12 @@ else:
                close_df = ticker.history(period="1y")
                st.session_state.close_df = close_df
                st.session_state.user_choice = user_choice
-               st.write('Roboadvisor doing its magic ......')
 
                my_bar = st.progress(0)
-               for percent_complete in range(100):
-                    time.sleep(0.2)
-                    my_bar.progress(percent_complete + 1)
+               my_bar.progress(1)
+               
 
-               data = yf.download(ticker_list, start="2021-01-01", end="2022-06-30")
+               data = yf.download(ticker_list, start="2017-01-01", end="2022-06-30", threads=True)
                MC_thirty_year = MCSimulation(
                                         portfolio_data = data,
                                         weights=user_weight_choice,
@@ -205,7 +214,7 @@ else:
                                    )
                MC_thirty_year.calc_cumulative_return()
                st.session_state.MC_thirty_year = MC_thirty_year
-               
+               my_bar.progress(100)
                #fig, ax = plt.subplots()
                # fig, ax = plt.subplots(figsize=(2,2))
                # ax.set_title(f'Returns for your portfolio with {default_distribution[0]}')
