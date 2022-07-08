@@ -1,17 +1,21 @@
+# Import Libraries
 import streamlit as st
 import pandas as pd
 from pathlib import Path
 import yfinance as yf
+import numpy as np
 from MCForecastTools import MCSimulation
 from yahoofinancials import YahooFinancials
 from PIL import Image
 import hvplot.pandas
-#import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
 import holoviews as hv
-import time
-from datetime import datetime
+import seaborn as sns
 
+
+# import time
+# from datetime import datetime
+# from MCForecastTools2 import MCSimulation2
 
 # Display image
 image = Image.open('../Resources/images/RoboAdvisor.png')
@@ -19,6 +23,7 @@ st.image(image)
 st.markdown("# Robo Advisor Lite ")
 st.write('Welcome to New Way of Trading')
 
+# Read master file to populate drop down for multi choice form
 asx_file_path = Path('../Resources/master.csv')
 asx_df = pd.read_csv(asx_file_path)
 asx_df = asx_df[['Company', 'Code']]
@@ -29,6 +34,7 @@ companyList = asx_dict.keys()
 if 'close_df' in st.session_state:
      user_choice = st.multiselect('Your Choice', options = st.session_state.user_choice, default=st.session_state.user_choice)
      st.bokeh_chart(hv.render(st.session_state.my_df_plot)) 
+     st.bokeh_chart(hv.render(st.session_state.sharpe_ratio_plot))
      user_amount_choice = st.number_input('How much would you like to invest',value = st.session_state.user_amount_choice)
      iterator = 0
      user_weight_choice = [0] * len(st.session_state.user_choice)
@@ -47,6 +53,7 @@ else:
           user_choice = st.multiselect(
           'Your Choice',
           companyList)
+          # Restrict user to select no more than 5 companies
           if len(user_choice) <= 5 and len(user_choice)>1:
                pass
           else:
@@ -58,23 +65,48 @@ else:
           submitted = st.form_submit_button("Submit")
           if submitted:
                ticker_list = []
+               # Get the ASX tickers for user selected companies
                for company in user_choice:
                     ticker_list.append(asx_dict[company]+'.ax')
+
+               # Get Last 5 years of data from yahoo finnance api for the user selected tickers and filter to get only the Closed proces
                ticker = yf.Tickers(ticker_list)
                my_df = ticker.history(period="5y")
                my_df = my_df['Close']
                my_df.columns = user_choice
+
+               # Plot 5 years closing prices 
                my_df_plot = my_df.hvplot.line(title='How your selected companies are performing', ylabel='Price in AUD', xlabel='Date',height=500,
-                                    width=1000,)
+                                    width=1000)
                st.session_state.my_df_plot = my_df_plot
                st.bokeh_chart(hv.render(my_df_plot)) 
+
+
+               # Plot correlation
+               fig, ax = plt.subplots()
+               sns.heatmap(my_df.corr(), ax=ax, vmax=1,vmin=-1)
+               ax.set_title('How your selected companies are related')
+               fig.set_figheight(10)
+               fig.set_figwidth(10)
+               st.session_state.fig = fig
+               st.write(fig)
+
+
+               # Plot Sharpe Ratio
+               daily_std = my_df.std()
+               annualized_std = daily_std*np.sqrt(252)
+               sharpe_ratio = (my_df.mean()*252)/annualized_std
+               sharpe_ratio_plot = sharpe_ratio.hvplot(kind='bar', title ='Sharpe Ratios')
+               st.session_state.sharpe_ratio_plot = sharpe_ratio_plot            
+               st.bokeh_chart(hv.render(sharpe_ratio_plot)) 
+
 
                # Initialize progress bar
                my_bar = st.progress(0)
                my_bar.progress(1)
                my_bar.progress(2)
 
-               # Get stats for user selected companies
+               #Get stats for user selected companies
                x = 1
                for ticker in ticker_list:
                     globals()[f'input{x}_info'] = yf.Ticker(ticker).stats()
@@ -82,6 +114,7 @@ else:
 
                # Complete progress bar
                my_bar.progress(100)
+               my_bar.progress(0)
 
 
                close_df = yf.download((ticker_list), period='1y')['Close'].dropna()
@@ -110,46 +143,46 @@ else:
                     globals()[f'input{x}_roe'] = info['financialData']['returnOnEquity']
                
                     x += 1
-               
-               # Form and display graph
-               ticker_plot = close_df.hvplot.line(title="Performance Over The Last Year", xlabel='Date', ylabel='Price ($)', min_height=300, responsive=True)
-               ticker_plot.get_dimension('Variable').label='Stock:'
-               #    display(ticker_plot)
 
-               # x = 1
-               # for ticker in ticker_list:
+               # Write General and Financial Information for the companies
 
-               #      # General information
+               x = 1
+               for ticker in ticker_list:
 
+                    # General information
+                    try:
 
-               #      general_info = (
-               #           f"{x}. {globals()[f'input{x}_name']} ({ticker}) is a {globals()[f'input{x}_sector']} company, apart of the {globals()[f'input{x}_industry']} industry, "
-               #           f"located in {globals()[f'input{x}_city']}, {globals()[f'input{x}_state']}. "
-               #           f"It traded at a high of {globals()[f'input{x}_close']} AUD today, its forward price-to-earnings ratio is {round(globals()[f'input{x}_forwardPE'],2)} "
-               #           f"and its EBITDA is sitting at {globals()[f'input{x}_ebitda']} AUD. "
-               #      )
-               #      st.write(general_info)
+                         general_info = (
+                              f"{x}. {globals()[f'input{x}_name']} ({ticker}) is a {globals()[f'input{x}_sector']} company, apart of the {globals()[f'input{x}_industry']} industry, "
+                              f"located in {globals()[f'input{x}_city']}, {globals()[f'input{x}_state']}. "
+                              f"It traded at a high of {globals()[f'input{x}_close']} AUD today, its forward price-to-earnings ratio is {round(globals()[f'input{x}_forwardPE'],2)} "
+                              f"and its EBITDA is sitting at {globals()[f'input{x}_ebitda']} AUD. "
+                         )
+                         st.write(general_info)
 
-               #      # Financial information
+                         # Financial information
 
-               #      financial_info = (
-               #           f"   {globals()[f'input{x}_shortName']}'s profit margins are currently at {round(globals()[f'input{x}_profitMargins']*100,2)}% "
-               #           f"and quick ratio is {globals()[f'input{x}_quickRatio']}. "
-               #           f"The return of assets ratio is {round(globals()[f'input{x}_roa'],5)}, while the return of equities ratio is {round(globals()[f'input{x}_roe'],5)}. "
-               #           f"According to Yahoo Finance, the target low price is {globals()[f'input{x}_targetLowPrice']} AUD, so it's recommended to {globals()[f'input{x}_recommendationKey']}."
-               #      )
-               #      st.write(financial_info)
+                         financial_info = (
+                              f"   {globals()[f'input{x}_shortName']}'s profit margins are currently at {round(globals()[f'input{x}_profitMargins']*100,2)}% "
+                              f"and quick ratio is {globals()[f'input{x}_quickRatio']}. "
+                              f"The return of assets ratio is {round(globals()[f'input{x}_roa'],5)}, while the return of equities ratio is {round(globals()[f'input{x}_roe'],5)}. "
+                              f"According to Yahoo Finance, the target low price is {globals()[f'input{x}_targetLowPrice']} AUD, so it's recommended to {globals()[f'input{x}_recommendationKey']}."
+                         )
+                         st.write(financial_info)
 
-               #      # Websites
-               #      print(globals()[f'input{x}_website'])
-               #      print(f'https://au.finance.yahoo.com/quote/{ticker}')
-               #      print('----------------------------------------')
-               #      x+=1
+                         # Websites
+                         print(globals()[f'input{x}_website'])
+                         print(f'https://au.finance.yahoo.com/quote/{ticker}')
+                         print('----------------------------------------')
+                    except:
+                         pass
+                    x+=1
 
 
 
 
      # 2nd Form for user to input weights and run monte carlo simulation
+
      st.write('Choose your portfolio')
      with st.form("weight_form",clear_on_submit=False):
           user_amount_choice = st.number_input('How much would you like to invest')
@@ -168,7 +201,8 @@ else:
           else:
                st.error("Sum of all weights must equal 1")
                error = st.form_submit_button("Submit")   
-               st.stop()               
+               st.stop()   
+
      # Every form must have a submit button.
           submitted = st.form_submit_button("Submit")
           if submitted:
@@ -185,35 +219,44 @@ else:
                my_bar.progress(1)
                
 
-               data = yf.download(ticker_list, start="2017-01-01", end="2022-06-30", threads=True)
-               MC_thirty_year = MCSimulation(
+               # Download 5 year data for selected tickers
+               data = yf.download(ticker_list, period="5y", threads=True)
+
+               # Run Monte Carlo Simulation
+               MC_user_selected = MCSimulation(
                                         portfolio_data = data,
                                         weights=user_weight_choice,
-                                        num_simulation = 100,
+                                        num_simulation = 50,
                                         num_trading_days = 252 * 5
                                    )
-               MC_thirty_year.calc_cumulative_return()
-               st.session_state.MC_thirty_year = MC_thirty_year
-               my_bar.progress(100)
-               #fig, ax = plt.subplots()
-               # fig, ax = plt.subplots(figsize=(2,2))
-               # ax.set_title(f'Returns for your portfolio with {default_distribution[0]}')
-               # ax.plot(MC_thirty_year.simulated_return)
-               # st.pyplot(fig)
-
-
-               # fig, ax = plt.subplots(figsize=(2,2))
-               # ax.hist(MC_thirty_year.simulated_return.iloc[-1, :],bins=10)
-               # ax.axvline(MC_thirty_year.confidence_interval.iloc[0], color='r')
-               # ax.axvline(MC_thirty_year.confidence_interval.iloc[1], color='r')
-               # st.pyplot(fig)
-               # st.session_state.fig = fig
+               MC_user_selected.calc_cumulative_return()
+               st.session_state.MC_user_selected = MC_user_selected
               
 
-               return_tbl = MC_thirty_year.summarize_cumulative_return()
-               #st.write(return_tbl)
+               hvfig = MC_user_selected.simulated_return.hvplot(title = 'Simulation with user selected weights')
+               st.bokeh_chart(hv.render(hvfig))
+
+               my_bar.progress(100)
+               my_bar.progress(0)
+
+               
+               custom_lower_line = hv.VLine(MC_user_selected.confidence_interval.iloc[0]).opts(color='red', line_width=10, title='Minimum Return')
+               custom_upper_line = hv.VLine(MC_user_selected.confidence_interval.iloc[1]).opts(color='red', line_width=10, title='Maximum Return')
+               custom_weight_hist = MC_user_selected.simulated_return.iloc[-1, :].hvplot(kind='hist', bins=20)
+               st.bokeh_chart(
+                         hv.render(
+                                   (
+                                        custom_weight_hist * custom_lower_line * custom_upper_line
+                                   )
+                                   .opts(xlabel='Final Cumulative Returns', ylabel='Frequency')
+                         )
+                         )
+
+               return_tbl = MC_user_selected.summarize_cumulative_return()
                ci_lower = round(return_tbl.loc['95% CI Lower']*user_amount_choice,2)
                ci_upper = round(return_tbl.loc['95% CI Upper']*user_amount_choice ,2)
                output = (f"There is a 95% chance that an initial investment of {user_amount_choice} AUD in the portfolio over the next 30 years will end within in the range of {ci_lower} AUD and {ci_upper} AUD")
                st.session_state.output = output
                st.write(output)
+   
+              

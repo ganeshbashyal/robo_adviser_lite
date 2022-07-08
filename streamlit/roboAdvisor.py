@@ -1,13 +1,10 @@
+# Import Libraries
 import streamlit as st
 import pandas as pd
-import yfinance as yf
 from pathlib import Path
 import numpy as np 
 from numpy import nan
-import hvplot.pandas
 import holoviews as hv
-from holoviews import dim, opts
-from yahoofinancials import YahooFinancials
 from PIL import Image
 
 
@@ -19,7 +16,7 @@ image = Image.open('../Resources/images/RoboAdvisor.png')
 st.image(image)
 st.markdown("# Robo Advisor Lite ")
 
-
+# Load from Session
 if 'loadImages' in st.session_state:
     
     st.bokeh_chart(hv.render(st.session_state.monthly_plot))
@@ -27,7 +24,7 @@ if 'loadImages' in st.session_state:
     st.bokeh_chart(hv.render(st.session_state.visual_comparison))
 
 
-
+# Else
 else :
 
     # Initialize Dataframes
@@ -93,7 +90,7 @@ else :
 
     # A visual representation of the market showing profitability against risk factor by Sectors
     visual_comparison = visual_comparison_df.hvplot.scatter(
-        title = 'Display Comparison of ASX Tickers ',
+        title = 'Comparison of ASX listed companies ',
         x='Volatility',  
         range=(-5, 120), 
         y='Annual % increase',  
@@ -108,5 +105,4 @@ else :
         )
     st.session_state.visual_comparison = visual_comparison
     st.bokeh_chart(hv.render(visual_comparison))
-
     st.session_state.loadImages = True
