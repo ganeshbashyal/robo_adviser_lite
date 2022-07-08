@@ -121,28 +121,31 @@ else:
 
                # Assigning information to variables
                x = 1
-               while x <= len(user_choice):
-                    info = globals()[f'input{x}_info']
-                    globals()[f'input{x}_name'] = info['price']['longName']
-                    globals()[f'input{x}_shortName'] = info['price']['shortName']
-                    globals()[f'input{x}_sector'] = info['summaryProfile']['sector']
-                    globals()[f'input{x}_industry'] = info['summaryProfile']['industry']
-                    globals()[f'input{x}_website'] = info['summaryProfile']['website']
-                    globals()[f'input{x}_city'] = info['summaryProfile']['city']
-                    globals()[f'input{x}_state'] = info['summaryProfile']['state']
+               try:
+                    while x <= len(user_choice):
+                         info = globals()[f'input{x}_info']
+                         globals()[f'input{x}_name'] = info['price']['longName']
+                         globals()[f'input{x}_shortName'] = info['price']['shortName']
+                         globals()[f'input{x}_sector'] = info['summaryProfile']['sector']
+                         globals()[f'input{x}_industry'] = info['summaryProfile']['industry']
+                         globals()[f'input{x}_website'] = info['summaryProfile']['website']
+                         globals()[f'input{x}_city'] = info['summaryProfile']['city']
+                         globals()[f'input{x}_state'] = info['summaryProfile']['state']
 
-                    globals()[f'input{x}_close'] = info['summaryDetail']['previousClose']
-                    globals()[f'input{x}_ebitda'] = info['financialData']['ebitda']
-                    globals()[f'input{x}_forwardPE'] = info['summaryDetail']['forwardPE']
-                    globals()[f'input{x}_targetLowPrice'] = info['financialData']['targetLowPrice']
-                    globals()[f'input{x}_recommendationKey'] = info['financialData']['recommendationKey']
+                         globals()[f'input{x}_close'] = info['summaryDetail']['previousClose']
+                         globals()[f'input{x}_ebitda'] = info['financialData']['ebitda']
+                         globals()[f'input{x}_forwardPE'] = info['summaryDetail']['forwardPE']
+                         globals()[f'input{x}_targetLowPrice'] = info['financialData']['targetLowPrice']
+                         globals()[f'input{x}_recommendationKey'] = info['financialData']['recommendationKey']
+                         
+                         globals()[f'input{x}_profitMargins'] = info['financialData']['profitMargins']
+                         globals()[f'input{x}_quickRatio'] = info['financialData']['quickRatio']
+                         globals()[f'input{x}_roa'] = info['financialData']['returnOnAssets']
+                         globals()[f'input{x}_roe'] = info['financialData']['returnOnEquity']
                     
-                    globals()[f'input{x}_profitMargins'] = info['financialData']['profitMargins']
-                    globals()[f'input{x}_quickRatio'] = info['financialData']['quickRatio']
-                    globals()[f'input{x}_roa'] = info['financialData']['returnOnAssets']
-                    globals()[f'input{x}_roe'] = info['financialData']['returnOnEquity']
-               
-                    x += 1
+                         x += 1
+               except:
+                    pass
 
                # Write General and Financial Information for the companies
 
