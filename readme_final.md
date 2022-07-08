@@ -61,7 +61,5 @@ The advise page display below plots
 <img src="./Resources/images/MCHist.png" alt="Simulation" height="200" width="400" />
 
 
-## References
-
 
 
