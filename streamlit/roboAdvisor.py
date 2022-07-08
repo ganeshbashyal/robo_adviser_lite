@@ -4,6 +4,7 @@ import pandas as pd
 from pathlib import Path
 import numpy as np 
 from numpy import nan
+import hvplot.pandas
 import holoviews as hv
 from PIL import Image
 

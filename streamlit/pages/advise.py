@@ -171,9 +171,9 @@ else:
                          st.write(financial_info)
 
                          # Websites
-                         print(globals()[f'input{x}_website'])
-                         print(f'https://au.finance.yahoo.com/quote/{ticker}')
-                         print('----------------------------------------')
+                         website = f"Website : {globals()[f'input{x}_website']}"
+                         st.write(website)
+                       
                     except:
                          pass
                     x+=1
