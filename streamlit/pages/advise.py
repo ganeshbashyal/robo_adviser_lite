@@ -42,8 +42,14 @@ if 'close_df' in st.session_state:
           user_weight_choice[iterator] = st.number_input(choice, value = st.session_state.user_weight_choice[iterator -1])
           iterator = iterator + 1            
 
-     st.write('Your Potfolio Return')
+     st.write('Return with your selected portfolio')
      st.write(st.session_state.output)
+
+
+     st.write('Return with your Robo Advisor suggested portfolio')
+     st.write(st.session_state.optimal_df)
+     st.write(st.session_state.output_optimal_portfolio)
+     
 
 #Else - State is not set    
 else:
@@ -261,5 +267,134 @@ else:
                output = (f"There is a 95% chance that an initial investment of {user_amount_choice} AUD in the portfolio over the next 30 years will end within in the range of {ci_lower} AUD and {ci_upper} AUD")
                st.session_state.output = output
                st.write(output)
-   
-              
+               
+               st.write('Robo Advisor now finding best portfolio for you')
+               my_bar = st.progress(0)
+               my_bar.progress(1)
+
+               # Calculate Optimal Portfolio
+               # clean_portfolio_data  = portfolio_returns
+               portfolio_returns = data.Close
+               risk_free_rate = pd.read_csv(Path('../Resources/risk_free_rate.csv'), index_col='Date', parse_dates=True, infer_datetime_format=True)
+               rfr_portfolios_returns = pd.concat([portfolio_returns, risk_free_rate], axis="columns", join="inner")
+               cov_matrix = portfolio_returns.pct_change().apply(lambda x: np.log(1+x)).cov()
+               corr_matrix = portfolio_returns.pct_change().apply(lambda x: np.log(1+x)).corr()
+               yearly_return= portfolio_returns.resample('Y').last().pct_change().mean()
+               annual_sd = portfolio_returns.pct_change().apply(lambda x: np.log(1+x)).std().apply(lambda x: x*np.sqrt(252))
+               assets = pd.concat([yearly_return, annual_sd], axis=1) 
+
+               #Define Variables required for Portfolio Optimisation
+               p_ret = []        #For Returns
+               p_vol = []        #For Volatility
+               p_weights = []    #For weights
+               num_assets = len(portfolio_returns.columns) 
+               num_portfolios =10000
+
+               for portfolio in range(num_portfolios):
+                    weights = np.random.random(num_assets)
+                    weights = weights/np.sum(weights)
+                    p_weights.append(weights)
+                    returns = np.dot(weights, yearly_return) # Returns are the product of individual expected returns of asset and its 
+                                                       # weights 
+                    p_ret.append(returns)
+                    var = cov_matrix.mul(weights, axis=0).mul(weights, axis=1).sum().sum()# Portfolio Variance
+                    sd = np.sqrt(var) # Daily standard deviation
+                    annual_sd = sd*np.sqrt(250) # Annual standard deviation = volatility
+                    p_vol.append(annual_sd)
+                    data = {'Returns':p_ret, 'Volatility':p_vol}
+
+               for counter, symbol in enumerate(portfolio_returns.columns.to_list()):                                                        #print(counter, symbol)
+                    data[symbol+' weight'] = [w[counter] for w in p_weights]
+               
+               # Plot Efficient Frontier
+               portfolios  = pd.DataFrame(data)
+               # efficient_frontier_plot = portfolios.hvplot.scatter(x='Volatility', y= 'Returns', color= 'c' , size= 2, title= 'Efficient Frontier')
+               # st.bokeh_chart(hv.render(efficient_frontier_plot)) 
+
+               # idxmin() gives us the minimum value in the column specified. 
+               min_vol_port = portfolios.iloc[portfolios['Volatility'].idxmin()]
+
+               # Finding the optimal portfolio
+               rf = 0.01 
+
+               optimal_risky_portfolio =[]
+               optimal_risky_portfolio = portfolios.iloc[((portfolios['Returns']-rf)/portfolios['Volatility']).idxmax()]
+               
+               # st.write(optimal_risky_portfolio.to_frame().iloc[0:1, 0].iloc[0])
+               
+
+               # st.write(optimal_risky_portfolio.to_frame().iloc[0:3, 0].iloc[1])
+        
+               
+               # st.write(optimal_risky_portfolio.to_frame().iloc[0:3, 0])
+               # st.write(optimal_risky_portfolio.to_frame().iloc[0:len(ticker_list)+2, 0].iloc[2])
+
+               optimal_weights = []
+               #st.write(optimal_risky_portfolio.to_frame().iloc[2:len(ticker_list)+2, 0])
+               for i in range(len(ticker_list)):
+                    optimal_weights.append(optimal_risky_portfolio.to_frame().iloc[2:len(ticker_list)+2, 0].iloc[i])
+               
+               st.session_state.optimal_weights = optimal_weights
+               st.write('Optimal Portfolio')
+               #st.write(optimal_risky_portfolio.to_frame().iloc[2:len(ticker_list)+2, 0])
+
+               optimal_dict = {}
+               for i in range(len(ticker_list)):
+                    optimal_dict[user_choice[i]] =  optimal_weights[i]
+                    
+               optimal_df = pd.DataFrame(optimal_dict,index=['Optimal Weights'])
+               st.session_state.optimal_df = optimal_df
+               st.table(optimal_df)
+               
+
+
+               #efficient_frontier_plot = portfolios.hvplot.scatter(x='Volatility', y= 'Returns', color= 'c' , size= 2, title= 'Efficient Frontier')
+               # a = portfolios.hvplot.scatter(x='Volatility', y= 'Returns', color= 'c' , size= 2, title= 'Efficient Frontier')
+               # a.opts(min_vol_port[1], min_vol_port[0], color='r', marker='*', s=500)
+     
+               # st.bokeh_chart(hv.render(a))
+               
+
+               # plt.subplots(figsize=(30, 10))
+               # plt.scatter(portfolios['Volatility'], portfolios['Returns'],marker='*', s=7, alpha=0.3)
+               # plt.scatter(min_vol_port[1], min_vol_port[0], color='r', marker='*', s=500)
+               # plt.scatter(optimal_risky_portfolio[1], optimal_risky_portfolio[0], color='g', marker='*', s=500)
+               data = yf.download(ticker_list, period="5y", threads=True)
+               MC_optimal_portfolio = MCSimulation(
+                                        portfolio_data = data,
+                                        weights=optimal_weights,
+                                        num_simulation = 50,
+                                        num_trading_days = 252 * 5
+                                   )
+               MC_optimal_portfolio.calc_cumulative_return()
+               return_tbl = MC_optimal_portfolio.summarize_cumulative_return()
+
+               custom_lower_line = hv.VLine(MC_optimal_portfolio.confidence_interval.iloc[0]).opts(color='red', line_width=10, title='Minimum Return')
+               custom_upper_line = hv.VLine(MC_optimal_portfolio.confidence_interval.iloc[1]).opts(color='red', line_width=10, title='Maximum Return')
+               custom_weight_hist = MC_optimal_portfolio.simulated_return.iloc[-1, :].hvplot(kind='hist', bins=20)
+               st.bokeh_chart(
+                         hv.render(
+                                   (
+                                        custom_weight_hist * custom_lower_line * custom_upper_line
+                                   )
+                                   .opts(xlabel='Final Cumulative Returns', ylabel='Frequency')
+                         )
+                         )
+
+               ci_lower = round(return_tbl.loc['95% CI Lower']*user_amount_choice,2)
+               ci_upper = round(return_tbl.loc['95% CI Upper']*user_amount_choice ,2)
+               output_optimal_portfolio = (f"There is a 95% chance that an initial investment of {user_amount_choice} AUD with the robo advisor suggested portfolio over the next 30 years will end within in the range of {ci_lower} AUD and {ci_upper} AUD")
+               st.session_state.output_optimal_portfolio = output_optimal_portfolio
+               st.write(output_optimal_portfolio)
+               my_bar.progress(100)
+
+               fig, ax = plt.subplots()
+               ax.scatter(portfolios['Volatility'], portfolios['Returns'],marker='*', s=7, alpha=0.3)
+               ax.scatter(min_vol_port[1], min_vol_port[0], color='r', marker='*', s=500)
+               ax.scatter(optimal_risky_portfolio[1], optimal_risky_portfolio[0], color='g', marker='*', s=500)
+               ax.title.set_text('Efficient Frontier')
+               st.pyplot(fig)
+
+               
+
+               
