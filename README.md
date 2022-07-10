@@ -46,7 +46,7 @@ Streamlit only supports Bokeh version 2.4.1. Please install this specific versio
 
 ## Example of Results and Summary
 
-The landing page display below plots
+The landing page displays the below plots:
 - Monthly Performance for each sector
 <img src="./Resources/images/sector_monthly_analysis.png" alt="Monthly Analysis" height="200" width="400" />
 
@@ -57,7 +57,10 @@ The landing page display below plots
 <img src="./Resources/images/volatility.png" alt="Volatility Analysis" height="200" width="400" />
 
 
-The advise page display below plots
+The advise page displays the following:
+- Brief summary of user selected stocks
+<img src="./Resources/images/analysisSummary.png" height="60" width="400" />
+
 - Last 5 years Performance for user selected stocks
 <img src="./Resources/images/5yearPerformance.png" alt="5 Year Performance" height="200" width="400" />
 
