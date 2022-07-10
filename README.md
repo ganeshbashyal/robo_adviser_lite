@@ -9,6 +9,13 @@ This tool gives an overview of some trends in the ASX stock market, within varyi
 The landing page of the application will display the plot highlighting how the different sectors are performing monthly and annualy.
 It will also display the volatility of all ASX listed stocks.
 
+
+### Efficient Frontier
+
+As a cornerstone in Modern Portfolio Theory, Efficient Frontier was introduced by Harry Markowitz. By taking Compound Annual Growth Rate (CAGR) as Return and Standard Deviation (Annualized) as Risk metric a chart is plotted to graphically represent portfolios with various weights associated to each asset of the portfolio. The aim of this chart is to select the portfolio with highest level of return with investors degree of risk tolerance.
+
+
+
 ### Monte Carlo Simulation
 
 The advise page of the application allows user to select upto 5 different ASX listed stocks. It will then display the plot showing how the selected stocks are performing in last 5 years. It will also display the correlation map for the selected stocks.
